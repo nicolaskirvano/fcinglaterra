@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:05.000Z
+pubDatetime: 2026-05-31T22:52:04.000Z
 title: "Jogadores baratos de Ingleses no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -32,18 +32,18 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 11k coins | 0% |
 | Alessia Russo | 89 | ST | Barclays WSL | 7k coins | +6.4% |
 | Harry Kane | 89 | ST | Bundesliga | 7k coins | +13.1% |
-| Jess Park | 89 | CM | Barclays WSL | 15k coins | +13.5% |
-| Keira Walsh | 89 | CDM | Barclays WSL | 15k coins | -3.2% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 13k coins | -16.1% |
 | Bukayo Saka | 88 | RW | Premier League | 4k coins | +17.1% |
 | Jess Carter | 88 | CB | NWSL | 14k coins | 0% |
 | Beth Mead | 87 | RM | Barclays WSL | 2k coins | 0% |
 | Lucy Bronze | 87 | RB | Barclays WSL | 2k coins | +33.3% |
-| Leah Williamson | 87 | CB | Barclays WSL | 2k coins | +4.2% |
 | Declan Rice | 87 | CDM | Premier League | 2k coins | +13.6% |
+| Leah Williamson | 87 | CB | Barclays WSL | 2k coins | +4.2% |
 | Cole Palmer | 87 | CAM | Premier League | 2k coins | +47.1% |
-| Chloe Kelly | 87 | RM | Barclays WSL | 3k coins | +44.4% |
 | Lauren Hemp | 87 | LW | Barclays WSL | 3k coins | +13% |
+| Chloe Kelly | 87 | RM | Barclays WSL | 3k coins | +44.4% |
 | Millie Bright | 87 | CB | Barclays WSL | 6k coins | -6.2% |
+| Steve McManaman | 87 | RM | Premier League | 11k coins | 0% |
 
 
 ## 📈 Destaques
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **7k coins**
 
-- **Jess Park (89, CM)** da Barclays WSL, a apenas **15k coins**
+- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **15k coins**
+- **Bukayo Saka (88, RW)** da Premier League, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?

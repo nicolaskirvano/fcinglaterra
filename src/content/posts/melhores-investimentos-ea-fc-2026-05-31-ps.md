@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:04.000Z
+pubDatetime: 2026-05-31T22:52:02.000Z
 title: "Melhores investimentos em Ingleses no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -37,6 +37,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Nico O'Reilly | 88 | Premier League | 38k coins | +6.2% | +27.5% | 95% |
 | Steven Gerrard | 89 | Icons | 84k coins | +27.3% | +26.3% | 57% |
 | Lauren James | 89 | Barclays WSL | 68k coins | +8.9% | +23.8% | 95% |
+| Frank Lampard | 87 | Icons | 112k coins | +14.9% | +21.1% | 95% |
 | Jaden Philogene | 87 | EFL Championship | 19k coins | +2.7% | +20.6% | 95% |
 | Declan Rice | 89 | Premier League | 22k coins | +19.4% | +19.4% | 42% |
 | Joe Cole | 88 | Premier League | 188k coins | +19.8% | +18.2% | 5% |
@@ -45,7 +46,6 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Alan Shearer | 91 | Icons | 146k coins | +7.4% | +15% | 95% |
 | Declan Rice | 89 | Premier League | 105k coins | +10.5% | +14.1% | 5% |
 | Lewis Miley | 89 | Premier League | 30k coins | +18% | +13.5% | 95% |
-| Millie Bright | 94 | Barclays WSL | 101k coins | +19.5% | +12.2% | 57% |
 
 
 ## 📈 Análise dos destaques
