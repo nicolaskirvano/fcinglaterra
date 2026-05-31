@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:47.000Z
+pubDatetime: 2026-05-31T19:52:01.000Z
 title: "Melhores investimentos em Ingleses no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 31/05/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/05/2026) no EA FC?"
-    a: "Joe Cole (88, Premier League) lidera, com +60.8% em 7 dias a 201k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
+    a: "James Milner (88, Premier League) lidera, com +45.3% em 7 dias a 69k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **31/05/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Joe Cole (88) acumula **+60.8% em 7 dias** a 201k coins.
+> 🔝 **Destaque:** James Milner (88) acumula **+45.3% em 7 dias** a 69k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,20 +31,23 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Joe Cole | 88 | Premier League | 201k coins | +28% | +60.8% | 5% |
+| James Milner | 88 | Premier League | 69k coins | +27.8% | +45.3% | 95% |
 | Joe Gelhardt | 86 | EFL Championship | 26k coins | +19.3% | +38.2% | 35% |
 | Ethan Nwaneri | 91 | Ligue 1 McDonald's | 57k coins | +16.9% | +32.6% | 84% |
 | Chloe Kelly | 88 | Barclays WSL | 40k coins | +16.9% | +31.4% | 80% |
-| Millie Bright | 88 | Barclays WSL | 26k coins | +32.5% | +26.2% | 50% |
+| Steven Gerrard | 89 | Icons | 84k coins | +27.3% | +26.3% | 57% |
 | Millie Bright | 94 | Barclays WSL | 109k coins | +9% | +21.8% | 57% |
 | Lauren James | 89 | Barclays WSL | 60k coins | +6.2% | +20% | 95% |
+| Joe Cole | 88 | Premier League | 188k coins | +19.8% | +18.2% | 5% |
+| Alan Shearer | 91 | Icons | 146k coins | +7.4% | +15% | 95% |
+| Jill Scott | 87 | Barclays WSL | 32k coins | +6.6% | +12.2% | 95% |
 | Wayne Rooney | 88 | Icons | 159k coins | +6% | +9.7% | 51% |
 | Lauren Hemp | 90 | Barclays WSL | 40k coins | +34.4% | +8.1% | 44% |
 
 
 ## 📈 Análise dos destaques
 
-- **Joe Cole (88)** — 201k coins, **+60.8% em 7 dias** (+28% em 24h). Preço +31% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **James Milner (88)** — 69k coins, **+45.3% em 7 dias** (+27.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
 - **Joe Gelhardt (86)** — 26k coins, **+38.2% em 7 dias** (+19.3% em 24h). Preço +29% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
@@ -52,7 +55,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Chloe Kelly (88)** — 40k coins, **+31.4% em 7 dias** (+16.9% em 24h). Preço -9% abaixo da média de 7 dias (descontada). 🔮 O modelo reforça a tese: **80% de chance de seguir subindo**.
 
-- **Millie Bright (88)** — 26k coins, **+26.2% em 7 dias** (+32.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Steven Gerrard (89)** — 84k coins, **+26.3% em 7 dias** (+27.3% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -70,7 +73,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/05/2026) no EA FC?**  
-Joe Cole (88, Premier League) lidera, com +60.8% em 7 dias a 201k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
+James Milner (88, Premier League) lidera, com +45.3% em 7 dias a 69k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

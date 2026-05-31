@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:47.000Z
+pubDatetime: 2026-05-31T19:52:02.000Z
 title: "Jogadores baratos de Ingleses no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +1% |
-| Alessia Russo | 89 | ST | Barclays WSL | 6k coins | +10% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +11.6% |
 | Harry Kane | 89 | ST | Bundesliga | 6k coins | +3.8% |
+| Alessia Russo | 89 | ST | Barclays WSL | 6k coins | +10.9% |
 | Jess Park | 89 | CM | Barclays WSL | 14k coins | -1.8% |
-| Bukayo Saka | 88 | RW | Premier League | 3k coins | -12.1% |
+| Bukayo Saka | 88 | RW | Premier League | 3k coins | +34.8% |
 | Beth Mead | 88 | RM | Barclays WSL | 14k coins | -12.7% |
 | Georgia Stanway | 88 | CDM | Liga F | 14k coins | -3.4% |
-| Declan Rice | 88 | CM | Premier League | 14k coins | -10.9% |
 | Jess Carter | 88 | CB | NWSL | 14k coins | 0% |
-| Beth Mead | 87 | RM | Barclays WSL | 2k coins | -10.5% |
-| Chloe Kelly | 87 | RM | Barclays WSL | 2k coins | -5.6% |
-| Declan Rice | 87 | CDM | Premier League | 2k coins | 0% |
-| Cole Palmer | 87 | CAM | Premier League | 2k coins | +35.7% |
-| Millie Bright | 87 | CB | Barclays WSL | 5k coins | +2.1% |
-| Dominic Solanke | 87 | ST | Premier League | 12k coins | -14.3% |
+| Declan Rice | 88 | CM | Premier League | 15k coins | -1.7% |
+| Leah Williamson | 87 | CB | Barclays WSL | 2k coins | +6.7% |
+| Lucy Bronze | 87 | RB | Barclays WSL | 2k coins | +28.6% |
+| Millie Bright | 87 | CB | Barclays WSL | 5k coins | 0% |
+| Dominic Solanke | 87 | ST | Premier League | 12k coins | -17.9% |
+| Steve McManaman | 87 | RM | Premier League | 12k coins | -2% |
+| Mateus Mané | 86 | CAM | Premier League | 11k coins | -19.6% |
 
 
 ## 📈 Destaques
 
 - **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **10k coins**
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **6k coins**
-
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **6k coins**
+
+- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **6k coins**
 
 - **Jess Park (89, CM)** da Barclays WSL, a apenas **14k coins**
 
-- **Bukayo Saka (88, RW)** da Premier League, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Bukayo Saka (88, RW)** da Premier League, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
