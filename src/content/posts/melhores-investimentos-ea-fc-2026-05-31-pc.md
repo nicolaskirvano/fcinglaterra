@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:52:02.000Z
+pubDatetime: 2026-05-31T21:28:05.000Z
 title: "Melhores investimentos em Ingleses no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -32,24 +32,20 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
 | Peter Crouch | 87 | Premier League | 202k coins | +34.7% | +44.3% | 54% |
+| David Beckham | 88 | Icons | 120k coins | +26.3% | +21.2% | 22% |
+| Ashley Cole | 86 | Icons | 75k coins | +11.9% | +15.4% | 13% |
 | Ellie Roebuck | 85 | Barclays WSL | 32k coins | +33.3% | +14.3% | 42% |
-| Peter Crouch | 85 | Premier League | 15k coins | +25% | +11.1% | 56% |
-| Bobby Charlton | 92 | Icons | 124k coins | +9.7% | +8.8% | 24% |
-| Frank Lampard | 87 | Icons | 80k coins | +21.2% | +7.4% | 62% |
-| Wayne Rooney | 88 | Icons | 146k coins | +39% | +7.4% | 49% |
 
 
 ## 📈 Análise dos destaques
 
 - **Peter Crouch (87)** — 202k coins, **+44.3% em 7 dias** (+34.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
+- **David Beckham (88)** — 120k coins, **+21.2% em 7 dias** (+26.3% em 24h). Preço em linha com a média de 7 dias (+8%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+
+- **Ashley Cole (86)** — 75k coins, **+15.4% em 7 dias** (+11.9% em 24h). Preço em linha com a média de 7 dias (+4%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+
 - **Ellie Roebuck (85)** — 32k coins, **+14.3% em 7 dias** (+33.3% em 24h). Preço +32% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
-- **Peter Crouch (85)** — 15k coins, **+11.1% em 7 dias** (+25% em 24h). Preço em linha com a média de 7 dias (+4%). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
-- **Bobby Charlton (92)** — 124k coins, **+8.8% em 7 dias** (+9.7% em 24h). Preço em linha com a média de 7 dias (+6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
-- **Frank Lampard (87)** — 80k coins, **+7.4% em 7 dias** (+21.2% em 24h). Preço em linha com a média de 7 dias (+3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -75,6 +71,8 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 **Com que frequência a lista de investimentos atualiza?**  
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
+
+> 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
 
 ---
 

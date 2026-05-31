@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:52:01.000Z
+pubDatetime: 2026-05-31T21:28:04.000Z
 title: "Melhores investimentos em Ingleses no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -32,28 +32,31 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
 | James Milner | 88 | Premier League | 69k coins | +27.8% | +45.3% | 95% |
-| Joe Gelhardt | 86 | EFL Championship | 26k coins | +19.3% | +38.2% | 35% |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 57k coins | +16.9% | +32.6% | 84% |
-| Chloe Kelly | 88 | Barclays WSL | 40k coins | +16.9% | +31.4% | 80% |
+| Chloe Kelly | 88 | Barclays WSL | 43k coins | +1.2% | +43% | 80% |
+| Steven Gerrard | 90 | Icons | 153k coins | +34.2% | +27.5% | 84% |
+| Nico O'Reilly | 88 | Premier League | 38k coins | +6.2% | +27.5% | 95% |
 | Steven Gerrard | 89 | Icons | 84k coins | +27.3% | +26.3% | 57% |
-| Millie Bright | 94 | Barclays WSL | 109k coins | +9% | +21.8% | 57% |
-| Lauren James | 89 | Barclays WSL | 60k coins | +6.2% | +20% | 95% |
+| Lauren James | 89 | Barclays WSL | 68k coins | +8.9% | +23.8% | 95% |
+| Jaden Philogene | 87 | EFL Championship | 19k coins | +2.7% | +20.6% | 95% |
+| Declan Rice | 89 | Premier League | 22k coins | +19.4% | +19.4% | 42% |
 | Joe Cole | 88 | Premier League | 188k coins | +19.8% | +18.2% | 5% |
+| Ollie Watkins | 90 | Premier League | 50k coins | +6.4% | +17.6% | 8% |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 20k coins | +2.6% | +15.9% | 16% |
 | Alan Shearer | 91 | Icons | 146k coins | +7.4% | +15% | 95% |
-| Jill Scott | 87 | Barclays WSL | 32k coins | +6.6% | +12.2% | 95% |
-| Wayne Rooney | 88 | Icons | 159k coins | +6% | +9.7% | 51% |
-| Lauren Hemp | 90 | Barclays WSL | 40k coins | +34.4% | +8.1% | 44% |
+| Declan Rice | 89 | Premier League | 105k coins | +10.5% | +14.1% | 5% |
+| Lewis Miley | 89 | Premier League | 30k coins | +18% | +13.5% | 95% |
+| Millie Bright | 94 | Barclays WSL | 101k coins | +19.5% | +12.2% | 57% |
 
 
 ## 📈 Análise dos destaques
 
 - **James Milner (88)** — 69k coins, **+45.3% em 7 dias** (+27.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Joe Gelhardt (86)** — 26k coins, **+38.2% em 7 dias** (+19.3% em 24h). Preço +29% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Chloe Kelly (88)** — 43k coins, **+43% em 7 dias** (+1.2% em 24h). Preço em linha com a média de 7 dias (-2%). 🔮 O modelo reforça a tese: **80% de chance de seguir subindo**.
 
-- **Ethan Nwaneri (91)** — 57k coins, **+32.6% em 7 dias** (+16.9% em 24h). Preço +22% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **84% de chance de seguir subindo**.
+- **Steven Gerrard (90)** — 153k coins, **+27.5% em 7 dias** (+34.2% em 24h). Preço +31% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **84% de chance de seguir subindo**.
 
-- **Chloe Kelly (88)** — 40k coins, **+31.4% em 7 dias** (+16.9% em 24h). Preço -9% abaixo da média de 7 dias (descontada). 🔮 O modelo reforça a tese: **80% de chance de seguir subindo**.
+- **Nico O'Reilly (88)** — 38k coins, **+27.5% em 7 dias** (+6.2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **Steven Gerrard (89)** — 84k coins, **+26.3% em 7 dias** (+27.3% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
@@ -81,6 +84,8 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 **Com que frequência a lista de investimentos atualiza?**  
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
+
+> 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
 
 ---
 

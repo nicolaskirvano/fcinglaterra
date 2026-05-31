@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:52:02.000Z
+pubDatetime: 2026-05-31T21:28:04.000Z
 title: "Ingleses no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,46 +13,46 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Wayne Rooney (88, Icons), com +39% em 24h, a 146k coins no PC."
+    a: "Peter Crouch (87, Premier League), com +34.7% em 24h, a 202k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Nico O'Reilly (88), -40% em 24h, a 28k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 22k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 60 cartas em alta contra 68 em queda (média 2.13%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 59 cartas em alta contra 67 em queda (média 2.15%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **60 subiram** e **68 caíram**, com variação média de **2.13%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **59 subiram** e **67 caíram**, com variação média de **2.15%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Wayne Rooney (88) **+39%** · 🔴 **Maior baixa:** Nico O'Reilly (88) **-40%**
+> 🟢 **Maior alta:** Peter Crouch (87) **+34.7%** · 🔴 **Maior baixa:** Nico O'Reilly (88) **-40%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Wayne Rooney | 88 | Icons | 146k coins | +39% | +7.4% |
 | Peter Crouch | 87 | Premier League | 202k coins | +34.7% | +44.3% |
 | Ellie Roebuck | 85 | Barclays WSL | 32k coins | +33.3% | +14.3% |
-| Frank Lampard | 87 | Icons | 80k coins | +21.2% | +7.4% |
+| Frank Lampard | 87 | Icons | 84k coins | +28% | -6.1% |
+| David Beckham | 88 | Icons | 120k coins | +26.3% | +21.2% |
 | Kyle Walker | 89 | Premier League | 359k coins | +20.1% | -0.8% |
 | Lauren James | 92 | Barclays WSL | 650k coins | +12.3% | +0.8% |
+| Ashley Cole | 86 | Icons | 75k coins | +11.9% | +15.4% |
 | Anthony Gordon | 88 | Premier League | 390k coins | +11.1% | 0% |
-| Bobby Charlton | 92 | Icons | 124k coins | +9.7% | +8.8% |
 | Jude Bellingham | 92 | LALIGA EA SPORTS | 323k coins | +8.8% | -24.9% |
 | Lauren James | 87 | Barclays WSL | 270k coins | +8% | -50.8% |
 
 
 ### Análise das altas
 
-- **Wayne Rooney (88)** subiu **+39%** em 24h, a **146k coins** (faixa do dia: 105k–149k). Está em linha com a média de 7 dias (+7%). O modelo vê **estabilização** no curto prazo.
-
 - **Peter Crouch (87)** subiu **+34.7%** em 24h, a **202k coins** (faixa do dia: 139k–210k). Está +21% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 - **Ellie Roebuck (85)** subiu **+33.3%** em 24h, a **32k coins** (faixa do dia: 24k–32k). Está +32% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+
+- **Frank Lampard (87)** subiu **+28%** em 24h, a **84k coins** (faixa do dia: 66k–94k). Está +9% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -97,7 +97,7 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
-Wayne Rooney (88, Icons), com +39% em 24h, a 146k coins no PC.
+Peter Crouch (87, Premier League), com +34.7% em 24h, a 202k coins no PC.
 
 **E a maior queda do dia?**  
 Nico O'Reilly (88), -40% em 24h, a 28k coins.
@@ -106,11 +106,13 @@ Nico O'Reilly (88), -40% em 24h, a 28k coins.
 Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 22k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 60 cartas em alta contra 68 em queda (média 2.13%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 59 cartas em alta contra 67 em queda (média 2.15%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
 
 ---
 

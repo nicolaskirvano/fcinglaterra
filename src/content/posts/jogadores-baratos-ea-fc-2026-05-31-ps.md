@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:52:02.000Z
+pubDatetime: 2026-05-31T21:28:04.000Z
 title: "Jogadores baratos de Ingleses no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -32,9 +32,10 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +11.6% |
 | Harry Kane | 89 | ST | Bundesliga | 6k coins | +3.8% |
 | Alessia Russo | 89 | ST | Barclays WSL | 6k coins | +10.9% |
-| Jess Park | 89 | CM | Barclays WSL | 14k coins | -1.8% |
+| Jess Park | 89 | CM | Barclays WSL | 14k coins | -15.4% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 15k coins | +5.3% |
 | Bukayo Saka | 88 | RW | Premier League | 3k coins | +34.8% |
-| Beth Mead | 88 | RM | Barclays WSL | 14k coins | -12.7% |
+| Beth Mead | 88 | RM | Barclays WSL | 13k coins | -15.9% |
 | Georgia Stanway | 88 | CDM | Liga F | 14k coins | -3.4% |
 | Jess Carter | 88 | CB | NWSL | 14k coins | 0% |
 | Declan Rice | 88 | CM | Premier League | 15k coins | -1.7% |
@@ -43,7 +44,6 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Millie Bright | 87 | CB | Barclays WSL | 5k coins | 0% |
 | Dominic Solanke | 87 | ST | Premier League | 12k coins | -17.9% |
 | Steve McManaman | 87 | RM | Premier League | 12k coins | -2% |
-| Mateus Mané | 86 | CAM | Premier League | 11k coins | -19.6% |
 
 
 ## 📈 Destaques
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **6k coins**
 
-- **Jess Park (89, CM)** da Barclays WSL, a apenas **14k coins**
+- **Jess Park (89, CM)** da Barclays WSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Bukayo Saka (88, RW)** da Premier League, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **15k coins**
 
 
 ## Por que estas cartas?
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
 
 ---
 
