@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:52:02.000Z
+pubDatetime: 2026-06-01T01:52:01.000Z
 title: "Ingleses no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Declan Rice (91) — 95% de probabilidade de alta, a 217k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 50 cartas em alta contra 101 em queda (média -2.92%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 51 cartas em alta contra 103 em queda (média -2.97%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **50 subiram** e **101 caíram**, com variação média de **-2.92%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **51 subiram** e **103 caíram**, com variação média de **-2.97%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Steven Gerrard (90) **+34.2%** · 🔴 **Maior baixa:** Marc Guéhi (88) **-41.1%**
 
@@ -37,13 +37,13 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Steven Gerrard | 90 | Icons | 153k coins | +34.2% | +27.5% |
 | Anthony Gordon | 90 | Premier League | 1.55M coins | +33.7% | +55% |
 | Bobby Charlton | 93 | Icons | 349k coins | +29.3% | +21.2% |
-| James Milner | 88 | Premier League | 69k coins | +27.8% | +45.3% |
-| Steven Gerrard | 89 | Icons | 84k coins | +27.3% | +26.3% |
-| Joe Cole | 88 | Premier League | 188k coins | +19.8% | +18.2% |
 | Millie Bright | 94 | Barclays WSL | 101k coins | +19.5% | +12.2% |
 | Declan Rice | 89 | Premier League | 22k coins | +19.4% | +19.4% |
+| Bobby Charlton | 92 | Icons | 131k coins | +19.1% | +12.9% |
 | Fara Williams | 88 | Barclays WSL | 30k coins | +19% | -38% |
+| Joe Cole | 88 | Premier League | 188k coins | +19% | +18.2% |
 | Lewis Miley | 89 | Premier League | 30k coins | +18% | +13.5% |
+| John Barnes | 89 | Icons | 128k coins | +14.3% | -0.8% |
 
 
 ### Análise das altas
@@ -62,13 +62,13 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Marc Guéhi | 88 | Premier League | 25k coins | -41.1% | -13.2% |
 | Noni Madueke | 86 | Premier League | 53k coins | -28.4% | +6% |
 | Max Aarons | 85 | Scottish Premiership | 22k coins | -25% | +28.6% |
-| Steven Gerrard | 88 | Icons | 68k coins | -20.9% | +2.3% |
 | Lauren James | 89 | Barclays WSL | 119k coins | -20.1% | -1.6% |
 | Harry Kane | 92 | Bundesliga | 149k coins | -19.5% | -41.3% |
 | Leah Williamson | 88 | Barclays WSL | 30k coins | -15.7% | +28.3% |
 | Dan Burn | 86 | Premier League | 153k coins | -15% | -25.7% |
 | Tyler Morton | 88 | Ligue 1 McDonald's | 30k coins | -14.3% | -29% |
 | Jordan Pickford | 85 | Premier League | 26k coins | -13.9% | -21% |
+| Harry Kane | 92 | Bundesliga | 133k coins | -13.6% | -17.9% |
 
 
 ### Análise das baixas
@@ -87,12 +87,12 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
 | Declan Rice | 91 | 217k coins | 268k coins | 95% |
-| Alan Shearer | 91 | 146k coins | 187k coins | 95% |
-| Bobby Charlton | 92 | 123k coins | 141k coins | 95% |
+| Alan Shearer | 91 | 128k coins | 164k coins | 95% |
+| Bobby Charlton | 92 | 131k coins | 151k coins | 95% |
 | Lauren James | 89 | 119k coins | 147k coins | 95% |
-| Frank Lampard | 87 | 112k coins | 151k coins | 95% |
-| James Milner | 88 | 69k coins | 82k coins | 95% |
 | Dan Burn | 86 | 153k coins | 182k coins | 95% |
+| Kelly Smith | 89 | 68k coins | 84k coins | 95% |
+| James Milner | 88 | 61k coins | 72k coins | 95% |
 | Lewis Miley | 89 | 30k coins | 35k coins | 95% |
 
 
@@ -102,13 +102,13 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Mateus Mané | 88 | 40k coins | -15.7% |
-| Leah Williamson | 88 | 30k coins | -23.8% |
-| Archie Brown | 85 | 60k coins | -24% |
+| Noni Madueke | 86 | 29k coins | -21.3% |
 | Elliot Anderson | 89 | 55k coins | -29.2% |
-| Joe Cole | 88 | 188k coins | -21.4% |
+| Archie Brown | 85 | 60k coins | -24% |
 | Jill Scott | 91 | 46k coins | -17.3% |
+| Mateus Mané | 88 | 40k coins | -15.7% |
 | Lucy Bronze | 95 | 178k coins | -21.3% |
+| Leah Williamson | 88 | 30k coins | -23.8% |
 | Harry Kane | 92 | 133k coins | -16.7% |
 
 
@@ -129,7 +129,7 @@ Marc Guéhi (88), -41.1% em 24h, a 25k coins.
 Pelo modelo FutQuant, Declan Rice (91) — 95% de probabilidade de alta, a 217k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 50 cartas em alta contra 101 em queda (média -2.92%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 51 cartas em alta contra 103 em queda (média -2.97%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

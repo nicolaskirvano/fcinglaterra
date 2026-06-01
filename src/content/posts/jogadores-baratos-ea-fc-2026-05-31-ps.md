@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:52:03.000Z
+pubDatetime: 2026-06-01T01:52:02.000Z
 title: "Jogadores baratos de Ingleses no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,8 +30,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +1% |
-| Harry Kane | 89 | ST | Bundesliga | 6k coins | +16% |
-| Alessia Russo | 89 | ST | Barclays WSL | 6k coins | +10.9% |
+| Alessia Russo | 89 | ST | Barclays WSL | 6k coins | +1.8% |
 | Jess Park | 89 | CM | Barclays WSL | 14k coins | -15.4% |
 | Keira Walsh | 89 | CDM | Barclays WSL | 15k coins | +5.3% |
 | Bukayo Saka | 88 | RW | Premier League | 3k coins | +15.4% |
@@ -42,21 +41,22 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Lauren Hemp | 87 | LW | Barclays WSL | 2k coins | -29.2% |
 | Beth Mead | 87 | RM | Barclays WSL | 2k coins | 0% |
 | Leah Williamson | 87 | CB | Barclays WSL | 2k coins | +5.3% |
-| Lucy Bronze | 87 | RB | Barclays WSL | 2k coins | +10.5% |
+| Lucy Bronze | 87 | RB | Barclays WSL | 2k coins | +75% |
 | Millie Bright | 87 | CB | Barclays WSL | 5k coins | 0% |
+| Dominic Solanke | 87 | ST | Premier League | 12k coins | -17.9% |
 
 
 ## 📈 Destaques
 
 - **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **10k coins**
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
-
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **6k coins**
 
 - **Jess Park (89, CM)** da Barclays WSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **15k coins**
+
+- **Bukayo Saka (88, RW)** da Premier League, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?

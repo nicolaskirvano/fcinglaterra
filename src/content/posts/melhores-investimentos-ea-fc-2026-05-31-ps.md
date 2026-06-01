@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:52:02.000Z
+pubDatetime: 2026-06-01T01:52:02.000Z
 title: "Melhores investimentos em Ingleses no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 31/05/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/05/2026) no EA FC?"
-    a: "James Milner (88, Premier League) lidera, com +45.3% em 7 dias a 69k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo."
+    a: "Chloe Kelly (88, Barclays WSL) lidera, com +43% em 7 dias a 43k coins no Console (PS), e o modelo dá 80% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **31/05/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** James Milner (88) acumula **+45.3% em 7 dias** a 69k coins.
+> 🔝 **Destaque:** Chloe Kelly (88) acumula **+43% em 7 dias** a 43k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,34 +31,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| James Milner | 88 | Premier League | 69k coins | +27.8% | +45.3% | 95% |
 | Chloe Kelly | 88 | Barclays WSL | 43k coins | +1.2% | +43% | 80% |
+| James Milner | 88 | Premier League | 61k coins | +7% | +28.4% | 95% |
 | Steven Gerrard | 90 | Icons | 153k coins | +34.2% | +27.5% | 84% |
 | Nico O'Reilly | 88 | Premier League | 38k coins | +6.2% | +27.5% | 95% |
-| Steven Gerrard | 89 | Icons | 84k coins | +27.3% | +26.3% | 57% |
 | Lauren James | 89 | Barclays WSL | 68k coins | +8.9% | +23.8% | 95% |
-| Frank Lampard | 87 | Icons | 112k coins | +14.9% | +21.1% | 95% |
 | Jaden Philogene | 87 | EFL Championship | 19k coins | +2.7% | +20.6% | 95% |
 | Declan Rice | 89 | Premier League | 22k coins | +19.4% | +19.4% | 42% |
-| Joe Cole | 88 | Premier League | 188k coins | +19.8% | +18.2% | 5% |
+| Joe Cole | 88 | Premier League | 188k coins | +19% | +18.2% | 5% |
 | Ollie Watkins | 90 | Premier League | 50k coins | +6.4% | +17.6% | 8% |
 | Ben Chilwell | 90 | Ligue 1 McDonald's | 20k coins | +2.6% | +15.9% | 16% |
-| Alan Shearer | 91 | Icons | 146k coins | +7.4% | +15% | 95% |
+| Micah Richards | 85 | Premier League | 39k coins | +6.1% | +14.6% | 60% |
 | Declan Rice | 89 | Premier League | 105k coins | +10.5% | +14.1% | 5% |
 | Lewis Miley | 89 | Premier League | 30k coins | +18% | +13.5% | 95% |
+| Bobby Charlton | 92 | Icons | 131k coins | +19.1% | +12.9% | 95% |
+| Millie Bright | 94 | Barclays WSL | 101k coins | +19.5% | +12.2% | 57% |
 
 
 ## 📈 Análise dos destaques
 
-- **James Milner (88)** — 69k coins, **+45.3% em 7 dias** (+27.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
-
 - **Chloe Kelly (88)** — 43k coins, **+43% em 7 dias** (+1.2% em 24h). Preço em linha com a média de 7 dias (-2%). 🔮 O modelo reforça a tese: **80% de chance de seguir subindo**.
+
+- **James Milner (88)** — 61k coins, **+28.4% em 7 dias** (+7% em 24h). Preço em linha com a média de 7 dias (-3%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
 - **Steven Gerrard (90)** — 153k coins, **+27.5% em 7 dias** (+34.2% em 24h). Preço +31% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **84% de chance de seguir subindo**.
 
 - **Nico O'Reilly (88)** — 38k coins, **+27.5% em 7 dias** (+6.2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Steven Gerrard (89)** — 84k coins, **+26.3% em 7 dias** (+27.3% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Lauren James (89)** — 68k coins, **+23.8% em 7 dias** (+8.9% em 24h). Preço +13% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -76,7 +76,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/05/2026) no EA FC?**  
-James Milner (88, Premier League) lidera, com +45.3% em 7 dias a 69k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo.
+Chloe Kelly (88, Barclays WSL) lidera, com +43% em 7 dias a 43k coins no Console (PS), e o modelo dá 80% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
