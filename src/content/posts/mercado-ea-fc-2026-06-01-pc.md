@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:52:02.000Z
+pubDatetime: 2026-06-01T13:52:02.000Z
 title: "Ingleses no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,69 +13,69 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 01/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/06/2026)?"
-    a: "Dan Burn (86, Premier League), com +53.3% em 24h, a 230k coins no PC."
+    a: "Michelle Agyemang (89, Barclays Women’s Super League), com +59.1% em 24h, a 35k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Anthony Gordon (87), -48.5% em 24h, a 26k coins."
+    a: "Bobby Charlton (93), -43.9% em 24h, a 333k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 48 cartas em alta contra 91 em queda (média -0.55%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 34 cartas em alta contra 94 em queda (média -1.11%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **48 subiram** e **91 caíram**, com variação média de **-0.55%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **34 subiram** e **94 caíram**, com variação média de **-1.11%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
-> 🟢 **Maior alta:** Dan Burn (86) **+53.3%** · 🔴 **Maior baixa:** Anthony Gordon (87) **-48.5%**
+> 🟢 **Maior alta:** Michelle Agyemang (89) **+59.1%** · 🔴 **Maior baixa:** Bobby Charlton (93) **-43.9%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dan Burn | 86 | Premier League | 230k coins | +53.3% | +15.6% |
-| Lucy Bronze | 88 | Barclays WSL | 113k coins | +51.7% | +111.2% |
-| Bobby Charlton | 93 | Icons | 338k coins | +47% | +5.6% |
-| Morgan Rogers | 87 | Premier League | 102k coins | +45.7% | +20% |
-| Noni Madueke | 86 | Premier League | 60k coins | +44.6% | -20% |
-| Marc Guéhi | 88 | Premier League | 30k coins | +39.5% | -18.9% |
-| Jordan Pickford | 85 | Premier League | 30k coins | +37.9% | -29.4% |
-| Ollie Watkins | 90 | Premier League | 40k coins | +34.2% | -46.3% |
-| Declan Rice | 94 | Premier League | 399k coins | +22.8% | -0.5% |
-| Steven Gerrard | 89 | Icons | 74k coins | +19.2% | +14.6% |
+| Michelle Agyemang | 89 | Barclays Women’s Super League | 35k coins | +59.1% | +55.6% |
+| Bobby Charlton | 92 | Icons | 145k coins | +46.5% | +20.8% |
+| Jaden Philogene | 87 | EFL Championship | 28k coins | +38.8% | +70.8% |
+| Tyler Morton | 88 | Ligue 1 McDonald's | 70k coins | +26.4% | +62.6% |
+| Ryan Yates | 85 | Premier League | 24k coins | +22.5% | +8.9% |
+| Joe Cole | 88 | Premier League | 320k coins | +18.5% | +26% |
+| Harry Kane | 92 | Bundesliga | 191k coins | +16.5% | -35.2% |
+| Harry Kane | 91 | Bundesliga | 220k coins | +16.4% | +3.8% |
+| Trent Alexander-Arnold | 87 | LALIGA EA SPORTS | 630k coins | +14.6% | +27.8% |
+| James Milner | 88 | Premier League | 52k coins | +10% | -4.6% |
 
 
 ### Análise das altas
 
-- **Dan Burn (86)** subiu **+53.3%** em 24h, a **230k coins** (faixa do dia: 150k–230k). Está +9% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Michelle Agyemang (89)** subiu **+59.1%** em 24h, a **35k coins** (faixa do dia: 14k–35k). Está +61% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Lucy Bronze (88)** subiu **+51.7%** em 24h, a **113k coins** (faixa do dia: 53k–120k). Está +22% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Bobby Charlton (92)** subiu **+46.5%** em 24h, a **145k coins** (faixa do dia: 79k–145k). Está +26% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Bobby Charlton (93)** subiu **+47%** em 24h, a **338k coins** (faixa do dia: 230k–600k). Está em linha com a média de 7 dias (+8%). O modelo vê **estabilização** no curto prazo.
+- **Jaden Philogene (87)** subiu **+38.8%** em 24h, a **28k coins** (faixa do dia: 18k–40k). Está +59% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Anthony Gordon | 87 | Premier League | 26k coins | -48.5% | -17.6% |
-| Leah Williamson | 95 | Barclays WSL | 238k coins | -40.5% | -27.9% |
-| Archie Brown | 85 | Trendyol Süper Lig | 74k coins | -40.4% | -9.7% |
+| Bobby Charlton | 93 | Icons | 333k coins | -43.9% | +4.1% |
+| Harry Kane | 91 | Bundesliga | 26k coins | -42% | -53.6% |
 | Rio Ferdinand | 88 | Icons | 290k coins | -38% | -39.6% |
 | Isobel Goodwin | 80 | Barclays WSL | 30k coins | -36.5% | +3.4% |
-| Bobby Charlton | 92 | Icons | 80k coins | -35.5% | -33.3% |
-| Declan Rice | 89 | Premier League | 70k coins | -32.7% | -16.2% |
-| Lauren Hemp | 90 | Barclays WSL | 40k coins | -27.7% | -22.9% |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 57k coins | -26.9% | +33.3% |
-| Adam Wharton | 88 | Premier League | 24k coins | -26.5% | -16.4% |
+| David Beckham | 89 | Icons | 96k coins | -28.9% | -35.1% |
+| Adam Wharton | 88 | Premier League | 22k coins | -25.6% | -25% |
+| Lauren Hemp | 90 | Barclays WSL | 44k coins | -24.8% | -16.2% |
+| Anthony Gordon | 87 | Premier League | 23k coins | -24.2% | -26% |
+| Declan Rice | 89 | Premier League | 76k coins | -22.4% | -8.4% |
+| Paul Scholes | 91 | Icons | 98k coins | -21.6% | -31.5% |
 
 
 ### Análise das baixas
 
-- **Anthony Gordon (87)** caiu **-48.5%** em 24h, a **26k coins** (faixa do dia: 20k–35k). Está -18% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Bobby Charlton (93)** caiu **-43.9%** em 24h, a **333k coins** (faixa do dia: 323k–395k). Está em linha com a média de 7 dias (+6%). O modelo vê **estabilização** no curto prazo.
 
-- **Leah Williamson (95)** caiu **-40.5%** em 24h, a **238k coins** (faixa do dia: 238k–400k). Está -17% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Harry Kane (91)** caiu **-42%** em 24h, a **26k coins** (faixa do dia: 26k–42k). Está -45% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Archie Brown (85)** caiu **-40.4%** em 24h, a **74k coins** (faixa do dia: 74k–150k). Está -13% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Rio Ferdinand (88)** caiu **-38%** em 24h, a **290k coins** (faixa do dia: 290k–466k). Está -13% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -86,13 +86,13 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/06/2026)?**  
-Dan Burn (86, Premier League), com +53.3% em 24h, a 230k coins no PC.
+Michelle Agyemang (89, Barclays Women’s Super League), com +59.1% em 24h, a 35k coins no PC.
 
 **E a maior queda do dia?**  
-Anthony Gordon (87), -48.5% em 24h, a 26k coins.
+Bobby Charlton (93), -43.9% em 24h, a 333k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 48 cartas em alta contra 91 em queda (média -0.55%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 34 cartas em alta contra 94 em queda (média -1.11%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

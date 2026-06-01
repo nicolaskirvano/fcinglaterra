@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:52:01.000Z
+pubDatetime: 2026-06-01T13:52:01.000Z
 title: "Ingleses no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -17,16 +17,16 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Anthony Gordon (87), -25.9% em 24h, a 25k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Frank Lampard (87) — 95% de probabilidade de alta, a 101k coins."
+    a: "Pelo modelo FutQuant, Frank Lampard (87) — 95% de probabilidade de alta, a 110k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 68 cartas em alta contra 83 em queda (média 1.13%)."
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 67 cartas em alta contra 85 em queda (média 0.94%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **68 subiram** e **83 caíram**, com variação média de **1.13%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **67 subiram** e **85 caíram**, com variação média de **0.94%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Adam Wharton (88) **+52.6%** · 🔴 **Maior baixa:** Anthony Gordon (87) **-25.9%**
 
@@ -86,7 +86,7 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Frank Lampard | 87 | 101k coins | 136k coins | 95% |
+| Frank Lampard | 87 | 110k coins | 148k coins | 95% |
 | Bobby Charlton | 92 | 125k coins | 144k coins | 95% |
 | Dan Burn | 86 | 185k coins | 220k coins | 95% |
 | Lauren James | 89 | 128k coins | 158k coins | 95% |
@@ -126,10 +126,10 @@ Adam Wharton (88, Premier League), com +52.6% em 24h, a 29k coins no Console (PS
 Anthony Gordon (87), -25.9% em 24h, a 25k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Frank Lampard (87) — 95% de probabilidade de alta, a 101k coins.
+Pelo modelo FutQuant, Frank Lampard (87) — 95% de probabilidade de alta, a 110k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 68 cartas em alta contra 83 em queda (média 1.13%).
+Hoje o mercado está em mercado lateral — sem direção clara, com 67 cartas em alta contra 85 em queda (média 0.94%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
