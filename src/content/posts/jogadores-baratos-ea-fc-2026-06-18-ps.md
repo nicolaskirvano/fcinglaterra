@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:29:16.000Z
+pubDatetime: 2026-06-18T19:52:13.000Z
 title: "Jogadores baratos de Ingleses no EA FC (18/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Jess Park | 89 | CM | Barclays WSL | 13k coins | +23.2% |
-| Millie Bright | 87 | CB | Barclays WSL | 6k coins | -15.3% |
+| Millie Bright | 87 | CB | Barclays WSL | 7k coins | -15.3% |
 | Steve McManaman | 87 | RM | Premier League | 12k coins | 0% |
 | Fara Williams | 86 | CM | Barclays WSL | 12k coins | +2.2% |
 | Jamie Carragher | 86 | CB | Premier League | 12k coins | +6.5% |
@@ -42,7 +42,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Jess Park (89, CM)** da Barclays WSL, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Millie Bright (87, CB)** da Barclays WSL, a apenas **6k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Millie Bright (87, CB)** da Barclays WSL, a apenas **7k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Steve McManaman (87, RM)** da Premier League, a apenas **12k coins**
 
@@ -58,8 +58,8 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 - Filtramos preços anômalos para você não cair em cotação irreal.
 
 
-## 📐 Como o FutQuant gera estes dados
-Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
+## 🧪 De onde vêm estes números
+Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** coletadas em multiplas fontes do mercado, limpamos **ruído e anomalias** e calculamos tendência com **médias móveis de 24h e 7 dias** mais suporte/resistência. O resultado é leitura de mercado, não palpite.
 
 
 ## ❓ Perguntas frequentes
