@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T20:13:43.000Z
+pubDatetime: 2026-06-18T22:52:52.000Z
 title: "Melhores investimentos em Ingleses no EA FC (18/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Maya Le Tissier (88, Barclays WSL) lidera, com +89.3% em 7 dias a 40k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo."
+    a: "Maya Le Tissier (88, Barclays WSL) lidera, com +89.3% em 7 dias a 47k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,17 +23,17 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Maya Le Tissier (88) acumula **+89.3% em 7 dias** a 40k coins.
+> 🔝 **Destaque:** Maya Le Tissier (88) acumula **+89.3% em 7 dias** a 47k coins.
 
 
 ## 🔎 Análise do mercado hoje
-No cenário do EA FC Ultimate Team para consoles PlayStation em 18 de junho de 2026, o mercado exibe oportunidades claras para investidores atentos à volatilidade de curto prazo. Entre os jogadores ingleses, Maya Le Tissier se destaca como a entrada mais robusta, com uma impressionante alta de 19,5% em 24 horas e uma probabilidade de alta de 95%. Preço estável em 40k coins, essa carta oferece segurança estatística para quem busca lucros rápidos com baixo risco, consolidando-se como a escolha prioritária para portfólios conservadores no momento.
+No cenário do EA FC Ultimate Team para consoles PlayStation, datado de 18 de junho de 2026, o mercado de jogadores ingleses apresenta oportunidades distintas baseadas na volatilidade recente. Maya Le Tissier se destaca imensamente como a entrada mais segura, registrando alta de 19,5% em 24 horas com probabilidade de alta de 95%, valendo atualmente 47k coins. Acompanhada por Ledley King, que também possui 95% de probabilidade de alta (embora com crescimento menor de 2,6% e preço de 23k), Le Tissier oferece a melhor combinação de risco e recompensa imediata para quem busca estabilidade no curto prazo.
 
-Outra opção feminina de destaque é Lauren Hemp, que registra um crescimento de 20,8% em 24 horas e possui 44% de probabilidade de alta. Comercializada por 38k coins, Hemp apresenta um equilíbrio atrativo entre custo e potencial de valorização, superando ligeiramente Lucy Bronze (5,3% de alta e apenas 48% de probabilidade, a 40k coins). Enquanto Bronze mostra sinais de estagnação relativa, Hemp oferece uma trajetória ascendente mais consistente, tornando-se uma alternativa inteligente para diversificar investimentos na Barclays WSL sem comprometer capital excessivo.
+Para investidores dispostos a assumir riscos moderados em troca de maior potencial de valorização, Lauren Hemp e Steven Gerrard são as principais recomendações. Hemp, atacante do Barclays WSL com 90 de overall, sobe 21,8% em 24h com 44% de probabilidade de alta, custando 40k coins. Gerrard, um Ícone com 88 de overall, apresenta alta de 21,7% e probabilidade de 42%, posicionado a 98k coins. Ambos mostram forte momentum, embora a probabilidade seja inferior à de Le Tissier, justificando a análise para carteiras diversificadas.
 
-No elenco masculino, Steven Gerrard surge como a estrela absoluta, com um salto de 27,8% em 24 horas e 42% de probabilidade de alta, custando 96k coins. Essa performance supera amplamente Paul Scholes (21,4% de alta, mas com apenas 16% de probabilidade a 200k coins) e Declan Rice (21% de alta, mas com baixa probabilidade de 5% a 86k coins). A combinação de alta performance recente e probabilidade moderada-alta torna Gerrard uma aposta sólida para investidores dispostos a assumir riscos calculados em busca de retornos significativos no setor de Icons.
+Outros nomes merecem atenção por sua volatilidade específica. Alex Scott imprensou o maior percentual de subida em 24h (29,8%), mas sua probabilidade de alta é de apenas 43%, com preço baixo de 17k coins, ideal para apostas rápidas. Adam Wharton e Ollie Watkins, ambos da Premier League, mostram alta de 19,5% e 7,5% respectivamente, mas com baixas probabilidades de continuação (8%), sugerindo cautela.
 
-Por fim, jogadores da Premier League como Ollie Watkins, Adam Wharton, Cole Palmer e Alessia Russo apresentam baixas probabilidades de alta (entre 5% e 8%), desaconselhando entrada imediata. Apesar de alguns mostrarem aumentos percentuais relevantes, a baixa probabilidade estatística indica que o momento pode ser de consolidação ou venda, não de compra. Portanto, o foco deve permanecer em Maya Le Tissier pela segurança e Steven Gerrard pelo potencial de alta expressiva, ignorando as demais opções devido ao risco elevado de desvalorização.
+Por fim, cartas de alto custo como Jill Scott (110k, 5% prob.) e Bobby Moore (90k, 8% prob.) apresentam altas percentuais, mas baixas chances de sustentação, tornando-as menos atraentes para entrada hoje. Max Aarons (38k, 33% prob.) oferece um meio-termo interessante. A estratégia ideal foca em Le Tissier e King pela segurança, e Hemp/Gerrard pelo potencial de ganho, evitando ativos de baixa probabilidade de alta contínua.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -41,34 +41,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Maya Le Tissier | 88 | Barclays WSL | 40k coins | +19.5% | +89.3% | 95% |
-| Lucy Bronze | 88 | Barclays WSL | 40k coins | +5.3% | +60% | 48% |
-| Ollie Watkins | 90 | Premier League | 43k coins | +5.9% | +51.9% | 8% |
-| Paul Scholes | 91 | Icons | 200k coins | +21.4% | +50% | 16% |
-| Adam Wharton | 88 | Premier League | 32k coins | +4.9% | +40.7% | 8% |
-| Declan Rice | 89 | Premier League | 86k coins | +21% | +40.7% | 5% |
-| Steven Gerrard | 88 | Icons | 96k coins | +27.8% | +35.9% | 42% |
-| Lauren Hemp | 90 | Barclays WSL | 38k coins | +20.8% | +34.3% | 44% |
-| Cole Palmer | 89 | Premier League | 165k coins | +10% | +34.1% | 5% |
-| Alessia Russo | 90 | Barclays WSL | 42k coins | +19.9% | +34.1% | 5% |
-| Marc Guéhi | 88 | Premier League | 49k coins | +14.4% | +33.8% | 5% |
-| Lewis Miley | 89 | Premier League | 48k coins | +5.6% | +31.2% | 95% |
-| Elliot Anderson | 89 | Premier League | 140k coins | +1.4% | +30.8% | 5% |
-| Eberechi Eze | 86 | Premier League | 115k coins | +2.7% | +25% | 8% |
-| Dan Burn | 86 | Premier League | 124k coins | +11% | +19.8% | 95% |
+| Maya Le Tissier | 88 | Barclays WSL | 47k coins | +19.5% | +89.3% | 95% |
+| Jill Scott | 91 | Barclays WSL | 110k coins | +4.8% | +70.5% | 5% |
+| Adam Wharton | 88 | Premier League | 35k coins | +19.5% | +61.5% | 8% |
+| Ollie Watkins | 90 | Premier League | 43k coins | +7.5% | +56.9% | 8% |
+| Ledley King | 86 | Premier League | 23k coins | +2.6% | +56% | 95% |
+| Alex Scott | 85 | Barclays WSL | 17k coins | +29.8% | +54.2% | 43% |
+| Max Aarons | 85 | Scottish Premiership | 38k coins | +6.2% | +46.2% | 33% |
+| Steven Gerrard | 88 | Icons | 98k coins | +21.7% | +43.1% | 42% |
+| Lauren Hemp | 90 | Barclays WSL | 40k coins | +21.8% | +39.8% | 44% |
+| Bobby Moore | 90 | Icons | 90k coins | +24.2% | +39.7% | 8% |
+| Declan Rice | 89 | Premier League | 84k coins | +13.3% | +38.2% | 5% |
+| Paul Scholes | 91 | Icons | 189k coins | +6.1% | +37.7% | 16% |
+| Alessia Russo | 90 | Barclays WSL | 48k coins | +18.9% | +34.9% | 5% |
+| Eberechi Eze | 86 | Premier League | 126k coins | +14.3% | +32.6% | 8% |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 40k coins | +27.2% | +32.5% | 16% |
 
 
 ## 📈 Análise dos destaques
 
-- **Maya Le Tissier (88)** — 40k coins, **+89.3% em 7 dias** (+19.5% em 24h). Preço +34% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Maya Le Tissier (88)** — 47k coins, **+89.3% em 7 dias** (+19.5% em 24h). Preço +58% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Lucy Bronze (88)** — 40k coins, **+60% em 7 dias** (+5.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jill Scott (91)** — 110k coins, **+70.5% em 7 dias** (+4.8% em 24h). Preço +18% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Ollie Watkins (90)** — 43k coins, **+51.9% em 7 dias** (+5.9% em 24h). Preço +34% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Adam Wharton (88)** — 35k coins, **+61.5% em 7 dias** (+19.5% em 24h). Preço +31% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Paul Scholes (91)** — 200k coins, **+50% em 7 dias** (+21.4% em 24h). Preço +23% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Ollie Watkins (90)** — 43k coins, **+56.9% em 7 dias** (+7.5% em 24h). Preço +33% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Adam Wharton (88)** — 32k coins, **+40.7% em 7 dias** (+4.9% em 24h). Preço +21% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Ledley King (86)** — 23k coins, **+56% em 7 dias** (+2.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -86,7 +86,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Maya Le Tissier (88, Barclays WSL) lidera, com +89.3% em 7 dias a 40k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo.
+Maya Le Tissier (88, Barclays WSL) lidera, com +89.3% em 7 dias a 47k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

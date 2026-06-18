@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T20:14:10.000Z
+pubDatetime: 2026-06-18T22:53:20.000Z
 title: "Ingleses no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,75 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Steve McManaman (89, Premier League), com +55.4% em 24h, a 64k coins no PC."
+    a: "Eric Dier (86, Ligue 1 McDonald's), com +55.4% em 24h, a 30k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Leah Williamson (95), -37% em 24h, a 210k coins."
+    a: "Lotte Wubben-Moy (85), -42.2% em 24h, a 22k coins."
+  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
+    a: "Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 45k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 48 cartas em alta contra 69 em queda (média -0.52%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 49 cartas em alta contra 75 em queda (média -1.21%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado de ingleses segue em terreno lateral hoje, sem uma direção clara definida para os traders. Com 48 altas contra 69 quedas e uma média de variação de -0.52% nas últimas 24 horas, a volatilidade está contida.
+O mercado de ingleses amanheceu em baixa, com 75 quedas superando as 49 altas, resultando em uma media negativa de -1.21% nas ultimas 24h. Esse sentimento de otimismo reduzido exige cautela, pois a tendencia predominante e de desvalorizacao dos ativos no segmento.
 
-> 🟢 **Maior alta:** Steve McManaman (89) **+55.4%** · 🔴 **Maior baixa:** Leah Williamson (95) **-37%**
+> 🟢 **Maior alta:** Eric Dier (86) **+55.4%** · 🔴 **Maior baixa:** Lotte Wubben-Moy (85) **-42.2%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Steve McManaman | 89 | Premier League | 64k coins | +55.4% | +7.5% |
-| Jude Bellingham | 94 | LALIGA EA SPORTS | 1.19M coins | +44.7% | +23.5% |
-| Eric Dier | 86 | Ligue 1 McDonald's | 30k coins | +42.9% | +74.6% |
-| Chloe Kelly | 88 | Barclays WSL | 65k coins | +37.6% | +4.8% |
-| Steven Gerrard | 89 | Icons | 75k coins | +35.1% | 0% |
-| Bukayo Saka | 90 | Premier League | 894k coins | +27.2% | +0.7% |
-| Marcus Rashford | 90 | LALIGA EA SPORTS | 1.20M coins | +26.3% | +20% |
-| Kobbie Mainoo | 90 | Premier League | 201k coins | +25.6% | +18.2% |
+| Eric Dier | 86 | Ligue 1 McDonald's | 30k coins | +55.4% | +76.9% |
+| John Barnes | 89 | Icons | 148k coins | +51% | +10.4% |
+| Wayne Rooney | 88 | Icons | 148k coins | +39.6% | +38.3% |
+| Agnes Beever-Jones | 90 | Barclays WSL | 45k coins | +31.9% | +59.6% |
+| Steven Gerrard | 89 | Icons | 75k coins | +28.2% | 0% |
+| Dan Burn | 86 | Premier League | 117k coins | +27.9% | +40.1% |
+| Bobby Charlton | 93 | Icons | 350k coins | +27.7% | +9.9% |
+| Marcus Rashford | 90 | LALIGA EA SPORTS | 1.17M coins | +26.3% | +20.1% |
 | Harry Kane | 91 | Bundesliga | 220k coins | +22.2% | +1.4% |
 | Millie Bright | 88 | Barclays WSL | 50k coins | +22% | 0% |
 
 
-Steve McManaman lidera as altas com 55.4%, atingindo 64k coins e apresentando 77% de probabilidade de alta. Jude Bellingham também se destaca com 44.7% de valorização, custando 1.19M coins, enquanto Eric Dier sobe 42.9% para 30k coins.
+Eric Dier liderou as altas com 55.4% de valorizacao, atingindo 30k coins, seguido de perto por John Barnes que subiu 51% e vale 148k coins. Wayne Rooney tambem se destacou com alta de 39.6% a 148k, enquanto Agnes Beever-Jones apresentou o maior potencial de continuidade com 31.9% de alta e 81% de probabilidade de continuar subindo.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Leah Williamson | 95 | Barclays WSL | 210k coins | -37% | -24.4% |
-| Louis Reed | 84 | EFL League One | 32k coins | -32.3% | -30.4% |
-| Mason Greenwood | 84 | Ligue 1 McDonald's | 42k coins | -28.3% | -28.9% |
-| Lewis Hall | 89 | Premier League | 48k coins | -27.4% | +8.4% |
-| Lucy Bronze | 88 | Barclays WSL | 70k coins | -24.7% | +14.8% |
-| Jaden Philogene | 84 | EFL Championship | 36k coins | -23.6% | -5.8% |
-| Lewis Miley | 89 | Premier League | 40k coins | -20% | +5.3% |
-| Ashley Cole | 86 | Icons | 65k coins | -19.3% | -3.7% |
-| Jamie Vardy | 89 | Serie A TIM | 201k coins | -18.6% | -26.9% |
-| Nico O'Reilly | 88 | Premier League | 48k coins | -18% | -12.5% |
+| Lotte Wubben-Moy | 85 | Barclays WSL | 22k coins | -42.2% | -25.6% |
+| Harry Maguire | 83 | Premier League | 65k coins | -35% | +9.2% |
+| Leah Williamson | 95 | Barclays WSL | 197k coins | -34.3% | -20.9% |
+| Jaden Philogene | 84 | EFL Championship | 36k coins | -33.8% | -5.9% |
+| Joe Gelhardt | 86 | EFL Championship | 20k coins | -31.6% | +27% |
+| Fara Williams | 88 | Barclays WSL | 25k coins | -27.4% | +1.9% |
+| Lewis Hall | 89 | Premier League | 46k coins | -27.1% | +6.8% |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 58k coins | -24.7% | +37.6% |
+| Harvey Barnes | 84 | Premier League | 31k coins | -24.3% | -16.2% |
+| Ben Thompson | 84 | EFL League Two | 32k coins | -24.1% | -32.1% |
 
 
-Leah Williamson sofre a maior queda de -37%, recuando para 210k coins, seguida por Louis Reed com -32.3% a 32k coins. Mason Greenwood e Lewis Hall também perdem valor, caindo 28.3% e 27.4% respectivamente.
+Lotte Wubben-Moy sofreu a maior queda com -42.2%, caindo para 22k coins, seguida por Harry Maguire que despencou 35% e vale 65k. Leah Williamson perdeu 34.3% de seu valor, agora custando 197k, enquanto Jaden Philogene e Joe Gelhardt registraram quedas significativas de 33.8% e 31.6% respectivamente.
+
+
+## 🔮 O que o modelo prevê para as próximas 24h
+
+Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
+
+| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
+| --- | --- | --- | --- | --- |
+| Agnes Beever-Jones | 90 | 45k coins | 46k coins | 81% |
+
+
+O modelo projeta alta exclusiva para Agnes Beever-Jones, que possui 81% de probabilidade de valorizacao a partir dos atuais 45k coins. Esta e a unica carta no segmento com indicacao forte de continuidade na tendencia de alta para as proximas horas.
 
 
 ## 🎯 A estratégia do dia
-Recomendo segurar os ativos com alta probabilidade de alta como McManaman e Mainoo para realizar lucros na tendência. Evite comprar Leah Williamson ou Ashley Cole no momento, dado o forte momentum de baixa e a baixa probabilidade de recuperação imediata.
+Recomendamos evitar compras impulsivas de cartas em alta sem fundamentos e focar em segurar ativos como Agnes Beever-Jones que tem previsao positiva. E momento de monitorar as quedas acentuadas em Maguire e Wubben-Moy para possiveis oportunidades de compra no fundo, mas com extrema cautela.
 
 
 ## 🧪 De onde vêm estes números
@@ -77,13 +91,16 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Steve McManaman (89, Premier League), com +55.4% em 24h, a 64k coins no PC.
+Eric Dier (86, Ligue 1 McDonald's), com +55.4% em 24h, a 30k coins no PC.
 
 **E a maior queda do dia?**  
-Leah Williamson (95), -37% em 24h, a 210k coins.
+Lotte Wubben-Moy (85), -42.2% em 24h, a 22k coins.
+
+**Qual carta tem mais chance de subir amanhã no EA FC?**  
+Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 45k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 48 cartas em alta contra 69 em queda (média -0.52%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 49 cartas em alta contra 75 em queda (média -1.21%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

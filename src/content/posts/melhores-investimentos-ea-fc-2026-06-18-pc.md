@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T20:14:32.000Z
+pubDatetime: 2026-06-18T22:53:45.000Z
 title: "Melhores investimentos em Ingleses no EA FC (18/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Elliot Anderson (86, Premier League) lidera, com +70.7% em 7 dias a 35k coins no PC, e o modelo dá 36% de chance de seguir subindo."
+    a: "Elliot Anderson (86, Premier League) lidera, com +67.1% em 7 dias a 34k coins no PC, e o modelo dá 36% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,15 +23,15 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Elliot Anderson (86) acumula **+70.7% em 7 dias** a 35k coins.
+> 🔝 **Destaque:** Elliot Anderson (86) acumula **+67.1% em 7 dias** a 34k coins.
 
 
 ## 🔎 Análise do mercado hoje
-Ao analisar o mercado de ingleses no EA FC Ultimate Team para PC em 18 de junho de 2026, a atenção deve se concentrar estritamente na tendência de valorização dos últimos sete dias. Entre as opções apresentadas, Adam Wharton destaca-se como a aposta mais sólida. Com um salto impressionante de 21% em apenas 24 horas, a carta de 88 Overall da Premier League possui uma probabilidade de alta de 76%, o que a torna estatisticamente a mais segura entre as listadas. Seu preço atual de 30k coins oferece uma entrada acessível para um ativo que demonstra forte momentum comprador, sugerindo que o mercado está reavaliando positivamente sua utilidade tática ou escassez imediata.
+No cenário do EA FC Ultimate Team para PC, datado de 18 de junho de 2026, o mercado de jogadores ingleses apresenta oportunidades distintas baseadas na volatilidade dos últimos sete dias. Entre as opções de menor investimento, a carta de Agnes Beever-Jones (90, Barclays WSL) destaca-se com uma valorização de 31,9% em 24 horas e uma probabilidade de alta de 81%, custando apenas 45 mil moedas. Essa estatística robusta indica uma tendência forte e segura para entrada. Paralelamente, Adam Wharton (88, Premier League) mostra resiliência com aumento de 8% e probabilidade de alta de 76% a 35 mil moedas, oferecendo um perfil de risco moderado com potencial de retorno consistente para quem busca ativos acessíveis.
 
-Outra escolha pertinente é Marc Guéhi, também da Premier League e com 88 Overall. O defensor registrou um aumento de 18.5% nas últimas 24 horas, acompanhado por uma probabilidade de alta de 69%. Negociado a 40k coins, Guéhi apresenta um perfil de risco-recompensa favorável para investidores que buscam estabilidade combinada com crescimento moderado. A consistência da demanda por defensores centrais de elite na Premier League frequentemente impulsiona esses ativos, e os dados atuais corroboram essa tendência de apreciação sustentada, diferenciando-o de cartas com volatilidade excessiva.
+Para investidores dispostos a arriscar valores intermediários, Elliot Anderson (86, Premier League) surge como uma aposta agressiva. Com um salto de 17,1% em 24 horas e probabilidade de alta de 36% a 34 mil moedas, a carta reflete um movimento de mercado rápido, embora menos previsível que as opções anteriores. Charlie Cresswell (85, Ligue 1 McDonald's) também entra nesta categoria, com 7,1% de alta e 33% de probabilidade a 26 mil moedas, sugerindo uma valorização lenta, mas estável, adequada para estratégias de acumulação gradual de capital.
 
-Por fim, para investidores com maior capital disponível, Paul Scholes (Icon) e Frank Lampard (Icon) merecem destaque. Scholes subiu 12.4% em 24h, com 66% de chance de alta, custando 78k coins, enquanto Lampard cresceu 8.9% com 62% de probabilidade de valorização, a 91k coins. Embora não tenhamos dados para Elliot Anderson, Noni Madueke, Dan Burn, Ben Chilwell ou Jude Bellingham, as Icons apresentam uma correlação clara entre aumento percentual e probabilidade de continuidade da alta. A entrada nesses ativos clássicos é justificada pela estabilidade histórica do mercado de ícones, que tende a reter valor durante períodos de incerteza de conteúdo, oferecendo uma proteção patrimonial superior às cartas comuns, mesmo com volumes de negociação menores.
+Já no segmento de alto valor, Dan Burn (86, Premier League) apresenta a maior probabilidade de alta entre as cartas caras, com 44% de chance e 27,9% de valorização em 24 horas, cotado a 117 mil moedas. Essa combinação sugere demanda institucional ou de squads específicos. Por outro lado, ícones como Wayne Rooney (88, Icons) e David Beckham (88, Icons) mostram alta volatilidade: Rooney subiu 39,6% com 49% de probabilidade a 148 mil moedas, enquanto Beckham cresceu 7,7% com apenas 22% de probabilidade a 140 mil moedas. Jude Bellingham (90, LALIGA EA SPORTS) e Ben Chilwell (90, Ligue 1 McDonald's) mantêm probabilidades baixas de alta (20% e 22%, respectivamente), indicando cautela. Finalmente, Ellie Roebuck (85, Barclays WSL) oferece um ponto de equilíbrio com 42% de probabilidade de alta a 60 mil moedas, sendo uma opção sólida para carteiras diversificadas.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -39,34 +39,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Elliot Anderson | 86 | Premier League | 35k coins | +2.2% | +70.7% | 36% |
-| Noni Madueke | 86 | Premier League | 42k coins | +6.2% | +54.5% | 32% |
-| Adam Wharton | 88 | Premier League | 30k coins | +21% | +45.8% | 76% |
-| Jude Bellingham | 90 | LALIGA EA SPORTS | 19k coins | +1.3% | +40.7% | 20% |
-| Dan Burn | 86 | Premier League | 112k coins | +13.1% | +31.8% | 44% |
+| Elliot Anderson | 86 | Premier League | 34k coins | +17.1% | +67.1% | 36% |
+| Charlie Cresswell | 85 | Ligue 1 McDonald's | 26k coins | +7.1% | +65.6% | 33% |
+| Agnes Beever-Jones | 90 | Barclays WSL | 45k coins | +31.9% | +59.6% | 81% |
+| Jude Bellingham | 90 | LALIGA EA SPORTS | 19k coins | +2.7% | +58.3% | 20% |
+| Dan Burn | 86 | Premier League | 117k coins | +27.9% | +40.1% | 44% |
+| Wayne Rooney | 88 | Icons | 148k coins | +39.6% | +38.3% | 49% |
+| Adam Wharton | 88 | Premier League | 35k coins | +8% | +35% | 76% |
 | Ben Chilwell | 90 | Ligue 1 McDonald's | 35k coins | +10.2% | +29.6% | 22% |
-| Marc Guéhi | 88 | Premier League | 40k coins | +18.5% | +28.3% | 69% |
-| Noni Madueke | 86 | Premier League | 50k coins | +4.2% | +23.5% | 46% |
-| Paul Scholes | 88 | Icons | 78k coins | +12.4% | +22.6% | 66% |
-| Frank Lampard | 87 | Icons | 91k coins | +8.9% | +22.2% | 62% |
-| Kobbie Mainoo | 90 | Premier League | 201k coins | +25.6% | +18.2% | 70% |
-| Lauren Hemp | 90 | Barclays WSL | 35k coins | +2.1% | +16.5% | 73% |
-| Joe Gelhardt | 86 | EFL Championship | 18k coins | +9% | +15.9% | 27% |
-| Keira Walsh | 89 | Barclays WSL | 21k coins | +7.8% | +15.3% | 41% |
-| Fara Williams | 88 | Barclays WSL | 29k coins | +9.5% | +10.6% | 49% |
+| David Beckham | 88 | Icons | 140k coins | +7.7% | +28.4% | 22% |
+| Ellie Roebuck | 85 | Barclays WSL | 60k coins | +10.2% | +25.9% | 42% |
+| Ollie Watkins | 90 | Premier League | 31k coins | +14.8% | +20.7% | 51% |
+| Kobbie Mainoo | 90 | Premier League | 198k coins | +17.9% | +16.5% | 70% |
+| Steven Gerrard | 88 | Icons | 72k coins | +14.3% | +14.3% | 37% |
+| Paul Scholes | 88 | Icons | 73k coins | +12% | +12% | 66% |
+| Harry Kane | 91 | Bundesliga | 50k coins | +1.5% | +5.3% | 56% |
 
 
 ## 📈 Análise dos destaques
 
-- **Elliot Anderson (86)** — 35k coins, **+70.7% em 7 dias** (+2.2% em 24h). Preço em linha com a média de 7 dias (+0%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Elliot Anderson (86)** — 34k coins, **+67.1% em 7 dias** (+17.1% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Noni Madueke (86)** — 42k coins, **+54.5% em 7 dias** (+6.2% em 24h). Preço +23% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Charlie Cresswell (85)** — 26k coins, **+65.6% em 7 dias** (+7.1% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Adam Wharton (88)** — 30k coins, **+45.8% em 7 dias** (+21% em 24h). Preço +14% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **76% de chance de seguir subindo**.
+- **Agnes Beever-Jones (90)** — 45k coins, **+59.6% em 7 dias** (+31.9% em 24h). Preço +28% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **81% de chance de seguir subindo**.
 
-- **Jude Bellingham (90)** — 19k coins, **+40.7% em 7 dias** (+1.3% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jude Bellingham (90)** — 19k coins, **+58.3% em 7 dias** (+2.7% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Dan Burn (86)** — 112k coins, **+31.8% em 7 dias** (+13.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Dan Burn (86)** — 117k coins, **+40.1% em 7 dias** (+27.9% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -84,7 +84,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Elliot Anderson (86, Premier League) lidera, com +70.7% em 7 dias a 35k coins no PC, e o modelo dá 36% de chance de seguir subindo.
+Elliot Anderson (86, Premier League) lidera, com +67.1% em 7 dias a 34k coins no PC, e o modelo dá 36% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
