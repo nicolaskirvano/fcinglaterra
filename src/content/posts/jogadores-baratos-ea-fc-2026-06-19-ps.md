@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:53:23.000Z
+pubDatetime: 2026-06-19T19:53:17.000Z
 title: "Jogadores baratos de Ingleses no EA FC (19/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 19/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (19/06/2026)?"
-    a: "Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 4k coins no Console (PS)."
+    a: "Keira Walsh (89, Barclays WSL) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **19/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Harry Kane (89) por apenas 4k coins.
+> 💰 **Melhor pechincha:** Keira Walsh (89) por apenas 15k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,27 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 4k coins | -10.3% |
-| Alessia Russo | 89 | ST | Barclays WSL | 4k coins | -5% |
-| Millie Bright | 87 | CB | Barclays WSL | 6k coins | +25.5% |
-| Steve McManaman | 87 | RM | Premier League | 11k coins | -6.2% |
-| Grace Clinton | 87 | CAM | Barclays WSL | 14k coins | +10.2% |
-| Fara Williams | 86 | CM | Barclays WSL | 11k coins | -2.2% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | -6.4% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 13k coins | 0% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 15k coins | -1.7% |
+| Steve McManaman | 87 | RM | Premier League | 12k coins | -6.4% |
+| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +11.1% |
+| Millie Bright | 85 | CB | Barclays WSL | 7k coins | +22.6% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +8.7% |
 
 
 ## 📈 Destaques
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **15k coins**
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **4k coins**
+- **Steve McManaman (87, RM)** da Premier League, a apenas **12k coins**
 
-- **Millie Bright (87, CB)** da Barclays WSL, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
+- **Fara Williams (86, CM)** da Barclays WSL, a apenas **12k coins**
 
-- **Steve McManaman (87, RM)** da Premier League, a apenas **11k coins**
+- **Millie Bright (85, CB)** da Barclays WSL, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Grace Clinton (87, CAM)** da Barclays WSL, a apenas **14k coins**
+- **Jill Scott (85, CM)** da Barclays Women’s Super League, a apenas **12k coins**
 
 
 ## Por que estas cartas?
@@ -66,7 +63,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (19/06/2026)?**  
-Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 4k coins no Console (PS).
+Keira Walsh (89, Barclays WSL) aparece como melhor custo-benefício, a 15k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
