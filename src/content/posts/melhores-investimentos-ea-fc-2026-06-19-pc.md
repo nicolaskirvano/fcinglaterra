@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:54:29.000Z
+pubDatetime: 2026-06-19T22:54:45.000Z
 title: "Melhores investimentos em Ingleses no EA FC (19/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Agnes Beever-Jones (90, Barclays WSL) lidera, com +89.8% em 7 dias a 56k coins no PC, e o modelo dá 81% de chance de seguir subindo."
+    a: "Elliot Anderson (86, Premier League) lidera, com +81.8% em 7 dias a 35k coins no PC, e o modelo dá 36% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,19 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Agnes Beever-Jones (90) acumula **+89.8% em 7 dias** a 56k coins.
+> 🔝 **Destaque:** Elliot Anderson (86) acumula **+81.8% em 7 dias** a 35k coins.
 
 
 ## 🧠 Análise FutQuant do dia
-No cenário atual do EA FC Ultimate Team para PC, datado de 19 de junho de 2026, a análise das cartas inglesas revela oportunidades distintas de investimento baseadas estritamente nas tendências de valorização dos últimos sete dias. O mercado exibe uma volatilidade interessante, com alguns ativos apresentando saltos significativos em apenas 24 horas, enquanto outros mantêm uma ascensão mais gradual mas consistente. Para o investidor atento, a chave reside em identificar quais dessas trajetórias possuem maior probabilidade estatística de continuar subindo, permitindo uma entrada estratégica antes de possíveis correções ou consolidações de preço.
+Ao analisar o mercado de EA FC Ultimate Team em 19 de junho de 2026, com foco específico em jogadores ingleses, observa-se uma dinâmica de valorização interessante para os próximos dias. A estratégia de investimento atual deve priorizar cartas que apresentam não apenas um aumento percentual significativo nas últimas 24 horas, mas, crucialmente, uma alta probabilidade estatística de continuidade dessa tendência de alta nos próximos sete dias. Entre as opções disponíveis, destacam-se aquelas que combinam acessibilidade com um potencial de retorno robusto, permitindo que investidores com diferentes faixas de capital encontrem oportunidades viáveis.
 
-Dentre as opções mais agressivas, Agnes Beever-Jones se destaca como a principal candidata para entrada imediata. A jogadora, com uma carta de 90 rating da Barclays WSL, registrou um aumento impressionante de 23,1% em 24 horas, situando-se atualmente na marca de 56 mil coins. O fator determinante para essa recomendação é a alta probabilidade de continuidade, estimada em 81%, o que sugere que a demanda por este ativo está em um pico sustentável, justificando o risco de compra nos níveis atuais para quem busca ganhos de curto prazo.
+No segmento de entrada e médio, Ledley King se impõe como a escolha mais lógica para quem busca segurança. Com uma valorização de 29,4% nas últimas 24 horas e uma probabilidade de alta de 57%, esta carta de Premier League com 86 de overall está cotada a apenas 18k coins. Esse preço baixo, aliado à forte tendência ascendente, sugere que a carta está no início de um ciclo de apreciação, oferecendo um risco calculado e um potencial de lucro percentual elevado para quem adquirir nesta faixa de preço. É uma das poucas cartas que une um percentual de ganho imediato substancial com uma probabilidade superior à média de continuar subindo.
 
-Outro nome que chama a atenção pela magnitude do salto recente é Peter Crouch. A carta de 85 rating da Premier League sofreu uma valorização de 38,1% em apenas um dia, atingindo 29 mil coins. Embora a probabilidade de alta futura seja de 56%, menor que a de Beever-Jones, o volume do movimento recente indica um interesse repentino do mercado, possivelmente impulsionado por metas específicas ou promoções limitadas que tornam esta carta de baixo custo um alvo de especulação rápida.
+Para investidores dispostos a alocar um capital maior, Declan Rice e Paul Scholes merecem atenção especial devido às suas altas probabilidades de valorização futura. Declan Rice, com 89 de overall na Premier League, registrou um aumento de 11,1% em 24 horas e possui a probabilidade mais alta do grupo analisado, com 61% de chance de alta, estando a 96k coins. Paralelamente, Paul Scholes, o ícone com 91 de overall, subiu 17,6% nas últimas 24 horas e apresenta 58% de probabilidade de alta, custando 140k coins. Ambas as cartas indicam uma demanda crescente e sustentada, tornando-as ativos sólidos para portfólios que buscam estabilidade e crescimento consistente.
 
-Para quem prefere perfis mais equilibrados entre risco e retorno, Ollie Watkins e Jordan Pickford oferecem cenários interessantes. Watkins, com 90 rating na Premier League, subiu 8,6% em 24 horas para 40 mil coins, mantendo uma probabilidade de alta de 51%. Já Pickford, com 85 rating, registrou alta de 26,4% para 47 mil coins, mas com probabilidade de continuação de apenas 32%. A discrepância entre o movimento recente e a probabilidade futura em Pickford sugere cautela, enquanto Watkins parece ter uma base mais sólida para apreciação contínvida devido ao seu rating superior e estabilidade relativa.
+Luke Shaw também se destaca como uma oportunidade atraente no mercado intermediário. A carta de 86 de overall da Premier League experimentou um salto significativo de 25,7% em 24 horas e mantém uma probabilidade de alta de 56%, com preço atual de 46k coins. Essa combinação de desempenho recente forte e expectativa positiva sugere que a carta pode continuar a atrair compradores, especialmente se houver promoções ou eventos relacionados à Premier League ou ao futebol inglês nas próximas semanas.
 
-No segmento de médio prazo e maior probabilidade, Lewis Miley e Frank Lampard se destacam por motivos distintos. Miley, de 89 rating na Premier League, cresceu 25% em 24 horas para 50 mil coins, com 28% de chance de alta futura, indicando um movimento forte mas possivelmente próximo de uma saturação momentânea. Em contraste, Lampard, a lenda com 87 rating na categoria Icons, apresenta uma alta modesta de 6,6% para 110 mil coins, mas ostenta a segunda maior probabilidade de alta do grupo, com 62%. Essa combinação de alta probabilidade com movimento estável sugere que Lampard é uma aposta mais segura para investimentos de médio prazo, aproveitando a consistência do mercado de ícones.
-
-Finalmente, é crucial observar que cartas como Alex Scott, Tyler Morton e Charlie Cresswell, apesar de mostrarem aumentos percentuais relevantes em 24 horas, possuem probabilidades de alta futura entre 25% e 45%, o que as torna menos atraentes para entrada agressiva neste momento específico. A decisão final deve considerar não apenas o percentual de ganho imediato, mas a probabilidade estatística de o preço continuar subindo, onde nomes como Beever-Jones e Lampard se posicionam como as escolhas mais robustas baseadas nos dados disponíveis de 19/06/2026.
+Em contraste, cartas como Bobby Charlton e Wayne Rooney, apesar de serem ícones de alto valor (109k e 146k coins, respectivamente), apresentam probabilidades de alta mais baixas, de 24% e 49%, e aumentos percentuais variados (29,4% e 1,4%). Isso indica que, embora sejam cartas desejadas, o momento de investimento pode não ser o ideal para especulação de curto prazo, dada a menor probabilidade estatística de valorização contínua imediata. Elliot Anderson, Keira Walsh e Jordan Pickford oferecem alternativas variadas, com Anderson e Pickford tendo aumentos significativos, mas probabilidades moderadas, enquanto Walsh apresenta uma tendência mais suave. Portanto, a recomendação principal recai sobre Ledley King, Declan Rice e Paul Scholes como as entradas mais promissoras com base nos dados atuais.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,33 +43,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Agnes Beever-Jones | 90 | Barclays WSL | 56k coins | +23.1% | +89.8% | 81% |
-| Peter Crouch | 85 | Premier League | 29k coins | +38.1% | +58.9% | 56% |
-| Ollie Watkins | 90 | Premier League | 40k coins | +8.6% | +49% | 51% |
-| Alex Scott | 89 | Barclays WSL | 54k coins | +18.9% | +34.6% | 25% |
-| Jordan Pickford | 85 | Premier League | 47k coins | +26.4% | +33.6% | 32% |
-| Lewis Miley | 89 | Premier League | 50k coins | +25% | +33.3% | 28% |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 24k coins | +11.5% | +31.1% | 45% |
-| Alessia Russo | 90 | Barclays WSL | 40k coins | +6.2% | +26.9% | 16% |
-| Charlie Cresswell | 85 | Ligue 1 McDonald's | 27k coins | +8.1% | +23% | 33% |
-| Frank Lampard | 87 | Icons | 110k coins | +6.6% | +16.7% | 62% |
-| Georgia Stanway | 88 | GPFBL | 21k coins | +25.4% | +13.5% | 18% |
-| Declan Rice | 89 | Premier League | 96k coins | +5.5% | +12.9% | 61% |
-| Jaden Philogene | 84 | EFL Championship | 43k coins | +18.5% | +11.6% | 53% |
-| Jack Payne | 84 | EFL League Two | 40k coins | +1.3% | +11% | 27% |
+| Elliot Anderson | 86 | Premier League | 35k coins | +9.4% | +81.8% | 36% |
+| Luke Shaw | 86 | Premier League | 46k coins | +25.7% | +55% | 56% |
+| Bobby Charlton | 92 | Icons | 109k coins | +29.4% | +49.7% | 24% |
+| Ledley King | 86 | Premier League | 18k coins | +29.4% | +46.7% | 57% |
+| Keira Walsh | 89 | Barclays WSL | 20k coins | +7.2% | +41.3% | 41% |
+| Jordan Pickford | 85 | Premier League | 48k coins | +28.4% | +35.7% | 32% |
+| Wayne Rooney | 88 | Icons | 146k coins | +1.4% | +33.9% | 49% |
+| Paul Scholes | 91 | Icons | 140k coins | +17.6% | +20.7% | 58% |
+| Lewis Miley | 89 | Premier League | 45k coins | +12.5% | +20% | 28% |
+| Declan Rice | 89 | Premier League | 96k coins | +11.1% | +17.6% | 61% |
+| Tom Ince | 84 | EFL Championship | 45k coins | +2.9% | +10% | 50% |
+| Jack Payne | 84 | EFL League Two | 39k coins | +27.9% | +9.9% | 27% |
+| Jaden Philogene | 84 | EFL Championship | 42k coins | +22.3% | +8.3% | 53% |
+| Georgia Stanway | 88 | GPFBL | 19k coins | +21.2% | +8.1% | 18% |
+| Grace Clinton | 87 | Barclays WSL | 15k coins | +3.4% | +5.3% | 55% |
 
 
 ## 📈 Análise dos destaques
 
-- **Agnes Beever-Jones (90)** — 56k coins, **+89.8% em 7 dias** (+23.1% em 24h). Preço +46% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **81% de chance de seguir subindo**.
+- **Elliot Anderson (86)** — 35k coins, **+81.8% em 7 dias** (+9.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Peter Crouch (85)** — 29k coins, **+58.9% em 7 dias** (+38.1% em 24h). Preço +37% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Luke Shaw (86)** — 46k coins, **+55% em 7 dias** (+25.7% em 24h). Preço +34% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Ollie Watkins (90)** — 40k coins, **+49% em 7 dias** (+8.6% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Bobby Charlton (92)** — 109k coins, **+49.7% em 7 dias** (+29.4% em 24h). Preço em linha com a média de 7 dias (+6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Alex Scott (89)** — 54k coins, **+34.6% em 7 dias** (+18.9% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ledley King (86)** — 18k coins, **+46.7% em 7 dias** (+29.4% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Jordan Pickford (85)** — 47k coins, **+33.6% em 7 dias** (+26.4% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Keira Walsh (89)** — 20k coins, **+41.3% em 7 dias** (+7.2% em 24h). Preço em linha com a média de 7 dias (+8%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -89,7 +88,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Agnes Beever-Jones (90, Barclays WSL) lidera, com +89.8% em 7 dias a 56k coins no PC, e o modelo dá 81% de chance de seguir subindo.
+Elliot Anderson (86, Premier League) lidera, com +81.8% em 7 dias a 35k coins no PC, e o modelo dá 36% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
