@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T23:28:03.000Z
+pubDatetime: 2026-06-19T01:53:53.000Z
 title: "Jogadores baratos de Ingleses no EA FC (18/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 18/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (18/06/2026)?"
-    a: "Georgia Stanway (88, GPFBL) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
+    a: "Steve McManaman (87, Premier League) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **18/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Georgia Stanway (88) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Steve McManaman (87) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,17 +29,15 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Georgia Stanway | 88 | CDM | GPFBL | 14k coins | -7.7% |
 | Steve McManaman | 87 | RM | Premier League | 12k coins | +2.1% |
 | Fara Williams | 86 | CM | Barclays WSL | 11k coins | -2.2% |
-| Millie Bright | 85 | CB | Barclays WSL | 7k coins | +12.9% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | +2.3% |
-| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14k coins | +16.3% |
+| Millie Bright | 85 | CB | Barclays WSL | 7k coins | +11.5% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -2.3% |
+| Alex Scott | 85 | RB | Barclays WSL | 14k coins | +40.4% |
+| Ashleigh Neville | 83 | LB | Barclays WSL | 4k coins | -16% |
 
 
 ## 📈 Destaques
-
-- **Georgia Stanway (88, CDM)** da GPFBL, a apenas **14k coins**
 
 - **Steve McManaman (87, RM)** da Premier League, a apenas **12k coins**
 
@@ -48,6 +46,8 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 - **Millie Bright (85, CB)** da Barclays WSL, a apenas **7k coins**
 
 - **Jill Scott (85, CM)** da Barclays Women’s Super League, a apenas **11k coins**
+
+- **Alex Scott (85, RB)** da Barclays WSL, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -64,7 +64,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (18/06/2026)?**  
-Georgia Stanway (88, GPFBL) aparece como melhor custo-benefício, a 14k coins no Console (PS).
+Steve McManaman (87, Premier League) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

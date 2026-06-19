@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T23:27:37.000Z
+pubDatetime: 2026-06-19T01:53:07.000Z
 title: "Ingleses no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,45 +12,60 @@ tags:
   - ps
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
+  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
+    a: "Anthony Gordon (90, Premier League), com +45.3% em 24h, a 1.50M coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Anthony Gordon (88), -31% em 24h, a 224k coins."
+    a: "Ethan Nwaneri (91), -36.3% em 24h, a 41k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Lewis Miley (89) — 95% de probabilidade de alta, a 37k coins."
+    a: "Pelo modelo FutQuant, Anthony Gordon (87) — 95% de probabilidade de alta, a 35k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 66 cartas em alta contra 63 em queda (média 0.13%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 69 cartas em alta contra 59 em queda (média 1.96%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado de cartas inglesas no console PlayStation apresenta hoje, 18 de junho de 2026, um cenário de extrema lateralidade que exige cautela absoluta dos traders experientes, com uma distribuição quase perfeita de 66 altas contra 63 quedas registradas nas últimas 24 horas, indicando uma falta de direção clara e uma indecisão massiva entre os compradores e vendedores. A volatilidade média ficou em um modesto 0.13%, o que sinaliza que não há um driver macroeconômico forte impulsionando o segmento, fazendo com que os preços oscilem em uma faixa de consolidação apertada onde os lucros rápidos são difíceis de capturar sem uma execução impecável. Neste contexto de incerteza, o foco deve estar na identificação de oportunidades pontuais onde a oferta e a demanda se desequilibraram temporariamente, permitindo entradas estratégicas em ativos de alta probabilidade de retorno. A estabilidade do mercado lateral serve como um filtro eficaz para eliminar ruídos e permitir que os analistas identifiquem as verdadeiras divergências de preço que podem ser exploradas a curto prazo. Portanto, a abordagem de hoje deve ser cirúrgica, evitando exposições excessivas em ativos sem catalisadores claros e focando nos poucos jogadores que o modelo identificou com probabilidades de alta extremamente elevadas.
+O mercado de cartas inglesas no console PlayStation apresenta um viés claramente positivo nesta terça-feira, 18 de junho de 2026, com um saldo de 69 valorizações contra 59 quedas, resultando em uma média de alta de 1.96% nas últimas 24 horas. Esse cenário de otimização generalizada sugere que os traders estão acumulando ativos estratégicos para eventos futuros, enquanto a liquidez em segmentos específicos permite movimentos agressivos de preço sem o habitual suporte de venda massiva. O sentimento predominante é de cautela otimista, onde investidores experientes identificam oportunidades rápidas em cartas de médio e baixo valor antes que a arbitragem se normalize. A volatilidade observada em ícones e jogadores da Premier League indica uma redistribuição de capital para ativos com maior utilidade competitiva imediata ou potencial de hype. É fundamental monitorar a probabilidade de alta associada a cada ativo, pois a divergência entre o movimento de preço atual e a previsão do modelo pode indicar correções iminentes ou oportunidades de compra em fundo de baixa.
+
+> 🟢 **Maior alta:** Anthony Gordon (90) **+45.3%** · 🔴 **Maior baixa:** Ethan Nwaneri (91) **-36.3%**
 
 ## 🟢 Quem mais subiu (24h)
 
-_Sem altas relevantes hoje._
+| Jogador | OVR | Liga | Preço | 24h | 7d |
+| --- | --- | --- | --- | --- | --- |
+| Anthony Gordon | 90 | Premier League | 1.50M coins | +45.3% | +27.7% |
+| Mason Greenwood | 84 | Ligue 1 McDonald's | 56k coins | +39.2% | 0% |
+| Maya Le Tissier | 88 | Barclays WSL | 40k coins | +36.4% | +114.3% |
+| Noni Madueke | 86 | Premier League | 42k coins | +35.7% | +32.2% |
+| David Beckham | 88 | Icons | 188k coins | +34.3% | +24.1% |
+| Cole Palmer | 92 | Premier League | 722k coins | +30.4% | +68.5% |
+| Steven Gerrard | 88 | Icons | 94k coins | +22.9% | +41.9% |
+| Michelle Agyemang | 89 | Barclays Women’s Super League | 23k coins | +22.7% | +31.4% |
+| Alessia Russo | 90 | Barclays WSL | 46k coins | +21.1% | +43.8% |
+| Bobby Moore | 91 | Icons | 167k coins | +21% | +9.2% |
 
 
-Embora o mercado esteja lateral, os ativos com alta probabilidade de valorização representados pelo modelo oferecem oportunidades tangíveis, lideradas por Declan Rice, que figura com 95% de probabilidade de alta e um preço atual de 329k coins, sugerindo que a demanda por meio-campistas de elite está sustentando seu valor mesmo na ausência de movimentação geral. Alan Shearer, um ícone atemporal, também apresenta 95% de chance de alta a 116k coins, beneficiando-se da demanda constante por atacantes de linha de frente em times competitivos de squad do dia, onde sua presença histórica garante liquidez e retenção de valor. Bobby Charlton, outro ícone com 92 de rating, está projetado para subir com 95% de probabilidade a 99k coins, o que indica que o nicho de jogadores clássicos está sendo reavaliado positivamente pelos algoritmos de trading devido à escassez de oferta. Kelly Smith, com 89 de rating e 95% de probabilidade de alta a 68k coins, destaca-se no segmento feminino como uma aposta segura para quem busca diversificação fora do mercado masculino tradicional, aproveitando a menor liquidez para capturar spreads maiores. James Milner, a 78k coins com a mesma probabilidade de 95%, representa uma oportunidade de entrada de menor risco devido ao seu preço acessível e à sua utilidade versátil em múltiplas formações, tornando-o um ativo defensivo em uma carteira de trading.
+Anthony Gordon, na versão de 90 rating da Premier League, lidera as valorizações com um impressionante salto de 45.3% em 24 horas, atingindo a cotação de 1.50 milhão de moedas, impulsionado por uma probabilidade de alta de 42% que atraiu compradores de longo prazo. Mason Greenwood, da Ligue 1 McDonald's com 84 rating, também se destaca com alta de 39.2%, fechando em 56 mil moedas, aproveitando uma probabilidade de alta de 43% que sugere sustentabilidade no curto prazo. No cenário feminino, Maya Le Tissier (88 rating, Barclays WSL) apresenta uma alta robusta de 36.4% para 40 mil moedas, com uma probabilidade de alta altíssima de 95%, indicando forte demanda orgânica. Noni Madueke (86, Premier League) sobe 35.7% para 42 mil moedas, embora sua probabilidade de alta seja baixa (5%), o que sinaliza um pico especulativo de risco elevado para traders conservadores. David Beckham (88, Icons) valoriza 34.3% para 188 mil moedas com 80% de probabilidade de alta, consolidando sua posição como ativo seguro, enquanto Cole Palmer (92, Premier League) avança 30.4% para 722 mil moedas, refletindo a estabilidade de ativos de elite com 59% de chance de continuidade na valorização.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Anthony Gordon | 88 | Premier League | 224k coins | -31% | -26.8% |
-| Millie Bright | 94 | Barclays WSL | 90k coins | -28.2% | -19.4% |
-| Mateus Mané | 88 | Premier League | 40k coins | -26.7% | -22.2% |
-| Freya Godfrey | 83 | Barclays WSL | 50k coins | -25% | +2.4% |
-| Harry Kane | 92 | Bundesliga | 228k coins | -24.7% | +3.9% |
-| Fara Williams | 88 | Barclays WSL | 60k coins | -23.6% | +200% |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 48k coins | -21.9% | -21.3% |
-| Joe Cole | 88 | Premier League | 148k coins | -20.7% | +2.8% |
-| Dom Ballard | 84 | EFL League One | 38k coins | -19.8% | -13.8% |
-| Eberechi Eze | 87 | Premier League | 65k coins | -18.8% | -0.8% |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 41k coins | -36.3% | -32.3% |
+| Anthony Gordon | 88 | Premier League | 190k coins | -34.7% | -30.7% |
+| Joe Cole | 88 | Premier League | 142k coins | -21.9% | +4.3% |
+| Harry Kane | 92 | Bundesliga | 225k coins | -21.9% | +9.6% |
+| Tino Livramento | 85 | Premier League | 28k coins | -20% | -3.4% |
+| Lewis Miley | 83 | Premier League | 36k coins | -19.9% | -10.2% |
+| Joe Gelhardt | 86 | EFL Championship | 21k coins | -18.9% | -26.3% |
+| Freya Godfrey | 83 | Barclays WSL | 49k coins | -16.8% | +15.1% |
+| Harry Kane | 91 | Bundesliga | 65k coins | -15.4% | -6.8% |
+| Luke Shaw | 86 | Premier League | 31k coins | -15.4% | -5.7% |
 
 
-As quedas mais significativas do dia revelam uma correção acentuada em ativos de alta cotação, com Anthony Gordon liderando as perdas com uma queda brutal de 31% em 24 horas, agora cotado a 224k coins, um movimento que pode ser atribuído à realização de lucros massiva após altas anteriores ou a uma mudança na meta de preço de squads competitivos. Millie Bright, apesar de ter uma probabilidade de alta de 57%, caiu 28.2% para 90k coins, demonstrando que até mesmo ativos com fundamentos sólidos podem sofrer vendidas agressivas quando a liquidez seca temporariamente em horários de pico de negociação. Mateus Mané, com uma queda de 26.7% para 40k coins e apenas 5% de probabilidade de alta, indica uma saída decisiva dos traders, sugerindo que o ativo pode estar em uma tendência de baixa prolongada ou que sua utilidade em squads foi superestimada pelo mercado recentemente. Freya Godfrey, a 50k coins após uma queda de 25%, apresenta uma probabilidade de alta de 54%, o que cria uma situação ambígua onde o preço pode estar encontrando um piso de suporte, mas a falta de compradores agressivos mantém a pressão vendedora sobre o ativo. Harry Kane, embora seja da Bundesliga, sua queda de 24.7% para 228k coins com 68% de probabilidade de alta sugere uma divergência interessante onde o preço pode estar descolado do seu valor intrínseco, oferecendo uma oportunidade de compra de contrarian para traders de longo prazo.
+Ethan Nwaneri (91, Ligue 1 McDonald's) sofre a maior queda com -36.3% em 24 horas, caindo para 41 mil moedas, apesar de manter uma alta probabilidade de alta de 84%, o que sugere uma oportunidade de compra em fundo de baixa para traders de swing. Anthony Gordon na versão de 88 rating da Premier League despencou 34.7% para 190 mil moedas, com probabilidade de alta de apenas 33%, indicando possível saturação de vendas nessa variante específica. Joe Cole (88, Premier League) e Harry Kane (92, Bundesliga) empatam na queda de -21.9%, fechando respectivamente em 142 mil e 225 mil moedas, sendo que a probabilidade de alta de 68% para Kane oferece um contraponto interessante à queda atual. Tino Livramento (85, Premier League) cai 20% para 28 mil moedas com 50% de probabilidade de alta, um cenário neutro que requer confirmação de tendência antes de entrada. Lewis Miley (83, Premier League) despenca 19.9% para 36 mil moedas, mas sua probabilidade de alta de 74% sugere que a venda foi exagerada pelo pânico do mercado, criando um potencial setup de compra de risco controlado.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -59,17 +74,17 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Lewis Miley | 89 | 37k coins | 44k coins | 95% |
 | Anthony Gordon | 87 | 35k coins | 43k coins | 95% |
-| Declan Rice | 91 | 329k coins | 406k coins | 95% |
+| Kelly Smith | 89 | 68k coins | 85k coins | 95% |
+| Declan Rice | 91 | 330k coins | 407k coins | 95% |
+| Lauren James | 89 | 95k coins | 117k coins | 95% |
+| Bobby Charlton | 92 | 94k coins | 108k coins | 95% |
 | James Milner | 88 | 78k coins | 93k coins | 95% |
-| Lauren James | 89 | 94k coins | 116k coins | 95% |
-| Kelly Smith | 89 | 68k coins | 86k coins | 95% |
-| Bobby Charlton | 92 | 99k coins | 114k coins | 95% |
-| Alan Shearer | 91 | 116k coins | 148k coins | 95% |
+| Harry Kane | 91 | 65k coins | 87k coins | 95% |
+| Alan Shearer | 91 | 133k coins | 170k coins | 95% |
 
 
-O modelo projeta uma alta generalizada para ativos específicos com 95% de probabilidade, destacando Lewis Miley a 37k coins e Anthony Gordon na versão de 87 rating a 35k coins como as entradas de menor custo com maior potencial de retorno percentual no curto prazo, enquanto Lauren James a 94k coins consolida a força do segmento feminino no portfólio de alta confiança.
+O modelo preditivo identifica Anthony Gordon (87, Premier League) com 95% de probabilidade de alta, cotado a 35 mil moedas, como ativo de alta convicção para entrada imediata. Kelly Smith (89, Icons) e Declan Rice (91, Premier League) também exibem 95% de chance de valorização, com preços atuais de 68 mil e 330 mil moedas, respectivamente, indicando forte suporte de demanda institucional. Lauren James (89, Barclays WSL) e Bobby Charlton (92, Icons) completam o grupo de alta probabilidade com cotações de 95 mil e 94 mil moedas, oferecendo diversificação entre gêneros e eras. James Milner (88, Premier League) a 78 mil moedas e Harry Kane (91, Bundesliga) a 65 mil moedas, ambos com 95% de probabilidade, sugerem correções de preço que devem ser revertidas rapidamente. Alan Shearer (91, Icons) a 133 mil moedas fecha a lista de ativos com máxima confiança do algoritmo, recomendando acumulação gradual até a consolidação da tendência de alta.
 
 
 ## ⚠️ Alerta de queda projetada
@@ -78,18 +93,18 @@ Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes d
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
+| Jordan Pickford | 86 | 30k coins | -16.7% |
+| Noni Madueke | 86 | 42k coins | -21.3% |
 | Dominic Solanke | 87 | 32k coins | -17.2% |
-| Leah Williamson | 88 | 40k coins | -23.8% |
+| Leah Williamson | 88 | 34k coins | -23.8% |
 | Mateus Mané | 88 | 40k coins | -15.7% |
-| Noni Madueke | 86 | 38k coins | -21.3% |
-| Eberechi Eze | 87 | 65k coins | -23.8% |
-| Joe Cole | 88 | 148k coins | -21.4% |
-| Marc Guéhi | 88 | 51k coins | -15.6% |
-| Jude Bellingham | 91 | 350k coins | -15.6% |
+| Lucy Bronze | 95 | 206k coins | -21.3% |
+| Marc Guéhi | 88 | 59k coins | -15.6% |
+| Alessia Russo | 90 | 46k coins | -29.1% |
 
 
 ## 🎯 A estratégia do dia
-A estratégia ideal para hoje é manter uma exposição reduzida ao mercado geral e concentrar o capital nos ativos com 95% de probabilidade de alta, iniciando com as entradas de menor valor como Lewis Miley e Anthony Gordon para testar a sensibilidade do mercado sem comprometer o capital principal. Deve-se evitar a compra imediata das cartas que sofreram quedas acentuadas como Mateus Mané e Joe Cole, pois a baixa probabilidade de alta sugere que o suporte de preço ainda não foi estabelecido, aumentando o risco de perdas adicionais. É recomendável segurar os ícones como Alan Shearer e Bobby Charlton em carteira, pois sua demanda estrutural tende a aumentar com a proximidade de eventos sazonais, garantindo uma valorização mais orgânica e menos volátil. Traders mais agressivos podem considerar a compra de Harry Kane e Millie Bright como apostas de contrarian, aproveitando as quedas acentuadas para entrar em ativos de alta liquidez que têm alta probabilidade de reverter a tendência no médio prazo. O timing de venda deve ser monitorado de perto, com ordens de saída pré-definidas para os ativos de menor rating, já que a lateralidade do mercado pode se transformar rapidamente em volatilidade negativa caso não haja novos catalisadores de demanda.
+A estratégia do dia deve focar na compra seletiva de ativos com alta probabilidade de valorização e queda recente, como Ethan Nwaneri e Lewis Miley, aproveitando a discrepância entre preço e expectativa do modelo. Traders devem evitar a compra de Noni Madueke devido à baixa probabilidade de alta (5%) apesar da valorização recente, priorizando ativos como Maya Le Tissier e David Beckham que combinam alta recente com alta probabilidade de continuidade. É recomendável segurar posições em Cole Palmer e Anthony Gordon (90) para capturar ganhos de longo prazo, enquanto se aguarda confirmação de tendência em Harry Kane (92) antes de qualquer operação de venda. O mercado está em fase de acumulação, portanto, a paciência para comprar em quedas de ativos fortes e vender em picos de especulação é a chave para maximizar o retorno. Mantenha a liquidez para oportunidades repentinas em ícones e evite alavancar demais em cartas com probabilidade de alta abaixo de 50% em momentos de alta volatilidade geral.
 
 
 ## 🧪 De onde vêm estes números
@@ -98,14 +113,17 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+Anthony Gordon (90, Premier League), com +45.3% em 24h, a 1.50M coins no Console (PS).
+
 **E a maior queda do dia?**  
-Anthony Gordon (88), -31% em 24h, a 224k coins.
+Ethan Nwaneri (91), -36.3% em 24h, a 41k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Lewis Miley (89) — 95% de probabilidade de alta, a 37k coins.
+Pelo modelo FutQuant, Anthony Gordon (87) — 95% de probabilidade de alta, a 35k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 66 cartas em alta contra 63 em queda (média 0.13%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 69 cartas em alta contra 59 em queda (média 1.96%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
