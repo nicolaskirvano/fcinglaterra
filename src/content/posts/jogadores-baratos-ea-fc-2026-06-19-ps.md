@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T22:53:32.000Z
+pubDatetime: 2026-06-20T01:55:03.000Z
 title: "Jogadores baratos de Ingleses no EA FC (19/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 19/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (19/06/2026)?"
-    a: "Keira Walsh (89, Barclays WSL) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
+    a: "Steve McManaman (87, Premier League) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **19/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Keira Walsh (89) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Steve McManaman (87) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,26 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Keira Walsh | 89 | CDM | Barclays WSL | 14k coins | -8.3% |
-| Steve McManaman | 87 | RM | Premier League | 11k coins | +2.1% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +4.4% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | +2.1% |
-| Millie Bright | 85 | CB | Barclays WSL | 7k coins | +32.1% |
-| Ashleigh Neville | 83 | LB | Barclays WSL | 4k coins | 0% |
-| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14k coins | +27.1% |
+| Steve McManaman | 87 | RM | Premier League | 12k coins | -6.4% |
+| Fara Williams | 86 | CM | Barclays WSL | 11k coins | -4.4% |
+| Jamie Carragher | 86 | CB | Premier League | 11k coins | -4.3% |
+| Millie Bright | 85 | CB | Barclays WSL | 7k coins | +29.4% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | 0% |
+| Ashleigh Neville | 83 | LB | Barclays WSL | 4k coins | -24% |
 
 
 ## 📈 Destaques
 
-- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Steve McManaman (87, RM)** da Premier League, a apenas **12k coins**
 
-- **Steve McManaman (87, RM)** da Premier League, a apenas **11k coins**
+- **Fara Williams (86, CM)** da Barclays WSL, a apenas **11k coins**
 
-- **Fara Williams (86, CM)** da Barclays WSL, a apenas **12k coins**
-
-- **Jamie Carragher (86, CB)** da Premier League, a apenas **12k coins**
+- **Jamie Carragher (86, CB)** da Premier League, a apenas **11k coins**
 
 - **Millie Bright (85, CB)** da Barclays WSL, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Jill Scott (85, CM)** da Barclays Women’s Super League, a apenas **11k coins**
 
 
 ## Por que estas cartas?
@@ -65,7 +64,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (19/06/2026)?**  
-Keira Walsh (89, Barclays WSL) aparece como melhor custo-benefício, a 14k coins no Console (PS).
+Steve McManaman (87, Premier League) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

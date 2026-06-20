@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T22:53:30.000Z
+pubDatetime: 2026-06-20T01:55:02.000Z
 title: "Melhores investimentos em Ingleses no EA FC (19/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Jill Scott (85, Barclays Women’s Super League) lidera, com +29.8% em 7 dias a 16k coins no Console (PS), e o modelo dá 35% de chance de seguir subindo."
+    a: "Paul Scholes (91, Icons) lidera, com +47.9% em 7 dias a 207k coins no Console (PS), e o modelo dá 16% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Jill Scott (85) acumula **+29.8% em 7 dias** a 16k coins.
+> 🔝 **Destaque:** Paul Scholes (91) acumula **+47.9% em 7 dias** a 207k coins.
 
 
 ## 🧠 Análise FutQuant do dia
-O mercado de EA FC Ultimate Team em consoles PlayStation apresenta um cenário dinâmico e altamente específico para o dia 19 de junho de 2026, onde a análise de tendência de valorização dos últimos sete dias revela oportunidades claras para investidores atentos. Ao focarmos estritamente nos jogadores de nacionalidade inglesa, observamos que a volatilidade do mercado tem sido o principal driver para a apreciação de preços, com algumas cartas se destacando por sua probabilidade estatística de alta. A estratégia de investimento atual não deve se basear em especulação, mas sim na leitura fria dos dados de desempenho recente, que indicam quais ativos estão acumulando força de compra e quais estão em risco de correção.
+No cenário do EA FC Ultimate Team para consoles PlayStation, analisando os dados de mercado de 19 de junho de 2026, a estratégia de investimento com foco em jogadores ingleses revela oportunidades distintas baseadas na probabilidade de valorização e na volatilidade recente. Entre as opções de maior porte, Paul Scholes na versão Icons com 91 de rating apresenta um movimento agressivo, com alta de 13,7% em apenas 24 horas, cotado a 207 mil coins. Apesar de possuir uma probabilidade de alta futura de apenas 16%, o momentum atual sugere que o preço está em ascensão imediata, tornando-o uma opção de risco calculado para traders que buscam lucros rápidos na curto prazo, aproveitando a escalada recente antes de uma possível estabilização ou correção.
 
-Dentre as opções disponíveis, a carta de Jill Scott, com rating 85 e pertencente à Barclays Women’s Super League, surge como um dos ativos mais quentes do momento. Com uma impressionante alta de 38,6% em apenas 24 horas, a jogadora se encontra cotada a 16 mil moedas. Os dados indicam uma probabilidade de alta de 35%, o que sugere que, embora o movimento recente seja agressivo, ainda há espaço para expansão de valor se a tendência se mantiver. Para investidores com capital menor, essa é uma entrada de risco moderado, mas com potencial de retorno rápido, desde que haja monitoramento constante para evitar vendas prematuras ou sustos de mercado.
+Em contraste, a versão Icons de Paul Scholes com 88 de rating, situada na faixa de 78 mil coins, oferece um perfil diferente. Com um aumento de 6% em 24 horas e uma probabilidade de alta de 23%, esta carta demonstra uma consistência moderada que pode ser mais atraente para investidores que preferem evitar a volatilidade extrema das versões mais caras. A diferença de preço em relação à versão de 91 rating, combinada com uma probabilidade de valorização ligeiramente superior, posiciona esta carta como uma alternativa mais segura para quem deseja expor seu capital a lendas do futebol inglês sem comprometer toda a banca em ativos de altíssimo risco.
 
-Já no segmento de médio custo, Charlie Cresswell, do Ligue 1 McDonald's e com rating 85, oferece uma alternativa mais conservadora. O jogador registrou uma alta de 8,4% nas últimas 24 horas, posicionando-se a 28 mil moedas. Contudo, a probabilidade de alta para Cresswell é de apenas 16%, o que indica cautela. Diferente de Jill Scott, a entrada em Cresswell deve ser vista como uma aposta de curto prazo ou parte de uma estratégia de diversificação, onde o retorno esperado é menor, mas a estabilidade do preço pode oferecer uma saída mais segura em momentos de alta liquidez no mercado.
+O mercado de mulheres também se destaca com força, especialmente com Lauren James, da Barclays WSL, com 89 de rating. Cotada a 101 mil coins, ela registrou alta de 7,4% em 24 horas e impressiona com uma probabilidade de alta de 95%. Este indicador estatístico é excepcionalmente alto, sugerindo uma tendência de valorização quase certa no curto a médio prazo. Para investidores prudentes, Lauren James representa uma das entradas mais sólidas disponíveis, oferecendo uma relação risco-retorno altamente favorável devido à extrema probabilidade de continuidade na apreciação do ativo.
 
-Para aqueles que buscam segurança estatística robusta, John Barnes, uma Icon com rating 87, apresenta-se como uma das escolhas mais sensatas. Com uma valorização de 13,3% em 24 horas e um preço de 73 mil moedas, Barnes possui uma probabilidade de alta de 60%. Esse percentual elevado reflete a confiança do mercado em ativos de legado, que tendem a se valorizar em períodos específicos do calendário do jogo. A entrada em Barnes é recomendada para investidores que desejam equilibrar risco e retorno, aproveitando a solidez histórica da carta em momentos de escassez de supply.
+Kelly Smith, outra lenda feminina com 89 de rating na lista de Icons, reforça a força desse segmento. Com preço de 74 mil coins e alta de 11,1% em 24 horas, ela também ostenta uma probabilidade de alta de 95%. A similaridade estatística com Lauren James indica que o mercado está valorizando fortemente as cartas de mulheres de alto rating. Entrar em Kelly Smith pode ser uma estratégia de diversificação eficaz dentro do mesmo nicho de alta probabilidade, permitindo ao jogador capitalizar sobre a tendência geral de valorização das Icons femininas sem depender de um único ativo.
 
-No extremo oposto da tabela, Alan Shearer, com rating 91 e valor de 130 mil moedas, é o ativo de maior convicção. A alta de 14,9% em 24 horas é acompanhada por uma probabilidade de alta de 95%, o que é estatisticamente quase um garantido de continuidade de valorização no curto prazo. Embora exija um capital significativo para entrada, Shearer representa a segurança máxima para quem busca proteger e multiplicar grandes quantias de moedas. A alta probabilidade sugere que o mercado está em consenso sobre o valor crescente da lenda, tornando-a um pilar essencial para carteiras de investimento de alto nível.
+No segmento de jogadores mais acessíveis, George Dobson da EFL Championship surge como uma anomalia interessante. Com 84 de rating e preço de 48 mil coins, ele sofreu uma alta vertiginosa de 34,7% em 24 horas. Embora a probabilidade de alta futura seja de 42%, o volume de ascensão recente indica forte demanda de mercado, possivelmente devido a eventos específicos do jogo ou promoções. Investir em Dobson exige atenção redobrada, pois altas tão bruscas podem ser seguidas por correções, mas o potencial de lucro rápido ainda é considerável para traders ágeis.
 
-Por fim, Dom Ballard, da EFL League One com rating 84, merece menção apesar de sua probabilidade de alta de apenas 8%. Com uma alta de 26,7% em 24 horas e preço de 48 mil moedas, Ballard mostra movimento, mas a baixa probabilidade futura indica que o pico de valorização pode ter sido atingido. Portanto, a recomendação para Ballard é de venda imediata se já possuído, ou abstenção de compra, pois os dados não sustentam uma entrada nova. Em suma, o foco deve estar em Jill Scott e Alan Shearer para crescimento, e em John Barnes para equilíbrio, respeitando sempre as probabilidades apresentadas.
+Finalmente, cartas como Charlie Cresswell (Ligue 1 McDonald's, 23k coins, 15% em 24h, 16% prob. alta) e Jaden Philogene (EFL Championship, 41k coins, 7,7% em 24h, 58% prob. alta) oferecem entradas de menor valor com perfis de risco variados. Philogene, com sua probabilidade de alta de 58%, parece mais promissor para crescimento sustentado, enquanto Cresswell atrai por seu baixo custo inicial. A escolha entre esses ativos depende da tolerância ao risco do jogador, sendo que as altas probabilidades de Lauren James e Kelly Smith permanecem como os pontos mais seguros para entrada no mercado inglês de 19 de junho de 2026.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,24 +45,30 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jill Scott | 85 | Barclays Women’s Super League | 16k coins | +38.6% | +29.8% | 35% |
-| Charlie Cresswell | 85 | Ligue 1 McDonald's | 28k coins | +8.4% | +21.6% | 16% |
-| John Barnes | 87 | Icons | 73k coins | +13.3% | +15.9% | 60% |
-| Dom Ballard | 84 | EFL League One | 48k coins | +26.7% | +10.5% | 8% |
-| Alan Shearer | 91 | Icons | 130k coins | +14.9% | +5.6% | 95% |
+| Paul Scholes | 91 | Icons | 207k coins | +13.7% | +47.9% | 16% |
+| Steven Gerrard | 88 | Icons | 103k coins | +1% | +27.1% | 42% |
+| Charlie Cresswell | 85 | Ligue 1 McDonald's | 23k coins | +15% | +26% | 16% |
+| Paul Scholes | 88 | Icons | 78k coins | +6% | +18.8% | 23% |
+| Lauren James | 89 | Barclays WSL | 101k coins | +7.4% | +18.1% | 95% |
+| Dom Ballard | 84 | EFL League One | 49k coins | +6% | +14% | 8% |
+| Kelly Smith | 89 | Icons | 74k coins | +11.1% | +11.1% | 95% |
+| George Dobson | 84 | EFL Championship | 48k coins | +34.7% | +7.8% | 42% |
+| Jaden Philogene | 84 | EFL Championship | 41k coins | +7.7% | +7.1% | 58% |
+| Louis Reed | 84 | EFL League One | 44k coins | +1.1% | +6% | 42% |
+| Steven Gerrard | 89 | Icons | 109k coins | +2.9% | +5.9% | 57% |
 
 
 ## 📈 Análise dos destaques
 
-- **Jill Scott (85)** — 16k coins, **+29.8% em 7 dias** (+38.6% em 24h). Preço +32% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Paul Scholes (91)** — 207k coins, **+47.9% em 7 dias** (+13.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Charlie Cresswell (85)** — 28k coins, **+21.6% em 7 dias** (+8.4% em 24h). Preço +35% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Steven Gerrard (88)** — 103k coins, **+27.1% em 7 dias** (+1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **John Barnes (87)** — 73k coins, **+15.9% em 7 dias** (+13.3% em 24h). Preço em linha com a média de 7 dias (-2%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Charlie Cresswell (85)** — 23k coins, **+26% em 7 dias** (+15% em 24h). Preço +11% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Dom Ballard (84)** — 48k coins, **+10.5% em 7 dias** (+26.7% em 24h). Preço em linha com a média de 7 dias (+8%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Paul Scholes (88)** — 78k coins, **+18.8% em 7 dias** (+6% em 24h). Preço +11% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Alan Shearer (91)** — 130k coins, **+5.6% em 7 dias** (+14.9% em 24h). Preço +26% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Lauren James (89)** — 101k coins, **+18.1% em 7 dias** (+7.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
 
 ## Como usar esta lista
@@ -80,7 +86,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Jill Scott (85, Barclays Women’s Super League) lidera, com +29.8% em 7 dias a 16k coins no Console (PS), e o modelo dá 35% de chance de seguir subindo.
+Paul Scholes (91, Icons) lidera, com +47.9% em 7 dias a 207k coins no Console (PS), e o modelo dá 16% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
