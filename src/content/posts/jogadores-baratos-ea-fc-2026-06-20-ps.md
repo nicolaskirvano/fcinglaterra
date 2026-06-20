@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T13:53:17.000Z
+pubDatetime: 2026-06-20T16:53:11.000Z
 title: "Jogadores baratos de Ingleses no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,25 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Steve McManaman | 87 | RM | Premier League | 12k coins | 0% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | 0% |
-| Joe Gelhardt | 86 | ST | EFL Championship | 12k coins | -9% |
-| Fara Williams | 86 | CM | Barclays WSL | 13k coins | +4.4% |
-| Millie Bright | 85 | CB | Barclays WSL | 6k coins | +17.2% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +2.2% |
+| Steve McManaman | 87 | RM | Premier League | 12k coins | -2.1% |
+| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +2.2% |
+| Jamie Carragher | 86 | CB | Premier League | 12k coins | +4.3% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +4.3% |
+| Hannah Blundell | 84 | LB | Barclays WSL | 3k coins | +147.2% |
+| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14k coins | +9.6% |
 
 
 ## 📈 Destaques
 
 - **Steve McManaman (87, RM)** da Premier League, a apenas **12k coins**
 
+- **Fara Williams (86, CM)** da Barclays WSL, a apenas **12k coins**
+
 - **Jamie Carragher (86, CB)** da Premier League, a apenas **12k coins**
 
-- **Joe Gelhardt (86, ST)** da EFL Championship, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jill Scott (85, CM)** da Barclays Women’s Super League, a apenas **12k coins**
 
-- **Fara Williams (86, CM)** da Barclays WSL, a apenas **13k coins**
-
-- **Millie Bright (85, CB)** da Barclays WSL, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
+- **Hannah Blundell (84, LB)** da Barclays WSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
