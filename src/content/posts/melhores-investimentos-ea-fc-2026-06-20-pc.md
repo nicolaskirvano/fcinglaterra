@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T16:54:10.000Z
+pubDatetime: 2026-06-20T19:54:07.000Z
 title: "Melhores investimentos em Ingleses no EA FC (20/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Jill Scott (87, Barclays WSL) lidera, com +79.4% em 7 dias a 46k coins no PC, e o modelo dá 32% de chance de seguir subindo."
+    a: "Geoff Hurst (90, Icons) lidera, com +82.9% em 7 dias a 58k coins no PC, e o modelo dá 25% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Jill Scott (87) acumula **+79.4% em 7 dias** a 46k coins.
+> 🔝 **Destaque:** Geoff Hurst (90) acumula **+82.9% em 7 dias** a 58k coins.
 
 
 ## 🧠 A leitura do dia
-A análise do mercado de EA FC Ultimate Team para o dia 20 de junho de 2026 revela uma dinâmica interessante entre as seleções de homens e mulheres, com a tendência de valorização em 7 dias apontando para oportunidades específicas. Ao observarmos o cenário atual, nota-se que as cartas inglesas estão apresentando movimentos distintos, impulsionados tanto por eventos in-game quanto pela demanda natural da comunidade. Para investidores cautelosos, é fundamental analisar não apenas o aumento percentual imediato, mas também a probabilidade calculada de alta futura, combinando esses dados com o preço atual de entrada para maximizar o retorno sobre o investimento em coins.
+No cenário do EA FC Ultimate Team em 20 de junho de 2026, a análise do mercado para jogadores ingleses revela uma oportunidade estratégica clara para investidores que buscam rentabilidade de curto prazo. O foco principal deve ser direcionado às cartas que exibem não apenas um crescimento percentual significativo nas últimas 24 horas, mas também uma probabilidade estatística robusta de continuidade dessa tendência. Entre as opções disponíveis, Geoff Hurst, na sua versão Icons com rating de 90, destaca-se como um dos ativos mais promissores. Com uma valorização de 31,8% em apenas um dia e cotado a 58k coins, o meio-campista histórico apresenta uma probabilidade de alta de 25%. Esse equilíbrio entre preço de entrada acessível e momentum de mercado sugere que a carta pode experimentar uma escalada ainda maior, especialmente se houver demanda repentina em SQUAD do dia ou promoções relacionadas à seleção inglesa.
 
-Dentre as opções de menor custo, Keira Walsh (89, Barclays WSL) destaca-se como uma entrada estratégica. Com uma valorização de 7.3% nas últimas 24 horas e um preço acessível de 22k coins, a meia possui uma probabilidade de alta de 41%. Embora o movimento percentual inicial pareça modesto, a combinação de baixo custo de entrada com uma probabilidade superior à média sugere um potencial de crescimento sólido e de risco controlado, ideal para quem busca diversificar seu portfólio sem expor grandes quantias de capital imediatamente.
+Paralelamente, Steven Gerrard, também na série Icons com rating de 89, oferece um perfil de risco e recompensa atrativo. A carta registrou um aumento impressionante de 35,7% em 24 horas, posicionando-se a 57k coins. Com uma probabilidade de alta de 40%, Gerrard se consolida como uma das melhores entradas para quem deseja capitalizar sobre a volatilidade do mercado de lendas. A similaridade de preço com Hurst, aliada a uma probabilidade ligeiramente superior de continuidade da alta, torna o capitão do Liverpool uma escolha racional para diversificação de portfólio, permitindo ao usuário aproveitar a liquidez natural das cartas de alta demanda sem comprometer recursos excessivos.
 
-No segmento intermediário, Elliot Anderson (86, Premier League) e Michelle Agyemang (89, Barclays Women’s Super League) oferecem perfis de risco e retorno distintos. Anderson, a 34k coins, subiu 15% em 24 horas e carrega uma probabilidade de alta de 36%, indicando uma aceleração recente no mercado. Já Agyemang, também a 34k coins, apresenta um crescimento mais lento de 8.9%, mas com uma probabilidade de alta de 23%. Ambos são considerados boas entradas, mas Anderson parece ter um momentum mais forte no curto prazo, enquanto Agyemang pode ser uma aposta mais conservadora para holdings de médio prazo.
+Na categoria de investimentos de maior valor, Paul Scholes (91, Icons) e Wayne Rooney (88, Icons) merecem atenção diferenciada. Scholes, cotado a 126k coins, subiu 17,6% em 24h e carrega uma probabilidade de alta de 58%, indicando uma sustentabilidade de preço mais sólida, embora exija um capital inicial maior. Rooney, por sua vez, com 16,4% de alta em 24h e cotado a 169k coins, apresenta uma probabilidade de alta de 49%. Ambos os ícones são ideais para investidores com maior tolerância ao risco e capital, pois a alta probabilidade associada a Scholes, em particular, sugere que o preço pode se estabilizar em patamares mais elevados antes de qualquer possível correção.
 
-As defensoras e atacantes de alto nível mostram volatilidade significativa. Jill Scott (87, Barclays WSL) e Leah Williamson (88, Barclays WSL) registraram aumentos expressivos de 30.7% e 31.6%, respectivamente, em apenas 24 horas. Scott, a 46k coins, possui uma probabilidade de alta de 32%, enquanto Williamson, a 50k coins, tem uma probabilidade menor de 18%. A alta volatilidade de Scott sugere uma compra oportuna, pois a probabilidade de continuação da tendência é mais robusta do que a de Williamson, apesar do aumento percentual similar. Portanto, Scott representa uma entrada mais segura baseada nos dados de probabilidade.
+Para os que buscam opções de baixo custo com alto potencial de retorno relativo, Tino Livramento (85, Premier League) se impõe como a estrela do momento. A carta subiu 10% em 24 horas e está a 25k coins, mas seu dado mais relevante é a probabilidade de alta de 60%, a maior entre todas as cartas analisadas. Essa estatística indica uma forte pressão de compra no mercado, possivelmente devido à sua utilidade em time inglês ou promoções específicas. Investir em Livramento é uma aposta na probabilidade estatística, onde o baixo custo de entrada minimiza o risco financeiro, enquanto o potencial de valorização oferece um retorno percentual significativo.
 
-Entre os homens, Luke Shaw (86, Premier League) emerge como uma das apostas mais fortes. Com um aumento de 29.9% em 24 horas e uma impressionante probabilidade de alta de 56% a 50k coins, a defesa inglesa demonstra força de mercado consistente. A alta probabilidade indica que há uma demanda sustentada, possivelmente ligada a meta-builds populares ou eventos futuros. Em contraste, Jordan Pickford (85, Premier League) a 48k coins, embora tenha probabilidade similar de 32%, teve um crescimento mínimo de 1.6%, sugerindo que o movimento de Shaw é mais orgânico e menos sujeito a correções bruscas.
+Jill Scott aparece em duas versões, e a de rating 87 (Barclays WSL) é a mais interessante para investimento rápido. Com 33,6% de alta em 24h e cotada a 42k coins, ela possui uma probabilidade de alta de 32%. Sua versão de 91 rating, apesar de ter apenas 1,7% de alta em 24h, mantém uma probabilidade de 33% a 120k coins, o que a torna mais volátil e menos recomendada para entrada imediata comparada à versão mais barata. A escolha pela carta de 87 rating permite aproveitar o momentum atual com menor exposição financeira.
 
-Por fim, as cartas de alto custo, como Lauren James (89, Barclays WSL) e Paul Scholes (91, Icons), requerem atenção especial. James, a 59k coins, lidera com 36.7% de alta e 50% de probabilidade, tornando-a uma das melhores entradas de alto risco/alto retorno. Scholes, a 126k coins, subiu 11.5% com 58% de probabilidade, consolidando-se como uma reserva de valor estável. Jamie Vardy (90, Serie A TIM), a 225k coins, teve apenas 2.7% de alta e 34% de probabilidade, o que o torna menos atrativo para entrada imediata comparado às outras opções. Em resumo, Shaw, James e Scott oferecem a melhor relação risco-retorno baseada nas tendências atuais.
+Finalmente, Mason Greenwood (84, Ligue 1 McDonald's) e Michelle Agyemang (89, Barclays Women’s Super League) completam o quadro. Greenwood, a 50k coins, teve um aumento de 6,4% e uma alta probabilidade de 59% de continuar subindo, sendo uma opção sólida de meio-campo. Agyemang, a 28k coins, com apenas 4,6% de alta e 23% de probabilidade, é a opção mais conservadora, indicada apenas para quem busca segurança extrema, embora com retorno menor. Jamie Vardy (90, Serie A TIM), a 205k coins, com 2,3% de alta e 34% de probabilidade, é o ativo mais caro e com menor momentum recente, devendo ser evitado em favor de opções com melhor relação risco-retorno, como Livramento e Hurst.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +45,33 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jill Scott | 87 | Barclays WSL | 46k coins | +30.7% | +79.4% | 32% |
-| Elliot Anderson | 86 | Premier League | 34k coins | +15% | +79.2% | 36% |
-| Leah Williamson | 88 | Barclays WSL | 50k coins | +31.6% | +77% | 18% |
-| Luke Shaw | 86 | Premier League | 50k coins | +29.9% | +66.7% | 56% |
-| Michelle Agyemang | 89 | Barclays Women’s Super League | 34k coins | +8.9% | +58.8% | 23% |
-| Keira Walsh | 89 | Barclays WSL | 22k coins | +7.3% | +37.5% | 41% |
-| Jordan Pickford | 85 | Premier League | 48k coins | +1.6% | +35.7% | 32% |
-| Paul Scholes | 91 | Icons | 126k coins | +11.5% | +34% | 58% |
-| Jamie Vardy | 90 | Serie A TIM | 225k coins | +2.7% | +32.4% | 34% |
-| Lauren James | 89 | Barclays WSL | 59k coins | +36.7% | +23.6% | 50% |
-| Chris Smalling | 87 | ROSHN Saudi League | 42k coins | +13.7% | +21.2% | 60% |
-| Max Aarons | 85 | Scottish Premiership | 26k coins | +7.2% | +20.9% | 65% |
-| Wayne Rooney | 88 | Icons | 148k coins | +1.4% | +19.4% | 49% |
-| Jaden Philogene | 84 | EFL Championship | 49k coins | +9.5% | +11.4% | 53% |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 47k coins | +4.1% | +7.4% | 45% |
+| Geoff Hurst | 90 | Icons | 58k coins | +31.8% | +82.9% | 25% |
+| Jill Scott | 87 | Barclays WSL | 42k coins | +33.6% | +75% | 32% |
+| Paul Scholes | 91 | Icons | 126k coins | +17.6% | +48.9% | 58% |
+| Steven Gerrard | 89 | Icons | 57k coins | +35.7% | +42.5% | 40% |
+| Michelle Agyemang | 89 | Barclays Women’s Super League | 28k coins | +4.6% | +39.5% | 23% |
+| Jill Scott | 91 | Barclays WSL | 120k coins | +1.7% | +36.4% | 33% |
+| Mason Greenwood | 84 | Ligue 1 McDonald's | 50k coins | +6.4% | +31.6% | 59% |
+| Jamie Vardy | 90 | Serie A TIM | 205k coins | +2.3% | +27.3% | 34% |
+| Wayne Rooney | 88 | Icons | 169k coins | +16.4% | +24.1% | 49% |
+| Tino Livramento | 85 | Premier League | 25k coins | +10% | +17.9% | 60% |
+| Alex Scott | 85 | Barclays WSL | 18k coins | +10% | +17% | 33% |
+| Alessia Russo | 90 | Barclays WSL | 40k coins | +30.1% | +12.7% | 16% |
+| Max Aarons | 85 | Scottish Premiership | 18k coins | +23.7% | +9.3% | 65% |
+| Harry Maguire | 90 | Premier League | 237k coins | +1.3% | +6.2% | 55% |
 
 
 ## 📈 Análise dos destaques
 
-- **Jill Scott (87)** — 46k coins, **+79.4% em 7 dias** (+30.7% em 24h). Preço +30% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Geoff Hurst (90)** — 58k coins, **+82.9% em 7 dias** (+31.8% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Elliot Anderson (86)** — 34k coins, **+79.2% em 7 dias** (+15% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jill Scott (87)** — 42k coins, **+75% em 7 dias** (+33.6% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Leah Williamson (88)** — 50k coins, **+77% em 7 dias** (+31.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Paul Scholes (91)** — 126k coins, **+48.9% em 7 dias** (+17.6% em 24h). Preço em linha com a média de 7 dias (+1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Luke Shaw (86)** — 50k coins, **+66.7% em 7 dias** (+29.9% em 24h). Preço +38% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Steven Gerrard (89)** — 57k coins, **+42.5% em 7 dias** (+35.7% em 24h). Preço em linha com a média de 7 dias (+6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Michelle Agyemang (89)** — 34k coins, **+58.8% em 7 dias** (+8.9% em 24h). Preço +47% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Michelle Agyemang (89)** — 28k coins, **+39.5% em 7 dias** (+4.6% em 24h). Preço +23% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +89,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Jill Scott (87, Barclays WSL) lidera, com +79.4% em 7 dias a 46k coins no PC, e o modelo dá 32% de chance de seguir subindo.
+Geoff Hurst (90, Icons) lidera, com +82.9% em 7 dias a 58k coins no PC, e o modelo dá 25% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
