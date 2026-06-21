@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-21T10:52:05.000Z
+pubDatetime: 2026-06-21T13:52:05.000Z
 title: "Jogadores baratos de Ingleses no EA FC (21/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,17 +29,15 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 12k coins | -41.8% |
-| Harry Kane | 89 | ST | Bundesliga | 3k coins | -39.5% |
-| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | -36.6% |
-| Georgia Stanway | 88 | CDM | GPFBL | 12k coins | -10.7% |
-| Millie Bright | 87 | CB | Barclays WSL | 7k coins | +1.5% |
-| Steve McManaman | 87 | RM | Premier League | 12k coins | +2.1% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | +6.8% |
-| Fara Williams | 86 | CM | Barclays WSL | 14k coins | +27.3% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | +2.2% |
-| Alex Scott | 85 | RB | Barclays WSL | 12k coins | +32.6% |
-| Eberechi Eze | 83 | CAM | Premier League | 2k coins | -5% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 12k coins | -38% |
+| Harry Kane | 89 | ST | Bundesliga | 3k coins | -43.2% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 14k coins | 0% |
+| Jess Park | 89 | CM | Barclays WSL | 15k coins | +2.9% |
+| Millie Bright | 87 | CB | Barclays WSL | 7k coins | +4.5% |
+| Fara Williams | 86 | CM | Barclays WSL | 13k coins | +25% |
+| Alex Scott | 85 | RB | Barclays WSL | 12k coins | +13% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 14k coins | +20% |
+| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14k coins | +9.1% |
 
 
 ## 📈 Destaques
@@ -48,9 +46,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **14k coins**
 
-- **Georgia Stanway (88, CDM)** da GPFBL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jess Park (89, CM)** da Barclays WSL, a apenas **15k coins**
 
 - **Millie Bright (87, CB)** da Barclays WSL, a apenas **7k coins**
 

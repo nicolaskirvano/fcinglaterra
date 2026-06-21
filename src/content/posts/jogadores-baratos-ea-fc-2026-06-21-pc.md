@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-21T10:52:09.000Z
+pubDatetime: 2026-06-21T13:52:10.000Z
 title: "Jogadores baratos de Ingleses no EA FC (21/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,15 +29,14 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 3k coins | -40.4% |
-| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | -37.8% |
-| Millie Bright | 87 | CB | Barclays WSL | 5k coins | +54.8% |
+| Harry Kane | 89 | ST | Bundesliga | 3k coins | -33.3% |
+| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | -32.6% |
+| Georgia Stanway | 88 | CDM | GPFBL | 15k coins | -12.9% |
 | Steve McManaman | 87 | RM | Premier League | 11k coins | -20% |
-| Joe Cole | 87 | RW | Premier League | 12k coins | -21.9% |
-| Fara Williams | 86 | CM | Barclays WSL | 11k coins | 0% |
+| Fara Williams | 86 | CM | Barclays WSL | 11k coins | +4.7% |
 | Jamie Carragher | 86 | CB | Premier League | 12k coins | -2.1% |
-| Ledley King | 86 | CB | Premier League | 12k coins | -30.8% |
-| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14k coins | -23.3% |
+| Eric Dier | 86 | CB | Ligue 1 McDonald's | 14k coins | +9.2% |
+| Alex Scott | 85 | RB | Barclays WSL | 15k coins | +24% |
 
 
 ## 📈 Destaques
@@ -46,11 +45,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Millie Bright (87, CB)** da Barclays WSL, a apenas **5k coins** — já **valorizando**, sinal de procura crescente.
+- **Georgia Stanway (88, CDM)** da GPFBL, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Steve McManaman (87, RM)** da Premier League, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Joe Cole (87, RW)** da Premier League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Fara Williams (86, CM)** da Barclays WSL, a apenas **11k coins**
 
 
 ## Por que estas cartas?
