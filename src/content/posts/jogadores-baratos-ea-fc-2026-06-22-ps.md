@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-22T19:52:05.000Z
+pubDatetime: 2026-06-22T22:52:05.000Z
 title: "Jogadores baratos de Ingleses no EA FC (22/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,27 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | -49.9% |
-| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | -40.8% |
-| Millie Bright | 87 | CB | Barclays WSL | 8k coins | +13.8% |
-| Steve McManaman | 87 | RM | Premier League | 11k coins | -4.3% |
-| Jamie Carragher | 86 | CB | Premier League | 11k coins | -4.3% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +6.7% |
-| Alex Scott | 85 | RB | Barclays WSL | 12k coins | +2.2% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 14k coins | +10.9% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | -45.6% |
+| Harry Kane | 89 | ST | Bundesliga | 3k coins | -40.8% |
+| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | -38.8% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 15k coins | +3.4% |
+| Jess Park | 89 | CM | Barclays WSL | 15k coins | -9.3% |
+| Georgia Stanway | 88 | CDM | GPFBL | 14k coins | +3.6% |
+| Millie Bright | 87 | CB | Barclays WSL | 7k coins | +9% |
+| Steve McManaman | 87 | RM | Premier League | 12k coins | -4.3% |
+| Fara Williams | 86 | CM | Barclays WSL | 12k coins | 0% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +6.5% |
+| Alex Scott | 85 | RB | Barclays WSL | 12k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **10k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Millie Bright (87, CB)** da Barclays WSL, a apenas **8k coins**
+- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **15k coins**
 
-- **Steve McManaman (87, RM)** da Premier League, a apenas **11k coins**
-
-- **Jamie Carragher (86, CB)** da Premier League, a apenas **11k coins**
+- **Jess Park (89, CM)** da Barclays WSL, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
