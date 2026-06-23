@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-23T13:52:05.000Z
+pubDatetime: 2026-06-23T16:52:05.000Z
 title: "Jogadores baratos de Ingleses no EA FC (23/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 23/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (23/06/2026)?"
-    a: "Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 3k coins no Console (PS)."
+    a: "Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 9k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **23/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Harry Kane (89) por apenas 3k coins.
+> 💰 **Melhor pechincha:** Jude Bellingham (90) por apenas 9k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,32 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 9k coins | -52.9% |
 | Harry Kane | 89 | ST | Bundesliga | 3k coins | -40.8% |
-| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | -40.8% |
-| Keira Walsh | 89 | CDM | Barclays WSL | 14k coins | -11.1% |
-| Georgia Stanway | 88 | CDM | GPFBL | 15k coins | +7% |
-| Millie Bright | 87 | CB | Barclays WSL | 8k coins | +21.9% |
-| Steve McManaman | 87 | RM | Premier League | 11k coins | -6.2% |
-| Joe Cole | 87 | RW | Premier League | 14k coins | -23.9% |
-| Grace Clinton | 87 | CAM | Barclays WSL | 14k coins | -1.8% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | -8% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +4.3% |
-| Lauren James | 85 | RM | Barclays WSL | 2k coins | +16.7% |
-| Alex Scott | 85 | RB | Barclays WSL | 12k coins | -23.7% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | -2% |
+| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | -38.8% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 13k coins | -14.8% |
+| Millie Bright | 87 | CB | Barclays WSL | 7k coins | +22.4% |
+| Steve McManaman | 87 | RM | Premier League | 11k coins | -8.2% |
+| Grace Clinton | 87 | CAM | Barclays WSL | 14k coins | -5.2% |
+| Fara Williams | 86 | CM | Barclays WSL | 11k coins | -8.5% |
+| Jamie Carragher | 86 | CB | Premier League | 11k coins | -10.2% |
+| Alex Scott | 85 | RB | Barclays WSL | 12k coins | -19% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | -4.1% |
 
 
 ## 📈 Destaques
+
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **9k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Georgia Stanway (88, CDM)** da GPFBL, a apenas **15k coins**
-
-- **Millie Bright (87, CB)** da Barclays WSL, a apenas **8k coins** — já **valorizando**, sinal de procura crescente.
+- **Millie Bright (87, CB)** da Barclays WSL, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -71,7 +69,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (23/06/2026)?**  
-Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 3k coins no Console (PS).
+Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 9k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
