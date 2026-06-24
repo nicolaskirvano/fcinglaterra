@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-23T22:52:05.000Z
+pubDatetime: 2026-06-24T01:52:05.000Z
 title: "Jogadores baratos de Ingleses no EA FC (23/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,32 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 9k coins | -53.9% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 9k coins | -54% |
+| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | -37.5% |
 | Harry Kane | 89 | ST | Bundesliga | 3k coins | -36.2% |
-| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | -35.4% |
-| Keira Walsh | 89 | CDM | Barclays WSL | 12k coins | -13.3% |
-| Georgia Stanway | 88 | CDM | GPFBL | 15k coins | -6.2% |
-| Steve McManaman | 87 | RM | Premier League | 12k coins | -6.1% |
-| Grace Clinton | 87 | CAM | Barclays WSL | 12k coins | -16.1% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | -6.1% |
+| Steve McManaman | 87 | RM | Premier League | 11k coins | -8.2% |
+| Grace Clinton | 87 | CAM | Barclays WSL | 14k coins | -11.3% |
+| Jamie Carragher | 86 | CB | Premier League | 11k coins | -8.2% |
 | Fara Williams | 86 | CM | Barclays WSL | 12k coins | 0% |
-| Alex Scott | 85 | RB | Barclays WSL | 11k coins | -22.4% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -10% |
-| Ryan Yates | 85 | CDM | Premier League | 14k coins | -22.2% |
-| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14k coins | 0% |
+| Ledley King | 86 | CB | Premier League | 15k coins | -35.8% |
+| Alex Scott | 85 | RB | Barclays WSL | 11k coins | -27.1% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -11.8% |
+| Ryan Yates | 85 | CDM | Premier League | 14k coins | -26.3% |
 
 
 ## 📈 Destaques
 
 - **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **9k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Georgia Stanway (88, CDM)** da GPFBL, a apenas **15k coins**
+- **Steve McManaman (87, RM)** da Premier League, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Grace Clinton (87, CAM)** da Barclays WSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
