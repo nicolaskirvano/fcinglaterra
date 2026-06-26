@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T22:52:09.000Z
+pubDatetime: 2026-06-26T01:52:09.000Z
 title: "Jogadores baratos de Ingleses no EA FC (25/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,29 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 11k coins | -41.3% |
-| Harry Kane | 89 | ST | Bundesliga | 4k coins | -4.9% |
-| Alessia Russo | 89 | ST | Barclays WSL | 4k coins | -4.9% |
-| Bukayo Saka | 88 | RW | Premier League | 2k coins | -20% |
-| Steve McManaman | 87 | RM | Premier League | 12k coins | -2.1% |
-| Jamie Carragher | 86 | CB | Premier League | 11k coins | -6.5% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +6.8% |
-| Alex Scott | 85 | RB | Barclays WSL | 11k coins | -28.3% |
-| Micah Richards | 85 | RB | Premier League | 12k coins | -47.8% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +2.2% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 11k coins | -42.7% |
+| Alessia Russo | 89 | ST | Barclays WSL | 4k coins | -7.5% |
+| Harry Kane | 89 | ST | Bundesliga | 4k coins | -5% |
+| Bukayo Saka | 88 | RW | Premier League | 2k coins | -15.8% |
+| Millie Bright | 87 | CB | Barclays WSL | 6k coins | +31% |
+| Steve McManaman | 87 | RM | Premier League | 12k coins | 0% |
+| Grace Clinton | 87 | CAM | Barclays WSL | 15k coins | +3.3% |
+| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +4.5% |
+| Ledley King | 86 | CB | Premier League | 14k coins | -12.7% |
+| Alex Scott | 85 | RB | Barclays WSL | 11k coins | -36.8% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **4k coins**
-
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **4k coins**
+
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **4k coins**
 
 - **Bukayo Saka (88, RW)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Steve McManaman (87, RM)** da Premier League, a apenas **12k coins**
+- **Millie Bright (87, CB)** da Barclays WSL, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
