@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T13:52:09.000Z
+pubDatetime: 2026-06-27T16:52:09.000Z
 title: "Jogadores baratos de Ingleses no EA FC (27/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,26 +29,31 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 11k coins | +10.8% |
-| Steve McManaman | 87 | RM | Premier League | 14k coins | +2.3% |
-| Fara Williams | 86 | CM | Barclays WSL | 11k coins | +4.7% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | -6.5% |
-| Ledley King | 86 | CB | Premier League | 15k coins | -17.1% |
-| Alex Scott | 85 | RB | Barclays WSL | 11k coins | -21.1% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | +4.7% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 11k coins | +9.7% |
+| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | +10.3% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 14k coins | -33.3% |
+| Georgia Stanway | 88 | CDM | GPFBL | 14k coins | -8.1% |
+| Millie Bright | 87 | CB | Barclays WSL | 3k coins | -26.1% |
+| Steve McManaman | 87 | RM | Premier League | 12k coins | +9.1% |
+| Joe Cole | 87 | RW | Premier League | 12k coins | -9.1% |
+| Jamie Carragher | 86 | CB | Premier League | 11k coins | -2.3% |
+| Fara Williams | 86 | CM | Barclays WSL | 11k coins | 0% |
+| Ledley King | 86 | CB | Premier League | 14k coins | +5.5% |
+| Alex Scott | 85 | RB | Barclays WSL | 11k coins | +7% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **11k coins**
 
-- **Steve McManaman (87, RM)** da Premier League, a apenas **14k coins**
+- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3k coins**
 
-- **Fara Williams (86, CM)** da Barclays WSL, a apenas **11k coins**
+- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jamie Carragher (86, CB)** da Premier League, a apenas **12k coins**
+- **Georgia Stanway (88, CDM)** da GPFBL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ledley King (86, CB)** da Premier League, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Millie Bright (87, CB)** da Barclays WSL, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
