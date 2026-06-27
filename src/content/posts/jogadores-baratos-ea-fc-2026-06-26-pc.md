@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T22:52:09.000Z
+pubDatetime: 2026-06-27T01:52:09.000Z
 title: "Jogadores baratos de Ingleses no EA FC (26/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 26/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (26/06/2026)?"
-    a: "Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 10k coins no PC."
+    a: "Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 9k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **26/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Jude Bellingham (90) por apenas 10k coins.
+> 💰 **Melhor pechincha:** Jude Bellingham (90) por apenas 9k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,27 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | -8.6% |
-| Steve McManaman | 87 | RM | Premier League | 11k coins | +2.3% |
-| Grace Clinton | 87 | CAM | Barclays WSL | 15k coins | -3.3% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 9k coins | -10.7% |
+| Joe Cole | 87 | RW | Premier League | 11k coins | -15.4% |
+| Steve McManaman | 87 | RM | Premier League | 11k coins | 0% |
 | Jamie Carragher | 86 | CB | Premier League | 11k coins | -8.5% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | 0% |
-| Ledley King | 86 | CB | Premier League | 15k coins | -21% |
-| Alex Scott | 85 | RB | Barclays WSL | 11k coins | -35.8% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | +2.3% |
+| Fara Williams | 86 | CM | Barclays WSL | 11k coins | +4.7% |
+| Ledley King | 86 | CB | Premier League | 12k coins | -35.8% |
+| Alex Scott | 85 | RB | Barclays WSL | 11k coins | -33.3% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +14% |
 
 
 ## 📈 Destaques
 
-- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **10k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **9k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Joe Cole (87, RW)** da Premier League, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Steve McManaman (87, RM)** da Premier League, a apenas **11k coins**
 
-- **Grace Clinton (87, CAM)** da Barclays WSL, a apenas **15k coins**
-
 - **Jamie Carragher (86, CB)** da Premier League, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Fara Williams (86, CM)** da Barclays WSL, a apenas **12k coins**
+- **Fara Williams (86, CM)** da Barclays WSL, a apenas **11k coins**
 
 
 ## Por que estas cartas?
@@ -66,7 +66,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (26/06/2026)?**  
-Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 10k coins no PC.
+Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 9k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
