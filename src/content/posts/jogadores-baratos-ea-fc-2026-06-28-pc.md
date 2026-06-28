@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-28T16:52:09.000Z
+pubDatetime: 2026-06-28T19:52:11.000Z
 title: "Jogadores baratos de Ingleses no EA FC (28/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,26 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Steve McManaman | 87 | RM | Premier League | 12k coins | +2.1% |
-| Fara Williams | 86 | CM | Barclays WSL | 11k coins | 0% |
-| Jamie Carragher | 86 | CB | Premier League | 11k coins | -2.2% |
-| Eric Dier | 86 | CB | Ligue 1 McDonald's | 13k coins | -25.4% |
-| Alex Scott | 85 | RB | Barclays WSL | 11k coins | -28.3% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -2.2% |
-| Micah Richards | 85 | RB | Premier League | 14k coins | -14.3% |
+| Steve McManaman | 87 | RM | Premier League | 12k coins | +14.9% |
+| Jamie Carragher | 86 | CB | Premier League | 11k coins | -2.3% |
+| Fara Williams | 86 | CM | Barclays WSL | 11k coins | +4.7% |
+| Alex Scott | 85 | RB | Barclays WSL | 11k coins | -32.3% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | +4.7% |
 
 
 ## 📈 Destaques
 
 - **Steve McManaman (87, RM)** da Premier League, a apenas **12k coins**
 
-- **Fara Williams (86, CM)** da Barclays WSL, a apenas **11k coins**
-
 - **Jamie Carragher (86, CB)** da Premier League, a apenas **11k coins**
 
-- **Eric Dier (86, CB)** da Ligue 1 McDonald's, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Fara Williams (86, CM)** da Barclays WSL, a apenas **11k coins**
 
 - **Alex Scott (85, RB)** da Barclays WSL, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Jill Scott (85, CM)** da Barclays Women’s Super League, a apenas **11k coins**
 
 
 ## Por que estas cartas?
