@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T13:52:05.000Z
+pubDatetime: 2026-06-30T16:52:05.000Z
 title: "Jogadores baratos de Ingleses no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jess Park | 89 | CM | Barclays WSL | 13k coins | -35% |
-| Keira Walsh | 89 | CDM | Barclays WSL | 14k coins | +9.6% |
+| Jess Park | 89 | CM | Barclays WSL | 13k coins | -32.5% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 14k coins | +5.6% |
 | Georgia Stanway | 88 | CDM | GPFBL | 14k coins | -9.8% |
-| Maya Le Tissier | 88 | CB | Barclays WSL | 15k coins | -44.9% |
+| Maya Le Tissier | 88 | CB | Barclays WSL | 15k coins | -42.2% |
 | Steve McManaman | 87 | RM | Premier League | 12k coins | 0% |
 | Grace Clinton | 87 | CAM | Barclays WSL | 12k coins | -12.7% |
-| Joe Cole | 87 | RW | Premier League | 12k coins | -19.4% |
-| Jill Scott | 87 | CM | Barclays WSL | 14k coins | -53.4% |
-| Jamie Carragher | 86 | CB | Premier League | 11k coins | -4.3% |
+| Jill Scott | 87 | CM | Barclays WSL | 14k coins | -54.2% |
+| Jamie Carragher | 86 | CB | Premier League | 11k coins | -2.2% |
 | Fara Williams | 86 | CM | Barclays WSL | 12k coins | +2.2% |
-| Ledley King | 86 | CB | Premier League | 14k coins | -9.7% |
+| Ledley King | 86 | CB | Premier League | 14k coins | -6.7% |
 | Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +4.3% |
-| Alex Scott | 85 | RB | Barclays WSL | 12k coins | +8.7% |
-| Charlie Cresswell | 85 | CB | Ligue 1 McDonald's | 14k coins | -33.3% |
-| Tino Livramento | 85 | RB | Premier League | 14k coins | -17.1% |
+| Alex Scott | 85 | RB | Barclays WSL | 12k coins | +11.1% |
+| Charlie Cresswell | 85 | CB | Ligue 1 McDonald's | 14k coins | -31.7% |
+| Tino Livramento | 85 | RB | Premier League | 14k coins | -14.7% |
 
 
 ## 📈 Destaques
