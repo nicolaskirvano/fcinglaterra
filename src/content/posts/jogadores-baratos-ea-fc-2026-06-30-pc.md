@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T22:52:09.000Z
+pubDatetime: 2026-07-01T01:52:09.000Z
 title: "Jogadores baratos de Ingleses no EA FC (30/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,15 +29,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 6k coins | -25.3% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 6k coins | -26.2% |
 | Harry Kane | 89 | ST | Bundesliga | 2k coins | -59% |
+| Millie Bright | 87 | CB | Barclays WSL | 7k coins | +102.8% |
 | Steve McManaman | 87 | RM | Premier League | 11k coins | 0% |
 | Joe Cole | 87 | RW | Premier League | 13k coins | 0% |
 | Jamie Carragher | 86 | CB | Premier League | 11k coins | -4.4% |
 | Fara Williams | 86 | CM | Barclays WSL | 11k coins | 0% |
-| Ledley King | 86 | CB | Premier League | 14k coins | -33.3% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +11.6% |
-| Alex Scott | 85 | RB | Barclays WSL | 13k coins | +17.8% |
+| Ledley King | 86 | CB | Premier League | 14k coins | -34.1% |
+| Eric Dier | 86 | CB | Ligue 1 McDonald's | 15k coins | -50% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +6.7% |
+| Alex Scott | 85 | RB | Barclays WSL | 13k coins | +6% |
 
 
 ## 📈 Destaques
@@ -46,11 +48,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Millie Bright (87, CB)** da Barclays WSL, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
+
 - **Steve McManaman (87, RM)** da Premier League, a apenas **11k coins**
 
 - **Joe Cole (87, RW)** da Premier League, a apenas **13k coins**
-
-- **Jamie Carragher (86, CB)** da Premier League, a apenas **11k coins**
 
 
 ## Por que estas cartas?

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T22:52:05.000Z
+pubDatetime: 2026-07-01T01:52:05.000Z
 title: "Jogadores baratos de Ingleses no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 30/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (30/06/2026)?"
-    a: "Jess Park (89, Barclays WSL) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
+    a: "Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 6k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **30/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Jess Park (89) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Jude Bellingham (90) por apenas 6k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,24 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jess Park | 89 | CM | Barclays WSL | 13k coins | -30.7% |
-| Keira Walsh | 89 | CDM | Barclays WSL | 14k coins | +3.6% |
-| Georgia Stanway | 88 | CDM | GPFBL | 14k coins | -9.8% |
-| Maya Le Tissier | 88 | CB | Barclays WSL | 15k coins | -39.8% |
-| Millie Bright | 87 | CB | Barclays WSL | 4k coins | -28.6% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 6k coins | -32.3% |
+| Jess Park | 89 | CM | Barclays WSL | 13k coins | -26.8% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 14k coins | -1.7% |
+| Georgia Stanway | 88 | CDM | GPFBL | 14k coins | -12.7% |
+| Maya Le Tissier | 88 | CB | Barclays WSL | 15k coins | -37.2% |
+| Millie Bright | 87 | CB | Barclays WSL | 4k coins | -25.5% |
 | Steve McManaman | 87 | RM | Premier League | 12k coins | 0% |
 | Grace Clinton | 87 | CAM | Barclays WSL | 12k coins | -12.7% |
-| Jill Scott | 87 | CM | Barclays WSL | 14k coins | -66.5% |
+| Joe Cole | 87 | RW | Premier League | 12k coins | -3.8% |
+| Jill Scott | 87 | CM | Barclays WSL | 14k coins | -65.6% |
 | Jamie Carragher | 86 | CB | Premier League | 11k coins | -2.2% |
 | Fara Williams | 86 | CM | Barclays WSL | 12k coins | +2.2% |
-| Ledley King | 86 | CB | Premier League | 14k coins | +3.7% |
+| Luke Shaw | 86 | CB | Premier League | 13k coins | -57.3% |
+| Ledley King | 86 | CB | Premier League | 14k coins | +5.7% |
 | Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +8.9% |
-| Alex Scott | 85 | RB | Barclays WSL | 12k coins | +13.6% |
-| Charlie Cresswell | 85 | CB | Ligue 1 McDonald's | 14k coins | -31.7% |
-| Tino Livramento | 85 | RB | Premier League | 14k coins | -14.7% |
 
 
 ## 📈 Destaques
+
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **6k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Jess Park (89, CM)** da Barclays WSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -55,8 +57,6 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 - **Georgia Stanway (88, CDM)** da GPFBL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Maya Le Tissier (88, CB)** da Barclays WSL, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Millie Bright (87, CB)** da Barclays WSL, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (30/06/2026)?**  
-Jess Park (89, Barclays WSL) aparece como melhor custo-benefício, a 13k coins no Console (PS).
+Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 6k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
