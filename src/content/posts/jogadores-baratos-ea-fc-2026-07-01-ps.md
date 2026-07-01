@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-01T19:52:05.000Z
+pubDatetime: 2026-07-01T22:52:05.000Z
 title: "Jogadores baratos de Ingleses no EA FC (01/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 01/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (01/07/2026)?"
-    a: "Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
+    a: "Keira Walsh (89, Barclays WSL) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **01/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Harry Kane (89) por apenas 2k coins.
+> 💰 **Melhor pechincha:** Keira Walsh (89) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,31 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | -48.4% |
-| Keira Walsh | 89 | CDM | Barclays WSL | 12k coins | -10.7% |
-| Jess Park | 89 | CM | Barclays WSL | 14k coins | -17.4% |
-| Georgia Stanway | 88 | CDM | GPFBL | 13k coins | -27.3% |
-| Tyler Morton | 88 | CDM | Ligue 1 McDonald's | 14k coins | -27.3% |
-| Steve McManaman | 87 | RM | Premier League | 11k coins | -2.2% |
-| Joe Cole | 87 | RW | Premier League | 12k coins | -7.5% |
-| Jill Scott | 87 | CM | Barclays WSL | 13k coins | -44.2% |
-| Grace Clinton | 87 | CAM | Barclays WSL | 13k coins | -3.8% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +6.8% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | +2.2% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 12k coins | -9.1% |
+| Georgia Stanway | 88 | CDM | GPFBL | 13k coins | -18.8% |
+| Millie Bright | 87 | CB | Barclays WSL | 3k coins | -9.1% |
+| Joe Cole | 87 | RW | Premier League | 12k coins | -17.5% |
+| Steve McManaman | 87 | RM | Premier League | 12k coins | +4.3% |
+| Jill Scott | 87 | CM | Barclays WSL | 13k coins | -45.3% |
+| Grace Clinton | 87 | CAM | Barclays WSL | 13k coins | 0% |
+| Fara Williams | 86 | CM | Barclays WSL | 11k coins | +2.3% |
+| Jamie Carragher | 86 | CB | Premier League | 12k coins | +4.4% |
 | Ledley King | 86 | CB | Premier League | 12k coins | -15.8% |
-| Joe Gelhardt | 86 | ST | EFL Championship | 14k coins | +10.8% |
 | Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | -2.1% |
-| Alex Scott | 85 | RB | Barclays WSL | 12k coins | +15.2% |
+| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14k coins | +38.3% |
 
 
 ## 📈 Destaques
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Jess Park (89, CM)** da Barclays WSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Georgia Stanway (88, CDM)** da GPFBL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Tyler Morton (88, CDM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Millie Bright (87, CB)** da Barclays WSL, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Joe Cole (87, RW)** da Premier League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Steve McManaman (87, RM)** da Premier League, a apenas **12k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +70,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (01/07/2026)?**  
-Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 2k coins no Console (PS).
+Keira Walsh (89, Barclays WSL) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
