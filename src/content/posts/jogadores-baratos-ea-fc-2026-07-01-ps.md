@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-01T16:52:05.000Z
+pubDatetime: 2026-07-01T19:52:05.000Z
 title: "Jogadores baratos de Ingleses no EA FC (01/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,20 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | -41.9% |
-| Keira Walsh | 89 | CDM | Barclays WSL | 12k coins | -13.8% |
-| Jess Park | 89 | CM | Barclays WSL | 14k coins | -16.7% |
-| Georgia Stanway | 88 | CDM | GPFBL | 13k coins | -16.4% |
-| Tyler Morton | 88 | CDM | Ligue 1 McDonald's | 15k coins | -12% |
-| Millie Bright | 87 | CB | Barclays WSL | 3k coins | -8.8% |
-| Grace Clinton | 87 | CAM | Barclays WSL | 11k coins | -3.8% |
-| Steve McManaman | 87 | RM | Premier League | 12k coins | 0% |
-| Joe Cole | 87 | RW | Premier League | 12k coins | -3.9% |
+| Harry Kane | 89 | ST | Bundesliga | 2k coins | -48.4% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 12k coins | -10.7% |
+| Jess Park | 89 | CM | Barclays WSL | 14k coins | -17.4% |
+| Georgia Stanway | 88 | CDM | GPFBL | 13k coins | -27.3% |
+| Tyler Morton | 88 | CDM | Ligue 1 McDonald's | 14k coins | -27.3% |
+| Steve McManaman | 87 | RM | Premier League | 11k coins | -2.2% |
+| Joe Cole | 87 | RW | Premier League | 12k coins | -7.5% |
 | Jill Scott | 87 | CM | Barclays WSL | 13k coins | -44.2% |
-| Jamie Carragher | 86 | CB | Premier League | 11k coins | +2.2% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +2.2% |
-| Ledley King | 86 | CB | Premier League | 12k coins | -1.8% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | 0% |
+| Grace Clinton | 87 | CAM | Barclays WSL | 13k coins | -3.8% |
+| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +6.8% |
+| Jamie Carragher | 86 | CB | Premier League | 12k coins | +2.2% |
+| Ledley King | 86 | CB | Premier League | 12k coins | -15.8% |
+| Joe Gelhardt | 86 | ST | EFL Championship | 14k coins | +10.8% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | -2.1% |
+| Alex Scott | 85 | RB | Barclays WSL | 12k coins | +15.2% |
 
 
 ## 📈 Destaques
@@ -55,7 +56,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Georgia Stanway (88, CDM)** da GPFBL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Tyler Morton (88, CDM)** da Ligue 1 McDonald's, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Tyler Morton (88, CDM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
