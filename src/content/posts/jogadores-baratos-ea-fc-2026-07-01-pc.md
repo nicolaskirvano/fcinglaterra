@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-01T22:52:09.000Z
+pubDatetime: 2026-07-02T01:52:09.000Z
 title: "Jogadores baratos de Ingleses no EA FC (01/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,12 +29,12 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | -61% |
+| Harry Kane | 89 | ST | Bundesliga | 2k coins | -63.4% |
 | Steve McManaman | 87 | RM | Premier League | 11k coins | -6.4% |
-| Jamie Carragher | 86 | CB | Premier League | 11k coins | -6.2% |
-| Fara Williams | 86 | CM | Barclays WSL | 11k coins | -10.4% |
-| Ledley King | 86 | CB | Premier League | 14k coins | +25.6% |
+| Fara Williams | 86 | CM | Barclays WSL | 11k coins | -8.5% |
+| Jamie Carragher | 86 | CB | Premier League | 12k coins | -4.2% |
 | Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -10.2% |
+| Alex Scott | 85 | RB | Barclays WSL | 13k coins | +30.2% |
 
 
 ## 📈 Destaques
@@ -43,11 +43,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Steve McManaman (87, RM)** da Premier League, a apenas **11k coins**
 
-- **Jamie Carragher (86, CB)** da Premier League, a apenas **11k coins**
-
 - **Fara Williams (86, CM)** da Barclays WSL, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ledley King (86, CB)** da Premier League, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Jamie Carragher (86, CB)** da Premier League, a apenas **12k coins**
+
+- **Jill Scott (85, CM)** da Barclays Women’s Super League, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
