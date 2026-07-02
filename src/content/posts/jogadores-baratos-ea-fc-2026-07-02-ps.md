@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-02T10:52:05.000Z
+pubDatetime: 2026-07-02T13:52:05.000Z
 title: "Jogadores baratos de Ingleses no EA FC (02/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,20 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Keira Walsh | 89 | CDM | Barclays WSL | 12k coins | -2% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 12k coins | -5.9% |
 | Jess Park | 89 | CM | Barclays WSL | 15k coins | -15.5% |
 | Georgia Stanway | 88 | CDM | GPFBL | 14k coins | +7.8% |
-| Tyler Morton | 88 | CDM | Ligue 1 McDonald's | 15k coins | -28.6% |
 | Millie Bright | 87 | CB | Barclays WSL | 3k coins | 0% |
-| Steve McManaman | 87 | RM | Premier League | 11k coins | -4.3% |
-| Grace Clinton | 87 | CAM | Barclays WSL | 12k coins | -2% |
-| Jill Scott | 87 | CM | Barclays WSL | 14k coins | -32.9% |
-| Joe Cole | 87 | RW | Premier League | 14k coins | -5.3% |
-| Fara Williams | 86 | CM | Barclays WSL | 11k coins | 0% |
+| Steve McManaman | 87 | RM | Premier League | 12k coins | 0% |
+| Grace Clinton | 87 | CAM | Barclays WSL | 12k coins | -7.8% |
+| Joe Cole | 87 | RW | Premier League | 12k coins | -12.3% |
+| Jill Scott | 87 | CM | Barclays WSL | 13k coins | -27.8% |
+| Fara Williams | 86 | CM | Barclays WSL | 11k coins | -2.2% |
 | Jamie Carragher | 86 | CB | Premier League | 12k coins | +2.2% |
-| Ledley King | 86 | CB | Premier League | 13k coins | -5.3% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -6.4% |
-| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14k coins | +13.2% |
+| Ledley King | 86 | CB | Premier League | 12k coins | -17.5% |
+| Joe Gelhardt | 86 | ST | EFL Championship | 14k coins | -39.8% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -4.3% |
+| Alex Scott | 85 | RB | Barclays WSL | 13k coins | +8.7% |
+| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14k coins | -3.3% |
 
 
 ## 📈 Destaques
@@ -53,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Georgia Stanway (88, CDM)** da GPFBL, a apenas **14k coins**
 
-- **Tyler Morton (88, CDM)** da Ligue 1 McDonald's, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Millie Bright (87, CB)** da Barclays WSL, a apenas **3k coins**
+
+- **Steve McManaman (87, RM)** da Premier League, a apenas **12k coins**
 
 
 ## Por que estas cartas?
