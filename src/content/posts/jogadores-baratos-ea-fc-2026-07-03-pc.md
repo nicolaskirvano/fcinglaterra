@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T10:52:09.000Z
+pubDatetime: 2026-07-03T13:52:09.000Z
 title: "Jogadores baratos de Ingleses no EA FC (03/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,18 +29,15 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | -52.8% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | -51.4% |
-| Steve McManaman | 87 | RM | Premier League | 11k coins | -6.2% |
-| Joe Cole | 87 | RW | Premier League | 12k coins | 0% |
-| Grace Clinton | 87 | CAM | Barclays WSL | 13k coins | -19% |
-| Jaden Philogene | 87 | LM | EFL Championship | 14k coins | -48.3% |
-| Jamie Carragher | 86 | CB | Premier League | 11k coins | -2.2% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | -2.1% |
-| Ledley King | 86 | CB | Premier League | 12k coins | -28.1% |
-| Joe Gelhardt | 86 | ST | EFL Championship | 15k coins | +31.2% |
-| Alex Scott | 85 | RB | Barclays WSL | 12k coins | +11.6% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | -12.2% |
+| Harry Kane | 89 | ST | Bundesliga | 2k coins | -52.9% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | -44.1% |
+| Steve McManaman | 87 | RM | Premier League | 11k coins | -4.3% |
+| Grace Clinton | 87 | CAM | Barclays WSL | 14k coins | -19% |
+| Jamie Carragher | 86 | CB | Premier League | 11k coins | 0% |
+| Fara Williams | 86 | CM | Barclays WSL | 12k coins | -6.5% |
+| Joe Gelhardt | 86 | ST | EFL Championship | 12k coins | +2% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -2% |
+| Alex Scott | 85 | RB | Barclays WSL | 12k coins | +6.7% |
 
 
 ## 📈 Destaques
@@ -51,9 +48,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Steve McManaman (87, RM)** da Premier League, a apenas **11k coins**
 
-- **Joe Cole (87, RW)** da Premier League, a apenas **12k coins**
+- **Grace Clinton (87, CAM)** da Barclays WSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Grace Clinton (87, CAM)** da Barclays WSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jamie Carragher (86, CB)** da Premier League, a apenas **11k coins**
 
 
 ## Por que estas cartas?
