@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T13:52:05.000Z
+pubDatetime: 2026-07-04T16:52:05.000Z
 title: "Jogadores baratos de Ingleses no EA FC (04/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,31 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 13k coins | +12.8% |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | -20.8% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | -16% |
-| Keira Walsh | 89 | CDM | Barclays WSL | 14k coins | +26.4% |
-| Millie Bright | 87 | CB | Barclays WSL | 4k coins | -41.3% |
-| Joe Cole | 87 | RW | Premier League | 13k coins | +6.2% |
-| Steve McManaman | 87 | RM | Premier League | 13k coins | +11.1% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | +8.7% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +4.4% |
-| Ledley King | 86 | CB | Premier League | 13k coins | +20.8% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +7% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 13k coins | +18.2% |
+| Harry Kane | 89 | ST | Bundesliga | 2k coins | +15% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +9.5% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 14k coins | +5.5% |
+| Georgia Stanway | 88 | CDM | GPFBL | 13k coins | +10.2% |
+| Millie Bright | 87 | CB | Barclays WSL | 4k coins | -24.6% |
+| Steve McManaman | 87 | RM | Premier League | 13k coins | +15.6% |
+| Fara Williams | 86 | CM | Barclays WSL | 11k coins | +4.4% |
+| Jamie Carragher | 86 | CB | Premier League | 12k coins | -2.2% |
+| Ledley King | 86 | CB | Premier League | 12k coins | +4.3% |
 | Alex Scott | 85 | RB | Barclays WSL | 12k coins | +4.4% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +7% |
+| Jordan Pickford | 84 | GK | Premier League | 2k coins | +29.4% |
 
 
 ## 📈 Destaques
 
-- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **13k coins**
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins**
 
-- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **14k coins**
 
-- **Millie Bright (87, CB)** da Barclays WSL, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Georgia Stanway (88, CDM)** da GPFBL, a apenas **13k coins**
 
 
 ## Por que estas cartas?
