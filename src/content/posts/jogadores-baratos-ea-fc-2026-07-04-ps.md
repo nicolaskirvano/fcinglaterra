@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T19:52:05.000Z
+pubDatetime: 2026-07-04T22:52:05.000Z
 title: "Jogadores baratos de Ingleses no EA FC (04/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,13 +29,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | +43.8% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +43.8% |
-| Georgia Stanway | 88 | CDM | GPFBL | 15k coins | +18% |
-| Millie Bright | 87 | CB | Barclays WSL | 4k coins | -25.4% |
-| Joe Cole | 87 | RW | Premier League | 14k coins | +18.8% |
-| Ledley King | 86 | CB | Premier League | 14k coins | +18.4% |
-| Alex Scott | 85 | RB | Barclays WSL | 12k coins | +8.9% |
+| Harry Kane | 89 | ST | Bundesliga | 2k coins | +53.3% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +57.1% |
+| Millie Bright | 87 | CB | Barclays WSL | 5k coins | -3.9% |
+| Steve McManaman | 87 | RM | Premier League | 14k coins | +24.4% |
+| Jamie Carragher | 86 | CB | Premier League | 12k coins | +11.1% |
+| Ledley King | 86 | CB | Premier League | 14k coins | +8.5% |
+| Fara Williams | 86 | CM | Barclays WSL | 15k coins | +31.1% |
+| Alex Scott | 85 | RB | Barclays WSL | 12k coins | +28.9% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 14k coins | +39.5% |
+| Ryan Yates | 85 | CDM | Premier League | 15k coins | -6.3% |
+| Tino Livramento | 85 | RB | Premier League | 15k coins | +7.5% |
 | Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 15k coins | +13.5% |
 
 
@@ -45,11 +49,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Georgia Stanway (88, CDM)** da GPFBL, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Millie Bright (87, CB)** da Barclays WSL, a apenas **5k coins**
 
-- **Millie Bright (87, CB)** da Barclays WSL, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Steve McManaman (87, RM)** da Premier League, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Joe Cole (87, RW)** da Premier League, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Jamie Carragher (86, CB)** da Premier League, a apenas **12k coins**
 
 
 ## Por que estas cartas?
