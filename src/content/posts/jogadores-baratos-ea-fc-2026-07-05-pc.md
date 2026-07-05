@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T19:52:09.000Z
+pubDatetime: 2026-07-05T22:52:09.000Z
 title: "Jogadores baratos de Ingleses no EA FC (05/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 05/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (05/07/2026)?"
-    a: "Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 10k coins no PC."
+    a: "Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 9k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **05/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Jude Bellingham (90) por apenas 10k coins.
+> 💰 **Melhor pechincha:** Jude Bellingham (90) por apenas 9k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,26 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +66.1% |
-| Harry Kane | 89 | ST | Bundesliga | 3k coins | +150% |
-| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | +123.1% |
-| Joe Cole | 87 | RW | Premier League | 14k coins | +26.1% |
-| Jamie Carragher | 86 | CB | Premier League | 11k coins | +7% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 9k coins | +50% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +85.7% |
+| Harry Kane | 89 | ST | Bundesliga | 3k coins | +92.3% |
+| Joe Cole | 87 | RW | Premier League | 12k coins | +13.6% |
 | Fara Williams | 86 | CM | Barclays WSL | 12k coins | +7% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -2.3% |
+| Jamie Carragher | 86 | CB | Premier League | 13k coins | +7% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +4.5% |
+| Alex Scott | 85 | RB | Barclays WSL | 13k coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **10k coins** — já **valorizando**, sinal de procura crescente.
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **9k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Joe Cole (87, RW)** da Premier League, a apenas **12k coins**
 
-- **Joe Cole (87, RW)** da Premier League, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Jamie Carragher (86, CB)** da Premier League, a apenas **11k coins**
+- **Fara Williams (86, CM)** da Barclays WSL, a apenas **12k coins**
 
 
 ## Por que estas cartas?
@@ -65,7 +66,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (05/07/2026)?**  
-Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 10k coins no PC.
+Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 9k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
