@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T13:52:09.000Z
+pubDatetime: 2026-07-05T16:52:09.000Z
 title: "Jogadores baratos de Ingleses no EA FC (05/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,25 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +56.1% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +91.7% |
-| Fara Williams | 86 | CM | Barclays WSL | 11k coins | 0% |
-| Jamie Carragher | 86 | CB | Premier League | 14k coins | +13.3% |
-| Alex Scott | 85 | RB | Barclays WSL | 12k coins | +4.4% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +6.7% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +83% |
+| Harry Kane | 89 | ST | Bundesliga | 3k coins | +145.5% |
+| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | +123.1% |
+| Georgia Stanway | 88 | CDM | GPFBL | 15k coins | -7.1% |
+| Grace Clinton | 87 | CAM | Barclays WSL | 15k coins | +12.3% |
+| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +9.3% |
+| Jamie Carragher | 86 | CB | Premier League | 14k coins | +25.6% |
+| Alex Scott | 85 | RB | Barclays WSL | 11k coins | +6.8% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **10k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Fara Williams (86, CM)** da Barclays WSL, a apenas **11k coins**
+- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Jamie Carragher (86, CB)** da Premier League, a apenas **14k coins**
+- **Georgia Stanway (88, CDM)** da GPFBL, a apenas **15k coins**
 
-- **Alex Scott (85, RB)** da Barclays WSL, a apenas **12k coins**
+- **Grace Clinton (87, CAM)** da Barclays WSL, a apenas **15k coins**
 
 
 ## Por que estas cartas?
