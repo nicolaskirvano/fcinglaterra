@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T16:52:09.000Z
+pubDatetime: 2026-07-05T19:52:09.000Z
 title: "Jogadores baratos de Ingleses no EA FC (05/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,15 +29,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +83% |
-| Harry Kane | 89 | ST | Bundesliga | 3k coins | +145.5% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +66.1% |
+| Harry Kane | 89 | ST | Bundesliga | 3k coins | +150% |
 | Alessia Russo | 89 | ST | Barclays WSL | 3k coins | +123.1% |
-| Georgia Stanway | 88 | CDM | GPFBL | 15k coins | -7.1% |
-| Grace Clinton | 87 | CAM | Barclays WSL | 15k coins | +12.3% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +9.3% |
-| Jamie Carragher | 86 | CB | Premier League | 14k coins | +25.6% |
-| Alex Scott | 85 | RB | Barclays WSL | 11k coins | +6.8% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | 0% |
+| Joe Cole | 87 | RW | Premier League | 14k coins | +26.1% |
+| Jamie Carragher | 86 | CB | Premier League | 11k coins | +7% |
+| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +7% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -2.3% |
 
 
 ## 📈 Destaques
@@ -48,9 +46,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Georgia Stanway (88, CDM)** da GPFBL, a apenas **15k coins**
+- **Joe Cole (87, RW)** da Premier League, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Grace Clinton (87, CAM)** da Barclays WSL, a apenas **15k coins**
+- **Jamie Carragher (86, CB)** da Premier League, a apenas **11k coins**
 
 
 ## Por que estas cartas?
