@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T19:52:05.000Z
+pubDatetime: 2026-07-07T22:52:05.000Z
 title: "Jogadores baratos de Ingleses no EA FC (07/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 07/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (07/07/2026)?"
-    a: "Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 10k coins no Console (PS)."
+    a: "Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 11k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **07/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Jude Bellingham (90) por apenas 10k coins.
+> 💰 **Melhor pechincha:** Jude Bellingham (90) por apenas 11k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,31 +29,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | -23.8% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +19% |
-| Tyler Morton | 88 | CDM | Ligue 1 McDonald's | 14k coins | -17.1% |
-| Millie Bright | 87 | CB | Barclays WSL | 4k coins | +18.5% |
-| Grace Clinton | 87 | CAM | Barclays WSL | 14k coins | +14% |
-| Joe Cole | 87 | RW | Premier League | 15k coins | +22.4% |
-| Steve McManaman | 87 | RM | Premier League | 15k coins | +4.3% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +10.9% |
-| Jamie Carragher | 86 | CB | Premier League | 14k coins | +19.6% |
-| Eric Dier | 86 | CB | Ligue 1 McDonald's | 14k coins | -1.4% |
-| Ledley King | 86 | CB | Premier League | 14k coins | +7.7% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 11k coins | -25.3% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +15% |
+| Tyler Morton | 88 | CDM | Ligue 1 McDonald's | 15k coins | -14.3% |
+| Steve McManaman | 87 | RM | Premier League | 13k coins | +10.6% |
+| Grace Clinton | 87 | CAM | Barclays WSL | 13k coins | +4% |
+| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +6.4% |
+| Jamie Carragher | 86 | CB | Premier League | 12k coins | +4.3% |
+| Ledley King | 86 | CB | Premier League | 13k coins | +20.8% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | -4.1% |
+| Tino Livramento | 85 | RB | Premier League | 14k coins | -22.2% |
+| Micah Richards | 85 | RB | Premier League | 14k coins | -19.2% |
+| Alex Scott | 85 | RB | Barclays WSL | 14k coins | +12% |
 | Charlie Cresswell | 85 | CB | Ligue 1 McDonald's | 15k coins | +5.4% |
+| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14k coins | +21.8% |
 
 
 ## 📈 Destaques
 
-- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **10k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Tyler Morton (88, CDM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Tyler Morton (88, CDM)** da Ligue 1 McDonald's, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Millie Bright (87, CB)** da Barclays WSL, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+- **Steve McManaman (87, RM)** da Premier League, a apenas **13k coins**
 
-- **Grace Clinton (87, CAM)** da Barclays WSL, a apenas **14k coins**
+- **Grace Clinton (87, CAM)** da Barclays WSL, a apenas **13k coins**
 
 
 ## Por que estas cartas?
@@ -70,7 +72,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (07/07/2026)?**  
-Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 10k coins no Console (PS).
+Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 11k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
