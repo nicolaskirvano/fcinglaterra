@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T10:52:09.000Z
+pubDatetime: 2026-07-07T13:52:09.000Z
 title: "Jogadores baratos de Ingleses no EA FC (07/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,28 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +59.7% |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | +37.5% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +158.8% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +65.3% |
+| Harry Kane | 89 | ST | Bundesliga | 3k coins | +75% |
+| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | +217.6% |
 | Steve McManaman | 87 | RM | Premier League | 11k coins | 0% |
-| Joe Cole | 87 | RW | Premier League | 14k coins | -3.8% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +7% |
-| Jamie Carragher | 86 | CB | Premier League | 13k coins | +23.3% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -6.2% |
-| Alex Scott | 85 | RB | Barclays WSL | 12k coins | -11.3% |
+| Fara Williams | 86 | CM | Barclays WSL | 12k coins | 0% |
+| Ledley King | 86 | CB | Premier League | 12k coins | -10.7% |
+| Jamie Carragher | 86 | CB | Premier League | 13k coins | +18.6% |
+| Alex Scott | 85 | RB | Barclays WSL | 12k coins | -13.2% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **10k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Steve McManaman (87, RM)** da Premier League, a apenas **11k coins**
 
-- **Joe Cole (87, RW)** da Premier League, a apenas **14k coins**
+- **Fara Williams (86, CM)** da Barclays WSL, a apenas **12k coins**
 
 
 ## Por que estas cartas?

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T10:52:05.000Z
+pubDatetime: 2026-07-07T13:52:05.000Z
 title: "Jogadores baratos de Ingleses no EA FC (07/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,16 +30,15 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Harry Kane | 89 | ST | Bundesliga | 2k coins | +66.7% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +122.2% |
-| Georgia Stanway | 88 | CDM | GPFBL | 14k coins | +1.8% |
-| Steve McManaman | 87 | RM | Premier League | 12k coins | +8.7% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | +4.5% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | 0% |
-| Alex Scott | 85 | RB | Barclays WSL | 11k coins | -12% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | -4.1% |
-| Micah Richards | 85 | RB | Premier League | 15k coins | -10.4% |
-| Charlie Cresswell | 85 | CB | Ligue 1 McDonald's | 15k coins | +5.4% |
-| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14k coins | -6.6% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +133.3% |
+| Georgia Stanway | 88 | CDM | GPFBL | 14k coins | +5.5% |
+| Millie Bright | 87 | CB | Barclays WSL | 4k coins | -2.9% |
+| Grace Clinton | 87 | CAM | Barclays WSL | 14k coins | +25% |
+| Joe Cole | 87 | RW | Premier League | 15k coins | +18% |
+| Ledley King | 86 | CB | Premier League | 15k coins | -3.6% |
+| Charlie Cresswell | 85 | CB | Ligue 1 McDonald's | 14k coins | +1.8% |
+| Lotte Wubben-Moy | 85 | CB | Barclays WSL | 15k coins | -72.3% |
+| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14k coins | -1.6% |
 
 
 ## 📈 Destaques
@@ -50,9 +49,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Georgia Stanway (88, CDM)** da GPFBL, a apenas **14k coins**
 
-- **Steve McManaman (87, RM)** da Premier League, a apenas **12k coins**
+- **Millie Bright (87, CB)** da Barclays WSL, a apenas **4k coins**
 
-- **Jamie Carragher (86, CB)** da Premier League, a apenas **12k coins**
+- **Grace Clinton (87, CAM)** da Barclays WSL, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
