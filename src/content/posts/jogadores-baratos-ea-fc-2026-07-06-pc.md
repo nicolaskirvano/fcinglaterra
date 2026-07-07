@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T22:52:10.000Z
+pubDatetime: 2026-07-07T01:52:09.000Z
 title: "Jogadores baratos de Ingleses no EA FC (06/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,24 +30,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Harry Kane | 89 | ST | Bundesliga | 2k coins | +43.8% |
-| Millie Bright | 87 | CB | Barclays WSL | 5k coins | -17.8% |
-| Fara Williams | 86 | CM | Barclays WSL | 11k coins | +9.3% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | +32.6% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +170.6% |
+| Steve McManaman | 87 | RM | Premier League | 11k coins | 0% |
+| Joe Cole | 87 | RW | Premier League | 14k coins | +5.8% |
+| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +9.3% |
 | Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -10.4% |
-| Alex Scott | 85 | RB | Barclays WSL | 12k coins | -7.5% |
+| Alex Scott | 85 | RB | Barclays WSL | 12k coins | -11.3% |
 
 
 ## 📈 Destaques
 
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Millie Bright (87, CB)** da Barclays WSL, a apenas **5k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Fara Williams (86, CM)** da Barclays WSL, a apenas **11k coins**
+- **Steve McManaman (87, RM)** da Premier League, a apenas **11k coins**
 
-- **Jamie Carragher (86, CB)** da Premier League, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
+- **Joe Cole (87, RW)** da Premier League, a apenas **14k coins**
 
-- **Jill Scott (85, CM)** da Barclays Women’s Super League, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Fara Williams (86, CM)** da Barclays WSL, a apenas **12k coins**
 
 
 ## Por que estas cartas?
