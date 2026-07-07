@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T16:52:05.000Z
+pubDatetime: 2026-07-07T19:52:05.000Z
 title: "Jogadores baratos de Ingleses no EA FC (07/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,32 +29,31 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +82.5% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +122.2% |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | +83.3% |
-| Keira Walsh | 89 | CDM | Barclays WSL | 14k coins | +5.3% |
-| Georgia Stanway | 88 | CDM | GPFBL | 13k coins | 0% |
-| Declan Rice | 87 | CDM | Premier League | 2k coins | +100% |
-| Millie Bright | 87 | CB | Barclays WSL | 4k coins | +11.4% |
-| Steve McManaman | 87 | RM | Premier League | 14k coins | +26.1% |
-| Grace Clinton | 87 | CAM | Barclays WSL | 15k coins | +16.7% |
-| Fara Williams | 86 | CM | Barclays WSL | 13k coins | +25.5% |
-| Ledley King | 86 | CB | Premier League | 15k coins | +7.1% |
-| Alex Scott | 85 | RB | Barclays WSL | 13k coins | +8% |
-| Charlie Cresswell | 85 | CB | Ligue 1 McDonald's | 14k coins | +5.4% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | -23.8% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +19% |
+| Tyler Morton | 88 | CDM | Ligue 1 McDonald's | 14k coins | -17.1% |
+| Millie Bright | 87 | CB | Barclays WSL | 4k coins | +18.5% |
+| Grace Clinton | 87 | CAM | Barclays WSL | 14k coins | +14% |
+| Joe Cole | 87 | RW | Premier League | 15k coins | +22.4% |
+| Steve McManaman | 87 | RM | Premier League | 15k coins | +4.3% |
+| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +10.9% |
+| Jamie Carragher | 86 | CB | Premier League | 14k coins | +19.6% |
+| Eric Dier | 86 | CB | Ligue 1 McDonald's | 14k coins | -1.4% |
+| Ledley King | 86 | CB | Premier League | 14k coins | +7.7% |
+| Charlie Cresswell | 85 | CB | Ligue 1 McDonald's | 15k coins | +5.4% |
 
 
 ## 📈 Destaques
 
-- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **10k coins** — já **valorizando**, sinal de procura crescente.
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **10k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Tyler Morton (88, CDM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **14k coins**
+- **Millie Bright (87, CB)** da Barclays WSL, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Georgia Stanway (88, CDM)** da GPFBL, a apenas **13k coins**
+- **Grace Clinton (87, CAM)** da Barclays WSL, a apenas **14k coins**
 
 
 ## Por que estas cartas?
