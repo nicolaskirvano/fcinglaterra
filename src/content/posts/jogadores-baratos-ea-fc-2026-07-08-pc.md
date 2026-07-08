@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-08T13:52:09.000Z
+pubDatetime: 2026-07-08T16:52:09.000Z
 title: "Jogadores baratos de Ingleses no EA FC (08/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,13 +30,14 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +2.5% |
-| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | +33.3% |
-| Harry Kane | 89 | ST | Bundesliga | 3k coins | +88.9% |
-| Millie Bright | 87 | CB | Barclays WSL | 6k coins | +87.1% |
+| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | +45% |
+| Harry Kane | 89 | ST | Bundesliga | 4k coins | +112.5% |
+| Steve McManaman | 87 | RM | Premier League | 11k coins | 0% |
+| Grace Clinton | 87 | CAM | Barclays WSL | 15k coins | 0% |
 | Fara Williams | 86 | CM | Barclays WSL | 12k coins | +7% |
-| Jamie Carragher | 86 | CB | Premier League | 13k coins | +13% |
-| Alex Scott | 85 | RB | Barclays WSL | 11k coins | -13.5% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | 0% |
+| Jamie Carragher | 86 | CB | Premier League | 12k coins | +4.3% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | +2.3% |
+| Alex Scott | 85 | RB | Barclays WSL | 11k coins | -6.2% |
 
 
 ## 📈 Destaques
@@ -45,11 +46,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Millie Bright (87, CB)** da Barclays WSL, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
+- **Steve McManaman (87, RM)** da Premier League, a apenas **11k coins**
 
-- **Fara Williams (86, CM)** da Barclays WSL, a apenas **12k coins**
+- **Grace Clinton (87, CAM)** da Barclays WSL, a apenas **15k coins**
 
 
 ## Por que estas cartas?
