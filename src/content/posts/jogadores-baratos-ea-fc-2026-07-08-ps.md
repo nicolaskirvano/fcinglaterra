@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-08T19:52:05.000Z
+pubDatetime: 2026-07-08T22:52:05.000Z
 title: "Jogadores baratos de Ingleses no EA FC (08/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,17 +29,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | -38.4% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +27.8% |
-| Harry Kane | 89 | ST | Bundesliga | 4k coins | +150% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | -40.3% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +50% |
+| Harry Kane | 89 | ST | Bundesliga | 3k coins | +135.7% |
 | Georgia Stanway | 88 | CDM | GPFBL | 15k coins | +20% |
-| Declan Rice | 87 | CDM | Premier League | 2k coins | +166.7% |
-| Steve McManaman | 87 | RM | Premier League | 13k coins | +21.7% |
 | Joe Cole | 87 | RW | Premier League | 14k coins | +14.3% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +15.2% |
-| Jamie Carragher | 86 | CB | Premier League | 14k coins | +21.7% |
-| Ledley King | 86 | CB | Premier League | 14k coins | +11.5% |
-| Tino Livramento | 85 | RB | Premier League | 14k coins | -18.9% |
+| Grace Clinton | 87 | CAM | Barclays WSL | 14k coins | +16% |
+| Joe Gelhardt | 86 | ST | EFL Championship | 12k coins | +16.7% |
+| Jamie Carragher | 86 | CB | Premier League | 13k coins | +13% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 14k coins | +32.6% |
+| Alex Scott | 85 | RB | Barclays WSL | 15k coins | +27.7% |
 
 
 ## 📈 Destaques
@@ -48,11 +47,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Georgia Stanway (88, CDM)** da GPFBL, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Declan Rice (87, CDM)** da Premier League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Joe Cole (87, RW)** da Premier League, a apenas **14k coins**
 
 
 ## Por que estas cartas?
