@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-08T10:52:05.000Z
+pubDatetime: 2026-07-08T13:52:05.000Z
 title: "Jogadores baratos de Ingleses no EA FC (08/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,17 +29,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 11k coins | -28.3% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +15% |
-| Harry Kane | 89 | ST | Bundesliga | 3k coins | +82.4% |
-| Declan Rice | 87 | CDM | Premier League | 2k coins | +113.3% |
-| Millie Bright | 87 | CB | Barclays WSL | 3k coins | +3.3% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 11k coins | -25% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +26.3% |
+| Michelle Agyemang | 89 | ST | Barclays Women’s Super League | 15k coins | +4.7% |
+| Declan Rice | 87 | CDM | Premier League | 2k coins | +153.3% |
+| Millie Bright | 87 | CB | Barclays WSL | 4k coins | +9.7% |
 | Steve McManaman | 87 | RM | Premier League | 12k coins | +4.3% |
-| Grace Clinton | 87 | CAM | Barclays WSL | 14k coins | +16% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | +10.9% |
-| Ledley King | 86 | CB | Premier League | 15k coins | +25% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -6.2% |
-| Alex Scott | 85 | RB | Barclays WSL | 12k coins | +2% |
+| Grace Clinton | 87 | CAM | Barclays WSL | 13k coins | +8% |
+| Joe Cole | 87 | RW | Premier League | 13k coins | +8.2% |
+| Jamie Carragher | 86 | CB | Premier League | 12k coins | +4.3% |
+| Ledley King | 86 | CB | Premier League | 14k coins | +12.5% |
+| Alex Scott | 85 | RB | Barclays WSL | 12k coins | +6.4% |
 
 
 ## 📈 Destaques
@@ -48,11 +48,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Michelle Agyemang (89, ST)** da Barclays Women’s Super League, a apenas **15k coins**
 
 - **Declan Rice (87, CDM)** da Premier League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Millie Bright (87, CB)** da Barclays WSL, a apenas **3k coins**
+- **Millie Bright (87, CB)** da Barclays WSL, a apenas **4k coins**
 
 
 ## Por que estas cartas?
