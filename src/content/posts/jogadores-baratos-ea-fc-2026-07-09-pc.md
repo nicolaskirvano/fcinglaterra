@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-09T13:52:09.000Z
+pubDatetime: 2026-07-09T16:52:09.000Z
 title: "Jogadores baratos de Ingleses no EA FC (09/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 09/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (09/07/2026)?"
-    a: "Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 12k coins no PC."
+    a: "Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 11k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **09/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Jude Bellingham (90) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Jude Bellingham (90) por apenas 11k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,21 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 12k coins | -11.5% |
-| Harry Kane | 89 | ST | Bundesliga | 4k coins | +207.1% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 11k coins | -15.7% |
+| Harry Kane | 89 | ST | Bundesliga | 4k coins | +200% |
 | Declan Rice | 87 | CDM | Premier League | 2k coins | +126.7% |
-| Millie Bright | 87 | CB | Barclays WSL | 5k coins | +105.9% |
+| Millie Bright | 87 | CB | Barclays WSL | 4k coins | +40.6% |
+| Steve McManaman | 87 | RM | Premier League | 11k coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Declan Rice (87, CDM)** da Premier League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Millie Bright (87, CB)** da Barclays WSL, a apenas **5k coins** — já **valorizando**, sinal de procura crescente.
+- **Millie Bright (87, CB)** da Barclays WSL, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Steve McManaman (87, RM)** da Premier League, a apenas **11k coins**
 
 
 ## Por que estas cartas?
@@ -60,7 +63,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (09/07/2026)?**  
-Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 12k coins no PC.
+Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 11k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
