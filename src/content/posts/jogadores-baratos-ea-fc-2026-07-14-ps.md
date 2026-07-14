@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-14T13:52:05.000Z
+pubDatetime: 2026-07-14T16:52:05.000Z
 title: "Jogadores baratos de Ingleses no EA FC (14/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,12 +29,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 6k coins | -39.4% |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | -29.2% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | -23.8% |
-| Steve McManaman | 87 | RM | Premier League | 14k coins | +16.7% |
-| Grace Clinton | 87 | CAM | Barclays WSL | 15k coins | +6.9% |
-| Fara Williams | 86 | CM | Barclays WSL | 14k coins | +20.8% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 6k coins | -39% |
+| Ben Chilwell | 90 | LB | Ligue 1 McDonald's | 15k coins | -2.3% |
+| Harry Kane | 89 | ST | Bundesliga | 2k coins | -33.3% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | -28.6% |
+| Steve McManaman | 87 | RM | Premier League | 13k coins | +7.4% |
+| Fara Williams | 86 | CM | Barclays WSL | 14k coins | +14% |
+| Jamie Carragher | 86 | CB | Premier League | 15k coins | +20% |
 | Jill Scott | 85 | CM | Barclays Women’s Super League | 15k coins | +20% |
 
 
@@ -42,13 +43,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **6k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Ben Chilwell (90, LB)** da Ligue 1 McDonald's, a apenas **15k coins**
+
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Steve McManaman (87, RM)** da Premier League, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Grace Clinton (87, CAM)** da Barclays WSL, a apenas **15k coins**
+- **Steve McManaman (87, RM)** da Premier League, a apenas **13k coins**
 
 
 ## Por que estas cartas?
