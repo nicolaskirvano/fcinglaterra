@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-14T22:52:05.000Z
+pubDatetime: 2026-07-15T01:52:05.000Z
 title: "Jogadores baratos de Ingleses no EA FC (14/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,24 +29,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | -9.1% |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | -33.3% |
-| Millie Bright | 87 | CB | Barclays WSL | 3k coins | -5.9% |
-| Steve McManaman | 87 | RM | Premier League | 12k coins | 0% |
-| Jamie Carragher | 86 | CB | Premier League | 14k coins | +9.8% |
-| Fara Williams | 86 | CM | Barclays WSL | 15k coins | +15.4% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 14k coins | +11.5% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | -13% |
+| Millie Bright | 87 | CB | Barclays WSL | 3k coins | -9.1% |
+| Steve McManaman | 87 | RM | Premier League | 14k coins | +11.5% |
+| Jamie Carragher | 86 | CB | Premier League | 14k coins | +7.8% |
 
 
 ## 📈 Destaques
 
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Millie Bright (87, CB)** da Barclays WSL, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Millie Bright (87, CB)** da Barclays WSL, a apenas **3k coins**
-
-- **Steve McManaman (87, RM)** da Premier League, a apenas **12k coins**
+- **Steve McManaman (87, RM)** da Premier League, a apenas **14k coins**
 
 - **Jamie Carragher (86, CB)** da Premier League, a apenas **14k coins**
 
