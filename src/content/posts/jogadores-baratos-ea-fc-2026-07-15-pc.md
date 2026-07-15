@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-15T16:52:09.000Z
+pubDatetime: 2026-07-15T19:52:09.000Z
 title: "Jogadores baratos de Ingleses no EA FC (15/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 15/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (15/07/2026)?"
-    a: "Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 3k coins no PC."
+    a: "Alessia Russo (89, Barclays WSL) aparece como melhor custo-benefício, a 3k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **15/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Harry Kane (89) por apenas 3k coins.
+> 💰 **Melhor pechincha:** Alessia Russo (89) por apenas 3k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | +11.1% |
 | Harry Kane | 89 | ST | Bundesliga | 3k coins | -25% |
-| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | +7.4% |
-| Bukayo Saka | 88 | RW | Premier League | 2k coins | +7.7% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 14k coins | +25.6% |
+| Millie Bright | 87 | CB | Barclays WSL | 2k coins | -62.7% |
+| Fara Williams | 86 | CM | Barclays WSL | 14k coins | +46.7% |
 
 
 ## 📈 Destaques
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3k coins**
 
-- **Bukayo Saka (88, RW)** da Premier League, a apenas **2k coins**
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jill Scott (85, CM)** da Barclays Women’s Super League, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Millie Bright (87, CB)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Fara Williams (86, CM)** da Barclays WSL, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -60,7 +60,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (15/07/2026)?**  
-Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 3k coins no PC.
+Alessia Russo (89, Barclays WSL) aparece como melhor custo-benefício, a 3k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
