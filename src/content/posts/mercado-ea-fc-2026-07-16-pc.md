@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:52:17.000Z
-title: "Ingleses no EA FC hoje (16/07/2026): mercado, altas, baixas e previsões — PC"
+pubDatetime: 2026-07-16T23:59:10.000Z
+title: "Mercado EA FC em 16/07: Ingleses — PC"
 draft: false
 featured: true
 tags:
@@ -10,84 +10,92 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 16/07/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
+description: "Dados de 16/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (16/07/2026)?"
-    a: "Paul Scholes (88, Icons), com +57.1% em 24h, a 105k coins no PC."
+    a: "Jill Scott (87, Barclays WSL), com +57.9% em 24h, a 29k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Steve McManaman (89), -49.2% em 24h, a 30k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Michael Cheek (84) — 55% de probabilidade de alta, a 47k coins."
+    a: "Lewis Hall (89), -46.9% em 24h, a 50k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 62 cartas em alta contra 52 em queda (média 1.95%)."
+    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 56 cartas em alta contra 49 em queda (média 0.86%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**16/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **62 subiram**, **52 caíram** (80+ e 5k+ coins), média de **1.95%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**16/07/2026**, PC) o Ultimate Team está em mercado **de lado** — altas e quedas se equilibram — **56 subiram**, **49 caíram** (80+ e 5k+ coins), média de **0.86%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Paul Scholes (88) **+57.1%** · 🔴 **Maior baixa:** Steve McManaman (89) **-49.2%**
+> 🟢 **Maior alta:** Jill Scott (87) **+57.9%** · 🔴 **Maior baixa:** Lewis Hall (89) **-46.9%**
+
+![Gráfico de variação em 24h para os destaques de Mercado EA FC em 16/07: Ingleses — PC](/charts/mercado-ea-fc-2026-07-16-pc.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## Leitura específica deste recorte
+
+- **Amplitude do dia:** 104.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 53.3% entre as cartas que se moveram; o universo observado reúne 156 cartas.
+- **Concentração:** Premier League aparece em 9 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Paul Scholes | 88 | Icons | 105k coins | +57.1% | +82% |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 50k coins | +50% | +59.1% |
-| Jill Scott | 87 | Barclays WSL | 30k coins | +48.1% | -29% |
+| Jill Scott | 87 | Barclays WSL | 29k coins | +57.9% | -29% |
 | Wayne Rooney | 92 | Icons | 290k coins | +45% | +19.8% |
-| Leif Davis | 84 | EFL Championship | 56k coins | +40.1% | +23.8% |
-| Harry Maguire | 90 | Premier League | 276k coins | +38.7% | +7.4% |
-| Ryan Yates | 85 | Premier League | 27k coins | +38.4% | +15.5% |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 49k coins | +42.9% | +43.9% |
+| Harry Maguire | 90 | Premier League | 276k coins | +38.7% | +12.2% |
+| Elliot Anderson | 89 | Premier League | 147k coins | +38.7% | +5% |
 | James Milner | 88 | Premier League | 55k coins | +37.5% | +34.1% |
-| Elliot Anderson | 89 | Premier League | 147k coins | +36.1% | +5% |
-| Jobe Bellingham | 89 | Bundesliga | 360k coins | +33.3% | +86.5% |
+| Leif Davis | 84 | EFL Championship | 54k coins | +34.1% | +19.1% |
+| Jobe Bellingham | 89 | Bundesliga | 360k coins | +33.3% | +80% |
+| Fara Williams | 88 | Barclays WSL | 52k coins | +30% | +114.4% |
+| Lewis Miley | 89 | Premier League | 65k coins | +30% | +31.3% |
 
 
 ### Análise das altas
 
-- **Paul Scholes (88)** subiu **+57.1%** em 24h, a **105k coins** (faixa do dia: 78k–129k). Está +23% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Jill Scott (87)** subiu **+57.9%** em 24h, a **29k coins** (faixa do dia: 14k–40k). Está -12% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Ben Chilwell (90)** subiu **+50%** em 24h, a **50k coins** (faixa do dia: 35k–55k). Está +49% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Wayne Rooney (92)** subiu **+45%** em 24h, a **290k coins** (faixa do dia: 200k–290k). Está +17% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Jill Scott (87)** subiu **+48.1%** em 24h, a **30k coins** (faixa do dia: 14k–40k). Está em linha com a média de 7 dias (-8%). O modelo vê **estabilização** no curto prazo.
+- **Ben Chilwell (90)** subiu **+42.9%** em 24h, a **49k coins** (faixa do dia: 35k–55k). Está +44% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Steve McManaman | 89 | Premier League | 30k coins | -49.2% | -34.8% |
-| Ollie Watkins | 90 | Premier League | 24k coins | -48.9% | -38.6% |
-| Lewis Hall | 89 | Premier League | 48k coins | -45.6% | -34.7% |
-| Georgia Stanway | 86 | GPFBL | 50k coins | -39.5% | -36.3% |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 75k coins | -38.9% | -20.3% |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 24k coins | -34.2% | -17.2% |
-| Nico O'Reilly | 88 | Premier League | 40k coins | -25.7% | -30.2% |
+| Lewis Hall | 89 | Premier League | 50k coins | -46.9% | -36.3% |
+| Anthony Gordon | 88 | Premier League | 302k coins | -44.9% | +1% |
+| Angel Gomes | 83 | Ligue 1 McDonald's | 27k coins | -36.7% | +21.3% |
+| Declan Rice | 88 | Premier League | 60k coins | -34.4% | -4.8% |
+| Tyler Morton | 88 | Ligue 1 McDonald's | 30k coins | -34.2% | -17.2% |
+| Nico O'Reilly | 88 | Premier League | 42k coins | -25.7% | -30.2% |
+| Kyrell Lisbie | 84 | EFL League One | 34k coins | -23.3% | -13.8% |
 | Lotte Wubben-Moy | 85 | Barclays WSL | 42k coins | -22% | +6.2% |
-| Alex Scott | 89 | Barclays WSL | 50k coins | -21.7% | -9.1% |
-| Tom Ince | 84 | EFL Championship | 43k coins | -21.4% | -18.4% |
+| Tom Ince | 84 | EFL Championship | 43k coins | -21.8% | -18.9% |
+| Ryan Yates | 85 | Premier League | 25k coins | -21.6% | +5.8% |
 
 
 ### Análise das baixas
 
-- **Steve McManaman (89)** caiu **-49.2%** em 24h, a **30k coins** (faixa do dia: 32k–66k). Está -40% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Lewis Hall (89)** caiu **-46.9%** em 24h, a **50k coins** (faixa do dia: 46k–96k). Está -19% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Ollie Watkins (90)** caiu **-48.9%** em 24h, a **24k coins** (faixa do dia: 24k–60k). Está -41% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Anthony Gordon (88)** caiu **-44.9%** em 24h, a **302k coins** (faixa do dia: 284k–550k). Está em linha com a média de 7 dias (+1%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Lewis Hall (89)** caiu **-45.6%** em 24h, a **48k coins** (faixa do dia: 48k–96k). Está -24% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 45% de probabilidade.
+- **Angel Gomes (83)** caiu **-36.7%** em 24h, a **27k coins** (faixa do dia: 19k–46k). Está -22% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
-## 🔮 Projeções do modelo para 24h
+## Decisão prática para hoje
 
-Os nomes com **melhor leitura de valorização** segundo o modelo (confiança alta):
+- **Evite perseguir topo:** Jill Scott já avançou 57.9% em 24h; espere nova cotação antes de entrar.
 
-| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
-| --- | --- | --- | --- | --- |
-| Michael Cheek | 84 | 47k coins | 49k coins | 55% |
-| Tom Ince | 84 | 43k coins | 45k coins | 53% |
+- **Queda não é compra automática:** Lewis Hall recuou -46.9%; confirme estabilização e liquidez.
+
+- Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
 
 ## ⚙️ A engine por tras deste post
@@ -97,16 +105,13 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (16/07/2026)?**  
-Paul Scholes (88, Icons), com +57.1% em 24h, a 105k coins no PC.
+Jill Scott (87, Barclays WSL), com +57.9% em 24h, a 29k coins no PC.
 
 **E a maior queda do dia?**  
-Steve McManaman (89), -49.2% em 24h, a 30k coins.
-
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Michael Cheek (84) — 55% de probabilidade de alta, a 47k coins.
+Lewis Hall (89), -46.9% em 24h, a 50k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 62 cartas em alta contra 52 em queda (média 1.95%).
+Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 56 cartas em alta contra 49 em queda (média 0.86%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
@@ -117,3 +122,10 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 ---
 
 *Preços de PC, referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Investimentos EA FC: Ingleses em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)

@@ -1,69 +1,81 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:52:09.000Z
-title: "Melhores investimentos em Ingleses no EA FC (16/07/2026): análise e previsões — Console (PS)"
+pubDatetime: 2026-07-16T23:59:02.000Z
+title: "Investimentos EA FC: Ingleses em 16/07 — Console (PS)"
 draft: false
 featured: true
 tags:
   - investimentos
   - trading
-  - previsoes
+  - momentum
+  - risco
   - ps
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 16/07/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
+description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 16/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Jobe Bellingham (89, Bundesliga) lidera, com +81.7% em 7 dias a 211k coins no Console (PS)."
+    a: "Jobe Bellingham (89, Bundesliga) lidera, com +79.2% em 7 dias a 215k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
     a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
 ---
 
-## Por que estas cartas
+## Critério deste radar
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **16/07/2026** no **Console (PS)**:
+Esta lista de **16/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Jobe Bellingham (89) acumula **+81.7% em 7 dias** a 211k coins.
+> 🔝 **Destaque:** Jobe Bellingham (89) acumula **+79.2% em 7 dias** a 215k coins; leitura atual: **esticada**.
+
+![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 16/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-16-ps.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## O que os números desta lista mostram
+
+- A mediana é de **+6.7% em 24h** e **+17.2% em 7 dias**.
+- **3 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de perseguir o movimento:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jobe Bellingham | 89 | Bundesliga | 211k coins | +3.8% | +81.7% | 0% |
-| Luke Shaw | 86 | Premier League | 22k coins | +13.6% | +40.8% | 11% |
-| Declan Rice | 94 | Premier League | 192k coins | +13.6% | +39.1% | 0% |
-| Jack Payne | 84 | EFL League Two | 37k coins | +11% | +21.1% | 34% |
-| Rico Lewis | 86 | Premier League | 45k coins | +35.9% | +19.1% | 29% |
-| David Beckham | 88 | Icons | 84k coins | +8.4% | +18.3% | 13% |
-| Declan Rice | 88 | Premier League | 40k coins | +23.7% | +14.6% | 16% |
-| Lucy Bronze | 95 | Barclays WSL | 139k coins | +6.4% | +8.1% | 0% |
-| Leah Williamson | 95 | Barclays WSL | 118k coins | +22.3% | +7.3% | 0% |
-| Georgia Stanway | 88 | Liga F | 44k coins | +15.4% | +7.1% | 0% |
-| Kelly Smith | 89 | Icons | 84k coins | +5.2% | +5.2% | 0% |
-| Ella Toone | 86 | Barclays Women’s Super League | 39k coins | +26.8% | +5% | 0% |
+| Jobe Bellingham | 89 | Bundesliga | 215k coins | +2.4% | +79.2% | Esticada |
+| Luke Shaw | 86 | Premier League | 50k coins | +13.6% | +53.8% | Momentum moderado |
+| Harry Kane | 91 | Bundesliga | 178k coins | +2.6% | +46% | Momentum moderado |
+| Declan Rice | 94 | Premier League | 189k coins | +6.5% | +28.6% | Momentum moderado |
+| Lewis Miley | 89 | Premier League | 42k coins | +26.2% | +20.3% | Esticada |
+| David Beckham | 88 | Icons | 80k coins | +9.1% | +19.1% | Momentum moderado |
+| Agnes Beever-Jones | 90 | Barclays WSL | 75k coins | +29.3% | +15.4% | Esticada |
+| Dom Ballard | 84 | EFL League One | 40k coins | +1.1% | +11.4% | Entrada a observar |
+| Rico Lewis | 86 | Premier League | 44k coins | +13.9% | +11.1% | Momentum moderado |
+| Charlie Cresswell | 85 | Ligue 1 McDonald's | 34k coins | +6.9% | +10.2% | Momentum moderado |
+| Geoff Hurst | 90 | Icons | 74k coins | +6.5% | +5.7% | Momentum moderado |
+| Ollie Watkins | 86 | Premier League | 40k coins | +6.3% | +5.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Jobe Bellingham (89)** — 211k coins, **+81.7% em 7 dias** (+3.8% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jobe Bellingham (89)** — 215k coins, **+79.2% em 7 dias** (+2.4% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Luke Shaw (86)** — 22k coins, **+40.8% em 7 dias** (+13.6% em 24h). Preço -43% abaixo da média de 7 dias (descontada). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Luke Shaw (86)** — 50k coins, **+53.8% em 7 dias** (+13.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Declan Rice (94)** — 192k coins, **+39.1% em 7 dias** (+13.6% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Harry Kane (91)** — 178k coins, **+46% em 7 dias** (+2.6% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jack Payne (84)** — 37k coins, **+21.1% em 7 dias** (+11% em 24h). Preço em linha com a média de 7 dias (-0%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Declan Rice (94)** — 189k coins, **+28.6% em 7 dias** (+6.5% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rico Lewis (86)** — 45k coins, **+19.1% em 7 dias** (+35.9% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Lewis Miley (89)** — 42k coins, **+20.3% em 7 dias** (+26.2% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
 
 - **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
 - Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
-- **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- **Liquidez importa**: cartas de ligas e ratings populares tendem a vender mais rápido.
+- Em cartas *esticadas*, espere uma nova cotação ou correção; não trate alta passada como promessa futura.
 
 
 ## ⚙️ A engine por tras deste post
@@ -73,7 +85,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Jobe Bellingham (89, Bundesliga) lidera, com +81.7% em 7 dias a 211k coins no Console (PS).
+Jobe Bellingham (89, Bundesliga) lidera, com +79.2% em 7 dias a 215k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -87,3 +99,10 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de Console (PS), referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Mercado EA FC em 16/07: Ingleses — Console (PS)](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
