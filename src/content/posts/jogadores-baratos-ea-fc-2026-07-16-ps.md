@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T10:52:05.000Z
+pubDatetime: 2026-07-16T13:52:05.000Z
 title: "Jogadores baratos de Ingleses no EA FC (16/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,25 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +4.8% |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | -37.1% |
-| Millie Bright | 87 | CB | Barclays WSL | 4k coins | +21.6% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | -39.6% |
-| Fara Williams | 86 | CM | Barclays WSL | 13k coins | -42% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 15k coins | -37.5% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | 0% |
+| Millie Bright | 87 | CB | Barclays WSL | 4k coins | +5.3% |
+| Fara Williams | 86 | CM | Barclays WSL | 14k coins | -43.3% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 14k coins | -42.6% |
 
 
 ## 📈 Destaques
 
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins**
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Millie Bright (87, CB)** da Barclays WSL, a apenas **4k coins**
 
-- **Millie Bright (87, CB)** da Barclays WSL, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+- **Fara Williams (86, CM)** da Barclays WSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jamie Carragher (86, CB)** da Premier League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Fara Williams (86, CM)** da Barclays WSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jill Scott (85, CM)** da Barclays Women’s Super League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
