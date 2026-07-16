@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fcinglaterra.pages.dev/",
     title: "England FUT Market",
     description:
-      "Precos e mercado dos jogadores ingleses no EA FC Ultimate Team, todos os dias.",
+      "preços e mercado dos jogadores ingleses no EA FC Ultimate Team, todos os dias.",
     author: "England FUT Market",
-    profile: "https://fcinglaterra.pages.dev/",
+    profile: "https://fcinglaterra.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "England FUT Market",
