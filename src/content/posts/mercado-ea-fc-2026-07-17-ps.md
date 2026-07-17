@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T13:52:07.000Z
+pubDatetime: 2026-07-17T16:52:07.000Z
 title: "Mercado EA FC em 17/07: Ingleses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Chloe Kelly (88, Barclays WSL), com +42.9% em 24h, a 100k coins no Console (PS)."
+    a: "Joe Cole (87, Premier League), com +40.7% em 24h, a 22k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "John Barnes (89), -46.3% em 24h, a 40k coins."
+    a: "Joe Cole (88), -40.7% em 24h, a 210k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 60 cartas em alta contra 63 em queda (média 0.97%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 55 cartas em alta contra 62 em queda (média 0.32%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em dia **indefinido** — sem tendência dominante: das cartas relevantes (80+ acima de 5k coins), **60 subiram** e **63 caíram**, com variação média de **0.97%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em dia **indefinido** — sem tendência dominante: das cartas relevantes (80+ acima de 5k coins), **55 subiram** e **62 caíram**, com variação média de **0.32%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Chloe Kelly (88) **+42.9%** · 🔴 **Maior baixa:** John Barnes (89) **-46.3%**
+> 🟢 **Maior alta:** Joe Cole (87) **+40.7%** · 🔴 **Maior baixa:** Joe Cole (88) **-40.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Ingleses — Console (PS)](/charts/mercado-ea-fc-2026-07-17-ps.svg)
 
@@ -35,65 +35,65 @@ Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 89.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.8% entre as cartas que se moveram; o universo observado reúne 149 cartas.
-- **Concentração:** Premier League aparece em 9 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 81.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.0% entre as cartas que se moveram; o universo observado reúne 141 cartas.
+- **Concentração:** Premier League aparece em 10 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Chloe Kelly | 88 | Barclays WSL | 100k coins | +42.9% | +77.4% |
-| Lauren James | 89 | Barclays WSL | 68k coins | +42.3% | +38% |
-| Beth Mead | 88 | Barclays WSL | 54k coins | +37% | +7.6% |
-| Alessia Russo | 90 | Barclays WSL | 65k coins | +36.8% | +25% |
-| Archie Brown | 85 | Trendyol Süper Lig | 74k coins | +35.7% | +31% |
-| Rico Lewis | 86 | Premier League | 52k coins | +22.6% | +14.4% |
-| Kobbie Mainoo | 90 | Premier League | 82k coins | +19.2% | -17.4% |
-| Anthony Gordon | 90 | Premier League | 738k coins | +18.9% | +16.2% |
-| Harry Kane | 90 | Bundesliga | 190k coins | +18.5% | +49.2% |
-| Harvey Barnes | 86 | Premier League | 44k coins | +18.2% | +13.6% |
+| Joe Cole | 87 | Premier League | 22k coins | +40.7% | +3.8% |
+| Alessia Russo | 90 | Barclays WSL | 65k coins | +36.8% | +16.1% |
+| Beth Mead | 88 | Barclays WSL | 48k coins | +30.2% | -4.9% |
+| Tyler Morton | 88 | Ligue 1 McDonald's | 33k coins | +28.2% | +53.1% |
+| Rico Lewis | 86 | Premier League | 53k coins | +26.2% | +17.8% |
+| Jamie Vardy | 89 | Serie A TIM | 500k coins | +25% | +25.3% |
+| Lewis Miley | 83 | Premier League | 48k coins | +22.9% | +23.7% |
+| Eberechi Eze | 86 | Premier League | 119k coins | +22.5% | +26.9% |
+| Ledley King | 86 | Premier League | 24k coins | +20.3% | -17.8% |
+| Eberechi Eze | 88 | Premier League | 65k coins | +19.3% | +20.4% |
 
 
 ### Análise das altas
 
-- **Chloe Kelly (88)** subiu **+42.9%** em 24h, a **100k coins** (faixa do dia: 80k–137k). Está +22% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Joe Cole (87)** subiu **+40.7%** em 24h, a **22k coins** (faixa do dia: 13.875–26k). Está +14% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Lauren James (89)** subiu **+42.3%** em 24h, a **68k coins** (faixa do dia: 39k–80k). Está +38% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Alessia Russo (90)** subiu **+36.8%** em 24h, a **65k coins** (faixa do dia: 32k–65k). Está +40% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Beth Mead (88)** subiu **+37%** em 24h, a **54k coins** (faixa do dia: 34k–60k). Está em linha com a média de 7 dias (+4%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Beth Mead (88)** subiu **+30.2%** em 24h, a **48k coins** (faixa do dia: 34k–60k). Está em linha com a média de 7 dias (-5%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| John Barnes | 89 | Icons | 40k coins | -46.3% | -24.8% |
-| Max Aarons | 85 | Scottish Premiership | 29k coins | -42.7% | -31.5% |
-| Paul Scholes | 91 | Icons | 185k coins | -36.7% | -11.3% |
-| Mateus Mané | 88 | Premier League | 34k coins | -35.4% | -19.4% |
-| Peter Crouch | 87 | Premier League | 150k coins | -31.8% | -22.7% |
-| Agnes Beever-Jones | 90 | Barclays WSL | 55k coins | -26.7% | -7.6% |
-| Mateus Mané | 86 | Premier League | 34k coins | -24% | -14.5% |
-| Ben Thompson | 84 | EFL League Two | 36k coins | -20.4% | -28.7% |
-| Ollie Watkins | 86 | Premier League | 42k coins | -17.9% | -8.6% |
-| Kyle Walker | 89 | Premier League | 344k coins | -16.9% | +18.2% |
+| Joe Cole | 88 | Premier League | 210k coins | -40.7% | -23.6% |
+| Lewis Hall | 89 | Premier League | 100k coins | -32% | +10.5% |
+| Mateus Mané | 88 | Premier League | 38k coins | -28.3% | -11.6% |
+| Caleb Taylor | 84 | EFL Championship | 32k coins | -28.1% | -30.4% |
+| Paul Scholes | 91 | Icons | 149k coins | -27.3% | +4.6% |
+| Mateus Mané | 86 | Premier League | 34k coins | -25.1% | -14.1% |
+| Angel Gomes | 83 | Ligue 1 McDonald's | 28k coins | -24.7% | +1.8% |
+| Wayne Rooney | 92 | Icons | 208k coins | -23.6% | +5.5% |
+| Freya Godfrey | 83 | Barclays WSL | 64k coins | -23.1% | +19.3% |
+| Max Aarons | 85 | Scottish Premiership | 31k coins | -21.5% | -4.6% |
 
 
 ### Análise das baixas
 
-- **John Barnes (89)** caiu **-46.3%** em 24h, a **40k coins** (faixa do dia: 40k–74k). Está -26% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Joe Cole (88)** caiu **-40.7%** em 24h, a **210k coins** (faixa do dia: 210k–354k). Está -28% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Max Aarons (85)** caiu **-42.7%** em 24h, a **29k coins** (faixa do dia: 17.250–43k). Está -17% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Lewis Hall (89)** caiu **-32%** em 24h, a **100k coins** (faixa do dia: 88k–147k). Está +17% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Paul Scholes (91)** caiu **-36.7%** em 24h, a **185k coins** (faixa do dia: 130k–265k). Está -9% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Mateus Mané (88)** caiu **-28.3%** em 24h, a **38k coins** (faixa do dia: 30k–55k). Está em linha com a média de 7 dias (-2%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Chloe Kelly já avançou 42.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Joe Cole já avançou 40.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** John Barnes recuou -46.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Joe Cole recuou -40.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -105,13 +105,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (17/07/2026)?**  
-Chloe Kelly (88, Barclays WSL), com +42.9% em 24h, a 100k coins no Console (PS).
+Joe Cole (87, Premier League), com +40.7% em 24h, a 22k coins no Console (PS).
 
 **E a maior queda do dia?**  
-John Barnes (89), -46.3% em 24h, a 40k coins.
+Joe Cole (88), -40.7% em 24h, a 210k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 60 cartas em alta contra 63 em queda (média 0.97%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 55 cartas em alta contra 62 em queda (média 0.32%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
@@ -126,7 +126,6 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Ingleses em 17/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-17-ps/)
 - [Investimentos EA FC: Ingleses em 17/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-17-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

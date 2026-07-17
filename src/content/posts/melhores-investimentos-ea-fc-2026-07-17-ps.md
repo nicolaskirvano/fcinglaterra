@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T13:52:09.000Z
+pubDatetime: 2026-07-17T16:52:09.000Z
 title: "Investimentos EA FC: Ingleses em 17/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Steven Gerrard (89, Icons) lidera, com +60.8% em 7 dias a 160k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Lauren Hemp (90, Barclays WSL) lidera, com +55% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Steven Gerrard (89) acumula **+60.8% em 7 dias** a 160k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Lauren Hemp (90) acumula **+55% em 7 dias** a 50k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 17/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-17-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.8% em 24h** e **+26.4% em 7 dias**.
+- A mediana é de **+10.9% em 24h** e **+29.7% em 7 dias**.
 - **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Premier League** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Steven Gerrard | 89 | Icons | 160k coins | +7.4% | +60.8% | Esticada |
-| Harry Kane | 90 | Bundesliga | 190k coins | +18.5% | +49.2% | Momentum moderado |
-| Wayne Rooney | 92 | Icons | 220k coins | +3.6% | +46.9% | Momentum moderado |
-| James Milner | 88 | Premier League | 100k coins | +15.5% | +40% | Momentum moderado |
-| Harry Kane | 92 | Bundesliga | 230k coins | +16% | +38.1% | Momentum moderado |
-| Archie Brown | 85 | Trendyol Süper Lig | 74k coins | +35.7% | +31% | Esticada |
-| Harry Maguire | 90 | Premier League | 213k coins | +7.6% | +29.1% | Momentum moderado |
-| Jordan Henderson | 85 | Premier League | 110k coins | +1.9% | +26.4% | Momentum moderado |
-| Jamie Vardy | 90 | Serie A TIM | 214k coins | +1.9% | +25.9% | Momentum moderado |
-| Alessia Russo | 90 | Barclays WSL | 65k coins | +36.8% | +25% | Esticada |
-| Anthony Gordon | 87 | Premier League | 55k coins | +5.8% | +22.2% | Momentum moderado |
-| Dominic Solanke | 87 | Premier League | 49k coins | +9.8% | +20.8% | Momentum moderado |
-| Geoff Hurst | 90 | Icons | 96k coins | +12.7% | +16.6% | Momentum moderado |
-| David Beckham | 89 | Icons | 55k coins | +5.9% | +15.7% | Momentum moderado |
-| Millie Bright | 94 | Barclays WSL | 76k coins | +15.1% | +15.1% | Momentum moderado |
+| Lauren Hemp | 90 | Barclays WSL | 50k coins | +3.1% | +55% | Momentum moderado |
+| Tyler Morton | 88 | Ligue 1 McDonald's | 33k coins | +28.2% | +53.1% | Esticada |
+| Steven Gerrard | 89 | Icons | 140k coins | +1.4% | +47.7% | Momentum moderado |
+| Jude Bellingham | 90 | LALIGA EA SPORTS | 16.000 coins | +13% | +41.9% | Momentum moderado |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 55k coins | +18.9% | +39.2% | Momentum moderado |
+| Anthony Gordon | 87 | Premier League | 55k coins | +10% | +32.5% | Momentum moderado |
+| Harry Maguire | 90 | Premier League | 214k coins | +4.9% | +31.1% | Momentum moderado |
+| Jamie Vardy | 90 | Serie A TIM | 210k coins | +10.9% | +29.7% | Momentum moderado |
+| Noni Madueke | 86 | Premier League | 42k coins | +6.9% | +29.5% | Momentum moderado |
+| Micah Richards | 85 | Premier League | 44k coins | +14.1% | +29.4% | Momentum moderado |
+| Conor Gallagher | 91 | Premier League | 139k coins | +7.1% | +29.3% | Momentum moderado |
+| Eberechi Eze | 86 | Premier League | 119k coins | +22.5% | +26.9% | Esticada |
+| Eberechi Eze | 88 | Premier League | 65k coins | +19.3% | +20.4% | Momentum moderado |
+| Morgan Rogers | 87 | Premier League | 105k coins | +21% | +19.8% | Esticada |
+| Jess Park | 84 | Barclays WSL | 40k coins | +3.9% | +19.4% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Steven Gerrard (89)** — 160k coins, **+60.8% em 7 dias** (+7.4% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lauren Hemp (90)** — 50k coins, **+55% em 7 dias** (+3.1% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Harry Kane (90)** — 190k coins, **+49.2% em 7 dias** (+18.5% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tyler Morton (88)** — 33k coins, **+53.1% em 7 dias** (+28.2% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wayne Rooney (92)** — 220k coins, **+46.9% em 7 dias** (+3.6% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Gerrard (89)** — 140k coins, **+47.7% em 7 dias** (+1.4% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **James Milner (88)** — 100k coins, **+40% em 7 dias** (+15.5% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jude Bellingham (90)** — 16.000 coins, **+41.9% em 7 dias** (+13% em 24h). Preço +67% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Harry Kane (92)** — 230k coins, **+38.1% em 7 dias** (+16% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ben Chilwell (90)** — 55k coins, **+39.2% em 7 dias** (+18.9% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Steven Gerrard (89, Icons) lidera, com +60.8% em 7 dias a 160k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Lauren Hemp (90, Barclays WSL) lidera, com +55% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -106,7 +106,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Ingleses em 17/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-17-ps/)
 - [Mercado EA FC em 17/07: Ingleses — Console (PS)](/posts/mercado-ea-fc-2026-07-17-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
