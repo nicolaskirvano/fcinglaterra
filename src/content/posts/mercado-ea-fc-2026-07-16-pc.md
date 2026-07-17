@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:11:58.000Z
+pubDatetime: 2026-07-17T01:52:17.000Z
 title: "Mercado EA FC em 16/07: Ingleses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 16/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (16/07/2026)?"
-    a: "Wayne Rooney (92, Icons), com +45% em 24h, a 290k coins no PC."
+    a: "Charlie Cresswell (85, Ligue 1 McDonald's), com +57.5% em 24h, a 28k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Ollie Watkins (90), -48.9% em 24h, a 50k coins."
+    a: "Anthony Gordon (88), -45.1% em 24h, a 301k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 55 cartas em alta contra 51 em queda (média 1.01%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 67 cartas em alta contra 56 em queda (média 1.8%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**16/07/2026**, PC) o Ultimate Team está em mercado **de lado** — altas e quedas se equilibram — **55 subiram**, **51 caíram** (80+ e 5k+ coins), média de **1.01%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**16/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **67 subiram**, **56 caíram** (80+ e 5k+ coins), média de **1.8%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Wayne Rooney (92) **+45%** · 🔴 **Maior baixa:** Ollie Watkins (90) **-48.9%**
+> 🟢 **Maior alta:** Charlie Cresswell (85) **+57.5%** · 🔴 **Maior baixa:** Anthony Gordon (88) **-45.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 16/07: Ingleses — PC](/charts/mercado-ea-fc-2026-07-16-pc.svg)
 
@@ -35,65 +35,65 @@ Hoje (**16/07/2026**, PC) o Ultimate Team está em mercado **de lado** — altas
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 93.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.9% entre as cartas que se moveram; o universo observado reúne 156 cartas.
-- **Concentração:** Premier League aparece em 11 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 102.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 54.5% entre as cartas que se moveram; o universo observado reúne 170 cartas.
+- **Concentração:** Premier League aparece em 14 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Wayne Rooney | 92 | Icons | 290k coins | +45% | +16.5% |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 49k coins | +42.9% | +42.9% |
+| Charlie Cresswell | 85 | Ligue 1 McDonald's | 28k coins | +57.5% | +15% |
+| Harry Maguire | 90 | Premier League | 276k coins | +44.5% | +14% |
+| Wayne Rooney | 92 | Icons | 280k coins | +42.5% | +14% |
 | Elliot Anderson | 89 | Premier League | 147k coins | +40% | +5% |
-| Harry Maguire | 90 | Premier League | 276k coins | +38.7% | +13.1% |
+| Harry Kane | 90 | Bundesliga | 200k coins | +39.9% | +42.9% |
 | James Milner | 88 | Premier League | 55k coins | +37.5% | +34.1% |
-| Leif Davis | 84 | EFL Championship | 54k coins | +34.9% | +19.1% |
-| Fara Williams | 88 | Barclays WSL | 45k coins | +34.2% | +114.4% |
+| Anthony Gordon | 87 | Premier League | 70k coins | +37.3% | +27.3% |
+| Adam Wharton | 88 | Premier League | 31k coins | +36.8% | -30% |
+| Conor Gallagher | 91 | Premier League | 120k coins | +34.1% | +36.4% |
 | Jobe Bellingham | 89 | Bundesliga | 360k coins | +33.3% | +80% |
-| Lewis Miley | 89 | Premier League | 48k coins | +30% | +31.3% |
-| Adam Wharton | 88 | Premier League | 30k coins | +29.3% | -30% |
 
 
 ### Análise das altas
 
-- **Wayne Rooney (92)** subiu **+45%** em 24h, a **290k coins** (faixa do dia: 200k–290k). Está +17% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Charlie Cresswell (85)** subiu **+57.5%** em 24h, a **28k coins** (faixa do dia: 18.250–30k). Está em linha com a média de 7 dias (+7%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Ben Chilwell (90)** subiu **+42.9%** em 24h, a **49k coins** (faixa do dia: 35k–55k). Está +45% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Harry Maguire (90)** subiu **+44.5%** em 24h, a **276k coins** (faixa do dia: 191k–276k). Está +11% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Elliot Anderson (89)** subiu **+40%** em 24h, a **147k coins** (faixa do dia: 104k–169k). Está +14% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Wayne Rooney (92)** subiu **+42.5%** em 24h, a **280k coins** (faixa do dia: 200k–290k). Está +13% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ollie Watkins | 90 | Premier League | 50k coins | -48.9% | -38.2% |
-| Lewis Hall | 89 | Premier League | 50k coins | -46.9% | -36.3% |
-| Anthony Gordon | 88 | Premier League | 302k coins | -44.9% | +1% |
-| Angel Gomes | 83 | Ligue 1 McDonald's | 27k coins | -39.4% | +16% |
-| Declan Rice | 88 | Premier League | 60k coins | -34.4% | -4.8% |
-| Nico O'Reilly | 88 | Premier League | 42k coins | -25.7% | -27% |
-| Kyrell Lisbie | 84 | EFL League One | 34k coins | -23.3% | -13.8% |
-| Lotte Wubben-Moy | 85 | Barclays WSL | 42k coins | -22% | +6.2% |
-| Tom Ince | 84 | EFL Championship | 43k coins | -21.8% | -18.9% |
-| Ryan Yates | 85 | Premier League | 25k coins | -21.6% | +5.8% |
+| Anthony Gordon | 88 | Premier League | 301k coins | -45.1% | +0.7% |
+| Lewis Hall | 89 | Premier League | 50k coins | -43.9% | -32.7% |
+| Angel Gomes | 83 | Ligue 1 McDonald's | 25k coins | -42.2% | +10.6% |
+| Declan Rice | 88 | Premier League | 60k coins | -36.5% | -4.8% |
+| Eberechi Eze | 87 | Premier League | 58k coins | -34.6% | -20.7% |
+| Nico O'Reilly | 88 | Premier League | 40k coins | -32.3% | -23.6% |
+| Ryan Yates | 85 | Premier League | 24k coins | -29.9% | -15.3% |
+| Micah Richards | 85 | Premier League | 20k coins | -27% | -25% |
+| Tino Livramento | 85 | Premier League | 25k coins | -24.6% | -17.3% |
+| Chris Smalling | 87 | ROSHN Saudi League | 50k coins | -23.3% | +9.4% |
 
 
 ### Análise das baixas
 
-- **Ollie Watkins (90)** caiu **-48.9%** em 24h, a **50k coins** (faixa do dia: 24k–60k). Está +22% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Anthony Gordon (88)** caiu **-45.1%** em 24h, a **301k coins** (faixa do dia: 284k–550k). Está em linha com a média de 7 dias (+1%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Lewis Hall (89)** caiu **-46.9%** em 24h, a **50k coins** (faixa do dia: 48k–96k). Está -19% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Lewis Hall (89)** caiu **-43.9%** em 24h, a **50k coins** (faixa do dia: 48k–96k). Está -19% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Anthony Gordon (88)** caiu **-44.9%** em 24h, a **302k coins** (faixa do dia: 284k–550k). Está em linha com a média de 7 dias (+1%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Angel Gomes (83)** caiu **-42.2%** em 24h, a **25k coins** (faixa do dia: 19.000–45k). Está -29% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Wayne Rooney já avançou 45% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Charlie Cresswell já avançou 57.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Ollie Watkins recuou -48.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Anthony Gordon recuou -45.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -105,13 +105,13 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (16/07/2026)?**  
-Wayne Rooney (92, Icons), com +45% em 24h, a 290k coins no PC.
+Charlie Cresswell (85, Ligue 1 McDonald's), com +57.5% em 24h, a 28k coins no PC.
 
 **E a maior queda do dia?**  
-Ollie Watkins (90), -48.9% em 24h, a 50k coins.
+Anthony Gordon (88), -45.1% em 24h, a 301k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 55 cartas em alta contra 51 em queda (média 1.01%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 67 cartas em alta contra 56 em queda (média 1.8%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
