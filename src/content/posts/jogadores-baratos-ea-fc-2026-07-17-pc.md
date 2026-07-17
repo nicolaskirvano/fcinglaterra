@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:52:19.000Z
+pubDatetime: 2026-07-17T17:20:37.000Z
 title: "Jogadores baratos EA FC: Ingleses em 17/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 17/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (17/07/2026)?"
-    a: "Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 14.750 coins no PC."
+    a: "Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 13.750 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **17/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Jude Bellingham (90) por apenas 14.750 coins.
+> 💰 **Melhor pechincha:** Jude Bellingham (90) por apenas 13.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Ingleses em 17/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-17-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 8.212 coins.
+- **Preço médio das 5 opções:** 6.810 coins.
 - **Posição mais frequente:** ST, com 2 cartas.
-- **Faixa real:** 3.000 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.000 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,28 +40,31 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 14.750 coins | +14.6% |
-| Harry Kane | 89 | ST | Bundesliga | 3.000 coins | +9.7% |
-| Alessia Russo | 89 | ST | Barclays WSL | 3.100 coins | -11.8% |
-| Fara Williams | 86 | CM | Barclays WSL | 12.000 coins | -7.7% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 13.750 coins | +16.7% |
+| Harry Kane | 89 | ST | Bundesliga | 2.800 coins | +6.5% |
+| Alessia Russo | 89 | ST | Barclays WSL | 3.500 coins | -6.2% |
+| Fara Williams | 86 | CM | Barclays WSL | 12.000 coins | 0% |
+| Keira Walsh | 85 | CDM | Liga F | 2.000 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **13.750 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3.100 coins** — já **valorizando**, sinal de procura crescente.
+- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3.500 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Fara Williams (86, CM)** da Barclays WSL, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Keira Walsh (85, CDM)** da Liga F, a apenas **2.000 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Meio:** Jude Bellingham (90, CAM) por 14.750 coins é a referência de rating deste recorte.
+- **Meio:** Jude Bellingham (90, CAM) por 13.750 coins é a referência de rating deste recorte.
 
-- **Ataque:** Harry Kane (89, ST) por 3.000 coins é a referência de rating deste recorte.
+- **Ataque:** Harry Kane (89, ST) por 2.800 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -80,7 +83,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (17/07/2026)?**  
-Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 14.750 coins no PC.
+Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 13.750 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -89,7 +92,7 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
 
-> 🎯 Para montar seus snipes com o mercado ao vivo e o histórico de cada jogador, use o <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>.
+> **Link patrocinado:** 🎯 Para montar seus snipes com o mercado ao vivo e o histórico de cada jogador, use o <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>.
 
 ---
 

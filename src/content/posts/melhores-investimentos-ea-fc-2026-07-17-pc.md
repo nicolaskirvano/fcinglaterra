@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:52:18.000Z
+pubDatetime: 2026-07-17T17:20:35.000Z
 title: "Investimentos EA FC: Ingleses em 17/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Geoff Hurst (90, Icons) lidera, com +61.4% em 7 dias a 67k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Geoff Hurst (90, Icons) lidera, com +61.4% em 7 dias a 65k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Geoff Hurst (90) acumula **+61.4% em 7 dias** a 67k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Geoff Hurst (90) acumula **+61.4% em 7 dias** a 65k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.1% em 24h** e **+22.3% em 7 dias**.
-- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.8% em 24h** e **+25.5% em 7 dias**.
+- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Geoff Hurst | 90 | Icons | 67k coins | +34% | +61.4% | Esticada |
+| Geoff Hurst | 90 | Icons | 65k coins | +34% | +61.4% | Esticada |
 | Eberechi Eze | 88 | Premier League | 81k coins | +13.6% | +54.6% | Momentum moderado |
+| Steven Gerrard | 89 | Icons | 134k coins | +6.9% | +54.4% | Momentum moderado |
 | Jordan Pickford | 85 | Premier League | 45k coins | +9.1% | +49.2% | Momentum moderado |
-| Steven Gerrard | 89 | Icons | 139k coins | +6.9% | +47.9% | Momentum moderado |
-| Anthony Gordon | 87 | Premier League | 70k coins | +17.6% | +37.3% | Momentum moderado |
-| Declan Rice | 89 | Premier League | 80k coins | +17.6% | +29% | Momentum moderado |
+| Anthony Gordon | 87 | Premier League | 62k coins | +17.6% | +37.3% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 87k coins | +17.6% | +29% | Momentum moderado |
+| Leif Davis | 84 | EFL Championship | 56k coins | +9.8% | +28.7% | Momentum moderado |
 | Tyler Morton | 88 | Ligue 1 McDonald's | 31k coins | +7% | +25.5% | Momentum moderado |
-| Leif Davis | 84 | EFL Championship | 56k coins | +8.6% | +22.3% | Momentum moderado |
-| Kobbie Mainoo | 90 | Premier League | 150k coins | +25% | +22% | Esticada |
-| Wayne Rooney | 88 | Icons | 136k coins | +1.5% | +18.3% | Entrada a observar |
-| Alessia Russo | 90 | Barclays WSL | 64k coins | +24% | +15.2% | Esticada |
-| John Barnes | 89 | Icons | 100k coins | +37.9% | +12.4% | Esticada |
-| Mateus Mané | 86 | Premier League | 45k coins | +6.2% | +10.3% | Momentum moderado |
+| Kobbie Mainoo | 90 | Premier League | 150k coins | +25% | +21% | Esticada |
+| Wayne Rooney | 88 | Icons | 136k coins | +2.3% | +17.2% | Entrada a observar |
+| Alessia Russo | 90 | Barclays WSL | 64k coins | +24% | +16.2% | Esticada |
+| Cole Palmer | 89 | Premier League | 70k coins | +11.4% | +15% | Momentum moderado |
+| Mateus Mané | 86 | Premier League | 43k coins | +6.2% | +10.3% | Momentum moderado |
 | Harry Kane | 92 | Bundesliga | 237k coins | +3% | +9.2% | Entrada a observar |
-| Jess Park | 89 | Barclays WSL | 24k coins | +2% | +7.4% | Entrada a observar |
+| Tino Livramento | 85 | Premier League | 22k coins | +8% | +6.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Geoff Hurst (90)** — 67k coins, **+61.4% em 7 dias** (+34% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Geoff Hurst (90)** — 65k coins, **+61.4% em 7 dias** (+34% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Eberechi Eze (88)** — 81k coins, **+54.6% em 7 dias** (+13.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
+- **Steven Gerrard (89)** — 134k coins, **+54.4% em 7 dias** (+6.9% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
 - **Jordan Pickford (85)** — 45k coins, **+49.2% em 7 dias** (+9.1% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steven Gerrard (89)** — 139k coins, **+47.9% em 7 dias** (+6.9% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Anthony Gordon (87)** — 70k coins, **+37.3% em 7 dias** (+17.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Anthony Gordon (87)** — 62k coins, **+37.3% em 7 dias** (+17.6% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Geoff Hurst (90, Icons) lidera, com +61.4% em 7 dias a 67k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Geoff Hurst (90, Icons) lidera, com +61.4% em 7 dias a 65k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -97,7 +97,7 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
-> 🎯 Para montar seus snipes com o mercado ao vivo e o histórico de cada jogador, use o <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>.
+> **Link patrocinado:** 🎯 Para montar seus snipes com o mercado ao vivo e o histórico de cada jogador, use o <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>.
 
 ---
 
