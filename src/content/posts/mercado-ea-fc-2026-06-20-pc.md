@@ -27,13 +27,11 @@ A mediana de 24h do recorte ficou em **-1,3%**: 10 destaques subiam e 10 caíam.
 *Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
 <!-- /historical-review:v1 -->
 
-## 📊 Como está o mercado agora
+## Dados preservados do snapshot
 
-O mercado de cartas inglesas no PC apresenta hoje um cenário de extrema volatilidade e confusão, caracterizado por um sentimento indefinido onde não há uma narrativa dominante guiando os investidores, com uma distribuição quase equilibrada entre altas e quedas que reflete a hesitação da comunidade. Com 50 cartas sofrendo valorização contra 73 em queda, a média geral de variação é negativa de apenas 0,92% nas últimas 24 horas, indicando que o volume de negócios está fragmentado e sem direção clara para o grande capital. Esse ambiente de incerteza exige uma leitura atenta dos fundamentos individuais de cada ativo, pois movimentos impulsivos de curto prazo estão misturados com ajustes estruturais de preços de longo prazo. Traders experientes devem evitar seguir a manada e, em vez disso, focar na dissonância entre a probabilidade de alta projetada pelo modelo e a variação real observada, identificando oportunidades de arbitragem em ativos subvalorizados ou sobrevalorizados temporariamente. O dia de 20 de junho de 2026 serve como um lembrete de que o mercado de FUT é eficiente no longo prazo, mas altamente emocional e irracional no curto prazo, punindo quem entra sem análise fundamentada.
+As 3 tabelas abaixo preservam **21 registros** de **20 jogadores** observados em 20/06/2026 no PC. Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
 
-> 🟢 **Maior alta:** Freya Godfrey (83) **+58.2%** · 🔴 **Maior baixa:** Jamie Vardy (90) **-48.8%**
-
-## 🟢 Maiores altas (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -48,11 +46,7 @@ O mercado de cartas inglesas no PC apresenta hoje um cenário de extrema volatil
 | Alessia Russo | 90 | Barclays WSL | 38k coins | +25.2% | +8.5% |
 | Ethan Nwaneri | 91 | Ligue 1 McDonald's | 67k coins | +25% | -3.8% |
 
-
-As maiores valorizações do dia são lideradas por Freya Godfrey, cuja carta de 83 rating da Barclays WSL disparou impressionantes 58,2% para atingir os 85 mil coins, um movimento que parece desproporcional à sua baixa probabilidade de alta futura de apenas 7%, sugerindo uma compra especulativa de curto prazo ou hype momentâneo sem sustentação técnica. Archie Brown, o meia de 85 rating do Trendyol Süper Lig, subiu 45,4% para 86 mil coins, e aqui a lógica é mais sólida, já que a probabilidade de alta futura é robusta em 68%, indicando que traders informados estão acumulando posições antes de uma possível valorização estrutural. Harry Kane, na sua versão de 91 rating da Bundesliga, registrou alta de 41,9% para 220 mil coins, com uma probabilidade de alta moderada de 35%, o que aponta para uma correção de preço em um ativo premium que estava temporariamente depreciado, atraindo compradores de SBCs ou times competitivos. Declan Rice, com 91 rating na Premier League, é outro destaque, subindo 37,7% para os altíssimos 398 mil coins, apoiado por uma probabilidade de alta de 53%, o que confirma a tendência de valorização de meias defensivos de elite que são essenciais para meta-teams do momento. Ben Thompson, um ativo de baixo custo com 84 rating da EFL League Two, subiu 30,3% para 50 mil coins com probabilidade de alta de 48%, demonstrando como o mercado de entrada também está aquecido, com traders buscando alavancagem rápida em ativos líquidos e de baixo risco relativo.
-
-
-## 🔴 Quem mais caiu (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -67,53 +61,20 @@ As maiores valorizações do dia são lideradas por Freya Godfrey, cuja carta de
 | Angel Gomes | 83 | Ligue 1 McDonald's | 23k coins | -28.5% | +29.2% |
 | Tom Ince | 84 | EFL Championship | 30k coins | -27.6% | -31.7% |
 
-
-No outro extremo, Jamie Vardy sofreu uma queda brutal de 48,8% para 125 mil coins, uma desvalorização massiva em um atacante de 90 rating da Serie A TIM que, apesar de ter 34% de probabilidade de alta, parece estar sendo liquidado por traders que antecipam uma queda de demanda ou saturação de mercado. Lucy Bronze, a lendária lateral de 95 rating da Barclays WSL, caiu 46,4% para 148 mil coins, e embora sua probabilidade de alta seja alta em 64%, a queda atual sugere uma correção de sobrecompra anterior, oferecendo uma oportunidade de entrada para quem acredita na sustentabilidade de defesas premium. Lauren Hemp, com 90 rating da Barclays WSL, despencou 42,7% para apenas 24 mil coins, um movimento alarmante dado seu alto potencial de alta de 73%, indicando que este pode ser um dos melhores pontos de compra do dia para traders com apetite de risco, apostando na rápida recuperação do preço. John Barnes, o ícone de 89 rating, caiu 36,9% para 80 mil coins, com uma probabilidade de alta de 65%, o que reforça a tese de que ícones estão sendo vendidos em pânico ou por necessidade de liquidez, criando uma zona de suporte forte para recompra. Harry Kane, em sua versão de 92 rating da Bundesliga, também registrou queda de 36,9% para 122 mil coins, mas com baixa probabilidade de alta de apenas 20%, sinalizando que esta versão específica do atacante está perdendo relevância para a versão de 91 rating que subiu, uma divergência importante para evitar compras equivocadas.
-
-
-## 🔮 Radar de valorização (24h)
-
-Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
+### Probabilidades registradas no snapshot
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
 | Agnes Beever-Jones | 90 | 50k coins | 51k coins | 81% |
 
+## Como interpretar este arquivo
 
-O modelo de previsão identifica Agnes Beever-Jones, a goleira de 90 rating da Barclays WSL, como o ativo com maior probabilidade de valorização futura, com uma chance de alta de 81%, estando atualmente cotada a 50 mil coins, o que representa uma oportunidade clara de compra baseada em dados quantitativos e não em especulação emocional.
-
-
-## 🎯 O que fazer hoje
-A estratégia ideal para hoje é comprar força em ativos de alta probabilidade que sofreram quedas acentuadas, como Lauren Hemp e Lucy Bronze, enquanto se evita perseguição de altas em ativos de baixa probabilidade como Freya Godfrey, que parecem ser apenas bolhas momentâneas. Deve-se segurar posições em Archie Brown e Declan Rice, pois a convergência entre alta recente e probabilidade futura positiva sugere continuidade da tendência de valorização, maximizando o lucro no médio prazo. É crucial evitar comprar a versão de 92 rating de Harry Kane, dado o sinal negativo de baixa probabilidade de alta, e preferir a versão de 91 rating se a exposição ao jogador for necessária, aproveitando a divergência de preços. Traders devem monitorar de perto Agnes Beever-Jones para entrada imediata, pois a probabilidade de 81% é um indicador estatístico forte de retorno positivo, mesmo em um mercado sem tendência clara. Por fim, a disciplina é fundamental: em um dia com média negativa e sentimento indefinido, a proteção de capital é mais importante do que a busca por ganhos rápidos, focando apenas nas operações com assimetria favorável entre preço atual e projeção de futuro.
-
-
-## 🔍 Como apuramos os preços
-Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultimate Team, atualizada ao longo do dia. Descartamos **anomalias** e erros de coleta, e cruzamos preço, **médias de 24h/7d** e níveis técnicos antes de publicar. É dado curado — não cotação solta da web.
-
-
-## ❓ Perguntas frequentes
-
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
-Freya Godfrey (83, Barclays WSL), com +58.2% em 24h, a 85k coins no PC.
-
-**E a maior queda do dia?**
-Jamie Vardy (90), -48.8% em 24h, a 125k coins.
-
-**Qual carta tinha maior probabilidade registrada nesse snapshot?**
-No snapshot histórico, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 50k coins.
-
-**Como estava o mercado do EA FC nesse dia?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 50 cartas em alta contra 73 em queda (média -0.92%).
-
-**Posso confiar nos preços e previsões do FutQuant?**
-Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
-
-
-> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
-
----
-
-*Preços de PC, referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+- Os preços registrados iam de **22k coins** a **405k coins**, com mediana de **82k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **-1,3%**.
+- A mediana das variações de 7d presentes nas tabelas foi **-7,7%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
 <!-- content-links:v2 -->
 ## Continue a análise
@@ -123,3 +84,7 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 - [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
 - [Ver as análises mais recentes](/posts/)
 - [Entenda a metodologia e os limites dos dados](/about/)
+
+## Fonte e metodologia
+
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.

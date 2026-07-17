@@ -27,13 +27,11 @@ A mediana de 24h do recorte ficou em **+4,6%**: 10 destaques subiam e 10 caíam.
 *Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
 <!-- /historical-review:v1 -->
 
-## 📊 Como está o mercado agora
+## Dados preservados do snapshot
 
-O mercado de jogadores ingleses no console PlayStation apresenta um cenário de extrema volatilidade e indecisão neste dia 20 de junho de 2026, caracterizado pela ausência de uma tendência dominante que possa guiar investidores conservadores. Com um balanço quase equilibrado entre 59 altas e 68 quedas registradas nas últimas 24 horas, a média de variação de apenas 0.82% indica que o volume de negociações está fragmentado, exigindo uma leitura mais aguçada dos fundamentos individuais de cada ativo. O tom do dia é de cautela especulativa, onde os traders devem focar menos na narrativa geral do mercado e mais nas dissonâncias de preço específicas, especialmente em ativos com alta probabilidade de valorização segundo os modelos preditivos. A incerteza reinante cria oportunidades de arbitragem rápida, mas também impõe riscos significantes para quem tentar segurar posições sem uma tese clara de saída, já que a liquidez pode se esgotar rapidamente em ativos de médio porte. Portanto, a estratégia inicial deve ser observar os movimentos bruscos em cartas de ligas secundárias e ícones, que parecem estar reagindo a fatores externos não óbvios, enquanto se aguarda uma consolidação dos preços nos ativos mais negociados da Premier League.
+As 4 tabelas abaixo preservam **36 registros** de **30 jogadores** observados em 20/06/2026 no Console (PS). Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
 
-> 🟢 **Maior alta:** Angel Gomes (83) **+59.3%** · 🔴 **Maior baixa:** Freya Godfrey (83) **-46.6%**
-
-## 🟢 Maiores altas (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -48,11 +46,7 @@ O mercado de jogadores ingleses no console PlayStation apresenta um cenário de 
 | Lucy Bronze | 88 | Barclays WSL | 43k coins | +36.2% | +12.3% |
 | Tyler Morton | 88 | Ligue 1 McDonald's | 21k coins | +27.9% | +14.7% |
 
-
-Os principais impulsionadores de valorização hoje são claramente visíveis nas cartas de ligas menos saturadas e em veteranos da Premier League com escassez de oferta. Angel Gomes, com um rating de 83 da Ligue 1 McDonald's, lidera as altas com um impressionante salto de 59.3% em 24 horas, atingindo a marca de 22k coins, um movimento que sugere uma compra agressiva de squads ou SBCs específicos, apesar da probabilidade de alta futura ser moderada em 40%. Junto a ele, Ethan Nwaneri (91, Ligue 1 McDonald's) subiu 59% para 69k coins, com uma probabilidade de alta robusta de 84%, indicando que a tendência de valorização pode se sustentar se a demanda por meio-campistas jovens persistir. No segmento de veteranos, James Milner (88, Premier League) registrou alta de 55% para 78k coins, com probabilidade de alta de 95%, o que confirma uma forte retenção de ativos por traders de longo prazo que confiam na liquidez constante deste nome. Dan Burn (86, Premier League) também se destaca com alta de 54.3% para 110k coins e probabilidade de alta de 95%, sugerindo que defensores de linha de frente da Premier League estão sendo reavaliados positivamente pelo mercado. Por fim, Harry Maguire (83, Premier League) subiu 52.7% para 48k coins, embora sua probabilidade de alta futura seja de apenas 33%, o que indica que este movimento pode ser uma correção de curto prazo ou uma compra de lastro antes de uma possível estabilização, exigindo cuidado ao tentar lucrar com essa carta específica.
-
-
-## 🔴 Quem mais caiu (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -67,13 +61,7 @@ Os principais impulsionadores de valorização hoje são claramente visíveis na
 | Steven Gerrard | 89 | Icons | 81k coins | -18.9% | -7.2% |
 | Steven Gerrard | 88 | Icons | 87k coins | -18.7% | +4% |
 
-
-A pressão vendedora foi intensa em ativos de alta liquidez e ícones, criando oportunidades de compra para traders com capital suficiente para absorver a volatilidade. Freya Godfrey (83, Barclays WSL) sofreu a maior queda relativa de -46.6% em 24 horas, caindo para 32k coins, mas com probabilidade de alta de 54%, o que sugere que o preço atual pode ser um fundo temporário ideal para acumulação de massa. Ollie Watkins (90, Premier League) despencou -37.5% para 24k coins, com probabilidade de alta baixa de 8%, indicando um sentimento negativo persistente ou saída de investidores que buscavam lucros rápidos em atacantes de elite. Anthony Gordon (88, Premier League) caiu -30% para 223k coins, mantendo probabilidade de alta de 33%, o que mostra que mesmo em preços altos, a falta de demanda imediata pode corroer o valor de ativos premium rapidamente. Lauren Hemp (90, Barclays WSL) recuou -25.9% para 20k coins, com probabilidade de alta de 44%, sugerindo que o mercado feminino ainda apresenta flutuações abruptas que podem ser exploradas com timing preciso. Geoff Hurst (90, Icons) também caiu -25.1% para 34k coins, com probabilidade de alta de 53%, o que indica que ícones de custo mais baixo estão sendo liquidados, possivelmente para cobrir perdas em outros setores ou para liberar espaço em inventários lotados, criando uma janela de oportunidade para compra de ativos de marca forte.
-
-
-## 🔮 Radar de valorização (24h)
-
-Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
+### Probabilidades registradas no snapshot
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -86,13 +74,7 @@ Na publicação original, estas cartas receberam as maiores probabilidades de va
 | Dan Burn | 86 | 110k coins | 131k coins | 95% |
 | Frank Lampard | 87 | 144k coins | 194k coins | 95% |
 
-
-O modelo preditivo identifica uma convergência de fatores que apontam para valorizações significativas em um grupo seleto de ativos, independentemente do sentimento atual de mercado. Anthony Gordon (87, Premier League) é projetado para alta com probabilidade de 95% a 35k coins, o que representa uma divergência clara com a queda recente, sugerindo uma forte correção de preço em andamento. Declan Rice (91, Premier League) aparece com probabilidade de alta de 95% a 250k coins, reforçando sua posição como ativo de refúgio seguro em momentos de incerteza. James Milner (88, Premier League) mantém a projeção de alta de 95% a 78k coins, alinhando-se com a tendência de alta observada nas últimas 24 horas. Bobby Charlton (92, Icons) é projetado para alta de 95% a 90k coins, indicando que ícones de alto rating continuam a atrair capital de investidores de longo prazo. Harry Kane (91, Bundesliga) com probabilidade de alta de 95% a 65k coins, Kelly Smith (89, Icons) a 68k coins, Dan Burn (86, Premier League) a 110k coins e Frank Lampard (87, Icons) a 144k coins completam o grupo de ativos com alta probabilidade de valorização, sugerindo que a estratégia de acumulação deve focar nestes nomes específicos para maximizar o retorno sobre o investimento a médio prazo.
-
-
-## ⚠️ Cuidado: o modelo projeta queda
-
-Naquele snapshot, o modelo indicava **risco de queda** nestas nas próximas 24h — segure a compra:
+### Tabela preservada 4
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
@@ -105,38 +87,14 @@ Naquele snapshot, o modelo indicava **risco de queda** nestas nas próximas 24h 
 | Joe Cole | 88 | 153k coins | -21.4% |
 | Jude Bellingham | 91 | 341k coins | -15.6% |
 
+## Como interpretar este arquivo
 
-## 🎯 O que fazer hoje
-A estratégia recomendada para hoje é focar na acumulação de ativos com alta probabilidade de valorização, como Anthony Gordon, Declan Rice e James Milner, aproveitando as quedas recentes ou a estabilidade dos preços para entrar em posições de longo prazo. Deve-se evitar a venda precipitada de ativos como Freya Godfrey e Geoff Hurst, pois as probabilidades de alta sugerem uma recuperação iminente, enquanto a compra de Ollie Watkins deve ser feita com cautela devido à baixa probabilidade de valorização futura. Traders devem monitorar de perto os movimentos de Angel Gomes e Ethan Nwaneri, pois a alta volatilidade em ligas secundárias pode oferecer lucros rápidos, mas exige saída imediata para evitar reveses. A manutenção de posições em ícones como Bobby Charlton e Frank Lampard é aconselhada, dada a consistência das previsões de alta, enquanto a liquidação de ativos sem fundamentos claros deve ser priorizada para liberar capital. O timing é crucial, pois a média de variação baixa indica que oportunidades podem surgir e desaparecer rapidamente, exigindo vigilância constante e execução disciplinada nas negociações do mercado inglês.
-
-
-## 🔍 Como apuramos os preços
-Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultimate Team, atualizada ao longo do dia. Descartamos **anomalias** e erros de coleta, e cruzamos preço, **médias de 24h/7d** e níveis técnicos antes de publicar. É dado curado — não cotação solta da web.
-
-
-## ❓ Perguntas frequentes
-
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
-Angel Gomes (83, Ligue 1 McDonald's), com +59.3% em 24h, a 22k coins no Console (PS).
-
-**E a maior queda do dia?**
-Freya Godfrey (83), -46.6% em 24h, a 32k coins.
-
-**Qual carta tinha maior probabilidade registrada nesse snapshot?**
-No snapshot histórico, Anthony Gordon (87) — 95% de probabilidade de alta, a 35k coins.
-
-**Como estava o mercado do EA FC nesse dia?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 59 cartas em alta contra 68 em queda (média 0.82%).
-
-**Posso confiar nos preços e previsões do FutQuant?**
-Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
-
-
-> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
-
----
-
-*Preços de Console (PS), referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+- Os preços registrados iam de **20k coins** a **267k coins**, com mediana de **57k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **+4,6%**.
+- A mediana das variações de 7d presentes nas tabelas foi **-8,1%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
 <!-- content-links:v2 -->
 ## Continue a análise
@@ -146,3 +104,7 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 - [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
 - [Ver as análises mais recentes](/posts/)
 - [Entenda a metodologia e os limites dos dados](/about/)
+
+## Fonte e metodologia
+
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.
