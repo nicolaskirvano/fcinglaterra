@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "England FUT Market"
 pubDatetime: 2026-06-19T01:53:07.000Z
-title: "Ingleses no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Ingleses no EA FC em 18/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Anthony Gordon (90, Premier League), com +45.3% em 24h, a 1.50M coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Ethan Nwaneri (91), -36.3% em 24h, a 41k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Anthony Gordon (87) — 95% de probabilidade de alta, a 35k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 69 cartas em alta contra 59 em queda (média 1.96%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 18/06/2026 no PS: Anthony Gordon liderou as altas e Ethan Nwaneri as baixas em Ingleses. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Anthony Gordon** registrou o maior movimento de 24h (+45,3%), enquanto **Ethan Nwaneri** marcou o menor (-36,3%). A distância entre os extremos foi de **81,6 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+2,8%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Ingleses no EA FC em 18/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-18-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de cartas inglesas no console PlayStation apresenta um viés claramente positivo nesta terça-feira, 18 de junho de 2026, com um saldo de 69 valorizações contra 59 quedas, resultando em uma média de alta de 1.96% nas últimas 24 horas. Esse cenário de otimização generalizada sugere que os traders estão acumulando ativos estratégicos para eventos futuros, enquanto a liquidez em segmentos específicos permite movimentos agressivos de preço sem o habitual suporte de venda massiva. O sentimento predominante é de cautela otimista, onde investidores experientes identificam oportunidades rápidas em cartas de médio e baixo valor antes que a arbitragem se normalize. A volatilidade observada em ícones e jogadores da Premier League indica uma redistribuição de capital para ativos com maior utilidade competitiva imediata ou potencial de hype. É fundamental monitorar a probabilidade de alta associada a cada ativo, pois a divergência entre o movimento de preço atual e a previsão do modelo pode indicar correções iminentes ou oportunidades de compra em fundo de baixa.
 
@@ -68,7 +71,7 @@ Anthony Gordon, na versão de 90 rating da Premier League, lidera as valorizaç�
 Ethan Nwaneri (91, Ligue 1 McDonald's) sofre a maior queda com -36.3% em 24 horas, caindo para 41 mil moedas, apesar de manter uma alta probabilidade de alta de 84%, o que sugere uma oportunidade de compra em fundo de baixa para traders de swing. Anthony Gordon na versão de 88 rating da Premier League despencou 34.7% para 190 mil moedas, com probabilidade de alta de apenas 33%, indicando possível saturação de vendas nessa variante específica. Joe Cole (88, Premier League) e Harry Kane (92, Bundesliga) empatam na queda de -21.9%, fechando respectivamente em 142 mil e 225 mil moedas, sendo que a probabilidade de alta de 68% para Kane oferece um contraponto interessante à queda atual. Tino Livramento (85, Premier League) cai 20% para 28 mil moedas com 50% de probabilidade de alta, um cenário neutro que requer confirmação de tendência antes de entrada. Lewis Miley (83, Premier League) despenca 19.9% para 36 mil moedas, mas sua probabilidade de alta de 74% sugere que a venda foi exagerada pelo pânico do mercado, criando um potencial setup de compra de risco controlado.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -113,19 +116,19 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 Anthony Gordon (90, Premier League), com +45.3% em 24h, a 1.50M coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Ethan Nwaneri (91), -36.3% em 24h, a 41k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Anthony Gordon (87) — 95% de probabilidade de alta, a 35k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Anthony Gordon (87) — 95% de probabilidade de alta, a 35k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 69 cartas em alta contra 59 em queda (média 1.96%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 69 cartas em alta contra 59 em queda (média 1.96%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -134,3 +137,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Ingleses baratos no EA FC em 18/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-18-ps/)
+- [Momentum de Ingleses no EA FC em 18/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-18-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "England FUT Market"
 pubDatetime: 2026-06-21T01:53:52.000Z
-title: "Ingleses no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Ingleses no EA FC em 20/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Freya Godfrey (83, Barclays WSL), com +58.2% em 24h, a 85k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Jamie Vardy (90), -48.8% em 24h, a 125k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 50k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 50 cartas em alta contra 73 em queda (média -0.92%)."
-  - q: "Posso confiar nos preços e previsões do FutQuant?"
-    a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
+description: "Snapshot histórico de 20/06/2026 no PC: Freya Godfrey liderou as altas e Jamie Vardy as baixas em Ingleses. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Freya Godfrey** registrou o maior movimento de 24h (+58,2%), enquanto **Jamie Vardy** marcou o menor (-48,8%). A distância entre os extremos foi de **107,0 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-1,3%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Ingleses no EA FC em 20/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-20-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📊 Como está o mercado agora
 
@@ -70,7 +73,7 @@ No outro extremo, Jamie Vardy sofreu uma queda brutal de 48,8% para 125 mil coin
 
 ## 🔮 Radar de valorização (24h)
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -90,19 +93,19 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Freya Godfrey (83, Barclays WSL), com +58.2% em 24h, a 85k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Jamie Vardy (90), -48.8% em 24h, a 125k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 50k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 50k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
+**Como estava o mercado do EA FC nesse dia?**
 Hoje o mercado está em dia indefinido — sem tendência dominante, com 50 cartas em alta contra 73 em queda (média -0.92%).
 
-**Posso confiar nos preços e previsões do FutQuant?**  
+**Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
 
 
@@ -111,3 +114,12 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 ---
 
 *Preços de PC, referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Ingleses baratos no EA FC em 20/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-20-pc/)
+- [Momentum de Ingleses no EA FC em 20/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-20-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

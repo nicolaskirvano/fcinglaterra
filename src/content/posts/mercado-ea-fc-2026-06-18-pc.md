@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "England FUT Market"
 pubDatetime: 2026-06-19T01:56:27.000Z
-title: "Ingleses no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Ingleses no EA FC em 18/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "John Barnes (89, Icons), com +56.6% em 24h, a 148k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Lewis Hall (89), -41% em 24h, a 36k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 59 cartas em alta contra 69 em queda (média 0.01%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 18/06/2026 no PC: John Barnes liderou as altas e Lewis Hall as baixas em Ingleses. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **John Barnes** registrou o maior movimento de 24h (+56,6%), enquanto **Lewis Hall** marcou o menor (-41,0%). A distância entre os extremos foi de **97,6 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+2,3%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Ingleses no EA FC em 18/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-18-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de jogadores ingleses em PC apresenta um cenário de lateralidade extrema nesta segunda-feira, 18 de junho de 2026, caracterizado por uma ausência clara de direção macroeconômica que exige dos traders uma leitura microestrutural muito mais apurada do que o habitual. Com um balanço quase equilibrado entre as forças de compra e venda, registrando 59 altas contra 69 quedas nas últimas 24 horas, a média de variação de preço ficou praticamente neutra em 0.01%, indicando que não há um fluxo de capital massivo empurrando o mercado para cima ou para baixo de forma generalizada. Esse ambiente de incerteza e consolidação sugere que os movimentos individuais são impulsionados por fatores específicos de cada ativo, como rotatividade de inventário, eventos de jogo ou ajustes de preço de mercado, em vez de uma tendência sistêmica que permita estratégias de alavancagem ampla. O trader experiente deve, portanto, evitar a tentação de seguir a manada e focar na análise granular das probabilidades de alta associadas a cada jogador, utilizando a volatilidade local como oportunidade de arbitragem entre ativos correlacionados. A chave para o sucesso hoje reside na identificação de dissonâncias entre o preço atual e a probabilidade estatística de valorização, aproveitando a inércia do mercado para posicionar-se em ativos com fundamental técnico forte antes que a liquidez retorne com mais intensidade.
 
@@ -76,16 +81,16 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 John Barnes (89, Icons), com +56.6% em 24h, a 148k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Lewis Hall (89), -41% em 24h, a 36k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 59 cartas em alta contra 69 em queda (média 0.01%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava lateral — sem direção clara, com 59 cartas em alta contra 69 em queda (média 0.01%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -94,3 +99,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Ingleses baratos no EA FC em 18/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-18-pc/)
+- [Momentum de Ingleses no EA FC em 18/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-18-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
