@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T19:52:17.000Z
+pubDatetime: 2026-07-17T22:52:17.000Z
 title: "Mercado EA FC em 17/07: Ingleses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Ethan Nwaneri (91, Ligue 1 McDonald's), com +57% em 24h, a 84k coins no PC."
+    a: "Georgia Stanway (86, GPFBL), com +48.8% em 24h, a 45k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Jaden Philogene (87), -45.9% em 24h, a 20k coins."
+    a: "Agnes Beever-Jones (90), -49.7% em 24h, a 96k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 44 cartas em alta contra 68 em queda (média -1.99%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 40 cartas em alta contra 61 em queda (média -0.79%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **pressionado** — as quedas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **44 subiram** e **68 caíram**, com variação média de **-1.99%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **pressionado** — as quedas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **40 subiram** e **61 caíram**, com variação média de **-0.79%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Ethan Nwaneri (91) **+57%** · 🔴 **Maior baixa:** Jaden Philogene (87) **-45.9%**
+> 🟢 **Maior alta:** Georgia Stanway (86) **+48.8%** · 🔴 **Maior baixa:** Agnes Beever-Jones (90) **-49.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Ingleses — PC](/charts/mercado-ea-fc-2026-07-17-pc.svg)
 
@@ -35,24 +35,24 @@ Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **pressi
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 39.3% entre as cartas que se moveram; o universo observado reúne 159 cartas.
-- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 98.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 39.6% entre as cartas que se moveram; o universo observado reúne 151 cartas.
+- **Concentração:** Premier League aparece em 9 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 84k coins | +57% | +58.5% |
 | Georgia Stanway | 86 | GPFBL | 45k coins | +48.8% | 0% |
-| Tyler Morton | 83 | Ligue 1 McDonald's | 24k coins | +42% | +16.7% |
-| Micah Richards | 85 | Premier League | 27k coins | +37.5% | -1.8% |
-| Lewis Wing | 86 | 2. Bundesliga | 49k coins | +29.3% | +5.6% |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 31k coins | +29.2% | +37.8% |
-| Jude Bellingham | 92 | LALIGA EA SPORTS | 600k coins | +29% | +41.2% |
-| Geoff Hurst | 90 | Icons | 60k coins | +27% | +52.1% |
-| Alessia Russo | 97 | Barclays WSL | 340k coins | +25.7% | +40.5% |
-| Anthony Gordon | 88 | Premier League | 350k coins | +23.2% | +16.7% |
+| Morgan Rogers | 87 | Premier League | 90k coins | +39.7% | +123.5% |
+| Tyler Morton | 83 | Ligue 1 McDonald's | 24k coins | +34.4% | +3.6% |
+| Micah Richards | 85 | Premier League | 26k coins | +30.9% | +2.9% |
+| Jamie Vardy | 90 | Serie A TIM | 266k coins | +27.1% | 0% |
+| Tino Livramento | 85 | Premier League | 26k coins | +19.8% | +22.6% |
+| Mateus Mané | 88 | Premier League | 38k coins | +17.5% | -24.1% |
+| Anthony Gordon | 88 | Premier League | 350k coins | +16.3% | +16.7% |
+| Bobby Charlton | 92 | Icons | 160k coins | +15.1% | +37.9% |
+| Rachel Williams | 89 | Barclays WSL | 36k coins | +14.5% | +14.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **pressi
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ethan Nwaneri (91)** subiu **+57%** em 24h, a **84k coins** (faixa do dia: 50k–85k). Está +37% acima da média de 7 dias (aquecida).
+- **Georgia Stanway (86)** subiu **+48.8%** em 24h, a **45k coins** (faixa do dia: 45k–50k). Está em linha com a média de 7 dias (+2%).
 
-- **Georgia Stanway (86)** subiu **+48.8%** em 24h, a **45k coins** (faixa do dia: 30k–50k). Está em linha com a média de 7 dias (+2%).
+- **Morgan Rogers (87)** subiu **+39.7%** em 24h, a **90k coins** (faixa do dia: 68k–95k). Está +32% acima da média de 7 dias (aquecida).
 
-- **Tyler Morton (83)** subiu **+42%** em 24h, a **24k coins** (faixa do dia: 16.000–30k). Está +14% acima da média de 7 dias (aquecida).
+- **Tyler Morton (83)** subiu **+34.4%** em 24h, a **24k coins** (faixa do dia: 16.000–30k). Está +14% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jaden Philogene | 87 | EFL Championship | 20k coins | -45.9% | -39.4% |
-| Luke Shaw | 86 | Premier League | 28k coins | -43% | -37.7% |
-| Steven Gerrard | 88 | Icons | 102k coins | -41.4% | -20.9% |
-| Paul Scholes | 88 | Icons | 66k coins | -40.1% | 0% |
-| Ellie Roebuck | 85 | Barclays WSL | 32k coins | -34.7% | -22.2% |
-| Declan Rice | 88 | Premier League | 40k coins | -33.3% | -24.5% |
-| Ollie Watkins | 90 | Premier League | 44k coins | -26.7% | +25.7% |
-| Lucy Bronze | 88 | Barclays WSL | 149k coins | -24.7% | +7.2% |
-| Ian Wright | 87 | Icons | 66k coins | -23.3% | 0% |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 43k coins | -21.8% | +53.6% |
+| Agnes Beever-Jones | 90 | Barclays WSL | 96k coins | -49.7% | -34.6% |
+| Lewis Miley | 83 | Premier League | 60k coins | -37.8% | -25% |
+| Ellie Roebuck | 85 | Barclays WSL | 26k coins | -37.6% | -33.5% |
+| Paul Scholes | 88 | Icons | 66k coins | -36.7% | 0% |
+| Harry Maguire | 83 | Premier League | 119k coins | -36% | +19% |
+| Lucy Bronze | 88 | Barclays WSL | 149k coins | -35.2% | +7.2% |
+| Declan Rice | 94 | Premier League | 169k coins | -29.3% | -26.5% |
+| Kelly Smith | 89 | Icons | 106k coins | -28.2% | +58.5% |
+| Eric Dier | 86 | Ligue 1 McDonald's | 21k coins | -25.4% | +14.3% |
+| Marc Guéhi | 88 | Premier League | 26k coins | -20.8% | -28.8% |
 
 
 ### Análise das baixas
 
-- **Jaden Philogene (87)** caiu **-45.9%** em 24h, a **20k coins** (faixa do dia: 12.500–20k). Está -38% abaixo da média de 7 dias (descontada).
+- **Agnes Beever-Jones (90)** caiu **-49.7%** em 24h, a **96k coins** (faixa do dia: 48k–100k). Está +26% acima da média de 7 dias (aquecida).
 
-- **Luke Shaw (86)** caiu **-43%** em 24h, a **28k coins** (faixa do dia: 28k–50k). Está -34% abaixo da média de 7 dias (descontada).
+- **Lewis Miley (83)** caiu **-37.8%** em 24h, a **60k coins** (faixa do dia: 60k–100k). Está -27% abaixo da média de 7 dias (descontada).
 
-- **Steven Gerrard (88)** caiu **-41.4%** em 24h, a **102k coins** (faixa do dia: 102k–180k). Está -20% abaixo da média de 7 dias (descontada).
+- **Ellie Roebuck (85)** caiu **-37.6%** em 24h, a **26k coins** (faixa do dia: 26k–44k). Está -35% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Ethan Nwaneri já avançou 57% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Georgia Stanway já avançou 48.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Jaden Philogene recuou -45.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Agnes Beever-Jones recuou -49.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (17/07/2026)?**
-Ethan Nwaneri (91, Ligue 1 McDonald's), com +57% em 24h, a 84k coins no PC.
+Georgia Stanway (86, GPFBL), com +48.8% em 24h, a 45k coins no PC.
 
 **E a maior queda do dia?**
-Jaden Philogene (87), -45.9% em 24h, a 20k coins.
+Agnes Beever-Jones (90), -49.7% em 24h, a 96k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 44 cartas em alta contra 68 em queda (média -1.99%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 40 cartas em alta contra 61 em queda (média -0.79%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
@@ -130,6 +130,7 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Ingleses em 17/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-17-pc/)
 - [Investimentos EA FC: Ingleses em 17/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-17-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
