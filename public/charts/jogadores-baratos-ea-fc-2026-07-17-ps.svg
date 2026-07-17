@@ -5,18 +5,18 @@
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Preço em coins</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jude Bellingham</text>
-<rect x="285" y="95" width="472" height="28" rx="7" fill="#38bdf8"/>
-<text x="767" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.000</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alessia Russo</text>
-<rect x="285" y="153" width="71" height="28" rx="7" fill="#38bdf8"/>
-<text x="366" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.100</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Harry Kane</text>
-<rect x="285" y="211" width="81" height="28" rx="7" fill="#38bdf8"/>
-<text x="376" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.400</text>
+<rect x="285" y="95" width="283" height="28" rx="7" fill="#38bdf8"/>
+<text x="578" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">8.400</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Harry Kane</text>
+<rect x="285" y="153" width="77" height="28" rx="7" fill="#38bdf8"/>
+<text x="372" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.300</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alessia Russo</text>
+<rect x="285" y="211" width="84" height="28" rx="7" fill="#38bdf8"/>
+<text x="379" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.500</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fara Williams</text>
 <rect x="285" y="269" width="480" height="28" rx="7" fill="#38bdf8"/>
 <text x="775" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.250</text>
 <text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alex Scott</text>
-<rect x="285" y="327" width="455" height="28" rx="7" fill="#38bdf8"/>
-<text x="750" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.500</text>
+<rect x="285" y="327" width="446" height="28" rx="7" fill="#38bdf8"/>
+<text x="741" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.250</text>
 </svg>

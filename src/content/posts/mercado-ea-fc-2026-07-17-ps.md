@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T10:52:07.000Z
+pubDatetime: 2026-07-17T13:52:07.000Z
 title: "Mercado EA FC em 17/07: Ingleses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Archie Brown (85, Trendyol Süper Lig), com +56% em 24h, a 78k coins no Console (PS)."
+    a: "Chloe Kelly (88, Barclays WSL), com +42.9% em 24h, a 100k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Rachel Williams (89), -47.4% em 24h, a 25k coins."
+    a: "John Barnes (89), -46.3% em 24h, a 40k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 52 cartas em alta contra 69 em queda (média 0.77%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 60 cartas em alta contra 63 em queda (média 0.97%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em dia **indefinido** — sem tendência dominante: das cartas relevantes (80+ acima de 5k coins), **52 subiram** e **69 caíram**, com variação média de **0.77%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em dia **indefinido** — sem tendência dominante: das cartas relevantes (80+ acima de 5k coins), **60 subiram** e **63 caíram**, com variação média de **0.97%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Archie Brown (85) **+56%** · 🔴 **Maior baixa:** Rachel Williams (89) **-47.4%**
+> 🟢 **Maior alta:** Chloe Kelly (88) **+42.9%** · 🔴 **Maior baixa:** John Barnes (89) **-46.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Ingleses — Console (PS)](/charts/mercado-ea-fc-2026-07-17-ps.svg)
 
@@ -35,65 +35,65 @@ Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 43.0% entre as cartas que se moveram; o universo observado reúne 146 cartas.
-- **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 89.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.8% entre as cartas que se moveram; o universo observado reúne 149 cartas.
+- **Concentração:** Premier League aparece em 9 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Archie Brown | 85 | Trendyol Süper Lig | 78k coins | +56% | +51.5% |
-| Chloe Kelly | 88 | Barclays WSL | 120k coins | +55.8% | +93.5% |
-| Joe Gelhardt | 86 | EFL Championship | 35k coins | +54.9% | +25.9% |
-| Eric Dier | 86 | Ligue 1 McDonald's | 29k coins | +43.2% | +12.6% |
-| Jude Bellingham | 92 | LALIGA EA SPORTS | 850k coins | +41.7% | +70% |
-| Tino Livramento | 85 | Premier League | 34k coins | +36.7% | -4.3% |
-| Angel Gomes | 83 | Ligue 1 McDonald's | 38k coins | +33.9% | +26.1% |
-| Chris Smalling | 87 | ROSHN Saudi League | 57k coins | +31% | +26.7% |
-| Rio Ferdinand | 88 | Icons | 381k coins | +29.2% | +45.4% |
-| Harry Kane | 92 | Bundesliga | 290k coins | +24.7% | +56.7% |
+| Chloe Kelly | 88 | Barclays WSL | 100k coins | +42.9% | +77.4% |
+| Lauren James | 89 | Barclays WSL | 68k coins | +42.3% | +38% |
+| Beth Mead | 88 | Barclays WSL | 54k coins | +37% | +7.6% |
+| Alessia Russo | 90 | Barclays WSL | 65k coins | +36.8% | +25% |
+| Archie Brown | 85 | Trendyol Süper Lig | 74k coins | +35.7% | +31% |
+| Rico Lewis | 86 | Premier League | 52k coins | +22.6% | +14.4% |
+| Kobbie Mainoo | 90 | Premier League | 82k coins | +19.2% | -17.4% |
+| Anthony Gordon | 90 | Premier League | 738k coins | +18.9% | +16.2% |
+| Harry Kane | 90 | Bundesliga | 190k coins | +18.5% | +49.2% |
+| Harvey Barnes | 86 | Premier League | 44k coins | +18.2% | +13.6% |
 
 
 ### Análise das altas
 
-- **Archie Brown (85)** subiu **+56%** em 24h, a **78k coins** (faixa do dia: 35k–78k). Está +52% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Chloe Kelly (88)** subiu **+42.9%** em 24h, a **100k coins** (faixa do dia: 80k–137k). Está +22% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Chloe Kelly (88)** subiu **+55.8%** em 24h, a **120k coins** (faixa do dia: 68k–137k). Está +48% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Lauren James (89)** subiu **+42.3%** em 24h, a **68k coins** (faixa do dia: 39k–80k). Está +38% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Joe Gelhardt (86)** subiu **+54.9%** em 24h, a **35k coins** (faixa do dia: 14.750–38k). Está +31% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Beth Mead (88)** subiu **+37%** em 24h, a **54k coins** (faixa do dia: 34k–60k). Está em linha com a média de 7 dias (+4%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rachel Williams | 89 | Barclays WSL | 25k coins | -47.4% | -38.4% |
-| Eberechi Eze | 87 | Premier League | 52k coins | -37.2% | -33.5% |
-| Joe Cole | 88 | Premier League | 242k coins | -34.1% | -12% |
-| Peter Crouch | 87 | Premier League | 150k coins | -31.8% | -20.6% |
-| Max Aarons | 85 | Scottish Premiership | 29k coins | -24.7% | -14.1% |
-| George Dobson | 84 | EFL Championship | 32k coins | -17.6% | -13.2% |
-| Kyle Walker | 89 | Premier League | 360k coins | -16.4% | +15.8% |
-| Lewis Hall | 89 | Premier League | 114k coins | -14.1% | +16% |
-| Lauren James | 87 | Barclays WSL | 290k coins | -12.9% | -11.3% |
-| Trent Alexander-Arnold | 87 | LALIGA EA SPORTS | 350k coins | -12.5% | -7.7% |
+| John Barnes | 89 | Icons | 40k coins | -46.3% | -24.8% |
+| Max Aarons | 85 | Scottish Premiership | 29k coins | -42.7% | -31.5% |
+| Paul Scholes | 91 | Icons | 185k coins | -36.7% | -11.3% |
+| Mateus Mané | 88 | Premier League | 34k coins | -35.4% | -19.4% |
+| Peter Crouch | 87 | Premier League | 150k coins | -31.8% | -22.7% |
+| Agnes Beever-Jones | 90 | Barclays WSL | 55k coins | -26.7% | -7.6% |
+| Mateus Mané | 86 | Premier League | 34k coins | -24% | -14.5% |
+| Ben Thompson | 84 | EFL League Two | 36k coins | -20.4% | -28.7% |
+| Ollie Watkins | 86 | Premier League | 42k coins | -17.9% | -8.6% |
+| Kyle Walker | 89 | Premier League | 344k coins | -16.9% | +18.2% |
 
 
 ### Análise das baixas
 
-- **Rachel Williams (89)** caiu **-47.4%** em 24h, a **25k coins** (faixa do dia: 25k–58k). Está -38% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **John Barnes (89)** caiu **-46.3%** em 24h, a **40k coins** (faixa do dia: 40k–74k). Está -26% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Eberechi Eze (87)** caiu **-37.2%** em 24h, a **52k coins** (faixa do dia: 36k–70k). Está -12% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Max Aarons (85)** caiu **-42.7%** em 24h, a **29k coins** (faixa do dia: 17.250–43k). Está -17% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Joe Cole (88)** caiu **-34.1%** em 24h, a **242k coins** (faixa do dia: 242k–369k). Está -18% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Paul Scholes (91)** caiu **-36.7%** em 24h, a **185k coins** (faixa do dia: 130k–265k). Está -9% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Archie Brown já avançou 56% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Chloe Kelly já avançou 42.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Rachel Williams recuou -47.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** John Barnes recuou -46.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -105,13 +105,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (17/07/2026)?**  
-Archie Brown (85, Trendyol Süper Lig), com +56% em 24h, a 78k coins no Console (PS).
+Chloe Kelly (88, Barclays WSL), com +42.9% em 24h, a 100k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Rachel Williams (89), -47.4% em 24h, a 25k coins.
+John Barnes (89), -46.3% em 24h, a 40k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 52 cartas em alta contra 69 em queda (média 0.77%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 60 cartas em alta contra 63 em queda (média 0.97%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

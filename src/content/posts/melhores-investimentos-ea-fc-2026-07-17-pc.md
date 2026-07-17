@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T10:52:18.000Z
+pubDatetime: 2026-07-17T13:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 17/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Fara Williams (88, Barclays WSL) lidera, com +72.8% em 7 dias a 43k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Maya Le Tissier (88, Barclays WSL) lidera, com +72.7% em 7 dias a 95k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Fara Williams (88) acumula **+72.8% em 7 dias** a 43k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Maya Le Tissier (88) acumula **+72.7% em 7 dias** a 95k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.8% em 24h** e **+40.0% em 7 dias**.
-- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.4% em 24h** e **+34.2% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Fara Williams | 88 | Barclays WSL | 43k coins | +36.9% | +72.8% | Esticada |
-| Ollie Watkins | 90 | Premier League | 48k coins | +1.7% | +58.9% | Momentum moderado |
-| Alex Scott | 89 | Barclays WSL | 78k coins | +11.5% | +56.6% | Momentum moderado |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 54k coins | +9.5% | +55.7% | Momentum moderado |
-| Geoff Hurst | 90 | Icons | 70k coins | +32.3% | +50.6% | Esticada |
+| Maya Le Tissier | 88 | Barclays WSL | 95k coins | +3.3% | +72.7% | Esticada |
+| Geoff Hurst | 90 | Icons | 69k coins | +39% | +67.5% | Esticada |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 50k coins | +6.5% | +65.6% | Esticada |
 | Jordan Pickford | 85 | Premier League | 45k coins | +9.1% | +49.2% | Momentum moderado |
-| Declan Rice | 89 | Premier League | 86k coins | +12.3% | +40.3% | Momentum moderado |
+| Alex Scott | 89 | Barclays WSL | 70k coins | +8.5% | +41.4% | Momentum moderado |
 | Peter Crouch | 87 | Premier League | 210k coins | +37.3% | +40% | Esticada |
-| David Beckham | 89 | Icons | 66k coins | +10.8% | +33% | Momentum moderado |
-| Eric Dier | 86 | Ligue 1 McDonald's | 31k coins | +9.7% | +24% | Momentum moderado |
-| Joe Cole | 87 | Premier League | 30k coins | +3.4% | +17.6% | Entrada a observar |
-| Noni Madueke | 86 | Premier League | 45k coins | +26.9% | +13.8% | Esticada |
-| John Barnes | 89 | Icons | 100k coins | +14.9% | +12.4% | Momentum moderado |
-| Frank Lampard | 87 | Icons | 121k coins | +1.9% | +10% | Entrada a observar |
-| Harry Kane | 92 | Bundesliga | 237k coins | +3% | +9.2% | Entrada a observar |
+| Anthony Gordon | 87 | Premier League | 68k coins | +14.2% | +34.3% | Momentum moderado |
+| Agnes Beever-Jones | 90 | Barclays WSL | 100k coins | +16.3% | +34.2% | Momentum moderado |
+| David Beckham | 89 | Icons | 60k coins | +11% | +33.7% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 81k coins | +12.4% | +31.5% | Momentum moderado |
+| Leif Davis | 84 | EFL Championship | 56k coins | +4.7% | +23.1% | Entrada a observar |
+| Kobbie Mainoo | 90 | Premier League | 148k coins | +25% | +20% | Esticada |
+| Mateus Mané | 86 | Premier League | 43k coins | +11.1% | +15.4% | Momentum moderado |
+| Declan Rice | 94 | Premier League | 249k coins | +31.5% | +14.3% | Esticada |
+| Fara Williams | 88 | Barclays WSL | 40k coins | +40% | +14.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Fara Williams (88)** — 43k coins, **+72.8% em 7 dias** (+36.9% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maya Le Tissier (88)** — 95k coins, **+72.7% em 7 dias** (+3.3% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ollie Watkins (90)** — 48k coins, **+58.9% em 7 dias** (+1.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Geoff Hurst (90)** — 69k coins, **+67.5% em 7 dias** (+39% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alex Scott (89)** — 78k coins, **+56.6% em 7 dias** (+11.5% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ben Chilwell (90)** — 50k coins, **+65.6% em 7 dias** (+6.5% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ben Chilwell (90)** — 54k coins, **+55.7% em 7 dias** (+9.5% em 24h). Preço +56% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jordan Pickford (85)** — 45k coins, **+49.2% em 7 dias** (+9.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Geoff Hurst (90)** — 70k coins, **+50.6% em 7 dias** (+32.3% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alex Scott (89)** — 70k coins, **+41.4% em 7 dias** (+8.5% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Fara Williams (88, Barclays WSL) lidera, com +72.8% em 7 dias a 43k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Maya Le Tissier (88, Barclays WSL) lidera, com +72.7% em 7 dias a 95k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -106,7 +106,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Ingleses em 17/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-17-pc/)
 - [Mercado EA FC em 17/07: Ingleses — PC](/posts/mercado-ea-fc-2026-07-17-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
