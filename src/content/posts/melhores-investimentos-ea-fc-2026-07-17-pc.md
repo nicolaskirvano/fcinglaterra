@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T22:52:18.000Z
+pubDatetime: 2026-07-18T01:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 17/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Harry Kane (90, Bundesliga) lidera, com +60.7% em 7 dias a 225k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Declan Rice (89, Premier League) lidera, com +58.9% em 7 dias a 98k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Harry Kane (90) acumula **+60.7% em 7 dias** a 225k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Declan Rice (89) acumula **+58.9% em 7 dias** a 98k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.4% em 24h** e **+32.8% em 7 dias**.
-- **2 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.3% em 24h** e **+30.1% em 7 dias**.
+- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Barclays WSL** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,33 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 90 | Bundesliga | 225k coins | +12.5% | +60.7% | Esticada |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 78k coins | +10.3% | +49.1% | Momentum moderado |
-| Eberechi Eze | 87 | Premier League | 61k coins | +4% | +43.3% | Momentum moderado |
-| Jude Bellingham | 90 | LALIGA EA SPORTS | 15.000 coins | +25% | +42.9% | Esticada |
-| Declan Rice | 89 | Premier League | 88k coins | +2.9% | +41.1% | Momentum moderado |
-| Bobby Charlton | 92 | Icons | 160k coins | +15.1% | +37.9% | Momentum moderado |
-| Ian Wright | 87 | Icons | 86k coins | +10.6% | +34.8% | Momentum moderado |
-| Lauren James | 89 | Barclays WSL | 178k coins | +11.9% | +30.9% | Momentum moderado |
-| Ben Thompson | 84 | EFL League Two | 50k coins | +2.6% | +25% | Entrada a observar |
-| Tino Livramento | 85 | Premier League | 26k coins | +19.8% | +22.6% | Momentum moderado |
-| Rachel Williams | 89 | Barclays WSL | 36k coins | +14.5% | +14.5% | Momentum moderado |
-| Cole Palmer | 89 | Premier League | 108k coins | +11.7% | +13.4% | Momentum moderado |
-| Steven Gerrard | 90 | Icons | 200k coins | +11.1% | +11.7% | Momentum moderado |
-| Lauren Hemp | 90 | Barclays WSL | 54k coins | +11.1% | +11.1% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 98k coins | +12.6% | +58.9% | Momentum moderado |
+| Leif Davis | 84 | EFL Championship | 56k coins | +9.8% | +47.4% | Momentum moderado |
+| Eberechi Eze | 86 | Premier League | 249k coins | +8.3% | +46.5% | Momentum moderado |
+| Jude Bellingham | 90 | LALIGA EA SPORTS | 15.000 coins | +22.4% | +42.9% | Esticada |
+| Ben Thompson | 84 | EFL League Two | 54k coins | +10.8% | +39.4% | Momentum moderado |
+| Bobby Charlton | 92 | Icons | 150k coins | +24% | +37.9% | Esticada |
+| Fara Williams | 88 | Barclays WSL | 52k coins | +5.8% | +37.1% | Momentum moderado |
+| Lauren James | 89 | Barclays WSL | 177k coins | +11.3% | +30.1% | Momentum moderado |
+| Lauren Hemp | 90 | Barclays WSL | 54k coins | +6.9% | +28.6% | Momentum moderado |
+| Jaden Philogene | 84 | EFL Championship | 65k coins | +1.6% | +18.3% | Entrada a observar |
+| Wayne Rooney | 88 | Icons | 122k coins | +10.3% | +12.8% | Momentum moderado |
+| Steven Gerrard | 90 | Icons | 200k coins | +11.1% | +12.4% | Momentum moderado |
+| Louis Reed | 84 | EFL League One | 52k coins | +27.3% | +11.7% | Esticada |
+| Rachel Williams | 89 | Barclays WSL | 36k coins | +6% | +10.9% | Momentum moderado |
+| Tino Livramento | 85 | Premier League | 28k coins | +8.1% | +10.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Harry Kane (90)** — 225k coins, **+60.7% em 7 dias** (+12.5% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Declan Rice (89)** — 98k coins, **+58.9% em 7 dias** (+12.6% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ethan Nwaneri (91)** — 78k coins, **+49.1% em 7 dias** (+10.3% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leif Davis (84)** — 56k coins, **+47.4% em 7 dias** (+9.8% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eberechi Eze (87)** — 61k coins, **+43.3% em 7 dias** (+4% em 24h). Preço -32% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eberechi Eze (86)** — 249k coins, **+46.5% em 7 dias** (+8.3% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jude Bellingham (90)** — 15.000 coins, **+42.9% em 7 dias** (+25% em 24h). Preço +63% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jude Bellingham (90)** — 15.000 coins, **+42.9% em 7 dias** (+22.4% em 24h). Preço +61% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Declan Rice (89)** — 88k coins, **+41.1% em 7 dias** (+2.9% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ben Thompson (84)** — 54k coins, **+39.4% em 7 dias** (+10.8% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -87,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Harry Kane (90, Bundesliga) lidera, com +60.7% em 7 dias a 225k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Declan Rice (89, Premier League) lidera, com +58.9% em 7 dias a 98k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -105,7 +106,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Ingleses em 17/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-17-pc/)
 - [Mercado EA FC em 17/07: Ingleses — PC](/posts/mercado-ea-fc-2026-07-17-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
