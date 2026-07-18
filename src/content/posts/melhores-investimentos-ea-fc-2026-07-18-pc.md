@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:44:22.000Z
+pubDatetime: 2026-07-18T10:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 18/07 — PC"
 draft: false
 featured: true
@@ -49,15 +49,15 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jude Bellingham | 90 | LALIGA EA SPORTS | 15.000 coins | +9.1% | +46.3% | Momentum moderado |
 | Micah Richards | 85 | Premier League | 26k coins | +1.9% | +41% | Momentum moderado |
 | Lauren Hemp | 90 | Barclays WSL | 55k coins | +35% | +41% | Esticada |
-| Declan Rice | 89 | Premier League | 86k coins | +6.1% | +39.5% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 99k coins | +6.1% | +39.5% | Momentum moderado |
 | James Milner | 88 | Premier League | 55k coins | +4.8% | +37.5% | Momentum moderado |
 | Elliot Anderson | 89 | Premier League | 169k coins | +21.6% | +35.2% | Esticada |
-| Steven Gerrard | 88 | Icons | 157k coins | +37% | +33.6% | Esticada |
+| Steven Gerrard | 88 | Icons | 152k coins | +37% | +33.6% | Esticada |
 | Lauren James | 89 | Barclays WSL | 177k coins | +19.6% | +30.1% | Momentum moderado |
 | Bobby Charlton | 92 | Icons | 150k coins | +15.5% | +28.4% | Momentum moderado |
 | Steven Gerrard | 90 | Icons | 200k coins | +11.1% | +24.2% | Momentum moderado |
+| Millie Bright | 88 | Barclays WSL | 80k coins | +6.7% | +24% | Momentum moderado |
 | Chris Smalling | 87 | ROSHN Saudi League | 70k coins | +27.5% | +20.9% | Esticada |
-| Fara Williams | 88 | Barclays WSL | 45k coins | +3.4% | +19.5% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
