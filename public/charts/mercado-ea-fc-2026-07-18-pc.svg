@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ryan Yates</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ben Thompson</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.1%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ben Thompson</text>
-<rect x="285" y="153" width="473" height="28" rx="7" fill="#22c55e"/>
-<text x="768" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.3%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Freya Godfrey</text>
-<rect x="285" y="211" width="426" height="28" rx="7" fill="#22c55e"/>
-<text x="721" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.9%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Frank Lampard</text>
-<rect x="285" y="269" width="423" height="28" rx="7" fill="#22c55e"/>
-<text x="718" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Steven Gerrard</text>
-<rect x="285" y="327" width="322" height="28" rx="7" fill="#22c55e"/>
-<text x="617" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.0%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lauren Hemp</text>
-<rect x="285" y="385" width="305" height="28" rx="7" fill="#22c55e"/>
-<text x="600" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.3%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Frank Lampard</text>
+<rect x="285" y="153" width="477" height="28" rx="7" fill="#22c55e"/>
+<text x="772" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lucy Bronze</text>
+<rect x="285" y="211" width="471" height="28" rx="7" fill="#22c55e"/>
+<text x="766" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.3%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Chris Smalling</text>
+<rect x="285" y="269" width="464" height="28" rx="7" fill="#22c55e"/>
+<text x="759" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.5%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lauren Hemp</text>
+<rect x="285" y="327" width="309" height="28" rx="7" fill="#22c55e"/>
+<text x="604" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ollie Watkins</text>
+<rect x="285" y="385" width="267" height="28" rx="7" fill="#22c55e"/>
+<text x="562" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.2%</text>
 </svg>

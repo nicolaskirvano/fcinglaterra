@@ -1,38 +1,38 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T13:52:10.000Z
-title: "Jogadores baratos EA FC: Ingleses em 18/07 — Console (PS)"
+pubDatetime: 2026-07-18T13:52:20.000Z
+title: "Jogadores baratos EA FC: Ingleses em 18/07 — PC"
 draft: false
 featured: false
 tags:
   - baratos
   - custo-beneficio
   - budget
-  - ps
-description: "Cartas 83+ abaixo de 15 mil coins em 18/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
+  - pc
+description: "Cartas 83+ abaixo de 15 mil coins em 18/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (18/07/2026)?"
-    a: "Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 3.800 coins no Console (PS)."
+    a: "Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 3.800 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
     a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
 ---
 
-Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **18/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
+Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **18/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
 > 💰 **Melhor pechincha:** Harry Kane (89) por apenas 3.800 coins.
 
-![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Ingleses em 18/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-18-ps.svg)
+![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Ingleses em 18/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-18-pc.svg)
 
 *Visualização gerada com os mesmos valores da tabela deste artigo.*
 
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 6.733 coins.
+- **Preço médio das 4 opções:** 5.712 coins.
 - **Posição mais frequente:** ST, com 2 cartas.
-- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.500 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,32 +40,26 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 3.800 coins | +28.6% |
-| Bukayo Saka | 88 | RW | Premier League | 1.500 coins | +11.8% |
-| Millie Bright | 87 | CB | Barclays WSL | 3.800 coins | +2.9% |
-| Fara Williams | 86 | CM | Barclays WSL | 13.250 coins | -8.8% |
-| Jamie Carragher | 86 | CB | Premier League | 14.750 coins | -13.3% |
-| Ollie Watkins | 84 | ST | Premier League | 3.300 coins | +37.5% |
+| Harry Kane | 89 | ST | Bundesliga | 3.800 coins | +11.8% |
+| Alessia Russo | 89 | ST | Barclays WSL | 3.800 coins | +26.7% |
+| Lauren Hemp | 87 | LW | Barclays WSL | 1.500 coins | 0% |
+| Jamie Carragher | 86 | CB | Premier League | 13.750 coins | -1.8% |
 
 
 ## 📈 Destaques
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **3.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **3.800 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Bukayo Saka (88, RW)** da Premier League, a apenas **1.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Millie Bright (87, CB)** da Barclays WSL, a apenas **3.800 coins**
+- **Lauren Hemp (87, LW)** da Barclays WSL, a apenas **1.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Fara Williams (86, CM)** da Barclays WSL, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Jamie Carragher (86, CB)** da Premier League, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jamie Carragher (86, CB)** da Premier League, a apenas **13.750 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Millie Bright (87, CB) por 3.800 coins é a referência de rating deste recorte.
-
-- **Meio:** Fara Williams (86, CM) por 13.250 coins é a referência de rating deste recorte.
+- **Defesa:** Jamie Carragher (86, CB) por 13.750 coins é a referência de rating deste recorte.
 
 - **Ataque:** Harry Kane (89, ST) por 3.800 coins é a referência de rating deste recorte.
 
@@ -86,7 +80,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (18/07/2026)?**  
-Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 3.800 coins no Console (PS).
+Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 3.800 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -99,12 +93,12 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 
 ---
 
-*Preços de Console (PS), referência de 18/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+*Preços de PC, referência de 18/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
 
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Ingleses em 18/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-18-ps/)
-- [Mercado EA FC em 18/07: Ingleses — Console (PS)](/posts/mercado-ea-fc-2026-07-18-ps/)
+- [Investimentos EA FC: Ingleses em 18/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-18-pc/)
+- [Mercado EA FC em 18/07: Ingleses — PC](/posts/mercado-ea-fc-2026-07-18-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
