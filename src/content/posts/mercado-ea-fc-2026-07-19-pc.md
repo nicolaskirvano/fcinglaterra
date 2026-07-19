@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T13:52:17.000Z
+pubDatetime: 2026-07-19T16:52:17.000Z
 title: "Mercado EA FC em 19/07: Ingleses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Jack Payne (84, EFL League Two), com +50% em 24h, a 39k coins no PC."
+    a: "Jack Payne (84, EFL League Two), com +48.6% em 24h, a 52k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Frank Lampard (87), -45.4% em 24h, a 80k coins."
+    a: "Frank Lampard (87), -48.2% em 24h, a 70k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 51 cartas em alta contra 59 em queda (média 2.68%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 58 cartas em alta contra 55 em queda (média 3.73%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **19/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **51 cartas subiram** e **59 caíram** (80+ acima de 5k coins), variação média de **2.68%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **19/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **58 cartas subiram** e **55 caíram** (80+ acima de 5k coins), variação média de **3.73%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Jack Payne (84) **+50%** · 🔴 **Maior baixa:** Frank Lampard (87) **-45.4%**
+> 🟢 **Maior alta:** Jack Payne (84) **+48.6%** · 🔴 **Maior baixa:** Frank Lampard (87) **-48.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Ingleses — PC](/charts/mercado-ea-fc-2026-07-19-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **19/07/2026** no PC com clima **comprador** — a m
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 95.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.4% entre as cartas que se moveram; o universo observado reúne 166 cartas.
+- **Amplitude do dia:** 96.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 51.3% entre as cartas que se moveram; o universo observado reúne 160 cartas.
 - **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jack Payne | 84 | EFL League Two | 39k coins | +50% | -4.5% |
-| Eberechi Eze | 87 | Premier League | 80k coins | +46.4% | -6.5% |
-| David Beckham | 89 | Icons | 63k coins | +39.5% | +34.4% |
+| Jack Payne | 84 | EFL League Two | 52k coins | +48.6% | -5.5% |
+| Mateus Mané | 86 | Premier League | 50k coins | +47.1% | +24.2% |
+| Kyle Walker | 89 | Premier League | 339k coins | +42.3% | +0.8% |
 | Cole Palmer | 88 | Premier League | 700k coins | +37.3% | +37.3% |
-| John Barnes | 89 | Icons | 98k coins | +36.3% | +18.5% |
-| Harvey Barnes | 84 | Premier League | 50k coins | +36.1% | 0% |
-| Rico Lewis | 86 | Premier League | 44k coins | +30.7% | +11.1% |
+| Harry Kane | 90 | Bundesliga | 209k coins | +32.8% | +70.7% |
+| John Barnes | 89 | Icons | 94k coins | +31.5% | +14.3% |
+| Rico Lewis | 86 | Premier League | 44k coins | +29.8% | +7.1% |
+| Declan Rice | 89 | Premier League | 108k coins | +29.8% | +47.3% |
 | Archie Brown | 85 | Trendyol Süper Lig | 84k coins | +29.2% | -12% |
-| Steven Gerrard | 88 | Icons | 121k coins | +28.1% | +48.2% |
-| Alessia Russo | 90 | Barclays WSL | 58k coins | +26.1% | +14.9% |
+| David Beckham | 88 | Icons | 110k coins | +28.7% | +3.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **19/07/2026** no PC com clima **comprador** — a m
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Jack Payne (84)** subiu **+50%** em 24h, a **39k coins** (faixa do dia: 35k–60k). Está -19% abaixo da média de 7 dias (descontada).
+- **Jack Payne (84)** subiu **+48.6%** em 24h, a **52k coins** (faixa do dia: 35k–60k). Está +8% acima da média de 7 dias (aquecida).
 
-- **Eberechi Eze (87)** subiu **+46.4%** em 24h, a **80k coins** (faixa do dia: 52k–110k). Está -8% abaixo da média de 7 dias (descontada).
+- **Mateus Mané (86)** subiu **+47.1%** em 24h, a **50k coins** (faixa do dia: 35k–50k). Está +20% acima da média de 7 dias (aquecida).
 
-- **David Beckham (89)** subiu **+39.5%** em 24h, a **63k coins** (faixa do dia: 39k–64k). Está +12% acima da média de 7 dias (aquecida).
+- **Kyle Walker (89)** subiu **+42.3%** em 24h, a **339k coins** (faixa do dia: 252k–460k). Está -9% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Frank Lampard | 87 | Icons | 80k coins | -45.4% | -20.7% |
-| Millie Bright | 94 | Barclays WSL | 76k coins | -39.7% | 0% |
-| Chris Smalling | 87 | ROSHN Saudi League | 45k coins | -33.3% | -31.9% |
-| Harry Maguire | 83 | Premier League | 78k coins | -32.9% | -40.1% |
-| Beth Mead | 88 | Barclays WSL | 68k coins | -31.1% | -3.5% |
-| Kelly Smith | 89 | Icons | 68k coins | -23.3% | 0% |
-| Leif Davis | 84 | EFL Championship | 40k coins | -20.9% | -16.8% |
+| Frank Lampard | 87 | Icons | 70k coins | -48.2% | -31.9% |
+| Kelly Smith | 89 | Icons | 68k coins | -20.6% | 0% |
 | Harry Kane | 91 | Bundesliga | 303k coins | -20.3% | +4.5% |
-| Nico O'Reilly | 84 | Premier League | 60k coins | -20% | -14.9% |
-| Lucy Bronze | 88 | Barclays WSL | 231k coins | -19.6% | +25.1% |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 44k coins | -17.6% | +63.3% |
+| Ben Thompson | 84 | EFL League Two | 54k coins | -17.1% | -18.6% |
+| Rachel Williams | 89 | Barclays WSL | 36k coins | -15.9% | +5.1% |
+| Georgia Stanway | 88 | GPFBL | 22k coins | -15.3% | -23.8% |
+| Max Aarons | 85 | Scottish Premiership | 23k coins | -15% | -22.2% |
+| Beth Mead | 88 | Barclays WSL | 63k coins | -12.9% | +22% |
+| Jordan Pickford | 86 | Premier League | 36k coins | -12.8% | -24.3% |
 
 
 ### Análise das baixas
 
-- **Frank Lampard (87)** caiu **-45.4%** em 24h, a **80k coins** (faixa do dia: 70k–150k). Está -32% abaixo da média de 7 dias (descontada).
+- **Frank Lampard (87)** caiu **-48.2%** em 24h, a **70k coins** (faixa do dia: 70k–120k). Está -40% abaixo da média de 7 dias (descontada).
 
-- **Millie Bright (94)** caiu **-39.7%** em 24h, a **76k coins** (faixa do dia: 76k–164k). Está -22% abaixo da média de 7 dias (descontada).
+- **Kelly Smith (89)** caiu **-20.6%** em 24h, a **68k coins** (faixa do dia: 68k–82k). Está -32% abaixo da média de 7 dias (descontada).
 
-- **Chris Smalling (87)** caiu **-33.3%** em 24h, a **45k coins** (faixa do dia: 39k–70k). Está -16% abaixo da média de 7 dias (descontada).
+- **Harry Kane (91)** caiu **-20.3%** em 24h, a **303k coins** (faixa do dia: 303k–380k). Está em linha com a média de 7 dias (+4%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Jack Payne já avançou 50% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Jack Payne já avançou 48.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Frank Lampard recuou -45.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Frank Lampard recuou -48.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -118,13 +118,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Jack Payne (84, EFL League Two), com +50% em 24h, a 39k coins no PC.
+Jack Payne (84, EFL League Two), com +48.6% em 24h, a 52k coins no PC.
 
 **E a maior queda do dia?**
-Frank Lampard (87), -45.4% em 24h, a 80k coins.
+Frank Lampard (87), -48.2% em 24h, a 70k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 51 cartas em alta contra 59 em queda (média 2.68%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 58 cartas em alta contra 55 em queda (média 3.73%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
