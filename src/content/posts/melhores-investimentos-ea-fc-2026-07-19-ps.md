@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:47:12.000Z
+pubDatetime: 2026-07-19T10:52:08.000Z
 title: "Investimentos EA FC: Ingleses em 19/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.6% em 24h** e **+30.8% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.1% em 24h** e **+28.6% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | James Milner | 88 | Premier League | 124k coins | +13.6% | +78.6% | Esticada |
-| Lucy Bronze | 88 | Barclays WSL | 80k coins | +11.7% | +75.2% | Esticada |
+| Lucy Bronze | 88 | Barclays WSL | 67k coins | +11.7% | +75.2% | Esticada |
+| Fara Williams | 88 | Barclays WSL | 73k coins | +2.1% | +70.8% | Esticada |
 | Ben Chilwell | 90 | Ligue 1 McDonald's | 55k coins | +10% | +70.5% | Esticada |
 | Conor Gallagher | 91 | Premier League | 130k coins | +4.8% | +52.9% | Momentum moderado |
 | Leah Williamson | 88 | Barclays WSL | 64k coins | +7.8% | +46.3% | Momentum moderado |
 | Eberechi Eze | 88 | Premier League | 74k coins | +28.7% | +35.8% | Esticada |
-| Chris Smalling | 87 | ROSHN Saudi League | 49k coins | +13.8% | +34.7% | Momentum moderado |
-| Kobbie Mainoo | 90 | Premier League | 66k coins | +17.2% | +30.8% | Momentum moderado |
-| David Beckham | 88 | Icons | 90k coins | +16.9% | +28.6% | Momentum moderado |
-| Maya Le Tissier | 88 | Barclays WSL | 36k coins | +6.1% | +26% | Momentum moderado |
+| David Beckham | 88 | Icons | 90k coins | +17.6% | +28.6% | Momentum moderado |
 | David Beckham | 89 | Icons | 44k coins | +13.6% | +22.7% | Momentum moderado |
-| Steven Gerrard | 88 | Icons | 105k coins | +5.6% | +19.6% | Momentum moderado |
 | Dominic Solanke | 87 | Premier League | 48k coins | +31.1% | +18.3% | Esticada |
-| Anthony Gordon | 87 | Premier League | 54k coins | +20.2% | +18.1% | Esticada |
+| Anthony Gordon | 87 | Premier League | 52k coins | +20.2% | +18.1% | Esticada |
 | Millie Bright | 88 | Barclays WSL | 34k coins | +34.2% | +18% | Esticada |
+| Steven Gerrard | 88 | Icons | 103k coins | +2.8% | +15.8% | Entrada a observar |
+| Paul Scholes | 88 | Icons | 76k coins | +13.1% | +14% | Momentum moderado |
+| Ian Wright | 87 | Icons | 72k coins | +12.1% | +12.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **James Milner (88)** — 124k coins, **+78.6% em 7 dias** (+13.6% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **James Milner (88)** — 124k coins, **+78.6% em 7 dias** (+13.6% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lucy Bronze (88)** — 80k coins, **+75.2% em 7 dias** (+11.7% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lucy Bronze (88)** — 67k coins, **+75.2% em 7 dias** (+11.7% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Fara Williams (88)** — 73k coins, **+70.8% em 7 dias** (+2.1% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Ben Chilwell (90)** — 55k coins, **+70.5% em 7 dias** (+10% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Conor Gallagher (91)** — 130k coins, **+52.9% em 7 dias** (+4.8% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Leah Williamson (88)** — 64k coins, **+46.3% em 7 dias** (+7.8% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

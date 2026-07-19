@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:47:20.000Z
+pubDatetime: 2026-07-19T10:52:16.000Z
 title: "Mercado EA FC em 19/07: Ingleses — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
     a: "Freya Godfrey (83, Barclays WSL), com +51.5% em 24h, a 78k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Harry Kane (91), -46.5% em 24h, a 137k coins."
+    a: "Frank Lampard (87), -46.5% em 24h, a 82k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 53 cartas em alta contra 61 em queda (média 1.33%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 54 cartas em alta contra 61 em queda (média 1.22%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **19/07/2026** no PC com mercado **de lado** — altas e quedas se equilibram: **53 cartas subiram** e **61 caíram** (80+ acima de 5k coins), variação média de **1.33%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **19/07/2026** no PC com mercado **de lado** — altas e quedas se equilibram: **54 cartas subiram** e **61 caíram** (80+ acima de 5k coins), variação média de **1.22%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Freya Godfrey (83) **+51.5%** · 🔴 **Maior baixa:** Harry Kane (91) **-46.5%**
+> 🟢 **Maior alta:** Freya Godfrey (83) **+51.5%** · 🔴 **Maior baixa:** Frank Lampard (87) **-46.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Ingleses — PC](/charts/mercado-ea-fc-2026-07-19-pc.svg)
 
@@ -36,7 +36,7 @@ O mercado do **EA FC** abre **19/07/2026** no PC com mercado **de lado** — alt
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 98.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.5% entre as cartas que se moveram; o universo observado reúne 167 cartas.
+- **Participação das altas:** 47.0% entre as cartas que se moveram; o universo observado reúne 168 cartas.
 - **Concentração:** Barclays WSL aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
@@ -72,32 +72,32 @@ O mercado do **EA FC** abre **19/07/2026** no PC com mercado **de lado** — alt
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 91 | Bundesliga | 137k coins | -46.5% | +41.2% |
-| Frank Lampard | 87 | Icons | 83k coins | -46.1% | -18.9% |
+| Frank Lampard | 87 | Icons | 82k coins | -46.5% | -19.4% |
 | Elliot Anderson | 89 | Premier League | 94k coins | -44.1% | -30.5% |
 | Beth Mead | 88 | Barclays WSL | 48k coins | -35.6% | -13% |
 | Noni Madueke | 86 | Premier League | 28k coins | -34.1% | -27.8% |
-| Chris Smalling | 87 | ROSHN Saudi League | 50k coins | -27.3% | -24.6% |
+| Chris Smalling | 87 | ROSHN Saudi League | 49k coins | -27.3% | -24.6% |
 | Chloe Kelly | 88 | Barclays WSL | 70k coins | -25.8% | -13.5% |
-| Leif Davis | 84 | EFL Championship | 42k coins | -24.5% | -16.8% |
+| Leif Davis | 84 | EFL Championship | 41k coins | -24.5% | -16.8% |
 | Louis Reed | 84 | EFL League One | 42k coins | -22.7% | -11.9% |
 | Harry Kane | 91 | Bundesliga | 303k coins | -20.3% | +4.5% |
+| George Dobson | 84 | EFL Championship | 38k coins | -19.6% | -15.1% |
 
 
 ### Análise das baixas
 
-- **Harry Kane (91)** caiu **-46.5%** em 24h, a **137k coins** (faixa do dia: 137k–256k). Está -28% abaixo da média de 7 dias (descontada).
-
-- **Frank Lampard (87)** caiu **-46.1%** em 24h, a **83k coins** (faixa do dia: 70k–155k). Está -30% abaixo da média de 7 dias (descontada).
+- **Frank Lampard (87)** caiu **-46.5%** em 24h, a **82k coins** (faixa do dia: 70k–155k). Está -30% abaixo da média de 7 dias (descontada).
 
 - **Elliot Anderson (89)** caiu **-44.1%** em 24h, a **94k coins** (faixa do dia: 94k–169k). Está -30% abaixo da média de 7 dias (descontada).
+
+- **Beth Mead (88)** caiu **-35.6%** em 24h, a **48k coins** (faixa do dia: 44k–70k). Está -13% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Freya Godfrey já avançou 51.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Harry Kane recuou -46.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Frank Lampard recuou -46.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -121,10 +121,10 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 Freya Godfrey (83, Barclays WSL), com +51.5% em 24h, a 78k coins no PC.
 
 **E a maior queda do dia?**
-Harry Kane (91), -46.5% em 24h, a 137k coins.
+Frank Lampard (87), -46.5% em 24h, a 82k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 53 cartas em alta contra 61 em queda (média 1.33%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 54 cartas em alta contra 61 em queda (média 1.22%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:47:11.000Z
+pubDatetime: 2026-07-19T10:52:07.000Z
 title: "Mercado EA FC em 19/07: Ingleses — Console (PS)"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
     a: "Georgia Stanway (88, Liga F), com +58.5% em 24h, a 65k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Tino Livramento (85), -38.1% em 24h, a 24k coins."
+    a: "Marcus Rashford (90), -31.3% em 24h, a 200k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 66 cartas em alta contra 57 em queda (média 5.34%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 63 cartas em alta contra 61 em queda (média 4.66%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **19/07/2026** no Console (PS) com clima **comprador** — a maioria das cartas subiu: **66 cartas subiram** e **57 caíram** (80+ acima de 5k coins), variação média de **5.34%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **19/07/2026** no Console (PS) com clima **comprador** — a maioria das cartas subiu: **63 cartas subiram** e **61 caíram** (80+ acima de 5k coins), variação média de **4.66%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Georgia Stanway (88) **+58.5%** · 🔴 **Maior baixa:** Tino Livramento (85) **-38.1%**
+> 🟢 **Maior alta:** Georgia Stanway (88) **+58.5%** · 🔴 **Maior baixa:** Marcus Rashford (90) **-31.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Ingleses — Console (PS)](/charts/mercado-ea-fc-2026-07-19-ps.svg)
 
@@ -35,9 +35,9 @@ O mercado do **EA FC** abre **19/07/2026** no Console (PS) com clima **comprador
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 96.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.7% entre as cartas que se moveram; o universo observado reúne 143 cartas.
-- **Concentração:** Premier League aparece em 14 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 89.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.8% entre as cartas que se moveram; o universo observado reúne 144 cartas.
+- **Concentração:** Premier League aparece em 11 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
@@ -72,32 +72,32 @@ O mercado do **EA FC** abre **19/07/2026** no Console (PS) com clima **comprador
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tino Livramento | 85 | Premier League | 24k coins | -38.1% | -37.5% |
+| Marcus Rashford | 90 | LALIGA EA SPORTS | 200k coins | -31.3% | +3.6% |
 | Harry Kane | 92 | Bundesliga | 237k coins | -27.1% | -21.8% |
-| Eberechi Eze | 87 | Premier League | 74k coins | -24.6% | +18.5% |
-| Bobby Moore | 90 | Icons | 68k coins | -19.5% | 0% |
-| Jordan Pickford | 86 | Premier League | 43k coins | -18.5% | -13.3% |
-| Elliot Anderson | 89 | Premier League | 113k coins | -17.9% | +14.4% |
-| Ryan Yates | 85 | Premier League | 28k coins | -17.6% | -18.2% |
-| Kyrell Lisbie | 84 | EFL League One | 40k coins | -15.9% | -18.8% |
-| Harry Kane | 91 | Bundesliga | 134k coins | -15.6% | -3.6% |
-| Declan Rice | 94 | Premier League | 125k coins | -15.3% | -14.8% |
+| Archie Brown | 85 | Trendyol Süper Lig | 62k coins | -25.7% | +23.9% |
+| Tom Ince | 84 | EFL Championship | 50k coins | -25.2% | -5.2% |
+| Eberechi Eze | 87 | Premier League | 76k coins | -23.8% | +18.5% |
+| Lewis Wing | 86 | 2. Bundesliga | 35k coins | -21.3% | -13.6% |
+| Jordan Pickford | 85 | Premier League | 30k coins | -20.9% | -26.3% |
+| Elliot Anderson | 89 | Premier League | 113k coins | -20.7% | +10.6% |
+| Trent Alexander-Arnold | 87 | LALIGA EA SPORTS | 298k coins | -19.2% | -25.2% |
+| Ella Toone | 86 | Barclays Women’s Super League | 38k coins | -18.6% | +8.5% |
 
 
 ### Análise das baixas
 
-- **Tino Livramento (85)** caiu **-38.1%** em 24h, a **24k coins** (faixa do dia: 15.000–35k). Está -8% abaixo da média de 7 dias (descontada).
+- **Marcus Rashford (90)** caiu **-31.3%** em 24h, a **200k coins** (faixa do dia: 200k–292k). Está -19% abaixo da média de 7 dias (descontada).
 
 - **Harry Kane (92)** caiu **-27.1%** em 24h, a **237k coins** (faixa do dia: 230k–329k). Está -21% abaixo da média de 7 dias (descontada).
 
-- **Eberechi Eze (87)** caiu **-24.6%** em 24h, a **74k coins** (faixa do dia: 49k–96k). Está +23% acima da média de 7 dias (aquecida).
+- **Archie Brown (85)** caiu **-25.7%** em 24h, a **62k coins** (faixa do dia: 30k–72k). Está +19% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Georgia Stanway já avançou 58.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Tino Livramento recuou -38.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Marcus Rashford recuou -31.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -122,10 +122,10 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 Georgia Stanway (88, Liga F), com +58.5% em 24h, a 65k coins no Console (PS).
 
 **E a maior queda do dia?**
-Tino Livramento (85), -38.1% em 24h, a 24k coins.
+Marcus Rashford (90), -31.3% em 24h, a 200k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 66 cartas em alta contra 57 em queda (média 5.34%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 63 cartas em alta contra 61 em queda (média 4.66%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

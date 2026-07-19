@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:47:14.000Z
+pubDatetime: 2026-07-19T10:52:10.000Z
 title: "Jogadores baratos EA FC: Ingleses em 19/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 11.914 coins.
+- **Preço médio das 6 opções:** 11.483 coins.
 - **Posição mais frequente:** CM, com 2 cartas.
 - **Faixa real:** 3.400 a 14.750 coins; nenhuma carta custa 15 mil.
 
@@ -41,9 +41,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Harry Kane | 89 | ST | Bundesliga | 3.400 coins | -5.6% |
-| Joe Cole | 87 | RW | Premier League | 12.500 coins | -10.5% |
+| Joe Cole | 87 | RW | Premier League | 12.500 coins | -12.3% |
 | Steve McManaman | 87 | RM | Premier League | 12.500 coins | +14.6% |
-| Grace Clinton | 87 | CAM | Barclays WSL | 14.500 coins | +3% |
 | Fara Williams | 86 | CM | Barclays WSL | 12.250 coins | -10.9% |
 | Jamie Carragher | 86 | CB | Premier League | 14.750 coins | +11.5% |
 | Jill Scott | 85 | CM | Barclays Women’s Super League | 13.500 coins | -1.9% |
@@ -57,9 +56,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Steve McManaman (87, RM)** da Premier League, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Grace Clinton (87, CAM)** da Barclays WSL, a apenas **14.500 coins**
-
 - **Fara Williams (86, CM)** da Barclays WSL, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Jamie Carragher (86, CB)** da Premier League, a apenas **14.750 coins**
 
 
 ## Como distribuir a banca

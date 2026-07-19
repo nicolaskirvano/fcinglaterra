@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:47:21.000Z
+pubDatetime: 2026-07-19T10:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 19/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.9% em 24h** e **+26.7% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+11.9% em 24h** e **+26.7% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,26 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Declan Rice | 89 | Premier League | 120k coins | +36.8% | +84.5% | Esticada |
+| Declan Rice | 89 | Premier League | 120k coins | +25.3% | +84.5% | Esticada |
 | Harry Kane | 90 | Bundesliga | 244k coins | +11.9% | +74.3% | Esticada |
 | Ben Chilwell | 90 | Ligue 1 McDonald's | 44k coins | +27.1% | +61.8% | Esticada |
 | Joe Cole | 87 | Premier League | 17.500 coins | +20% | +57.9% | Esticada |
-| Steven Gerrard | 89 | Icons | 124k coins | +8.9% | +35% | Momentum moderado |
 | Declan Rice | 94 | Premier League | 240k coins | +7.7% | +31.8% | Momentum moderado |
 | Leah Williamson | 88 | Barclays WSL | 89k coins | +34.6% | +27.9% | Esticada |
 | Jordan Pickford | 85 | Premier League | 48k coins | +9.2% | +26.7% | Momentum moderado |
 | Jamie Vardy | 90 | Serie A TIM | 247k coins | +4.2% | +26.7% | Momentum moderado |
 | John Barnes | 89 | Icons | 100k coins | +31.8% | +16.4% | Esticada |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 32k coins | +12.9% | +14.8% | Momentum moderado |
+| Micah Richards | 85 | Premier League | 20k coins | +9.1% | +15.4% | Momentum moderado |
 | Alessia Russo | 90 | Barclays WSL | 58k coins | +26.1% | +10.5% | Esticada |
-| Lauren James | 89 | Barclays WSL | 50k coins | +8.9% | +10.1% | Momentum moderado |
+| Lauren James | 89 | Barclays WSL | 55k coins | +8.9% | +10.1% | Momentum moderado |
 | Conor Coady | 85 | EFL Championship | 30k coins | +9.1% | +7.1% | Momentum moderado |
-| Tino Livramento | 85 | Premier League | 25k coins | +15.1% | +7% | Momentum moderado |
+| Tyler Morton | 88 | Ligue 1 McDonald's | 25k coins | +4.8% | +6.6% | Entrada a observar |
+| David Beckham | 88 | Icons | 144k coins | +29.9% | +5.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Declan Rice (89)** — 120k coins, **+84.5% em 7 dias** (+36.8% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Declan Rice (89)** — 120k coins, **+84.5% em 7 dias** (+25.3% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Harry Kane (90)** — 244k coins, **+74.3% em 7 dias** (+11.9% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
@@ -70,7 +70,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Joe Cole (87)** — 17.500 coins, **+57.9% em 7 dias** (+20% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steven Gerrard (89)** — 124k coins, **+35% em 7 dias** (+8.9% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Declan Rice (94)** — 240k coins, **+31.8% em 7 dias** (+7.7% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
