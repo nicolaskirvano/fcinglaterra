@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T22:52:07.000Z
+pubDatetime: 2026-07-19T01:52:07.000Z
 title: "Mercado EA FC em 18/07: Ingleses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Elliot Anderson (86, Premier League), com +57.1% em 24h, a 30k coins no Console (PS)."
+    a: "Femi Seriki (83, EFL Championship), com +56.9% em 24h, a 96k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Adam Wharton (88), -38.7% em 24h, a 28k coins."
+    a: "Jill Scott (91), -46.1% em 24h, a 110k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 50 cartas em alta contra 53 em queda (média 0.76%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 60 cartas em alta contra 61 em queda (média 2.73%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **18/07/2026** (Console (PS)): mercado **lateral** — sem direção clara. Entre as cartas relevantes (80+ e acima de 5k coins), foram **50 em alta** e **53 em queda**, média de **0.76%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **18/07/2026** (Console (PS)): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **60 em alta** e **61 em queda**, média de **2.73%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Elliot Anderson (86) **+57.1%** · 🔴 **Maior baixa:** Adam Wharton (88) **-38.7%**
+> 🟢 **Maior alta:** Femi Seriki (83) **+56.9%** · 🔴 **Maior baixa:** Jill Scott (91) **-46.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Ingleses — Console (PS)](/charts/mercado-ea-fc-2026-07-18-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **18/07/2026** (Console (PS)): mercado **lateral** — sem direção
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 95.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.5% entre as cartas que se moveram; o universo observado reúne 127 cartas.
-- **Concentração:** Premier League aparece em 8 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 103.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 49.6% entre as cartas que se moveram; o universo observado reúne 142 cartas.
+- **Concentração:** Premier League aparece em 9 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Elliot Anderson | 86 | Premier League | 30k coins | +57.1% | -5.9% |
-| Lucy Bronze | 88 | Barclays WSL | 111k coins | +55.2% | +202% |
-| Lauren James | 87 | Barclays WSL | 366k coins | +51.9% | +16.6% |
-| Ben Thompson | 84 | EFL League Two | 54k coins | +47.6% | -0.9% |
-| Leah Williamson | 88 | Barclays WSL | 70k coins | +47.2% | +53.5% |
-| Femi Seriki | 83 | EFL Championship | 85k coins | +44.1% | +63.5% |
-| Jobe Bellingham | 89 | Bundesliga | 222k coins | +43.8% | +87% |
-| Noni Madueke | 86 | Premier League | 32k coins | +34.9% | -23.7% |
-| Jordan Henderson | 85 | Premier League | 95k coins | +33.8% | -9.5% |
-| Cole Palmer | 89 | Premier League | 200k coins | +30.4% | -3.9% |
+| Femi Seriki | 83 | EFL Championship | 96k coins | +56.9% | +83.8% |
+| Jess Park | 89 | Barclays WSL | 29k coins | +56.8% | +34.9% |
+| George Dobson | 84 | EFL Championship | 32k coins | +52.3% | +49.4% |
+| Elliot Anderson | 86 | Premier League | 46k coins | +48.8% | -3.2% |
+| Lauren James | 87 | Barclays WSL | 260k coins | +45.8% | +13% |
+| Lewis Miley | 89 | Premier League | 28k coins | +43.5% | +27.1% |
+| Eberechi Eze | 88 | Premier League | 64k coins | +42.2% | +14.3% |
+| Noni Madueke | 86 | Premier League | 26k coins | +38.4% | -21.7% |
+| Lauren James | 89 | Barclays WSL | 81k coins | +37% | +16.8% |
+| Nico O'Reilly | 88 | Premier League | 55k coins | +36.3% | +7.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **18/07/2026** (Console (PS)): mercado **lateral** — sem direção
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Elliot Anderson (86)** subiu **+57.1%** em 24h, a **30k coins** (faixa do dia: 26k–50k). Está -30% abaixo da média de 7 dias (descontada).
+- **Femi Seriki (83)** subiu **+56.9%** em 24h, a **96k coins** (faixa do dia: 45k–120k). Está +48% acima da média de 7 dias (aquecida).
 
-- **Lucy Bronze (88)** subiu **+55.2%** em 24h, a **111k coins** (faixa do dia: 70k–150k). Está +63% acima da média de 7 dias (aquecida).
+- **Jess Park (89)** subiu **+56.8%** em 24h, a **29k coins** (faixa do dia: 13.750–32k). Está +24% acima da média de 7 dias (aquecida).
 
-- **Lauren James (87)** subiu **+51.9%** em 24h, a **366k coins** (faixa do dia: 231k–420k). Está +16% acima da média de 7 dias (aquecida).
+- **George Dobson (84)** subiu **+52.3%** em 24h, a **32k coins** (faixa do dia: 32k–65k). Está -19% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Adam Wharton | 88 | Premier League | 28k coins | -38.7% | -16.8% |
-| Harry Maguire | 83 | Premier League | 69k coins | -34.6% | -25.9% |
-| Eric Dier | 86 | Ligue 1 McDonald's | 22k coins | -25.3% | -22.8% |
-| Declan Rice | 94 | Premier League | 134k coins | -25.1% | -8.8% |
-| Joe Cole | 88 | Premier League | 149k coins | -22.8% | -50.2% |
-| Lauren James | 89 | Barclays WSL | 38k coins | -22.4% | -15.6% |
-| Marcus Rashford | 90 | LALIGA EA SPORTS | 229k coins | -22.3% | +25.9% |
-| Trent Alexander-Arnold | 87 | LALIGA EA SPORTS | 319k coins | -20.1% | -18.6% |
-| Lauren Hemp | 90 | Barclays WSL | 50k coins | -20% | +39.1% |
-| Leif Davis | 84 | EFL Championship | 45k coins | -16.9% | -0.7% |
+| Jill Scott | 91 | Barclays WSL | 110k coins | -46.1% | -20% |
+| Alan Shearer | 91 | Icons | 200k coins | -37.1% | +30.7% |
+| Elliot Anderson | 89 | Premier League | 110k coins | -36.4% | -3.5% |
+| Harry Maguire | 83 | Premier League | 80k coins | -33.5% | -23.3% |
+| Bobby Moore | 90 | Icons | 90k coins | -31.5% | +30.9% |
+| Declan Rice | 94 | Premier League | 127k coins | -28.5% | -12.3% |
+| Alessia Russo | 90 | Barclays WSL | 46k coins | -28.5% | +3.3% |
+| Jordan Pickford | 86 | Premier League | 40k coins | -27.3% | -20% |
+| Kelly Smith | 89 | Icons | 75k coins | -27.2% | +11.1% |
+| Angel Gomes | 83 | Ligue 1 McDonald's | 25k coins | -26.7% | -18.5% |
 
 
 ### Análise das baixas
 
-- **Adam Wharton (88)** caiu **-38.7%** em 24h, a **28k coins** (faixa do dia: 18.000–34k). Está em linha com a média de 7 dias (-4%).
+- **Jill Scott (91)** caiu **-46.1%** em 24h, a **110k coins** (faixa do dia: 60k–145k). Está em linha com a média de 7 dias (+4%).
 
-- **Harry Maguire (83)** caiu **-34.6%** em 24h, a **69k coins** (faixa do dia: 60k–120k). Está -43% abaixo da média de 7 dias (descontada).
+- **Alan Shearer (91)** caiu **-37.1%** em 24h, a **200k coins** (faixa do dia: 200k–319k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Eric Dier (86)** caiu **-25.3%** em 24h, a **22k coins** (faixa do dia: 14.000–24k). Está em linha com a média de 7 dias (+4%).
+- **Elliot Anderson (89)** caiu **-36.4%** em 24h, a **110k coins** (faixa do dia: 110k–218k). Está -17% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Elliot Anderson já avançou 57.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Femi Seriki já avançou 56.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Adam Wharton recuou -38.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Jill Scott recuou -46.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Elliot Anderson (86, Premier League), com +57.1% em 24h, a 30k coins no Console (PS).
+Femi Seriki (83, EFL Championship), com +56.9% em 24h, a 96k coins no Console (PS).
 
 **E a maior queda do dia?**
-Adam Wharton (88), -38.7% em 24h, a 28k coins.
+Jill Scott (91), -46.1% em 24h, a 110k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 50 cartas em alta contra 53 em queda (média 0.76%).
+Hoje o mercado está em alta — predominam as valorizações, com 60 cartas em alta contra 61 em queda (média 2.73%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
