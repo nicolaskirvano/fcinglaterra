@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:45:40.000Z
+pubDatetime: 2026-07-20T10:52:16.000Z
 title: "Mercado EA FC em 20/07: Ingleses — PC"
 draft: false
 featured: true
@@ -74,7 +74,6 @@ Resumo de **20/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 | --- | --- | --- | --- | --- | --- |
 | Joe Gelhardt | 86 | EFL Championship | 23k coins | -47.2% | -34.5% |
 | Ben Thompson | 84 | EFL League Two | 35k coins | -35.2% | -36.4% |
-| Harvey Barnes | 84 | Premier League | 32k coins | -35% | -35% |
 | Alessia Russo | 90 | Barclays WSL | 40k coins | -31.5% | -18.9% |
 | Freya Godfrey | 83 | Barclays WSL | 101k coins | -31.3% | -22% |
 | Alessia Russo | 97 | Barclays WSL | 199k coins | -30.2% | -43% |
@@ -82,6 +81,7 @@ Resumo de **20/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 | Bobby Moore | 91 | Icons | 210k coins | -27.6% | -20.8% |
 | Kyrell Lisbie | 84 | EFL League One | 33k coins | -25.6% | -25.6% |
 | Ledley King | 86 | Premier League | 22k coins | -23.5% | +19.7% |
+| Noni Madueke | 86 | Premier League | 30k coins | -22.8% | -27.3% |
 
 
 ### Análise das baixas
@@ -90,7 +90,7 @@ Resumo de **20/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 
 - **Ben Thompson (84)** caiu **-35.2%** em 24h, a **35k coins** (faixa do dia: 34k–54k). Está -26% abaixo da média de 7 dias (descontada).
 
-- **Harvey Barnes (84)** caiu **-35%** em 24h, a **32k coins** (faixa do dia: 32k–50k). Está -28% abaixo da média de 7 dias (descontada).
+- **Alessia Russo (90)** caiu **-31.5%** em 24h, a **40k coins** (faixa do dia: 40k–58k). Está -20% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje

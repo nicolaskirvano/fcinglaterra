@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:45:32.000Z
+pubDatetime: 2026-07-20T10:52:09.000Z
 title: "Investimentos EA FC: Ingleses em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.7% em 24h** e **+37.6% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Barclays WSL** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+17.0% em 24h** e **+27.1% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,19 +45,19 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Geoff Hurst | 90 | Icons | 116k coins | +2.7% | +65.7% | Esticada |
 | Lauren James | 89 | Barclays WSL | 120k coins | +34.4% | +64% | Esticada |
-| Beth Mead | 88 | Barclays WSL | 93k coins | +4.4% | +62.4% | Esticada |
+| Beth Mead | 88 | Barclays WSL | 93k coins | +18.8% | +62.4% | Esticada |
 | Lauren James | 89 | Barclays WSL | 68k coins | +13.1% | +49.2% | Momentum moderado |
-| Steven Gerrard | 88 | Icons | 147k coins | +40% | +47.7% | Esticada |
-| Alessia Russo | 90 | Barclays WSL | 64k coins | +39.8% | +44.4% | Esticada |
-| Harry Kane | 90 | Bundesliga | 135k coins | +27.9% | +39.8% | Esticada |
-| Dominic Solanke | 87 | Premier League | 55k coins | +11.3% | +37.6% | Momentum moderado |
-| Jill Scott | 91 | Barclays WSL | 108k coins | +19.3% | +27.1% | Momentum moderado |
-| Kobbie Mainoo | 90 | Premier League | 88k coins | +9.4% | +25% | Momentum moderado |
+| Steven Gerrard | 88 | Icons | 147k coins | +40% | +48.5% | Esticada |
+| Kelly Smith | 89 | Icons | 88k coins | +2.8% | +37% | Momentum moderado |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 90k coins | +17% | +27.4% | Momentum moderado |
+| Jill Scott | 91 | Barclays WSL | 101k coins | +19.3% | +27.1% | Momentum moderado |
+| Kobbie Mainoo | 90 | Premier League | 89k coins | +9.4% | +25% | Momentum moderado |
 | Bobby Moore | 90 | Icons | 79k coins | +23.5% | +23.5% | Esticada |
-| Noni Madueke | 86 | Premier League | 45k coins | +8.7% | +22.8% | Momentum moderado |
 | Michelle Agyemang | 89 | Barclays Women’s Super League | 35k coins | +16.7% | +21.7% | Momentum moderado |
 | Rico Lewis | 86 | Premier League | 45k coins | +17.4% | +21.3% | Momentum moderado |
 | Ollie Watkins | 86 | Premier League | 44k coins | +11.9% | +17.8% | Momentum moderado |
+| Tino Livramento | 85 | Premier League | 30k coins | +25% | +17.6% | Esticada |
+| Anthony Gordon | 88 | Premier League | 170k coins | +10.8% | +16.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
@@ -66,11 +66,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Lauren James (89)** — 120k coins, **+64% em 7 dias** (+34.4% em 24h). Preço +58% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Beth Mead (88)** — 93k coins, **+62.4% em 7 dias** (+4.4% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Beth Mead (88)** — 93k coins, **+62.4% em 7 dias** (+18.8% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Lauren James (89)** — 68k coins, **+49.2% em 7 dias** (+13.1% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steven Gerrard (88)** — 147k coins, **+47.7% em 7 dias** (+40% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Gerrard (88)** — 147k coins, **+48.5% em 7 dias** (+40% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
