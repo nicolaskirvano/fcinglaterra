@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T19:52:10.000Z
+pubDatetime: 2026-07-20T22:52:10.000Z
 title: "Jogadores baratos EA FC: Ingleses em 20/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 10.517 coins.
+- **Preço médio das 6 opções:** 8.992 coins.
 - **Posição mais frequente:** ST, com 2 cartas.
-- **Faixa real:** 3.000 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.000 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,32 +40,32 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Alessia Russo | 89 | ST | Barclays WSL | 3.000 coins | +57.9% |
-| Harry Kane | 89 | ST | Bundesliga | 4.600 coins | +2.5% |
-| Steve McManaman | 87 | RM | Premier League | 13.500 coins | +8.6% |
-| Jill Scott | 87 | CM | Barclays WSL | 14.250 coins | -6.2% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 13.000 coins | -8.6% |
-| Alex Scott | 85 | RB | Barclays WSL | 14.750 coins | -1.7% |
+| Alessia Russo | 89 | ST | Barclays WSL | 3.000 coins | +50% |
+| Harry Kane | 89 | ST | Bundesliga | 4.400 coins | +10% |
+| Millie Bright | 87 | CB | Barclays WSL | 5.800 coins | +47.5% |
+| Fara Williams | 86 | CM | Barclays WSL | 13.500 coins | -13% |
+| Alex Scott | 85 | RB | Barclays WSL | 13.250 coins | -12.9% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 14.000 coins | +3.4% |
 
 
 ## 📈 Destaques
 
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **4.600 coins** — já **valorizando**, sinal de procura crescente.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **4.400 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Steve McManaman (87, RM)** da Premier League, a apenas **13.500 coins**
+- **Millie Bright (87, CB)** da Barclays WSL, a apenas **5.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Jill Scott (87, CM)** da Barclays WSL, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Fara Williams (86, CM)** da Barclays WSL, a apenas **13.500 coins**
 
-- **Jill Scott (85, CM)** da Barclays Women’s Super League, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Alex Scott (85, RB)** da Barclays WSL, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Alex Scott (85, RB) por 14.750 coins é a referência de rating deste recorte.
+- **Defesa:** Millie Bright (87, CB) por 5.800 coins é a referência de rating deste recorte.
 
-- **Meio:** Steve McManaman (87, RM) por 13.500 coins é a referência de rating deste recorte.
+- **Meio:** Fara Williams (86, CM) por 13.500 coins é a referência de rating deste recorte.
 
 - **Ataque:** Alessia Russo (89, ST) por 3.000 coins é a referência de rating deste recorte.
 

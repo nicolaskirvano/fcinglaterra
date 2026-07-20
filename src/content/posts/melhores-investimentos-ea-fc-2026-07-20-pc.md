@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T19:52:18.000Z
+pubDatetime: 2026-07-20T22:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 20/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Lucy Bronze (88, Barclays WSL) lidera, com +67.2% em 7 dias a 229k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Steven Gerrard (89, Icons) lidera, com +90% em 7 dias a 190k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Lucy Bronze (88) acumula **+67.2% em 7 dias** a 229k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Steven Gerrard (89) acumula **+90% em 7 dias** a 190k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 20/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-20-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.5% em 24h** e **+23.3% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Barclays WSL** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+22.4% em 24h** e **+40.8% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Barclays WSL** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Lucy Bronze | 88 | Barclays WSL | 229k coins | +12.8% | +67.2% | Esticada |
-| Lauren Hemp | 90 | Barclays WSL | 49k coins | +12.6% | +66.1% | Esticada |
-| David Beckham | 88 | Icons | 134k coins | +17.5% | +60% | Esticada |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 50k coins | +13.5% | +55.4% | Momentum moderado |
-| Beth Mead | 88 | Barclays WSL | 63k coins | +11.1% | +53% | Momentum moderado |
-| Leah Williamson | 95 | Barclays WSL | 145k coins | +6.4% | +35.1% | Momentum moderado |
-| Leah Williamson | 88 | Barclays WSL | 96k coins | +37% | +33.3% | Esticada |
-| Ella Toone | 86 | Barclays Women’s Super League | 46k coins | +25% | +23.3% | Esticada |
-| Lewis Wing | 86 | 2. Bundesliga | 49k coins | +17.3% | +18.7% | Momentum moderado |
-| Jill Scott | 85 | Barclays Women’s Super League | 22k coins | +35.4% | +15.8% | Esticada |
-| Rico Lewis | 86 | Premier League | 50k coins | +2% | +11.1% | Entrada a observar |
-| Harry Kane | 92 | Bundesliga | 240k coins | +5.7% | +10.6% | Momentum moderado |
-| Jill Scott | 91 | Barclays WSL | 100k coins | +21.3% | +9.6% | Esticada |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 37k coins | +25.8% | +7.9% | Esticada |
-| Declan Rice | 94 | Premier League | 245k coins | +6.5% | +6.5% | Momentum moderado |
+| Steven Gerrard | 89 | Icons | 190k coins | +35.7% | +90% | Esticada |
+| Lauren Hemp | 90 | Barclays WSL | 55k coins | +26.4% | +88% | Esticada |
+| Eberechi Eze | 88 | Premier League | 92k coins | +22.4% | +70.6% | Esticada |
+| Nico O'Reilly | 88 | Premier League | 60k coins | +30.9% | +56.2% | Esticada |
+| Beth Mead | 88 | Barclays WSL | 70k coins | +2.4% | +45.7% | Momentum moderado |
+| Lewis Hall | 89 | Premier League | 68k coins | +24.6% | +44.9% | Esticada |
+| Morgan Rogers | 87 | Premier League | 95k coins | +26.3% | +41.2% | Esticada |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 69k coins | +16.9% | +40.8% | Momentum moderado |
+| Steven Gerrard | 88 | Icons | 154k coins | +13% | +38.1% | Momentum moderado |
+| Paul Scholes | 88 | Icons | 109k coins | +25% | +35.4% | Esticada |
+| Lauren James | 89 | Barclays WSL | 64k coins | +17.3% | +31% | Momentum moderado |
+| Leah Williamson | 88 | Barclays WSL | 95k coins | +34.5% | +27.3% | Esticada |
+| Leah Williamson | 95 | Barclays WSL | 136k coins | +22.3% | +24.5% | Esticada |
+| Ella Toone | 86 | Barclays Women’s Super League | 46k coins | +14.4% | +22% | Momentum moderado |
+| Lewis Wing | 86 | 2. Bundesliga | 49k coins | +13.2% | +18.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Lucy Bronze (88)** — 229k coins, **+67.2% em 7 dias** (+12.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Gerrard (89)** — 190k coins, **+90% em 7 dias** (+35.7% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lauren Hemp (90)** — 49k coins, **+66.1% em 7 dias** (+12.6% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lauren Hemp (90)** — 55k coins, **+88% em 7 dias** (+26.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **David Beckham (88)** — 134k coins, **+60% em 7 dias** (+17.5% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eberechi Eze (88)** — 92k coins, **+70.6% em 7 dias** (+22.4% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ben Chilwell (90)** — 50k coins, **+55.4% em 7 dias** (+13.5% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nico O'Reilly (88)** — 60k coins, **+56.2% em 7 dias** (+30.9% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Beth Mead (88)** — 63k coins, **+53% em 7 dias** (+11.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Beth Mead (88)** — 70k coins, **+45.7% em 7 dias** (+2.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Lucy Bronze (88, Barclays WSL) lidera, com +67.2% em 7 dias a 229k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Steven Gerrard (89, Icons) lidera, com +90% em 7 dias a 190k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -106,7 +106,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Ingleses em 20/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-20-pc/)
 - [Mercado EA FC em 20/07: Ingleses — PC](/posts/mercado-ea-fc-2026-07-20-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
