@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T22:52:18.000Z
+pubDatetime: 2026-07-20T01:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 19/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.0% em 24h** e **+39.0% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+10.6% em 24h** e **+30.0% em 7 dias**.
+- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Barclays WSL** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Lucy Bronze | 88 | Barclays WSL | 229k coins | +6% | +65.9% | Esticada |
-| Maya Le Tissier | 88 | Barclays WSL | 86k coins | +5.3% | +52.5% | Momentum moderado |
-| Fara Williams | 88 | Barclays WSL | 54k coins | +15.3% | +46.3% | Momentum moderado |
-| Harry Kane | 90 | Bundesliga | 203k coins | +33.3% | +45.7% | Esticada |
-| Agnes Beever-Jones | 90 | Barclays WSL | 100k coins | +2.6% | +43.9% | Momentum moderado |
-| Georgia Stanway | 88 | Liga F | 62k coins | +28.2% | +42% | Esticada |
-| Steven Gerrard | 89 | Icons | 140k coins | +32.1% | +40% | Esticada |
-| Beth Mead | 88 | Barclays WSL | 70k coins | +23% | +39% | Esticada |
-| Chloe Kelly | 88 | Barclays WSL | 110k coins | +16.4% | +37.5% | Momentum moderado |
-| Tino Livramento | 85 | Premier League | 30k coins | +19% | +36.8% | Momentum moderado |
-| Luke Shaw | 86 | Premier League | 50k coins | +29% | +33.3% | Esticada |
-| Jaden Philogene | 84 | EFL Championship | 65k coins | +17.1% | +30% | Momentum moderado |
-| Nico O'Reilly | 88 | Premier League | 55k coins | +28.2% | +29.9% | Esticada |
-| Leif Davis | 84 | EFL Championship | 52k coins | +22.2% | +25.9% | Esticada |
-| Noni Madueke | 86 | Premier League | 55k coins | +11.1% | +22.9% | Momentum moderado |
+| Lucy Bronze | 88 | Barclays WSL | 229k coins | +7.5% | +65.9% | Esticada |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 47k coins | +4.9% | +49.2% | Momentum moderado |
+| Harry Kane | 90 | Bundesliga | 200k coins | +5.2% | +43.6% | Momentum moderado |
+| Tino Livramento | 85 | Premier League | 30k coins | +25.3% | +43.4% | Esticada |
+| Agnes Beever-Jones | 90 | Barclays WSL | 100k coins | +10.6% | +43.2% | Momentum moderado |
+| Fara Williams | 88 | Barclays WSL | 54k coins | +18.5% | +41.6% | Momentum moderado |
+| Millie Bright | 88 | Barclays WSL | 80k coins | +8.6% | +41.1% | Momentum moderado |
+| Jaden Philogene | 84 | EFL Championship | 65k coins | +30.7% | +30% | Esticada |
+| James Milner | 88 | Premier League | 52k coins | +6.1% | +22.4% | Momentum moderado |
+| Noni Madueke | 86 | Premier League | 54k coins | +17.8% | +21.8% | Momentum moderado |
+| Micah Richards | 85 | Premier League | 28k coins | +7.6% | +21.5% | Momentum moderado |
+| Max Aarons | 85 | Scottish Premiership | 32k coins | +26.2% | +19.3% | Esticada |
+| Lauren James | 89 | Barclays WSL | 56k coins | +10% | +18.3% | Momentum moderado |
+| Jordan Pickford | 86 | Premier League | 47k coins | +11.7% | +16.5% | Momentum moderado |
+| Jill Scott | 87 | Barclays WSL | 55k coins | +14.2% | +15% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Lucy Bronze (88)** — 229k coins, **+65.9% em 7 dias** (+6% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lucy Bronze (88)** — 229k coins, **+65.9% em 7 dias** (+7.5% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maya Le Tissier (88)** — 86k coins, **+52.5% em 7 dias** (+5.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ben Chilwell (90)** — 47k coins, **+49.2% em 7 dias** (+4.9% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fara Williams (88)** — 54k coins, **+46.3% em 7 dias** (+15.3% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Harry Kane (90)** — 200k coins, **+43.6% em 7 dias** (+5.2% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Harry Kane (90)** — 203k coins, **+45.7% em 7 dias** (+33.3% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tino Livramento (85)** — 30k coins, **+43.4% em 7 dias** (+25.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Agnes Beever-Jones (90)** — 100k coins, **+43.9% em 7 dias** (+2.6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Agnes Beever-Jones (90)** — 100k coins, **+43.2% em 7 dias** (+10.6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -86,6 +86,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Ingleses em 19/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-19-pc/)
 - [Mercado EA FC em 19/07: Ingleses — PC](/posts/mercado-ea-fc-2026-07-19-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
