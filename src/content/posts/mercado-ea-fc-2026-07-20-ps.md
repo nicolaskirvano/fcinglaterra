@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T16:52:07.000Z
+pubDatetime: 2026-07-20T19:52:07.000Z
 title: "Mercado EA FC em 20/07: Ingleses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Mateus Mané (88, Premier League), com +44.1% em 24h, a 49k coins no Console (PS)."
+    a: "Eberechi Eze (86, Premier League), com +56.9% em 24h, a 114k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Lewis Hall (89), -50% em 24h, a 50k coins."
+    a: "John Barnes (89), -45.1% em 24h, a 40k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 61 cartas em alta contra 62 em queda (média -0.9%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 51 cartas em alta contra 67 em queda (média -0.93%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **20/07/2026** no Console (PS): dia **indefinido** — sem tendência dominante. **61 valorizações** contra **62 quedas** entre as cartas relevantes, com média de **-0.9%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **20/07/2026** no Console (PS): dia **indefinido** — sem tendência dominante. **51 valorizações** contra **67 quedas** entre as cartas relevantes, com média de **-0.93%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Mateus Mané (88) **+44.1%** · 🔴 **Maior baixa:** Lewis Hall (89) **-50%**
+> 🟢 **Maior alta:** Eberechi Eze (86) **+56.9%** · 🔴 **Maior baixa:** John Barnes (89) **-45.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Ingleses — Console (PS)](/charts/mercado-ea-fc-2026-07-20-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **20/07/2026** no Console (PS): dia **indefinido** — sem tendência 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 94.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 49.6% entre as cartas que se moveram; o universo observado reúne 144 cartas.
-- **Concentração:** Premier League aparece em 9 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 102.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.2% entre as cartas que se moveram; o universo observado reúne 143 cartas.
+- **Concentração:** Premier League aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mateus Mané | 88 | Premier League | 49k coins | +44.1% | +41% |
-| Michael Cheek | 84 | EFL League Two | 56k coins | +43.2% | +30.6% |
-| Max Aarons | 85 | Scottish Premiership | 32k coins | +37% | -2.1% |
-| Jude Bellingham | 90 | LALIGA EA SPORTS | 21k coins | +29.7% | — |
-| Alan Shearer | 91 | Icons | 315k coins | +26% | +99.4% |
-| Bobby Charlton | 93 | Icons | 290k coins | +23.6% | +26.1% |
-| Kyle Walker | 89 | Premier League | 260k coins | +20% | +3.1% |
-| Kyrell Lisbie | 84 | EFL League One | 42k coins | +19.9% | -3.4% |
-| Maya Le Tissier | 88 | Barclays WSL | 30k coins | +19.8% | +21.8% |
-| Harvey Barnes | 86 | Premier League | 40k coins | +17.6% | +5.5% |
+| Eberechi Eze | 86 | Premier League | 114k coins | +56.9% | +13.2% |
+| Mateus Mané | 88 | Premier League | 39k coins | +47.3% | +37.9% |
+| Jude Bellingham | 90 | LALIGA EA SPORTS | 21k coins | +35.5% | +288.9% |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 62k coins | +27.6% | +2.4% |
+| Harvey Barnes | 84 | Premier League | 42k coins | +26% | +15.7% |
+| Luke Shaw | 86 | Premier League | 34k coins | +25% | -18.8% |
+| Jordan Pickford | 85 | Premier League | 47k coins | +24.2% | +3.3% |
+| Alan Shearer | 91 | Icons | 315k coins | +21.2% | +99.4% |
+| Beth Mead | 88 | Barclays WSL | 95k coins | +21% | +49.6% |
+| Michael Owen | 88 | Icons | 76k coins | +20.3% | +16.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **20/07/2026** no Console (PS): dia **indefinido** — sem tendência 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Mateus Mané (88)** subiu **+44.1%** em 24h, a **49k coins** (faixa do dia: 27k–53k). Está +29% acima da média de 7 dias (aquecida).
+- **Eberechi Eze (86)** subiu **+56.9%** em 24h, a **114k coins** (faixa do dia: 56k–128k). Está em linha com a média de 7 dias (+1%).
 
-- **Michael Cheek (84)** subiu **+43.2%** em 24h, a **56k coins** (faixa do dia: 37k–56k). Está +25% acima da média de 7 dias (aquecida).
+- **Mateus Mané (88)** subiu **+47.3%** em 24h, a **39k coins** (faixa do dia: 27k–53k). Está em linha com a média de 7 dias (+2%).
 
-- **Max Aarons (85)** subiu **+37%** em 24h, a **32k coins** (faixa do dia: 23k–36k). Está em linha com a média de 7 dias (-0%).
+- **Jude Bellingham (90)** subiu **+35.5%** em 24h, a **21k coins** (faixa do dia: 15.000–21k). Está +52% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lewis Hall | 89 | Premier League | 50k coins | -50% | +19.8% |
-| Noni Madueke | 86 | Premier League | 46k coins | -44% | -25.9% |
-| Lewis Miley | 89 | Premier League | 39k coins | -40% | -16.9% |
-| John Barnes | 89 | Icons | 43k coins | -39.5% | -30.3% |
-| Lotte Wubben-Moy | 85 | Barclays WSL | 47k coins | -31.1% | +6% |
-| Micah Richards | 85 | Premier League | 23k coins | -30.6% | -34.8% |
-| Bobby Moore | 90 | Icons | 68k coins | -29.2% | 0% |
-| Declan Rice | 91 | Premier League | 245k coins | -21.7% | -24.8% |
-| David Beckham | 88 | Icons | 70k coins | -21.3% | -3.4% |
-| Ryan Yates | 85 | Premier League | 28k coins | -20.9% | +1.9% |
+| John Barnes | 89 | Icons | 40k coins | -45.1% | -25.8% |
+| Bobby Moore | 91 | Icons | 190k coins | -44% | -25.8% |
+| Lewis Miley | 89 | Premier League | 41k coins | -38.2% | -15.4% |
+| Geoff Hurst | 90 | Icons | 62k coins | -33.7% | -0.8% |
+| Bobby Moore | 90 | Icons | 68k coins | -29.5% | 0% |
+| Lotte Wubben-Moy | 85 | Barclays WSL | 46k coins | -29.2% | +1.7% |
+| Lauren James | 89 | Barclays WSL | 130k coins | -25.5% | -3.5% |
+| Alessia Russo | 90 | Barclays WSL | 65k coins | -25% | +4% |
+| Micah Richards | 85 | Premier League | 25k coins | -23.7% | -16.7% |
+| Harry Kane | 92 | Bundesliga | 228k coins | -23.3% | -23.6% |
 
 
 ### Análise das baixas
 
-- **Lewis Hall (89)** caiu **-50%** em 24h, a **50k coins** (faixa do dia: 50k–115k). Está -49% abaixo da média de 7 dias (descontada).
+- **John Barnes (89)** caiu **-45.1%** em 24h, a **40k coins** (faixa do dia: 40k–82k). Está -33% abaixo da média de 7 dias (descontada).
 
-- **Noni Madueke (86)** caiu **-44%** em 24h, a **46k coins** (faixa do dia: 30k–70k). Está -9% abaixo da média de 7 dias (descontada).
+- **Bobby Moore (91)** caiu **-44%** em 24h, a **190k coins** (faixa do dia: 164k–455k). Está -46% abaixo da média de 7 dias (descontada).
 
-- **Lewis Miley (89)** caiu **-40%** em 24h, a **39k coins** (faixa do dia: 26k–49k). Está em linha com a média de 7 dias (+2%).
+- **Lewis Miley (89)** caiu **-38.2%** em 24h, a **41k coins** (faixa do dia: 26k–45k). Está em linha com a média de 7 dias (+7%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Mateus Mané já avançou 44.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Eberechi Eze já avançou 56.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Lewis Hall recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** John Barnes recuou -45.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Mateus Mané (88, Premier League), com +44.1% em 24h, a 49k coins no Console (PS).
+Eberechi Eze (86, Premier League), com +56.9% em 24h, a 114k coins no Console (PS).
 
 **E a maior queda do dia?**
-Lewis Hall (89), -50% em 24h, a 50k coins.
+John Barnes (89), -45.1% em 24h, a 40k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 61 cartas em alta contra 62 em queda (média -0.9%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 51 cartas em alta contra 67 em queda (média -0.93%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
@@ -130,6 +130,7 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Ingleses em 20/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-20-ps/)
 - [Investimentos EA FC: Ingleses em 20/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-20-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

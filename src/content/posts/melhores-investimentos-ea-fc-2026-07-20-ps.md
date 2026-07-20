@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T16:52:09.000Z
+pubDatetime: 2026-07-20T19:52:08.000Z
 title: "Investimentos EA FC: Ingleses em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Beth Mead (88, Barclays WSL) lidera, com +41.7% em 7 dias a 96k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Lucy Bronze (88, Barclays WSL) lidera, com +72.1% em 7 dias a 82k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Beth Mead (88) acumula **+41.7% em 7 dias** a 96k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Lucy Bronze (88) acumula **+72.1% em 7 dias** a 82k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 20/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-20-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.3% em 24h** e **+16.2% em 7 dias**.
-- **1 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.2% em 24h** e **+12.8% em 7 dias**.
+- **4 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,30 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Beth Mead | 88 | Barclays WSL | 96k coins | +16.1% | +41.7% | Momentum moderado |
-| Steven Gerrard | 88 | Icons | 120k coins | +17.2% | +37.4% | Momentum moderado |
-| James Milner | 88 | Premier League | 141k coins | +6% | +25.9% | Momentum moderado |
-| Jill Scott | 91 | Barclays WSL | 121k coins | +25.7% | +25.7% | Esticada |
-| Maya Le Tissier | 88 | Barclays WSL | 30k coins | +19.8% | +21.8% | Momentum moderado |
-| Anthony Gordon | 88 | Premier League | 178k coins | +6.3% | +17% | Momentum moderado |
-| Kelly Smith | 89 | Icons | 72k coins | +10.3% | +16.8% | Momentum moderado |
-| Jack Payne | 84 | EFL League Two | 44k coins | +15.4% | +16.2% | Momentum moderado |
-| Georgia Stanway | 86 | GPFBL | 40k coins | +9.2% | +16.1% | Momentum moderado |
-| Harvey Barnes | 84 | Premier League | 46k coins | +15% | +15.7% | Momentum moderado |
-| Dom Ballard | 84 | EFL League One | 50k coins | +5.9% | +14.6% | Momentum moderado |
-| Leif Davis | 84 | EFL Championship | 40k coins | +10% | +10.7% | Momentum moderado |
-| Michelle Agyemang | 89 | Barclays Women’s Super League | 31k coins | +4.2% | +8.7% | Entrada a observar |
-| Steve McManaman | 87 | Premier League | 16.750 coins | +6.6% | +6.6% | Momentum moderado |
-| Harvey Barnes | 86 | Premier League | 40k coins | +17.6% | +5.5% | Momentum moderado |
+| Lucy Bronze | 88 | Barclays WSL | 82k coins | +12.7% | +72.1% | Esticada |
+| Beth Mead | 88 | Barclays WSL | 95k coins | +21% | +49.6% | Esticada |
+| James Milner | 88 | Premier League | 126k coins | +1.5% | +20% | Entrada a observar |
+| Michael Owen | 88 | Icons | 76k coins | +20.3% | +16.8% | Esticada |
+| Harvey Barnes | 84 | Premier League | 42k coins | +26% | +15.7% | Esticada |
+| Georgia Stanway | 86 | GPFBL | 40k coins | +6% | +12.8% | Momentum moderado |
+| Anthony Gordon | 88 | Premier League | 176k coins | +9.2% | +11.9% | Momentum moderado |
+| Alan Shearer | 89 | Icons | 70k coins | +10.3% | +11.1% | Momentum moderado |
+| David Beckham | 88 | Icons | 75k coins | +2% | +7.9% | Entrada a observar |
+| David Beckham | 89 | Icons | 42k coins | +7.1% | +6.4% | Momentum moderado |
+| John Barnes | 87 | Icons | 66k coins | +5.3% | +5.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Beth Mead (88)** — 96k coins, **+41.7% em 7 dias** (+16.1% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lucy Bronze (88)** — 82k coins, **+72.1% em 7 dias** (+12.7% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steven Gerrard (88)** — 120k coins, **+37.4% em 7 dias** (+17.2% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Beth Mead (88)** — 95k coins, **+49.6% em 7 dias** (+21% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **James Milner (88)** — 141k coins, **+25.9% em 7 dias** (+6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **James Milner (88)** — 126k coins, **+20% em 7 dias** (+1.5% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jill Scott (91)** — 121k coins, **+25.7% em 7 dias** (+25.7% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Michael Owen (88)** — 76k coins, **+16.8% em 7 dias** (+20.3% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maya Le Tissier (88)** — 30k coins, **+21.8% em 7 dias** (+19.8% em 24h). Preço em linha com a média de 7 dias (-8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Harvey Barnes (84)** — 42k coins, **+15.7% em 7 dias** (+26% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +84,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Beth Mead (88, Barclays WSL) lidera, com +41.7% em 7 dias a 96k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Lucy Bronze (88, Barclays WSL) lidera, com +72.1% em 7 dias a 82k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -106,6 +102,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Ingleses em 20/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-20-ps/)
 - [Mercado EA FC em 20/07: Ingleses — Console (PS)](/posts/mercado-ea-fc-2026-07-20-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
