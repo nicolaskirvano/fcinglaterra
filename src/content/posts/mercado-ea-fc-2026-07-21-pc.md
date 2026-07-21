@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T13:52:17.000Z
+pubDatetime: 2026-07-21T16:52:16.000Z
 title: "Mercado EA FC em 21/07: Ingleses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Ben Thompson (84, EFL League Two), com +54.3% em 24h, a 54k coins no PC."
+    a: "Elliot Anderson (86, Premier League), com +56.7% em 24h, a 52k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Harry Kane (91), -48.2% em 24h, a 100k coins."
+    a: "Steven Gerrard (89), -44.7% em 24h, a 105k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 56 cartas em alta contra 55 em queda (média 4.3%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 56 cartas em alta contra 59 em queda (média 4.53%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**21/07/2026**, PC) o Ultimate Team está **em alta** — predominam as valorizações — **56 subiram**, **55 caíram** (80+ e 5k+ coins), média de **4.3%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**21/07/2026**, PC) o Ultimate Team está **em alta** — predominam as valorizações — **56 subiram**, **59 caíram** (80+ e 5k+ coins), média de **4.53%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Ben Thompson (84) **+54.3%** · 🔴 **Maior baixa:** Harry Kane (91) **-48.2%**
+> 🟢 **Maior alta:** Elliot Anderson (86) **+56.7%** · 🔴 **Maior baixa:** Steven Gerrard (89) **-44.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Ingleses — PC](/charts/mercado-ea-fc-2026-07-21-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**21/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.5% entre as cartas que se moveram; o universo observado reúne 154 cartas.
-- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 101.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.7% entre as cartas que se moveram; o universo observado reúne 158 cartas.
+- **Concentração:** Premier League aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ben Thompson | 84 | EFL League Two | 54k coins | +54.3% | +75.6% |
-| Harvey Barnes | 84 | Premier League | 49k coins | +52.7% | +5.3% |
-| Leah Williamson | 95 | Barclays WSL | 249k coins | +52.4% | +40.6% |
-| Freya Godfrey | 83 | Barclays WSL | 145k coins | +50.5% | -17.2% |
-| Georgia Stanway | 88 | GPFBL | 22k coins | +48.3% | -14.4% |
-| Agnes Beever-Jones | 90 | Barclays WSL | 88k coins | +41.2% | +73% |
-| Trent Alexander-Arnold | 87 | LALIGA EA SPORTS | 729k coins | +40.1% | +34.7% |
-| Dominic Solanke | 87 | Premier League | 60k coins | +38.9% | +43.7% |
-| Jordan Pickford | 86 | Premier League | 40k coins | +33.3% | -13% |
+| Elliot Anderson | 86 | Premier League | 52k coins | +56.7% | +33.8% |
+| Nico O'Reilly | 88 | Premier League | 60k coins | +43.8% | +57.1% |
+| Trent Alexander-Arnold | 87 | LALIGA EA SPORTS | 727k coins | +37.6% | +32.4% |
+| Freya Godfrey | 83 | Barclays WSL | 132k coins | +36.4% | -26.1% |
+| Mateus Mané | 86 | Premier League | 49k coins | +34.2% | +24.8% |
+| Jordan Pickford | 86 | Premier League | 36k coins | +33.3% | -13% |
 | Morgan Rogers | 87 | Premier League | 120k coins | +32.6% | +50% |
+| Alessia Russo | 90 | Barclays WSL | 74k coins | +31% | +56.7% |
+| Dominic Solanke | 87 | Premier League | 57k coins | +28.9% | +33.3% |
+| Jill Scott | 85 | Barclays Women’s Super League | 28k coins | +27.8% | +98.3% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**21/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ben Thompson (84)** subiu **+54.3%** em 24h, a **54k coins** (faixa do dia: 46k–54k). Está +15% acima da média de 7 dias (aquecida).
+- **Elliot Anderson (86)** subiu **+56.7%** em 24h, a **52k coins** (faixa do dia: 19.500–54k). Está +27% acima da média de 7 dias (aquecida).
 
-- **Harvey Barnes (84)** subiu **+52.7%** em 24h, a **49k coins** (faixa do dia: 48k–50k). Está +9% acima da média de 7 dias (aquecida).
+- **Nico O'Reilly (88)** subiu **+43.8%** em 24h, a **60k coins** (faixa do dia: 36k–90k). Está +19% acima da média de 7 dias (aquecida).
 
-- **Leah Williamson (95)** subiu **+52.4%** em 24h, a **249k coins** (faixa do dia: 91k–261k). Está +57% acima da média de 7 dias (aquecida).
+- **Trent Alexander-Arnold (87)** subiu **+37.6%** em 24h, a **727k coins** (faixa do dia: 529k–750k). Está +28% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 91 | Bundesliga | 100k coins | -48.2% | -23.1% |
-| David Beckham | 88 | Icons | 99k coins | -43.5% | +4.2% |
-| Ian Wright | 87 | Icons | 88k coins | -40.8% | +26.6% |
-| Alex Scott | 89 | Barclays WSL | 31k coins | -38.5% | -42.3% |
-| Michael Owen | 88 | Icons | 66k coins | -33.2% | 0% |
-| Tom Ince | 84 | EFL Championship | 34k coins | -26.8% | -36.8% |
-| Steven Gerrard | 89 | Icons | 108k coins | -22.9% | +18% |
-| Jack Payne | 84 | EFL League Two | 40k coins | -21% | -10.7% |
-| Grace Clinton | 87 | Barclays WSL | 23k coins | -17.5% | -4.8% |
-| Declan Rice | 88 | Premier League | 68k coins | -14.6% | -5.6% |
+| Steven Gerrard | 89 | Icons | 105k coins | -44.7% | +5% |
+| Archie Brown | 85 | Trendyol Süper Lig | 54k coins | -39.3% | -44.9% |
+| Declan Rice | 94 | Premier League | 149k coins | -39.2% | -36.6% |
+| Alex Scott | 89 | Barclays WSL | 46k coins | -35.7% | -41.3% |
+| David Beckham | 88 | Icons | 98k coins | -35.6% | +2.1% |
+| Chloe Kelly | 88 | Barclays WSL | 70k coins | -29.5% | +60.2% |
+| Declan Rice | 88 | Premier League | 64k coins | -26.2% | -18.1% |
+| Tom Ince | 84 | EFL Championship | 34k coins | -25.8% | -37.3% |
+| Femi Seriki | 83 | EFL Championship | 52k coins | -23.9% | -7.9% |
+| Keira Walsh | 86 | Barclays WSL | 35k coins | -19.9% | -27.7% |
 
 
 ### Análise das baixas
 
-- **Harry Kane (91)** caiu **-48.2%** em 24h, a **100k coins** (faixa do dia: 99k–220k). Está -52% abaixo da média de 7 dias (descontada).
+- **Steven Gerrard (89)** caiu **-44.7%** em 24h, a **105k coins** (faixa do dia: 105k–190k). Está -18% abaixo da média de 7 dias (descontada).
 
-- **David Beckham (88)** caiu **-43.5%** em 24h, a **99k coins** (faixa do dia: 84k–168k). Está em linha com a média de 7 dias (-8%).
+- **Archie Brown (85)** caiu **-39.3%** em 24h, a **54k coins** (faixa do dia: 51k–84k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Ian Wright (87)** caiu **-40.8%** em 24h, a **88k coins** (faixa do dia: 88k–153k). Está -18% abaixo da média de 7 dias (descontada).
+- **Declan Rice (94)** caiu **-39.2%** em 24h, a **149k coins** (faixa do dia: 149k–288k). Está -30% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Ben Thompson já avançou 54.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Elliot Anderson já avançou 56.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Harry Kane recuou -48.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Steven Gerrard recuou -44.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Ben Thompson (84, EFL League Two), com +54.3% em 24h, a 54k coins no PC.
+Elliot Anderson (86, Premier League), com +56.7% em 24h, a 52k coins no PC.
 
 **E a maior queda do dia?**
-Harry Kane (91), -48.2% em 24h, a 100k coins.
+Steven Gerrard (89), -44.7% em 24h, a 105k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 56 cartas em alta contra 55 em queda (média 4.3%).
+Hoje o mercado está em alta — predominam as valorizações, com 56 cartas em alta contra 59 em queda (média 4.53%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
