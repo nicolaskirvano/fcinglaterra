@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:52:10.000Z
+pubDatetime: 2026-07-21T01:52:10.000Z
 title: "Jogadores baratos EA FC: Ingleses em 20/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 20/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/07/2026)?"
-    a: "Alessia Russo (89, Barclays WSL) aparece como melhor custo-benefício, a 3.000 coins no Console (PS)."
+    a: "Alessia Russo (89, Barclays WSL) aparece como melhor custo-benefício, a 2.000 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Alessia Russo (89) por apenas 3.000 coins.
+> 💰 **Melhor pechincha:** Alessia Russo (89) por apenas 2.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Ingleses em 20/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-20-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 8.992 coins.
+- **Preço médio das 6 opções:** 8.725 coins.
 - **Posição mais frequente:** ST, com 2 cartas.
-- **Faixa real:** 3.000 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.000 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,34 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Alessia Russo | 89 | ST | Barclays WSL | 3.000 coins | +50% |
-| Harry Kane | 89 | ST | Bundesliga | 4.400 coins | +10% |
-| Millie Bright | 87 | CB | Barclays WSL | 5.800 coins | +47.5% |
-| Fara Williams | 86 | CM | Barclays WSL | 13.500 coins | -13% |
-| Alex Scott | 85 | RB | Barclays WSL | 13.250 coins | -12.9% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 14.000 coins | +3.4% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2.000 coins | +40% |
+| Harry Kane | 89 | ST | Bundesliga | 4.300 coins | +5% |
+| Millie Bright | 87 | CB | Barclays WSL | 4.800 coins | +20.5% |
+| Fara Williams | 86 | CM | Barclays WSL | 13.250 coins | +12.2% |
+| Ledley King | 86 | CB | Premier League | 14.000 coins | -7.4% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 14.000 coins | -1.8% |
 
 
 ## 📈 Destaques
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **4.400 coins** — já **valorizando**, sinal de procura crescente.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **4.300 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Millie Bright (87, CB)** da Barclays WSL, a apenas **5.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Millie Bright (87, CB)** da Barclays WSL, a apenas **4.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Fara Williams (86, CM)** da Barclays WSL, a apenas **13.500 coins**
+- **Fara Williams (86, CM)** da Barclays WSL, a apenas **13.250 coins**
 
-- **Alex Scott (85, RB)** da Barclays WSL, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ledley King (86, CB)** da Premier League, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Millie Bright (87, CB) por 5.800 coins é a referência de rating deste recorte.
+- **Defesa:** Millie Bright (87, CB) por 4.800 coins é a referência de rating deste recorte.
 
-- **Meio:** Fara Williams (86, CM) por 13.500 coins é a referência de rating deste recorte.
+- **Meio:** Fara Williams (86, CM) por 13.250 coins é a referência de rating deste recorte.
 
-- **Ataque:** Alessia Russo (89, ST) por 3.000 coins é a referência de rating deste recorte.
+- **Ataque:** Alessia Russo (89, ST) por 2.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -86,7 +86,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/07/2026)?**  
-Alessia Russo (89, Barclays WSL) aparece como melhor custo-benefício, a 3.000 coins no Console (PS).
+Alessia Russo (89, Barclays WSL) aparece como melhor custo-benefício, a 2.000 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
