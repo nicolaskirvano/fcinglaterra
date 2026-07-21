@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:45:37.000Z
+pubDatetime: 2026-07-21T10:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 21/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+20.8% em 24h** e **+26.6% em 7 dias**.
-- **5 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+18.8% em 24h** e **+31.7% em 7 dias**.
+- **4 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,26 +44,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Paul Scholes | 91 | Icons | 189k coins | +18.8% | +59.7% | Momentum moderado |
-| Jaden Philogene | 87 | EFL Championship | 46k coins | +25.3% | +56.7% | Esticada |
-| David Beckham | 89 | Icons | 65k coins | +23.9% | +55.6% | Esticada |
-| Paul Scholes | 88 | Icons | 139k coins | +2.2% | +52.7% | Momentum moderado |
+| Jaden Philogene | 87 | EFL Championship | 48k coins | +25.3% | +56.7% | Esticada |
+| Paul Scholes | 88 | Icons | 139k coins | +5.3% | +52.7% | Momentum moderado |
+| David Beckham | 89 | Icons | 62k coins | +15% | +44.4% | Momentum moderado |
 | Ollie Watkins | 90 | Premier League | 66k coins | +23.1% | +31.7% | Esticada |
-| Lauren James | 89 | Barclays WSL | 60k coins | +17.1% | +21.5% | Momentum moderado |
+| Lauren James | 89 | Barclays WSL | 51k coins | +17.1% | +21.5% | Momentum moderado |
 | Jill Scott | 91 | Barclays WSL | 140k coins | +22.8% | +20.7% | Esticada |
-| John Barnes | 89 | Icons | 98k coins | +1% | +19% | Entrada a observar |
 | Ethan Nwaneri | 91 | Ligue 1 McDonald's | 86k coins | +32.3% | +17.3% | Esticada |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 44k coins | +9.8% | +12.1% | Momentum moderado |
+| Tyler Morton | 88 | Ligue 1 McDonald's | 44k coins | +10.5% | +12.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Paul Scholes (91)** — 189k coins, **+59.7% em 7 dias** (+18.8% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jaden Philogene (87)** — 46k coins, **+56.7% em 7 dias** (+25.3% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jaden Philogene (87)** — 48k coins, **+56.7% em 7 dias** (+25.3% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **David Beckham (89)** — 65k coins, **+55.6% em 7 dias** (+23.9% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paul Scholes (88)** — 139k coins, **+52.7% em 7 dias** (+5.3% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Paul Scholes (88)** — 139k coins, **+52.7% em 7 dias** (+2.2% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **David Beckham (89)** — 62k coins, **+44.4% em 7 dias** (+15% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Ollie Watkins (90)** — 66k coins, **+31.7% em 7 dias** (+23.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
