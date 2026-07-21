@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:52:18.000Z
+pubDatetime: 2026-07-21T13:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 21/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Paul Scholes (91, Icons) lidera, com +59.7% em 7 dias a 189k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Georgia Stanway (88, Liga F) lidera, com +85.7% em 7 dias a 65k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Paul Scholes (91) acumula **+59.7% em 7 dias** a 189k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Georgia Stanway (88) acumula **+85.7% em 7 dias** a 65k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 21/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-21-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.8% em 24h** e **+31.7% em 7 dias**.
-- **4 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+17.4% em 24h** e **+38.9% em 7 dias**.
+- **9 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Barclays WSL** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Paul Scholes | 91 | Icons | 189k coins | +18.8% | +59.7% | Momentum moderado |
-| Jaden Philogene | 87 | EFL Championship | 48k coins | +25.3% | +56.7% | Esticada |
-| Paul Scholes | 88 | Icons | 139k coins | +5.3% | +52.7% | Momentum moderado |
-| David Beckham | 89 | Icons | 62k coins | +15% | +44.4% | Momentum moderado |
-| Ollie Watkins | 90 | Premier League | 66k coins | +23.1% | +31.7% | Esticada |
-| Lauren James | 89 | Barclays WSL | 51k coins | +17.1% | +21.5% | Momentum moderado |
-| Jill Scott | 91 | Barclays WSL | 140k coins | +22.8% | +20.7% | Esticada |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 86k coins | +32.3% | +17.3% | Esticada |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 44k coins | +10.5% | +12.9% | Momentum moderado |
+| Georgia Stanway | 88 | Liga F | 65k coins | +10.2% | +85.7% | Esticada |
+| Lauren Hemp | 90 | Barclays WSL | 55k coins | +12.2% | +70.5% | Esticada |
+| Beth Mead | 88 | Barclays WSL | 68k coins | +3.8% | +64.1% | Esticada |
+| Paul Scholes | 91 | Icons | 187k coins | +16.9% | +57.1% | Momentum moderado |
+| Morgan Rogers | 87 | Premier League | 120k coins | +32.6% | +50% | Esticada |
+| Paul Scholes | 88 | Icons | 139k coins | +24.1% | +47.1% | Esticada |
+| Dominic Solanke | 87 | Premier League | 60k coins | +38.9% | +43.7% | Esticada |
+| Max Aarons | 85 | Scottish Premiership | 32k coins | +26.2% | +34% | Esticada |
+| Ollie Watkins | 90 | Premier League | 65k coins | +26% | +33.7% | Esticada |
+| Lewis Miley | 89 | Premier League | 65k coins | +10.2% | +33.3% | Momentum moderado |
+| Rico Lewis | 86 | Premier League | 50k coins | +10% | +29.4% | Momentum moderado |
+| Jill Scott | 91 | Barclays WSL | 132k coins | +22.8% | +20.7% | Esticada |
+| Lauren James | 89 | Barclays WSL | 60k coins | +10.1% | +13.2% | Momentum moderado |
+| Millie Bright | 94 | Barclays WSL | 85k coins | +17.8% | +11.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Paul Scholes (91)** — 189k coins, **+59.7% em 7 dias** (+18.8% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Georgia Stanway (88)** — 65k coins, **+85.7% em 7 dias** (+10.2% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jaden Philogene (87)** — 48k coins, **+56.7% em 7 dias** (+25.3% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lauren Hemp (90)** — 55k coins, **+70.5% em 7 dias** (+12.2% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Paul Scholes (88)** — 139k coins, **+52.7% em 7 dias** (+5.3% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Beth Mead (88)** — 68k coins, **+64.1% em 7 dias** (+3.8% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **David Beckham (89)** — 62k coins, **+44.4% em 7 dias** (+15% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paul Scholes (91)** — 187k coins, **+57.1% em 7 dias** (+16.9% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ollie Watkins (90)** — 66k coins, **+31.7% em 7 dias** (+23.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Morgan Rogers (87)** — 120k coins, **+50% em 7 dias** (+32.6% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -82,7 +87,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Paul Scholes (91, Icons) lidera, com +59.7% em 7 dias a 189k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Georgia Stanway (88, Liga F) lidera, com +85.7% em 7 dias a 65k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
