@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T19:52:18.000Z
+pubDatetime: 2026-07-21T22:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 21/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Jaden Philogene (87, EFL Championship) lidera, com +84.6% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Geoff Hurst (90, Icons) lidera, com +80% em 7 dias a 94k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Jaden Philogene (87) acumula **+84.6% em 7 dias** a 60k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Geoff Hurst (90) acumula **+80% em 7 dias** a 94k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 21/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-21-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.8% em 24h** e **+18.8% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+17.9% em 24h** e **+47.7% em 7 dias**.
+- **7 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,30 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jaden Philogene | 87 | EFL Championship | 60k coins | +12.1% | +84.6% | Esticada |
-| Geoff Hurst | 90 | Icons | 94k coins | +6.2% | +80% | Esticada |
-| Jill Scott | 85 | Barclays Women’s Super League | 25k coins | +19.8% | +77.6% | Esticada |
-| Wayne Rooney | 88 | Icons | 175k coins | +40% | +52.2% | Esticada |
-| Georgia Stanway | 88 | Liga F | 65k coins | +14.7% | +46.2% | Momentum moderado |
-| Mateus Mané | 86 | Premier League | 42k coins | +37% | +41.8% | Esticada |
-| Paul Scholes | 88 | Icons | 124k coins | +20% | +34.8% | Esticada |
-| James Milner | 88 | Premier League | 48k coins | +1.1% | +18.8% | Entrada a observar |
-| Lucy Bronze | 88 | Barclays WSL | 201k coins | +2.5% | +17.4% | Entrada a observar |
-| Lewis Hall | 89 | Premier League | 70k coins | +28.2% | +16.5% | Esticada |
-| Lewis Miley | 89 | Premier League | 64k coins | +27% | +16.5% | Esticada |
-| Dominic Solanke | 87 | Premier League | 50k coins | +12.2% | +16.1% | Momentum moderado |
-| Michael Cheek | 84 | EFL League Two | 47k coins | +18.8% | +14.5% | Momentum moderado |
-| Chris Smalling | 87 | ROSHN Saudi League | 61k coins | +25.1% | +7% | Esticada |
-| Frank Lampard | 87 | Icons | 100k coins | +5.5% | +6.6% | Momentum moderado |
+| Geoff Hurst | 90 | Icons | 94k coins | +7.4% | +80% | Esticada |
+| Ben Thompson | 84 | EFL League Two | 53k coins | +1.9% | +78.9% | Esticada |
+| Declan Rice | 89 | Premier League | 78k coins | +36.7% | +70.8% | Esticada |
+| Jill Scott | 85 | Barclays Women’s Super League | 22k coins | +23.3% | +55.2% | Esticada |
+| Wayne Rooney | 88 | Icons | 170k coins | +36.7% | +52.2% | Esticada |
+| Georgia Stanway | 88 | Liga F | 65k coins | +36.8% | +47.7% | Esticada |
+| Alessia Russo | 90 | Barclays WSL | 60k coins | +3.4% | +23.7% | Entrada a observar |
+| Declan Rice | 89 | Premier League | 102k coins | +26.9% | +21.1% | Esticada |
+| James Milner | 88 | Premier League | 48k coins | +3.3% | +18.8% | Entrada a observar |
+| Chris Smalling | 87 | ROSHN Saudi League | 56k coins | +17.9% | +12% | Momentum moderado |
+| Louis Reed | 84 | EFL League One | 49k coins | +16.5% | +10.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Jaden Philogene (87)** — 60k coins, **+84.6% em 7 dias** (+12.1% em 24h). Preço +68% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Geoff Hurst (90)** — 94k coins, **+80% em 7 dias** (+7.4% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Geoff Hurst (90)** — 94k coins, **+80% em 7 dias** (+6.2% em 24h). Preço +53% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ben Thompson (84)** — 53k coins, **+78.9% em 7 dias** (+1.9% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jill Scott (85)** — 25k coins, **+77.6% em 7 dias** (+19.8% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Declan Rice (89)** — 78k coins, **+70.8% em 7 dias** (+36.7% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wayne Rooney (88)** — 175k coins, **+52.2% em 7 dias** (+40% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jill Scott (85)** — 22k coins, **+55.2% em 7 dias** (+23.3% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Georgia Stanway (88)** — 65k coins, **+46.2% em 7 dias** (+14.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wayne Rooney (88)** — 170k coins, **+52.2% em 7 dias** (+36.7% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +84,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Jaden Philogene (87, EFL Championship) lidera, com +84.6% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Geoff Hurst (90, Icons) lidera, com +80% em 7 dias a 94k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -106,6 +102,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Ingleses em 21/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-21-pc/)
 - [Mercado EA FC em 21/07: Ingleses — PC](/posts/mercado-ea-fc-2026-07-21-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
