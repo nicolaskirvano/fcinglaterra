@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:52:18.000Z
+pubDatetime: 2026-07-22T13:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 22/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Dominic Solanke (87, Premier League) lidera, com +56.8% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ben Thompson (84, EFL League Two) lidera, com +78.9% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Dominic Solanke (87) acumula **+56.8% em 7 dias** a 60k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Ben Thompson (84) acumula **+78.9% em 7 dias** a 55k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 22/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-22-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.1% em 24h** e **+21.6% em 7 dias**.
-- **1 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.1% em 24h** e **+28.6% em 7 dias**.
+- **5 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Barclays WSL** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,32 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Dominic Solanke | 87 | Premier League | 60k coins | +7% | +56.8% | Momentum moderado |
-| Jaden Philogene | 87 | EFL Championship | 47k coins | +1% | +49.2% | Momentum moderado |
-| Steven Gerrard | 89 | Icons | 128k coins | +11.2% | +41% | Momentum moderado |
-| Ollie Watkins | 90 | Premier League | 68k coins | +3.8% | +39.8% | Momentum moderado |
-| Lauren James | 89 | Barclays WSL | 65k coins | +4.8% | +28.7% | Momentum moderado |
-| John Barnes | 89 | Icons | 109k coins | +11.2% | +27.5% | Momentum moderado |
-| Lucy Bronze | 95 | Barclays WSL | 197k coins | +16.6% | +21.6% | Momentum moderado |
-| Louis Reed | 84 | EFL League One | 50k coins | +15.1% | +13.8% | Momentum moderado |
-| Marc Guéhi | 88 | Premier League | 32k coins | +20.9% | +13.7% | Esticada |
-| Keira Walsh | 86 | Barclays WSL | 48k coins | +9.1% | +12.9% | Momentum moderado |
-| Grace Clinton | 87 | Barclays WSL | 23k coins | +15% | +9.5% | Momentum moderado |
-| Harvey Barnes | 86 | Premier League | 43k coins | +1.1% | +9.3% | Entrada a observar |
-| Ella Toone | 86 | Barclays Women’s Super League | 47k coins | +7.5% | +8.1% | Momentum moderado |
+| Ben Thompson | 84 | EFL League Two | 55k coins | +1.9% | +78.9% | Esticada |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 60k coins | +28.3% | +71.4% | Esticada |
+| Alessia Russo | 90 | Barclays WSL | 80k coins | +5.3% | +53.8% | Momentum moderado |
+| Ollie Watkins | 90 | Premier League | 62k coins | +3.8% | +38.5% | Momentum moderado |
+| Steven Gerrard | 89 | Icons | 127k coins | +24.1% | +34% | Esticada |
+| Dominic Solanke | 87 | Premier League | 69k coins | +3.4% | +33.3% | Momentum moderado |
+| Anthony Gordon | 87 | Premier League | 70k coins | +29.6% | +32.1% | Esticada |
+| Lauren James | 89 | Barclays WSL | 34k coins | +7.5% | +25.2% | Momentum moderado |
+| Lucy Bronze | 95 | Barclays WSL | 193k coins | +17.3% | +21.6% | Momentum moderado |
+| John Barnes | 89 | Icons | 101k coins | +22.4% | +19.5% | Esticada |
+| Steven Gerrard | 90 | Icons | 235k coins | +17.5% | +17.5% | Momentum moderado |
+| Harvey Barnes | 86 | Premier League | 44k coins | +4.7% | +11.8% | Entrada a observar |
+| Grace Clinton | 87 | Barclays WSL | 23k coins | +10.7% | +10.7% | Momentum moderado |
+| Keira Walsh | 86 | Barclays WSL | 45k coins | +7.1% | +5.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Dominic Solanke (87)** — 60k coins, **+56.8% em 7 dias** (+7% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ben Thompson (84)** — 55k coins, **+78.9% em 7 dias** (+1.9% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jaden Philogene (87)** — 47k coins, **+49.2% em 7 dias** (+1% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ben Chilwell (90)** — 60k coins, **+71.4% em 7 dias** (+28.3% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steven Gerrard (89)** — 128k coins, **+41% em 7 dias** (+11.2% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alessia Russo (90)** — 80k coins, **+53.8% em 7 dias** (+5.3% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ollie Watkins (90)** — 68k coins, **+39.8% em 7 dias** (+3.8% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ollie Watkins (90)** — 62k coins, **+38.5% em 7 dias** (+3.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lauren James (89)** — 65k coins, **+28.7% em 7 dias** (+4.8% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Gerrard (89)** — 127k coins, **+34% em 7 dias** (+24.1% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -86,7 +87,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Dominic Solanke (87, Premier League) lidera, com +56.8% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ben Thompson (84, EFL League Two) lidera, com +78.9% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -104,7 +105,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Ingleses em 22/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-22-pc/)
 - [Mercado EA FC em 22/07: Ingleses — PC](/posts/mercado-ea-fc-2026-07-22-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
