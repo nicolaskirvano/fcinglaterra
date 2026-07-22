@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:47:36.000Z
+pubDatetime: 2026-07-22T10:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 22/07 — PC"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.5% em 24h** e **+23.5% em 7 dias**.
+- A mediana é de **+9.1% em 24h** e **+21.6% em 7 dias**.
 - **1 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -44,25 +44,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Dominic Solanke | 87 | Premier League | 60k coins | +7% | +56.8% | Momentum moderado |
-| Jaden Philogene | 87 | EFL Championship | 47k coins | +1.6% | +50% | Momentum moderado |
+| Jaden Philogene | 87 | EFL Championship | 47k coins | +1% | +49.2% | Momentum moderado |
 | Steven Gerrard | 89 | Icons | 128k coins | +11.2% | +41% | Momentum moderado |
 | Ollie Watkins | 90 | Premier League | 68k coins | +3.8% | +39.8% | Momentum moderado |
 | Lauren James | 89 | Barclays WSL | 65k coins | +4.8% | +28.7% | Momentum moderado |
 | John Barnes | 89 | Icons | 109k coins | +11.2% | +27.5% | Momentum moderado |
-| Lucy Bronze | 95 | Barclays WSL | 197k coins | +18.3% | +23.5% | Momentum moderado |
+| Lucy Bronze | 95 | Barclays WSL | 197k coins | +16.6% | +21.6% | Momentum moderado |
 | Louis Reed | 84 | EFL League One | 50k coins | +15.1% | +13.8% | Momentum moderado |
-| Marc Guéhi | 88 | Premier League | 33k coins | +20.9% | +13.7% | Esticada |
-| Keira Walsh | 86 | Barclays WSL | 48k coins | +6.7% | +12.9% | Momentum moderado |
-| Grace Clinton | 87 | Barclays WSL | 23k coins | +16.5% | +9.5% | Momentum moderado |
+| Marc Guéhi | 88 | Premier League | 32k coins | +20.9% | +13.7% | Esticada |
+| Keira Walsh | 86 | Barclays WSL | 48k coins | +9.1% | +12.9% | Momentum moderado |
+| Grace Clinton | 87 | Barclays WSL | 23k coins | +15% | +9.5% | Momentum moderado |
 | Harvey Barnes | 86 | Premier League | 43k coins | +1.1% | +9.3% | Entrada a observar |
-| Ella Toone | 86 | Barclays Women’s Super League | 46k coins | +7.5% | +8.1% | Momentum moderado |
+| Ella Toone | 86 | Barclays Women’s Super League | 47k coins | +7.5% | +8.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Dominic Solanke (87)** — 60k coins, **+56.8% em 7 dias** (+7% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jaden Philogene (87)** — 47k coins, **+50% em 7 dias** (+1.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jaden Philogene (87)** — 47k coins, **+49.2% em 7 dias** (+1% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Steven Gerrard (89)** — 128k coins, **+41% em 7 dias** (+11.2% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 

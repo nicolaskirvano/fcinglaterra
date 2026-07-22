@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:47:26.000Z
+pubDatetime: 2026-07-22T10:52:09.000Z
 title: "Investimentos EA FC: Ingleses em 22/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.0% em 24h** e **+15.9% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.9% em 24h** e **+14.9% em 7 dias**.
+- **6 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Barclays WSL** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -47,17 +47,16 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Eberechi Eze | 87 | Premier League | 86k coins | +3% | +52.6% | Momentum moderado |
 | Fara Williams | 88 | Barclays WSL | 74k coins | +6.5% | +51.5% | Momentum moderado |
 | Ellie Roebuck | 85 | Barclays WSL | 28k coins | +5.7% | +40% | Momentum moderado |
-| Ledley King | 86 | Premier League | 22k coins | +36.4% | +30.4% | Esticada |
-| Nico O'Reilly | 88 | Premier League | 35k coins | +35.1% | +29.4% | Esticada |
-| Keira Walsh | 86 | Barclays WSL | 47k coins | +20.5% | +20.5% | Esticada |
+| Ledley King | 86 | Premier League | 18.500 coins | +36.4% | +30.4% | Esticada |
+| Keira Walsh | 86 | Barclays WSL | 50k coins | +20.5% | +20.5% | Esticada |
 | Keira Walsh | 89 | Barclays WSL | 21k coins | +13.1% | +15.9% | Momentum moderado |
-| Ollie Watkins | 90 | Premier League | 55k coins | +35% | +14% | Esticada |
+| Ollie Watkins | 90 | Premier League | 55k coins | +37.5% | +14% | Esticada |
 | Geoff Hurst | 88 | Icons | 72k coins | +12.8% | +12.8% | Momentum moderado |
 | Louis Reed | 84 | EFL League One | 46k coins | +24% | +11.4% | Esticada |
 | John Barnes | 87 | Icons | 72k coins | +9.3% | +10.1% | Momentum moderado |
-| Ollie Watkins | 86 | Premier League | 42k coins | +14% | +9.6% | Momentum moderado |
+| Ollie Watkins | 86 | Premier League | 42k coins | +9.6% | +9.6% | Momentum moderado |
 | Kelly Smith | 89 | Icons | 74k coins | +2% | +9.3% | Entrada a observar |
-| Jill Scott | 91 | Barclays WSL | 125k coins | +22.5% | +8.7% | Esticada |
+| Jill Scott | 91 | Barclays WSL | 124k coins | +22.5% | +8.7% | Esticada |
 
 
 ## 📈 Análise dos destaques
@@ -70,7 +69,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Ellie Roebuck (85)** — 28k coins, **+40% em 7 dias** (+5.7% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ledley King (86)** — 22k coins, **+30.4% em 7 dias** (+36.4% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ledley King (86)** — 18.500 coins, **+30.4% em 7 dias** (+36.4% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
