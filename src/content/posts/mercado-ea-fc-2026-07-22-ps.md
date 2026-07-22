@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T13:52:07.000Z
+pubDatetime: 2026-07-22T16:52:07.000Z
 title: "Mercado EA FC em 22/07: Ingleses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Alessia Russo (90, Barclays WSL), com +34.2% em 24h, a 78k coins no Console (PS)."
+    a: "Steve McManaman (89, Premier League), com +35% em 24h, a 29k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Femi Seriki (83), -36.1% em 24h, a 61k coins."
+    a: "Bobby Moore (91), -42.7% em 24h, a 277k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 40 cartas em alta contra 70 em queda (média -2.99%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 42 cartas em alta contra 76 em queda (média -4.58%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **40 subiram** e **70 caíram**, com variação média de **-2.99%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **42 subiram** e **76 caíram**, com variação média de **-4.58%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Alessia Russo (90) **+34.2%** · 🔴 **Maior baixa:** Femi Seriki (83) **-36.1%**
+> 🟢 **Maior alta:** Steve McManaman (89) **+35%** · 🔴 **Maior baixa:** Bobby Moore (91) **-42.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Ingleses — Console (PS)](/charts/mercado-ea-fc-2026-07-22-ps.svg)
 
@@ -35,24 +35,24 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 70.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 36.4% entre as cartas que se moveram; o universo observado reúne 137 cartas.
-- **Concentração:** Premier League aparece em 7 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 77.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 35.6% entre as cartas que se moveram; o universo observado reúne 147 cartas.
+- **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alessia Russo | 90 | Barclays WSL | 78k coins | +34.2% | +74.4% |
-| Micah Richards | 85 | Premier League | 25k coins | +31.3% | +4.8% |
-| Steve McManaman | 89 | Premier League | 36k coins | +25.5% | -13.8% |
-| Louis Reed | 84 | EFL League One | 46k coins | +24% | +11.4% |
-| Harry Maguire | 90 | Premier League | 135k coins | +22.3% | -38.8% |
-| Rachel Williams | 89 | Barclays WSL | 40k coins | +18.9% | -3.4% |
-| Michael Cheek | 84 | EFL League Two | 46k coins | +18.8% | +2.7% |
-| Peter Crouch | 87 | Premier League | 268k coins | +13% | +22.7% |
-| Jamie Vardy | 90 | Serie A TIM | 200k coins | +11.1% | -11.1% |
-| Alan Shearer | 91 | Icons | 320k coins | +10.7% | +7.4% |
+| Steve McManaman | 89 | Premier League | 29k coins | +35% | -13.1% |
+| Angel Gomes | 83 | Ligue 1 McDonald's | 28k coins | +31.8% | -18.9% |
+| Lucy Bronze | 88 | Barclays WSL | 80k coins | +30.2% | +90.3% |
+| Dan Agyei | 83 | EFL League One | 38k coins | +24% | +1.4% |
+| Nico O'Reilly | 84 | Premier League | 55k coins | +23.4% | +2.7% |
+| Alessia Russo | 90 | Barclays WSL | 60k coins | +20% | +31.9% |
+| Grace Clinton | 87 | Barclays WSL | 20k coins | +19.7% | +5.3% |
+| Ellie Roebuck | 85 | Barclays WSL | 27k coins | +18.9% | +33.8% |
+| Dom Ballard | 84 | EFL League One | 45k coins | +17.6% | +12.5% |
+| Eberechi Eze | 88 | Premier League | 52k coins | +14.6% | -7.3% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Alessia Russo (90)** subiu **+34.2%** em 24h, a **78k coins** (faixa do dia: 44k–84k). Está +34% acima da média de 7 dias (aquecida).
+- **Steve McManaman (89)** subiu **+35%** em 24h, a **29k coins** (faixa do dia: 26k–36k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **Micah Richards (85)** subiu **+31.3%** em 24h, a **25k coins** (faixa do dia: 17.250–34k). Está -13% abaixo da média de 7 dias (descontada).
+- **Angel Gomes (83)** subiu **+31.8%** em 24h, a **28k coins** (faixa do dia: 18.250–30k). Está -9% abaixo da média de 7 dias (descontada).
 
-- **Steve McManaman (89)** subiu **+25.5%** em 24h, a **36k coins** (faixa do dia: 26k–36k). Está em linha com a média de 7 dias (-5%).
+- **Lucy Bronze (88)** subiu **+30.2%** em 24h, a **80k coins** (faixa do dia: 41k–170k). Está -11% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Femi Seriki | 83 | EFL Championship | 61k coins | -36.1% | +8% |
-| Trent Alexander-Arnold | 87 | LALIGA EA SPORTS | 365k coins | -36% | -8.8% |
-| Declan Rice | 89 | Premier League | 40k coins | -30.5% | -12.5% |
-| Paul Scholes | 88 | Icons | 68k coins | -29.9% | -4.2% |
-| Mateus Mané | 88 | Premier League | 36k coins | -28.4% | -18.2% |
-| Harry Kane | 90 | Bundesliga | 85k coins | -26.9% | -51.1% |
-| Jude Bellingham | 94 | LALIGA EA SPORTS | 830k coins | -25.8% | -25.8% |
-| Tom Ince | 84 | EFL Championship | 49k coins | -25% | 0% |
-| Jobe Bellingham | 89 | Bundesliga | 188k coins | -21.8% | +2.4% |
-| Dominic Solanke | 87 | Premier League | 42k coins | -20.3% | -10% |
+| Bobby Moore | 91 | Icons | 277k coins | -42.7% | -29% |
+| Archie Brown | 85 | Trendyol Süper Lig | 28k coins | -42.3% | -30% |
+| Jordan Pickford | 85 | Premier League | 28k coins | -41.8% | -42.1% |
+| Lauren James | 89 | Barclays WSL | 35k coins | -36.1% | -37.3% |
+| Trent Alexander-Arnold | 87 | LALIGA EA SPORTS | 398k coins | -36% | -8.8% |
+| Adam Wharton | 88 | Premier League | 21k coins | -34.7% | -6% |
+| Lauren James | 92 | Barclays WSL | 344k coins | -33.9% | -34.8% |
+| Femi Seriki | 83 | EFL Championship | 61k coins | -32.2% | +13% |
+| Harry Kane | 92 | Bundesliga | 114k coins | -30.2% | -60% |
+| Declan Rice | 94 | Premier League | 113k coins | -24.8% | -39.8% |
 
 
 ### Análise das baixas
 
-- **Femi Seriki (83)** caiu **-36.1%** em 24h, a **61k coins** (faixa do dia: 61k–120k). Está -20% abaixo da média de 7 dias (descontada).
+- **Bobby Moore (91)** caiu **-42.7%** em 24h, a **277k coins** (faixa do dia: 277k–462k). Está -26% abaixo da média de 7 dias (descontada).
 
-- **Trent Alexander-Arnold (87)** caiu **-36%** em 24h, a **365k coins** (faixa do dia: 365k–570k). Está -9% abaixo da média de 7 dias (descontada).
+- **Archie Brown (85)** caiu **-42.3%** em 24h, a **28k coins** (faixa do dia: 18.500–55k). Está -44% abaixo da média de 7 dias (descontada).
 
-- **Declan Rice (89)** caiu **-30.5%** em 24h, a **40k coins** (faixa do dia: 37k–76k). Está -30% abaixo da média de 7 dias (descontada).
+- **Jordan Pickford (85)** caiu **-41.8%** em 24h, a **28k coins** (faixa do dia: 28k–47k). Está -35% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Alessia Russo já avançou 34.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Steve McManaman já avançou 35% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Femi Seriki recuou -36.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Bobby Moore recuou -42.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Alessia Russo (90, Barclays WSL), com +34.2% em 24h, a 78k coins no Console (PS).
+Steve McManaman (89, Premier League), com +35% em 24h, a 29k coins no Console (PS).
 
 **E a maior queda do dia?**
-Femi Seriki (83), -36.1% em 24h, a 61k coins.
+Bobby Moore (91), -42.7% em 24h, a 277k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 40 cartas em alta contra 70 em queda (média -2.99%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 42 cartas em alta contra 76 em queda (média -4.58%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
