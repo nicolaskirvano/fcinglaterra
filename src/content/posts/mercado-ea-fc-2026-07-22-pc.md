@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T16:52:17.000Z
+pubDatetime: 2026-07-22T19:52:17.000Z
 title: "Mercado EA FC em 22/07: Ingleses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Tom Ince (84, EFL Championship), com +59.4% em 24h, a 55k coins no PC."
+    a: "Eric Dier (86, Ligue 1 McDonald's), com +55.2% em 24h, a 26k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Trent Alexander-Arnold (87), -38.1% em 24h, a 450k coins."
+    a: "Trent Alexander-Arnold (87), -37.9% em 24h, a 450k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 60 cartas em alta contra 62 em queda (média 2.64%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 54 cartas em alta contra 58 em queda (média 2.01%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **60 subiram** e **62 caíram**, com variação média de **2.64%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **54 subiram** e **58 caíram**, com variação média de **2.01%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Tom Ince (84) **+59.4%** · 🔴 **Maior baixa:** Trent Alexander-Arnold (87) **-38.1%**
+> 🟢 **Maior alta:** Eric Dier (86) **+55.2%** · 🔴 **Maior baixa:** Trent Alexander-Arnold (87) **-37.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Ingleses — PC](/charts/mercado-ea-fc-2026-07-22-pc.svg)
 
@@ -35,24 +35,24 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 97.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 49.2% entre as cartas que se moveram; o universo observado reúne 157 cartas.
-- **Concentração:** Premier League aparece em 7 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 93.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.2% entre as cartas que se moveram; o universo observado reúne 149 cartas.
+- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tom Ince | 84 | EFL Championship | 55k coins | +59.4% | 0% |
-| Micah Richards | 85 | Premier League | 30k coins | +53.9% | +1.7% |
-| Rio Ferdinand | 88 | Icons | 577k coins | +45.5% | +53.2% |
-| Archie Brown | 85 | Trendyol Süper Lig | 78k coins | +43.5% | -8.8% |
-| Chloe Kelly | 88 | Barclays WSL | 100k coins | +41.8% | -9.1% |
-| Bobby Moore | 91 | Icons | 290k coins | +38.1% | +9.8% |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 55k coins | +33.3% | +71.4% |
-| Femi Seriki | 83 | EFL Championship | 70k coins | +32.4% | +31.1% |
-| Joe Cole | 87 | Premier League | 20k coins | +30.6% | +17.4% |
-| Keira Walsh | 86 | Barclays WSL | 48k coins | +29.9% | +5.3% |
+| Eric Dier | 86 | Ligue 1 McDonald's | 26k coins | +55.2% | -11.9% |
+| Femi Seriki | 83 | EFL Championship | 70k coins | +40.4% | -7.3% |
+| Jill Scott | 91 | Barclays WSL | 135k coins | +39.7% | +17.8% |
+| Dominic Solanke | 87 | Premier League | 66k coins | +36.4% | +50% |
+| David Beckham | 88 | Icons | 96k coins | +35.7% | +64.2% |
+| Alessia Russo | 90 | Barclays WSL | 80k coins | +33.3% | +53.8% |
+| Louis Reed | 84 | EFL League One | 55k coins | +31.7% | +26.4% |
+| Keira Walsh | 86 | Barclays WSL | 44k coins | +31.6% | +6.1% |
+| Archie Brown | 85 | Trendyol Süper Lig | 70k coins | +29.6% | -17.6% |
+| Wayne Rooney | 88 | Icons | 214k coins | +26.9% | +64.4% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Tom Ince (84)** subiu **+59.4%** em 24h, a **55k coins** (faixa do dia: 34k–55k). Está +22% acima da média de 7 dias (aquecida).
+- **Eric Dier (86)** subiu **+55.2%** em 24h, a **26k coins** (faixa do dia: 15.250–27k). Está em linha com a média de 7 dias (+5%).
 
-- **Micah Richards (85)** subiu **+53.9%** em 24h, a **30k coins** (faixa do dia: 17.750–35k). Está +11% acima da média de 7 dias (aquecida).
+- **Femi Seriki (83)** subiu **+40.4%** em 24h, a **70k coins** (faixa do dia: 49k–75k). Está em linha com a média de 7 dias (-2%).
 
-- **Rio Ferdinand (88)** subiu **+45.5%** em 24h, a **577k coins** (faixa do dia: 575k–700k). Está +13% acima da média de 7 dias (aquecida).
+- **Jill Scott (91)** subiu **+39.7%** em 24h, a **135k coins** (faixa do dia: 50k–140k). Está +23% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Trent Alexander-Arnold | 87 | LALIGA EA SPORTS | 450k coins | -38.1% | -18.2% |
-| Jess Park | 89 | Barclays WSL | 26k coins | -35.2% | -3.2% |
-| Nico O'Reilly | 88 | Premier League | 42k coins | -29.7% | -27.4% |
-| Declan Rice | 88 | Premier League | 42k coins | -26.3% | -53.7% |
-| Maya Le Tissier | 88 | Barclays WSL | 58k coins | -26.1% | -38.9% |
-| Eberechi Eze | 86 | Premier League | 124k coins | -19.9% | -46.1% |
-| Harvey Barnes | 84 | Premier League | 37k coins | -18.3% | -25.4% |
-| Elliot Anderson | 86 | Premier League | 43k coins | -17.6% | -10.8% |
-| Agnes Beever-Jones | 90 | Barclays WSL | 58k coins | -17.4% | -37.4% |
-| Harry Kane | 92 | Bundesliga | 179k coins | -17.1% | -22.2% |
+| Trent Alexander-Arnold | 87 | LALIGA EA SPORTS | 450k coins | -37.9% | -18.2% |
+| Morgan Rogers | 87 | Premier League | 88k coins | -27.1% | +50.9% |
+| Jude Bellingham | 92 | LALIGA EA SPORTS | 710k coins | -25.3% | +52.7% |
+| Michael Cheek | 84 | EFL League Two | 36k coins | -23.2% | -18.9% |
+| Marc Guéhi | 88 | Premier League | 30k coins | -19.4% | +7.8% |
+| Peter Crouch | 87 | Premier League | 218k coins | -18.7% | +24.6% |
+| Elliot Anderson | 86 | Premier League | 42k coins | -17.5% | -15% |
+| Lauren James | 89 | Barclays WSL | 52k coins | -17.4% | -9.9% |
+| Jaden Philogene | 87 | EFL Championship | 50k coins | -16.7% | +33.3% |
+| Geoff Hurst | 90 | Icons | 80k coins | -15.3% | +45.5% |
 
 
 ### Análise das baixas
 
-- **Trent Alexander-Arnold (87)** caiu **-38.1%** em 24h, a **450k coins** (faixa do dia: 400k–726k). Está -22% abaixo da média de 7 dias (descontada).
+- **Trent Alexander-Arnold (87)** caiu **-37.9%** em 24h, a **450k coins** (faixa do dia: 400k–725k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **Jess Park (89)** caiu **-35.2%** em 24h, a **26k coins** (faixa do dia: 21k–32k). Está em linha com a média de 7 dias (+2%).
+- **Morgan Rogers (87)** caiu **-27.1%** em 24h, a **88k coins** (faixa do dia: 15.000–150k). Está em linha com a média de 7 dias (-5%).
 
-- **Nico O'Reilly (88)** caiu **-29.7%** em 24h, a **42k coins** (faixa do dia: 26k–64k). Está -13% abaixo da média de 7 dias (descontada).
+- **Jude Bellingham (92)** caiu **-25.3%** em 24h, a **710k coins** (faixa do dia: 710k–950k). Está em linha com a média de 7 dias (+5%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Tom Ince já avançou 59.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Eric Dier já avançou 55.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Trent Alexander-Arnold recuou -38.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Trent Alexander-Arnold recuou -37.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Tom Ince (84, EFL Championship), com +59.4% em 24h, a 55k coins no PC.
+Eric Dier (86, Ligue 1 McDonald's), com +55.2% em 24h, a 26k coins no PC.
 
 **E a maior queda do dia?**
-Trent Alexander-Arnold (87), -38.1% em 24h, a 450k coins.
+Trent Alexander-Arnold (87), -37.9% em 24h, a 450k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 60 cartas em alta contra 62 em queda (média 2.64%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 54 cartas em alta contra 58 em queda (média 2.01%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
@@ -130,6 +130,7 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Ingleses em 22/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-22-pc/)
 - [Investimentos EA FC: Ingleses em 22/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-22-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
