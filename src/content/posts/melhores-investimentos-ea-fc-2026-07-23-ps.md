@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:45:55.000Z
+pubDatetime: 2026-07-23T10:52:09.000Z
 title: "Investimentos EA FC: Ingleses em 23/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.9% em 24h** e **+18.8% em 7 dias**.
-- **2 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+8.1% em 24h** e **+19.9% em 7 dias**.
+- **2 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -47,14 +47,12 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Alessia Russo | 90 | Barclays WSL | 85k coins | +8.3% | +41.7% | Momentum moderado |
 | Harvey Barnes | 84 | Premier League | 45k coins | +7.8% | +36.6% | Momentum moderado |
 | Eberechi Eze | 88 | Premier League | 62k coins | +26.4% | +25.2% | Esticada |
-| Lewis Miley | 89 | Premier League | 40k coins | +9.5% | +22.5% | Momentum moderado |
-| Micah Richards | 85 | Premier League | 28k coins | +7.3% | +19.2% | Momentum moderado |
-| Lauren James | 89 | Barclays WSL | 64k coins | +38.1% | +18.4% | Esticada |
+| Lewis Miley | 89 | Premier League | 50k coins | +26.5% | +22.5% | Esticada |
 | Agnes Beever-Jones | 90 | Barclays WSL | 75k coins | +14.5% | +17.2% | Momentum moderado |
-| Georgia Stanway | 86 | GPFBL | 44k coins | +2.9% | +11.9% | Entrada a observar |
+| Micah Richards | 85 | Premier League | 30k coins | +7.3% | +14.6% | Momentum moderado |
+| Georgia Stanway | 86 | GPFBL | 48k coins | +2.9% | +11.9% | Entrada a observar |
 | Leif Davis | 84 | EFL Championship | 42k coins | +1.2% | +11.5% | Entrada a observar |
-| George Dobson | 84 | EFL Championship | 42k coins | +18.3% | +7.7% | Momentum moderado |
-| Declan Rice | 88 | Premier League | 41k coins | +16% | +5% | Momentum moderado |
+| George Dobson | 84 | EFL Championship | 45k coins | +18.3% | +7.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
@@ -67,7 +65,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Eberechi Eze (88)** — 62k coins, **+25.2% em 7 dias** (+26.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lewis Miley (89)** — 40k coins, **+22.5% em 7 dias** (+9.5% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lewis Miley (89)** — 50k coins, **+22.5% em 7 dias** (+26.5% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
