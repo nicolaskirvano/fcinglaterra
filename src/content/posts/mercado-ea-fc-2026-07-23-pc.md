@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:52:17.000Z
+pubDatetime: 2026-07-24T01:52:16.000Z
 title: "Mercado EA FC em 23/07: Ingleses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Fara Williams (88, Barclays WSL), com +55.6% em 24h, a 59k coins no PC."
+    a: "Eberechi Eze (86, Premier League), com +56.4% em 24h, a 219k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Steven Gerrard (89), -47.8% em 24h, a 70k coins."
+    a: "Marc Guéhi (88), -42.2% em 24h, a 20k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 55 cartas em alta contra 51 em queda (média 3.85%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 53 cartas em alta contra 54 em queda (média 3.21%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **23/07/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **55 em alta** e **51 em queda**, média de **3.85%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **23/07/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **53 em alta** e **54 em queda**, média de **3.21%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Fara Williams (88) **+55.6%** · 🔴 **Maior baixa:** Steven Gerrard (89) **-47.8%**
+> 🟢 **Maior alta:** Eberechi Eze (86) **+56.4%** · 🔴 **Maior baixa:** Marc Guéhi (88) **-42.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Ingleses — PC](/charts/mercado-ea-fc-2026-07-23-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **23/07/2026** (PC): mercado **aquecido** — as altas dominam o dia
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.9% entre as cartas que se moveram; o universo observado reúne 148 cartas.
-- **Concentração:** Barclays WSL aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 98.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 49.5% entre as cartas que se moveram; o universo observado reúne 145 cartas.
+- **Concentração:** Premier League aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Fara Williams | 88 | Barclays WSL | 59k coins | +55.6% | +33.7% |
-| Nico O'Reilly | 84 | Premier League | 75k coins | +50% | 0% |
-| Michael Cheek | 84 | EFL League Two | 50k coins | +49.3% | +7% |
-| Grace Clinton | 87 | Barclays WSL | 30k coins | +42.9% | +21.2% |
-| Archie Brown | 85 | Trendyol Süper Lig | 110k coins | +40.1% | +23.6% |
-| Steve McManaman | 89 | Premier League | 39k coins | +36.8% | +3.3% |
-| Maya Le Tissier | 88 | Barclays WSL | 87k coins | +36.8% | +3.3% |
-| Jess Park | 89 | Barclays WSL | 31k coins | +35.8% | +19.4% |
-| Joe Gelhardt | 86 | EFL Championship | 25k coins | +33.8% | -37.8% |
-| Harvey Barnes | 84 | Premier League | 40k coins | +32.9% | -4% |
+| Eberechi Eze | 86 | Premier League | 219k coins | +56.4% | -4.8% |
+| Adam Wharton | 88 | Premier League | 22k coins | +51.7% | +9.8% |
+| Michael Cheek | 84 | EFL League Two | 50k coins | +50.4% | +7% |
+| Jordan Pickford | 86 | Premier League | 44k coins | +50% | -5.3% |
+| Archie Brown | 85 | Trendyol Süper Lig | 109k coins | +49.7% | +34.1% |
+| Steve McManaman | 87 | Premier League | 21k coins | +48.2% | +6.4% |
+| Declan Rice | 89 | Premier League | 110k coins | +44.7% | +15.2% |
+| Kyrell Lisbie | 84 | EFL League One | 45k coins | +36.4% | +5.9% |
+| George Dobson | 84 | EFL Championship | 48k coins | +33.8% | +25% |
+| Fara Williams | 88 | Barclays WSL | 60k coins | +32.2% | +33.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **23/07/2026** (PC): mercado **aquecido** — as altas dominam o dia
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Fara Williams (88)** subiu **+55.6%** em 24h, a **59k coins** (faixa do dia: 35k–60k). Está +28% acima da média de 7 dias (aquecida).
+- **Eberechi Eze (86)** subiu **+56.4%** em 24h, a **219k coins** (faixa do dia: 121k–244k). Está +12% acima da média de 7 dias (aquecida).
 
-- **Nico O'Reilly (84)** subiu **+50%** em 24h, a **75k coins** (faixa do dia: 50k–75k). Está em linha com a média de 7 dias (+7%).
+- **Adam Wharton (88)** subiu **+51.7%** em 24h, a **22k coins** (faixa do dia: 20k–34k). Está -20% abaixo da média de 7 dias (descontada).
 
-- **Michael Cheek (84)** subiu **+49.3%** em 24h, a **50k coins** (faixa do dia: 30k–50k). Está +18% acima da média de 7 dias (aquecida).
+- **Michael Cheek (84)** subiu **+50.4%** em 24h, a **50k coins** (faixa do dia: 30k–50k). Está +18% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Steven Gerrard | 89 | Icons | 70k coins | -47.8% | -46.2% |
-| Kelly Smith | 89 | Icons | 76k coins | -34.4% | -43.3% |
-| Georgia Stanway | 86 | GPFBL | 33k coins | -33.2% | +9.9% |
-| Jill Scott | 85 | Barclays Women’s Super League | 21k coins | -32.9% | -29.9% |
-| Steven Gerrard | 90 | Icons | 128k coins | -30.4% | -28.9% |
-| Lauren Hemp | 90 | Barclays WSL | 39k coins | -29.5% | -23.3% |
-| Cole Palmer | 92 | Premier League | 1.49M coins | -29% | -12.4% |
-| Luke Shaw | 86 | Premier League | 32k coins | -27.7% | -36% |
+| Marc Guéhi | 88 | Premier League | 20k coins | -42.2% | -36.2% |
+| Frank Lampard | 87 | Icons | 98k coins | -38.1% | -19.9% |
+| Georgia Stanway | 86 | GPFBL | 33k coins | -33.2% | -33.5% |
+| Ledley King | 86 | Premier League | 22k coins | -32% | -34% |
+| Cole Palmer | 92 | Premier League | 1.25M coins | -29% | -12.4% |
+| Jill Scott | 91 | Barclays WSL | 86k coins | -27.7% | -18.9% |
 | Leif Davis | 84 | EFL Championship | 38k coins | -25% | -31.7% |
-| Jess Park | 84 | Barclays WSL | 30k coins | -23.6% | -25% |
+| Paul Scholes | 88 | Icons | 66k coins | -23.6% | -22.2% |
+| Jaden Philogene | 84 | EFL Championship | 50k coins | -22.5% | -21.3% |
+| Dan Agyei | 83 | EFL League One | 40k coins | -20% | -11.1% |
 
 
 ### Análise das baixas
 
-- **Steven Gerrard (89)** caiu **-47.8%** em 24h, a **70k coins** (faixa do dia: 63k–134k). Está -46% abaixo da média de 7 dias (descontada).
+- **Marc Guéhi (88)** caiu **-42.2%** em 24h, a **20k coins** (faixa do dia: 18.500–32k). Está -32% abaixo da média de 7 dias (descontada).
 
-- **Kelly Smith (89)** caiu **-34.4%** em 24h, a **76k coins** (faixa do dia: 68k–125k). Está -16% abaixo da média de 7 dias (descontada).
+- **Frank Lampard (87)** caiu **-38.1%** em 24h, a **98k coins** (faixa do dia: 74k–140k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Georgia Stanway (86)** caiu **-33.2%** em 24h, a **33k coins** (faixa do dia: 33k–50k). Está -24% abaixo da média de 7 dias (descontada).
+- **Georgia Stanway (86)** caiu **-33.2%** em 24h, a **33k coins** (faixa do dia: 33k–50k). Está -23% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Fara Williams já avançou 55.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Eberechi Eze já avançou 56.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Steven Gerrard recuou -47.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Marc Guéhi recuou -42.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Fara Williams (88, Barclays WSL), com +55.6% em 24h, a 59k coins no PC.
+Eberechi Eze (86, Premier League), com +56.4% em 24h, a 219k coins no PC.
 
 **E a maior queda do dia?**
-Steven Gerrard (89), -47.8% em 24h, a 70k coins.
+Marc Guéhi (88), -42.2% em 24h, a 20k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 55 cartas em alta contra 51 em queda (média 3.85%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 53 cartas em alta contra 54 em queda (média 3.21%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
