@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T13:52:09.000Z
+pubDatetime: 2026-07-24T16:52:09.000Z
 title: "Investimentos EA FC: Ingleses em 24/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.6% em 24h** e **+16.6% em 7 dias**.
-- **7 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.7% em 24h** e **+11.7% em 7 dias**.
+- **4 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,32 +44,30 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Jude Bellingham | 90 | LALIGA EA SPORTS | 25k coins | +19% | +78.6% | Esticada |
-| Eberechi Eze | 87 | Premier League | 80k coins | +26% | +53.5% | Esticada |
-| George Dobson | 84 | EFL Championship | 35k coins | +34.5% | +35.4% | Esticada |
-| Jaden Philogene | 87 | EFL Championship | 45k coins | +22.3% | +20.7% | Esticada |
-| Mateus Mané | 86 | Premier League | 40k coins | +10.1% | +19.9% | Momentum moderado |
-| Kyrell Lisbie | 84 | EFL League One | 40k coins | +28.2% | +19% | Esticada |
-| Lucy Bronze | 88 | Barclays WSL | 83k coins | +6.3% | +17.4% | Momentum moderado |
-| Eberechi Eze | 88 | Premier League | 70k coins | +26.4% | +15.8% | Esticada |
-| John Barnes | 89 | Icons | 46k coins | +13.5% | +13.5% | Momentum moderado |
-| Lewis Wing | 86 | 2. Bundesliga | 44k coins | +11.2% | +13.4% | Momentum moderado |
-| Declan Rice | 88 | Premier League | 41k coins | +16.2% | +11.9% | Momentum moderado |
-| Ashley Cole | 86 | Icons | 74k coins | +11.4% | +10.5% | Momentum moderado |
-| John Barnes | 87 | Icons | 74k coins | +11.4% | +10.5% | Momentum moderado |
-| Conor Gallagher | 91 | Premier League | 100k coins | +25% | +7.8% | Esticada |
+| Beth Mead | 88 | Barclays WSL | 78k coins | +1.3% | +48.6% | Momentum moderado |
+| Michael Cheek | 84 | EFL League Two | 48k coins | +19.4% | +36.4% | Momentum moderado |
+| Jaden Philogene | 87 | EFL Championship | 50k coins | +1.5% | +32% | Momentum moderado |
+| Lauren Hemp | 90 | Barclays WSL | 65k coins | +31% | +31% | Esticada |
+| Geoff Hurst | 88 | Icons | 75k coins | +12.8% | +12.8% | Momentum moderado |
+| John Barnes | 89 | Icons | 44k coins | +20.1% | +10.5% | Esticada |
+| Ian Wright | 87 | Icons | 72k coins | +9.1% | +9.1% | Momentum moderado |
+| John Barnes | 87 | Icons | 72k coins | +9.8% | +9% | Momentum moderado |
+| Harvey Barnes | 84 | Premier League | 41k coins | +3.2% | +8.7% | Entrada a observar |
+| David Beckham | 88 | Icons | 82k coins | +14.5% | +7.8% | Momentum moderado |
+| Elliot Anderson | 86 | Premier League | 35k coins | +23.5% | +5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Jude Bellingham (90)** — 25k coins, **+78.6% em 7 dias** (+19% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jude Bellingham (90)** — 25k coins, **+78.6% em 7 dias** (+19% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eberechi Eze (87)** — 80k coins, **+53.5% em 7 dias** (+26% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Beth Mead (88)** — 78k coins, **+48.6% em 7 dias** (+1.3% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **George Dobson (84)** — 35k coins, **+35.4% em 7 dias** (+34.5% em 24h). Preço -14% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Michael Cheek (84)** — 48k coins, **+36.4% em 7 dias** (+19.4% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jaden Philogene (87)** — 45k coins, **+20.7% em 7 dias** (+22.3% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jaden Philogene (87)** — 50k coins, **+32% em 7 dias** (+1.5% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mateus Mané (86)** — 40k coins, **+19.9% em 7 dias** (+10.1% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lauren Hemp (90)** — 65k coins, **+31% em 7 dias** (+31% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -85,7 +83,6 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Ingleses em 24/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-24-ps/)
 - [Mercado EA FC em 24/07: Ingleses — Console (PS)](/posts/mercado-ea-fc-2026-07-24-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
