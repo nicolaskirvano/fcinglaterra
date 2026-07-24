@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T16:52:09.000Z
+pubDatetime: 2026-07-24T19:52:09.000Z
 title: "Investimentos EA FC: Ingleses em 24/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Jude Bellingham (90, LALIGA EA SPORTS) lidera, com +78.6% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Maya Le Tissier (88, Barclays WSL) lidera, com +51.8% em 7 dias a 39k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Jude Bellingham (90) acumula **+78.6% em 7 dias** a 25k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Maya Le Tissier (88) acumula **+51.8% em 7 dias** a 39k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 24/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-24-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.7% em 24h** e **+11.7% em 7 dias**.
-- **4 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+17.2% em 24h** e **+27.6% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,31 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | LALIGA EA SPORTS | 25k coins | +19% | +78.6% | Esticada |
-| Beth Mead | 88 | Barclays WSL | 78k coins | +1.3% | +48.6% | Momentum moderado |
-| Michael Cheek | 84 | EFL League Two | 48k coins | +19.4% | +36.4% | Momentum moderado |
-| Jaden Philogene | 87 | EFL Championship | 50k coins | +1.5% | +32% | Momentum moderado |
-| Lauren Hemp | 90 | Barclays WSL | 65k coins | +31% | +31% | Esticada |
-| Geoff Hurst | 88 | Icons | 75k coins | +12.8% | +12.8% | Momentum moderado |
-| John Barnes | 89 | Icons | 44k coins | +20.1% | +10.5% | Esticada |
-| Ian Wright | 87 | Icons | 72k coins | +9.1% | +9.1% | Momentum moderado |
-| John Barnes | 87 | Icons | 72k coins | +9.8% | +9% | Momentum moderado |
-| Harvey Barnes | 84 | Premier League | 41k coins | +3.2% | +8.7% | Entrada a observar |
-| David Beckham | 88 | Icons | 82k coins | +14.5% | +7.8% | Momentum moderado |
-| Elliot Anderson | 86 | Premier League | 35k coins | +23.5% | +5% | Esticada |
+| Maya Le Tissier | 88 | Barclays WSL | 39k coins | +17.2% | +51.8% | Momentum moderado |
+| Beth Mead | 88 | Barclays WSL | 80k coins | +7.1% | +46.9% | Momentum moderado |
+| Ben Thompson | 84 | EFL League Two | 50k coins | +25% | +40.8% | Esticada |
+| Jaden Philogene | 87 | EFL Championship | 50k coins | +25.9% | +36% | Esticada |
+| Steve McManaman | 89 | Premier League | 47k coins | +21.2% | +35% | Esticada |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 86k coins | +15.3% | +30.1% | Momentum moderado |
+| Ollie Watkins | 86 | Premier League | 45k coins | +11.1% | +28.6% | Momentum moderado |
+| Georgia Stanway | 86 | GPFBL | 44k coins | +9.6% | +27.6% | Momentum moderado |
+| Chris Smalling | 87 | ROSHN Saudi League | 58k coins | +33.3% | +25% | Esticada |
+| Kyrell Lisbie | 84 | EFL League One | 50k coins | +28.2% | +20.5% | Esticada |
+| Lewis Wing | 86 | 2. Bundesliga | 39k coins | +17.5% | +19.7% | Momentum moderado |
+| Jaden Philogene | 84 | EFL Championship | 52k coins | +17% | +14% | Momentum moderado |
+| Jordan Pickford | 85 | Premier League | 41k coins | +31.9% | +13.1% | Esticada |
+| Joe Cole | 87 | Premier League | 16.000 coins | +10% | +11.9% | Momentum moderado |
+| Fara Williams | 86 | Barclays WSL | 15.750 coins | +12.5% | +10.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Jude Bellingham (90)** — 25k coins, **+78.6% em 7 dias** (+19% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maya Le Tissier (88)** — 39k coins, **+51.8% em 7 dias** (+17.2% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Beth Mead (88)** — 78k coins, **+48.6% em 7 dias** (+1.3% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Beth Mead (88)** — 80k coins, **+46.9% em 7 dias** (+7.1% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Michael Cheek (84)** — 48k coins, **+36.4% em 7 dias** (+19.4% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ben Thompson (84)** — 50k coins, **+40.8% em 7 dias** (+25% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jaden Philogene (87)** — 50k coins, **+32% em 7 dias** (+1.5% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jaden Philogene (87)** — 50k coins, **+36% em 7 dias** (+25.9% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lauren Hemp (90)** — 65k coins, **+31% em 7 dias** (+31% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steve McManaman (89)** — 47k coins, **+35% em 7 dias** (+21.2% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -83,6 +86,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Ingleses em 24/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-24-ps/)
 - [Mercado EA FC em 24/07: Ingleses — Console (PS)](/posts/mercado-ea-fc-2026-07-24-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
@@ -94,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Jude Bellingham (90, LALIGA EA SPORTS) lidera, com +78.6% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Maya Le Tissier (88, Barclays WSL) lidera, com +51.8% em 7 dias a 39k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
