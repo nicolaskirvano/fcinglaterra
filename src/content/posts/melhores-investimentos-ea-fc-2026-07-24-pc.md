@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:52:18.000Z
+pubDatetime: 2026-07-24T13:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 24/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.6% em 24h** e **+23.5% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.1% em 24h** e **+25.8% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ollie Watkins | 90 | Premier League | 80k coins | +33.3% | +66.7% | Esticada |
-| Geoff Hurst | 90 | Icons | 94k coins | +20.4% | +45.4% | Esticada |
-| David Beckham | 88 | Icons | 82k coins | +18.8% | +42.5% | Momentum moderado |
-| Louis Reed | 84 | EFL League One | 54k coins | +19.8% | +40.6% | Momentum moderado |
-| Micah Richards | 85 | Premier League | 31k coins | +6.9% | +36.3% | Momentum moderado |
-| Fara Williams | 88 | Barclays WSL | 54k coins | +10.2% | +26.6% | Momentum moderado |
-| Marc Guéhi | 88 | Premier League | 33k coins | +37.9% | +23.6% | Esticada |
-| Bobby Moore | 90 | Icons | 84k coins | +23.5% | +23.5% | Esticada |
-| Nico O'Reilly | 88 | Premier League | 47k coins | +17.6% | +22% | Momentum moderado |
-| Leah Williamson | 88 | Barclays WSL | 90k coins | +5.6% | +18.8% | Momentum moderado |
-| Agnes Beever-Jones | 90 | Barclays WSL | 91k coins | +8.7% | +16.3% | Momentum moderado |
-| Jess Park | 89 | Barclays WSL | 32k coins | +10.3% | +13.3% | Momentum moderado |
-| Rico Lewis | 86 | Premier League | 48k coins | +9.8% | +11.1% | Momentum moderado |
-| Lauren James | 89 | Barclays WSL | 60k coins | +11.7% | +7.5% | Momentum moderado |
-| Kyrell Lisbie | 84 | EFL League One | 45k coins | +25% | +5.9% | Esticada |
+| Ollie Watkins | 90 | Premier League | 80k coins | +14.3% | +66.7% | Esticada |
+| Morgan Rogers | 87 | Premier League | 149k coins | +26.1% | +59.6% | Esticada |
+| Geoff Hurst | 90 | Icons | 92k coins | +21.2% | +48.8% | Esticada |
+| Michelle Agyemang | 89 | Barclays Women’s Super League | 42k coins | +26.9% | +42.9% | Esticada |
+| Tino Livramento | 85 | Premier League | 26k coins | +16.1% | +39.8% | Momentum moderado |
+| Louis Reed | 84 | EFL League One | 52k coins | +22.1% | +31.2% | Esticada |
+| David Beckham | 88 | Icons | 92k coins | +4.4% | +27% | Momentum moderado |
+| Tom Ince | 84 | EFL Championship | 45k coins | +2.6% | +25.8% | Momentum moderado |
+| George Dobson | 84 | EFL Championship | 48k coins | +35.7% | +25% | Esticada |
+| Steve McManaman | 89 | Premier League | 39k coins | +11.4% | +22.8% | Momentum moderado |
+| Dom Ballard | 84 | EFL League One | 48k coins | +29.3% | +18% | Esticada |
+| Ella Toone | 86 | Barclays Women’s Super League | 47k coins | +8.6% | +17.4% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 109k coins | +33.7% | +16% | Esticada |
+| Millie Bright | 88 | Barclays WSL | 100k coins | +2.6% | +14.3% | Entrada a observar |
+| Mateus Mané | 86 | Premier League | 48k coins | +12% | +14% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Ollie Watkins (90)** — 80k coins, **+66.7% em 7 dias** (+33.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ollie Watkins (90)** — 80k coins, **+66.7% em 7 dias** (+14.3% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Geoff Hurst (90)** — 94k coins, **+45.4% em 7 dias** (+20.4% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Morgan Rogers (87)** — 149k coins, **+59.6% em 7 dias** (+26.1% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **David Beckham (88)** — 82k coins, **+42.5% em 7 dias** (+18.8% em 24h). Preço -28% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Geoff Hurst (90)** — 92k coins, **+48.8% em 7 dias** (+21.2% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Louis Reed (84)** — 54k coins, **+40.6% em 7 dias** (+19.8% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Michelle Agyemang (89)** — 42k coins, **+42.9% em 7 dias** (+26.9% em 24h). Preço +56% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Micah Richards (85)** — 31k coins, **+36.3% em 7 dias** (+6.9% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tino Livramento (85)** — 26k coins, **+39.8% em 7 dias** (+16.1% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
