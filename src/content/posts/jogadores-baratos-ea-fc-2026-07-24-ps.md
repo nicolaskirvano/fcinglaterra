@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:46:36.000Z
+pubDatetime: 2026-07-24T10:52:10.000Z
 title: "Jogadores baratos EA FC: Ingleses em 24/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 12.042 coins.
+- **Preço médio das 5 opções:** 11.650 coins.
 - **Posição mais frequente:** CM, com 2 cartas.
 - **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
@@ -40,10 +40,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Steve McManaman | 87 | RM | Premier League | 14.750 coins | +7.5% |
+| Steve McManaman | 87 | RM | Premier League | 14.750 coins | +3.6% |
 | Fara Williams | 86 | CM | Barclays WSL | 13.250 coins | -3.9% |
-| Jamie Carragher | 86 | CB | Premier League | 14.000 coins | +7.7% |
-| Eric Dier | 86 | CB | Ligue 1 McDonald's | 14.250 coins | -14.3% |
+| Jamie Carragher | 86 | CB | Premier League | 14.250 coins | +7.7% |
 | Jill Scott | 85 | CM | Barclays Women’s Super League | 14.500 coins | +4.3% |
 | Mary Earps | 84 | GK | Arkema PL | 1.500 coins | +15.4% |
 
@@ -54,16 +53,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Fara Williams (86, CM)** da Barclays WSL, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jamie Carragher (86, CB)** da Premier League, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Eric Dier (86, CB)** da Ligue 1 McDonald's, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jamie Carragher (86, CB)** da Premier League, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Jill Scott (85, CM)** da Barclays Women’s Super League, a apenas **14.500 coins**
+
+- **Mary Earps (84, GK)** da Arkema PL, a apenas **1.500 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Jamie Carragher (86, CB) por 14.000 coins é a referência de rating deste recorte.
+- **Defesa:** Jamie Carragher (86, CB) por 14.250 coins é a referência de rating deste recorte.
 
 - **Meio:** Steve McManaman (87, RM) por 14.750 coins é a referência de rating deste recorte.
 

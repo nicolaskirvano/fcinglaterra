@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:46:33.000Z
+pubDatetime: 2026-07-24T10:52:07.000Z
 title: "Mercado EA FC em 24/07: Ingleses — Console (PS)"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
     a: "Micah Richards (85, Premier League), com +44.9% em 24h, a 43k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Cole Palmer (89), -41% em 24h, a 134k coins."
+    a: "Cole Palmer (88), -43.1% em 24h, a 370k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 44 cartas em alta contra 30 em queda (média 5.58%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 66 cartas em alta contra 54 em queda (média 4.18%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **44 cartas subiram** e **30 caíram** (80+ acima de 5k coins), variação média de **5.58%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **66 cartas subiram** e **54 caíram** (80+ acima de 5k coins), variação média de **4.18%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Micah Richards (85) **+44.9%** · 🔴 **Maior baixa:** Cole Palmer (89) **-41%**
+> 🟢 **Maior alta:** Micah Richards (85) **+44.9%** · 🔴 **Maior baixa:** Cole Palmer (88) **-43.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: Ingleses — Console (PS)](/charts/mercado-ea-fc-2026-07-24-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **em alta
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 85.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 59.5% entre as cartas que se moveram; o universo observado reúne 79 cartas.
-- **Concentração:** Premier League aparece em 11 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 88.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 55.0% entre as cartas que se moveram; o universo observado reúne 139 cartas.
+- **Concentração:** Premier League aparece em 12 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Micah Richards | 85 | Premier League | 43k coins | +44.9% | +20.4% |
-| Millie Bright | 88 | Barclays WSL | 34k coins | +38.4% | +36.4% |
-| Conor Gallagher | 91 | Premier League | 131k coins | +35% | +17.4% |
+| Charlie Cresswell | 85 | Ligue 1 McDonald's | 39k coins | +43.2% | +26.2% |
 | Steve McManaman | 89 | Premier League | 46k coins | +34.3% | +36.2% |
+| Conor Gallagher | 91 | Premier League | 131k coins | +31% | +13.9% |
+| Dan Burn | 86 | Premier League | 160k coins | +30.8% | -35.8% |
+| Anthony Gordon | 87 | Premier League | 60k coins | +27.1% | +10.9% |
 | Adam Wharton | 88 | Premier League | 31k coins | +25% | +10.6% |
+| Lewis Hall | 89 | Premier League | 100k coins | +25% | -6.5% |
+| Mason Greenwood | 84 | Ligue 1 McDonald's | 105k coins | +23.5% | -30% |
 | Angel Gomes | 83 | Ligue 1 McDonald's | 28k coins | +23.3% | -26% |
-| Steven Gerrard | 89 | Icons | 138k coins | +21.7% | -9.1% |
-| Jude Bellingham | 91 | LALIGA EA SPORTS | 630k coins | +21.7% | +1.1% |
-| Jess Park | 89 | Barclays WSL | 25k coins | +20% | -1.8% |
-| Kobbie Mainoo | 90 | Premier League | 95k coins | +19.6% | +16.8% |
 
 
 ### Análise das altas
@@ -63,41 +63,41 @@ O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **em alta
 
 - **Micah Richards (85)** subiu **+44.9%** em 24h, a **43k coins** (faixa do dia: 21k–60k). Está +49% acima da média de 7 dias (aquecida).
 
-- **Millie Bright (88)** subiu **+38.4%** em 24h, a **34k coins** (faixa do dia: 22k–70k). Está em linha com a média de 7 dias (-8%).
+- **Charlie Cresswell (85)** subiu **+43.2%** em 24h, a **39k coins** (faixa do dia: 16.500–40k). Está +66% acima da média de 7 dias (aquecida).
 
-- **Conor Gallagher (91)** subiu **+35%** em 24h, a **131k coins** (faixa do dia: 72k–145k). Está +24% acima da média de 7 dias (aquecida).
+- **Steve McManaman (89)** subiu **+34.3%** em 24h, a **46k coins** (faixa do dia: 26k–48k). Está +26% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Cole Palmer | 89 | Premier League | 134k coins | -41% | -49.1% |
+| Cole Palmer | 88 | Premier League | 370k coins | -43.1% | -19.6% |
+| Cole Palmer | 89 | Premier League | 134k coins | -40.8% | -49.1% |
 | Wayne Rooney | 92 | Icons | 171k coins | -37.6% | -23% |
-| Jordan Pickford | 85 | Premier League | 45k coins | -27.4% | -27.4% |
-| Luke Shaw | 86 | Premier League | 37k coins | -22.8% | -14.7% |
-| Michelle Agyemang | 89 | Barclays Women’s Super League | 24k coins | -16.7% | -28.6% |
-| Eberechi Eze | 88 | Premier League | 80k coins | -16.4% | -6.7% |
-| Max Aarons | 85 | Scottish Premiership | 27k coins | -16.2% | -23.4% |
-| Ian Wright | 87 | Icons | 78k coins | -12.6% | 0% |
-| Harvey Barnes | 86 | Premier League | 34k coins | -10.6% | -3.6% |
-| Marc Guéhi | 88 | Premier League | 22k coins | -10% | -25% |
+| Geoff Hurst | 90 | Icons | 92k coins | -35.6% | +18.2% |
+| Ella Toone | 86 | Barclays Women’s Super League | 40k coins | -32.8% | -11.1% |
+| Jordan Pickford | 85 | Premier League | 40k coins | -27.4% | -27.4% |
+| Harry Kane | 91 | Bundesliga | 132k coins | -25.1% | -56.2% |
+| Morgan Rogers | 87 | Premier League | 95k coins | -22.3% | +41.3% |
+| Dom Ballard | 84 | EFL League One | 37k coins | -17.8% | +5.7% |
+| Phil Foden | 86 | Premier League | 58k coins | -17.7% | -17.7% |
 
 
 ### Análise das baixas
 
-- **Cole Palmer (89)** caiu **-41%** em 24h, a **134k coins** (faixa do dia: 100k–183k). Está -29% abaixo da média de 7 dias (descontada).
+- **Cole Palmer (88)** caiu **-43.1%** em 24h, a **370k coins** (faixa do dia: 370k–650k). Está -31% abaixo da média de 7 dias (descontada).
+
+- **Cole Palmer (89)** caiu **-40.8%** em 24h, a **134k coins** (faixa do dia: 100k–183k). Está -29% abaixo da média de 7 dias (descontada).
 
 - **Wayne Rooney (92)** caiu **-37.6%** em 24h, a **171k coins** (faixa do dia: 171k–271k). Está -25% abaixo da média de 7 dias (descontada).
-
-- **Jordan Pickford (85)** caiu **-27.4%** em 24h, a **45k coins** (faixa do dia: 28k–48k). Está +9% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Micah Richards já avançou 44.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Cole Palmer recuou -41%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Cole Palmer recuou -43.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -122,10 +122,10 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 Micah Richards (85, Premier League), com +44.9% em 24h, a 43k coins no Console (PS).
 
 **E a maior queda do dia?**
-Cole Palmer (89), -41% em 24h, a 134k coins.
+Cole Palmer (88), -43.1% em 24h, a 370k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 44 cartas em alta contra 30 em queda (média 5.58%).
+Hoje o mercado está em alta — predominam as valorizações, com 66 cartas em alta contra 54 em queda (média 4.18%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

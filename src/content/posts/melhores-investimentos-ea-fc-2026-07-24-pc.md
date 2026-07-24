@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:46:44.000Z
+pubDatetime: 2026-07-24T10:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 24/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.8% em 24h** e **+27.5% em 7 dias**.
-- **4 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+17.6% em 24h** e **+23.5% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,28 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Ollie Watkins | 90 | Premier League | 80k coins | +33.3% | +66.7% | Esticada |
-| David Beckham | 88 | Icons | 82k coins | +19.8% | +43.8% | Momentum moderado |
+| Geoff Hurst | 90 | Icons | 94k coins | +20.4% | +45.4% | Esticada |
+| David Beckham | 88 | Icons | 82k coins | +18.8% | +42.5% | Momentum moderado |
 | Louis Reed | 84 | EFL League One | 54k coins | +19.8% | +40.6% | Momentum moderado |
 | Micah Richards | 85 | Premier League | 31k coins | +6.9% | +36.3% | Momentum moderado |
-| Nico O'Reilly | 88 | Premier League | 48k coins | +22.4% | +28.4% | Esticada |
 | Fara Williams | 88 | Barclays WSL | 54k coins | +10.2% | +26.6% | Momentum moderado |
 | Marc Guéhi | 88 | Premier League | 33k coins | +37.9% | +23.6% | Esticada |
 | Bobby Moore | 90 | Icons | 84k coins | +23.5% | +23.5% | Esticada |
-| John Barnes | 89 | Icons | 96k coins | +2.1% | +19.4% | Entrada a observar |
-| Jess Park | 89 | Barclays WSL | 32k coins | +13.8% | +16.8% | Momentum moderado |
+| Nico O'Reilly | 88 | Premier League | 47k coins | +17.6% | +22% | Momentum moderado |
+| Leah Williamson | 88 | Barclays WSL | 90k coins | +5.6% | +18.8% | Momentum moderado |
+| Agnes Beever-Jones | 90 | Barclays WSL | 91k coins | +8.7% | +16.3% | Momentum moderado |
+| Jess Park | 89 | Barclays WSL | 32k coins | +10.3% | +13.3% | Momentum moderado |
+| Rico Lewis | 86 | Premier League | 48k coins | +9.8% | +11.1% | Momentum moderado |
+| Lauren James | 89 | Barclays WSL | 60k coins | +11.7% | +7.5% | Momentum moderado |
+| Kyrell Lisbie | 84 | EFL League One | 45k coins | +25% | +5.9% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
 - **Ollie Watkins (90)** — 80k coins, **+66.7% em 7 dias** (+33.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **David Beckham (88)** — 82k coins, **+43.8% em 7 dias** (+19.8% em 24h). Preço -28% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Geoff Hurst (90)** — 94k coins, **+45.4% em 7 dias** (+20.4% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **David Beckham (88)** — 82k coins, **+42.5% em 7 dias** (+18.8% em 24h). Preço -28% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Louis Reed (84)** — 54k coins, **+40.6% em 7 dias** (+19.8% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Micah Richards (85)** — 31k coins, **+36.3% em 7 dias** (+6.9% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Nico O'Reilly (88)** — 48k coins, **+28.4% em 7 dias** (+22.4% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
