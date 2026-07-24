@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T19:52:09.000Z
+pubDatetime: 2026-07-24T22:52:09.000Z
 title: "Investimentos EA FC: Ingleses em 24/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Maya Le Tissier (88, Barclays WSL) lidera, com +51.8% em 7 dias a 39k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ben Thompson (84, EFL League Two) lidera, com +50% em 7 dias a 58k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Maya Le Tissier (88) acumula **+51.8% em 7 dias** a 39k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Ben Thompson (84) acumula **+50% em 7 dias** a 58k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 24/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-24-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.2% em 24h** e **+27.6% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+18.7% em 24h** e **+23.6% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **EFL League Two** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Maya Le Tissier | 88 | Barclays WSL | 39k coins | +17.2% | +51.8% | Momentum moderado |
-| Beth Mead | 88 | Barclays WSL | 80k coins | +7.1% | +46.9% | Momentum moderado |
-| Ben Thompson | 84 | EFL League Two | 50k coins | +25% | +40.8% | Esticada |
-| Jaden Philogene | 87 | EFL Championship | 50k coins | +25.9% | +36% | Esticada |
-| Steve McManaman | 89 | Premier League | 47k coins | +21.2% | +35% | Esticada |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 86k coins | +15.3% | +30.1% | Momentum moderado |
-| Ollie Watkins | 86 | Premier League | 45k coins | +11.1% | +28.6% | Momentum moderado |
-| Georgia Stanway | 86 | GPFBL | 44k coins | +9.6% | +27.6% | Momentum moderado |
-| Chris Smalling | 87 | ROSHN Saudi League | 58k coins | +33.3% | +25% | Esticada |
-| Kyrell Lisbie | 84 | EFL League One | 50k coins | +28.2% | +20.5% | Esticada |
-| Lewis Wing | 86 | 2. Bundesliga | 39k coins | +17.5% | +19.7% | Momentum moderado |
-| Jaden Philogene | 84 | EFL Championship | 52k coins | +17% | +14% | Momentum moderado |
-| Jordan Pickford | 85 | Premier League | 41k coins | +31.9% | +13.1% | Esticada |
-| Joe Cole | 87 | Premier League | 16.000 coins | +10% | +11.9% | Momentum moderado |
-| Fara Williams | 86 | Barclays WSL | 15.750 coins | +12.5% | +10.5% | Momentum moderado |
+| Ben Thompson | 84 | EFL League Two | 58k coins | +18.7% | +50% | Momentum moderado |
+| Michael Cheek | 84 | EFL League Two | 56k coins | +9.4% | +45.9% | Momentum moderado |
+| Maya Le Tissier | 88 | Barclays WSL | 38k coins | +6.3% | +40.7% | Momentum moderado |
+| Dominic Solanke | 87 | Premier League | 55k coins | +20.9% | +34.1% | Esticada |
+| Georgia Stanway | 86 | GPFBL | 45k coins | +15.4% | +28.6% | Momentum moderado |
+| Mateus Mané | 86 | Premier League | 43k coins | +8.8% | +27.2% | Momentum moderado |
+| George Dobson | 84 | EFL Championship | 48k coins | +14.9% | +24.5% | Momentum moderado |
+| Chris Smalling | 87 | ROSHN Saudi League | 48k coins | +38.2% | +23.6% | Esticada |
+| Ella Toone | 86 | Barclays Women’s Super League | 38k coins | +25% | +23.5% | Esticada |
+| Leif Davis | 84 | EFL Championship | 41k coins | +26.5% | +22.9% | Esticada |
+| Kyrell Lisbie | 84 | EFL League One | 50k coins | +25.8% | +20.5% | Esticada |
+| Jack Payne | 84 | EFL League Two | 42k coins | +29.4% | +16.6% | Esticada |
+| Ollie Watkins | 86 | Premier League | 41k coins | +1.8% | +16.3% | Entrada a observar |
+| Lewis Wing | 86 | 2. Bundesliga | 46k coins | +20.4% | +14.4% | Esticada |
+| Jaden Philogene | 84 | EFL Championship | 51k coins | +2.9% | +9.8% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Maya Le Tissier (88)** — 39k coins, **+51.8% em 7 dias** (+17.2% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ben Thompson (84)** — 58k coins, **+50% em 7 dias** (+18.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Beth Mead (88)** — 80k coins, **+46.9% em 7 dias** (+7.1% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Michael Cheek (84)** — 56k coins, **+45.9% em 7 dias** (+9.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ben Thompson (84)** — 50k coins, **+40.8% em 7 dias** (+25% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maya Le Tissier (88)** — 38k coins, **+40.7% em 7 dias** (+6.3% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jaden Philogene (87)** — 50k coins, **+36% em 7 dias** (+25.9% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dominic Solanke (87)** — 55k coins, **+34.1% em 7 dias** (+20.9% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steve McManaman (89)** — 47k coins, **+35% em 7 dias** (+21.2% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Georgia Stanway (86)** — 45k coins, **+28.6% em 7 dias** (+15.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Maya Le Tissier (88, Barclays WSL) lidera, com +51.8% em 7 dias a 39k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ben Thompson (84, EFL League Two) lidera, com +50% em 7 dias a 58k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
