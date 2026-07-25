@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T16:52:09.000Z
+pubDatetime: 2026-07-25T19:52:09.000Z
 title: "Investimentos EA FC: Ingleses em 25/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Keira Walsh (86, Barclays WSL) lidera, com +46.7% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Fara Williams (88, Barclays WSL) lidera, com +36.1% em 7 dias a 99k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Keira Walsh (86) acumula **+46.7% em 7 dias** a 48k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Fara Williams (88) acumula **+36.1% em 7 dias** a 99k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 25/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-25-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.2% em 24h** e **+11.4% em 7 dias**.
-- **2 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **EFL Championship** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.7% em 24h** e **+16.9% em 7 dias**.
+- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **EFL Championship** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,31 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Keira Walsh | 86 | Barclays WSL | 48k coins | +17% | +46.7% | Momentum moderado |
-| Jaden Philogene | 87 | EFL Championship | 40k coins | +2% | +44.3% | Momentum moderado |
-| Leif Davis | 84 | EFL Championship | 45k coins | +23.1% | +26.3% | Esticada |
-| Georgia Stanway | 86 | GPFBL | 50k coins | +12.4% | +25.2% | Momentum moderado |
-| Dom Ballard | 84 | EFL League One | 48k coins | +13.6% | +21.5% | Momentum moderado |
-| Max Aarons | 85 | Scottish Premiership | 20k coins | +12.1% | +13.3% | Momentum moderado |
-| Harvey Barnes | 84 | Premier League | 50k coins | +6.7% | +9.4% | Momentum moderado |
-| Joe Gelhardt | 86 | EFL Championship | 16.750 coins | +27.3% | +7.7% | Esticada |
-| Jack Payne | 84 | EFL League Two | 40k coins | +5.3% | +6% | Momentum moderado |
-| Ollie Watkins | 86 | Premier League | 40k coins | +1.9% | +6% | Entrada a observar |
-| Lewis Wing | 86 | 2. Bundesliga | 47k coins | +10.6% | +5.6% | Momentum moderado |
-| Ben Thompson | 84 | EFL League Two | 57k coins | +13% | +5.6% | Momentum moderado |
+| Fara Williams | 88 | Barclays WSL | 99k coins | +3.1% | +36.1% | Momentum moderado |
+| Leif Davis | 84 | EFL Championship | 48k coins | +15% | +26.3% | Momentum moderado |
+| Ella Toone | 86 | Barclays Women’s Super League | 50k coins | +18.9% | +23% | Momentum moderado |
+| Harvey Barnes | 84 | Premier League | 49k coins | +14.6% | +20.5% | Momentum moderado |
+| Michael Cheek | 84 | EFL League Two | 56k coins | +12.7% | +19.4% | Momentum moderado |
+| Jordan Pickford | 86 | Premier League | 50k coins | +23.2% | +18.8% | Esticada |
+| George Dobson | 84 | EFL Championship | 45k coins | +24.7% | +18.4% | Esticada |
+| Louis Reed | 84 | EFL League One | 42k coins | +12.5% | +16.9% | Momentum moderado |
+| Jaden Philogene | 84 | EFL Championship | 56k coins | +4.7% | +16.8% | Entrada a observar |
+| Georgia Stanway | 86 | GPFBL | 50k coins | +10% | +15.1% | Momentum moderado |
+| Eberechi Eze | 87 | Premier League | 65k coins | +10% | +14.8% | Momentum moderado |
+| Archie Brown | 85 | Trendyol Süper Lig | 40k coins | +32.6% | +11.9% | Esticada |
+| Tom Ince | 84 | EFL Championship | 58k coins | +23.6% | +10.3% | Esticada |
+| Declan Rice | 88 | Premier League | 44k coins | +6.5% | +6.5% | Momentum moderado |
+| Lewis Wing | 86 | 2. Bundesliga | 47k coins | +5.6% | +5.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Keira Walsh (86)** — 48k coins, **+46.7% em 7 dias** (+17% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fara Williams (88)** — 99k coins, **+36.1% em 7 dias** (+3.1% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jaden Philogene (87)** — 40k coins, **+44.3% em 7 dias** (+2% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leif Davis (84)** — 48k coins, **+26.3% em 7 dias** (+15% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Leif Davis (84)** — 45k coins, **+26.3% em 7 dias** (+23.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ella Toone (86)** — 50k coins, **+23% em 7 dias** (+18.9% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Georgia Stanway (86)** — 50k coins, **+25.2% em 7 dias** (+12.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Harvey Barnes (84)** — 49k coins, **+20.5% em 7 dias** (+14.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dom Ballard (84)** — 48k coins, **+21.5% em 7 dias** (+13.6% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Michael Cheek (84)** — 56k coins, **+19.4% em 7 dias** (+12.7% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -85,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Keira Walsh (86, Barclays WSL) lidera, com +46.7% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Fara Williams (88, Barclays WSL) lidera, com +36.1% em 7 dias a 99k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -103,6 +106,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Ingleses em 25/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-25-ps/)
 - [Mercado EA FC em 25/07: Ingleses — Console (PS)](/posts/mercado-ea-fc-2026-07-25-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
