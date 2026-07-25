@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T19:52:10.000Z
+pubDatetime: 2026-07-25T22:52:10.000Z
 title: "Jogadores baratos EA FC: Ingleses em 25/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 11.512 coins.
-- **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 6.900 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 13 opções:** 11.296 coins.
+- **Posição mais frequente:** CM, com 4 cartas.
+- **Faixa real:** 1.600 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,19 +40,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Conor Gallagher | 91 | CM | Premier League | 11.500 coins | -14.8% |
+| Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Jill Scott | 91 | CM | Barclays WSL | 13.000 coins | 0% |
-| Geoff Hurst | 90 | ST | Icons | 11.250 coins | -6.2% |
-| Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | -2.2% |
+| Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
+| Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | Rachel Williams | 89 | ST | Barclays WSL | 11.250 coins | 0% |
 | Lauren James | 89 | RM | Barclays WSL | 11.250 coins | 0% |
+| Jess Park | 89 | CM | Barclays WSL | 13.000 coins | -8.5% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
-| Nico O'Reilly | 88 | LB | Premier League | 12.500 coins | -3.3% |
-| Millie Bright | 87 | CB | Barclays WSL | 6.900 coins | -10.4% |
-| Steve McManaman | 87 | RM | Premier League | 11.250 coins | -11.3% |
-| Jamie Carragher | 86 | CB | Premier League | 12.750 coins | -5.3% |
-| Fara Williams | 86 | CM | Barclays WSL | 14.500 coins | -9.8% |
+| Jamie Carragher | 86 | CB | Premier League | 13.250 coins | -9.1% |
+| Fara Williams | 86 | CM | Barclays WSL | 14.000 coins | -5.1% |
+| Lauren James | 85 | RM | Barclays WSL | 1.600 coins | +7.7% |
+| Alex Scott | 85 | RB | Barclays WSL | 13.250 coins | +1.9% |
 
 
 ## 📈 Destaques
@@ -70,7 +70,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 ## Como distribuir a banca
 
-- **Defesa:** Nico O'Reilly (88, LB) por 12.500 coins é a referência de rating deste recorte.
+- **Defesa:** Jamie Carragher (86, CB) por 13.250 coins é a referência de rating deste recorte.
 
 - **Meio:** Conor Gallagher (91, CM) por 11.500 coins é a referência de rating deste recorte.
 

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T19:52:20.000Z
+pubDatetime: 2026-07-25T22:52:19.000Z
 title: "Jogadores baratos EA FC: Ingleses em 25/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 10.229 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 1.700 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 11.227 coins.
+- **Posição mais frequente:** CM, com 3 cartas.
+- **Faixa real:** 11.000 a 11.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,18 +40,17 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | -4.2% |
-| Conor Gallagher | 91 | CM | Premier League | 11.500 coins | -6.1% |
+| Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
+| Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
-| Harry Kane | 89 | ST | Bundesliga | 2.300 coins | +17.2% |
 | Rachel Williams | 89 | ST | Barclays WSL | 11.250 coins | 0% |
 | Lauren James | 89 | RM | Barclays WSL | 11.250 coins | 0% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
-| Steve McManaman | 87 | RM | Premier League | 13.750 coins | 0% |
-| Georgia Stanway | 85 | CDM | GPFBL | 1.700 coins | 0% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 14.750 coins | -8.7% |
+| Steve McManaman | 87 | RM | Premier League | 11.000 coins | -12.7% |
+| Jamie Carragher | 86 | CB | Premier League | 11.000 coins | -6.5% |
+| Fara Williams | 86 | CM | Barclays WSL | 11.250 coins | -11.8% |
 
 
 ## 📈 Destaques
@@ -68,6 +67,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 
 ## Como distribuir a banca
+
+- **Defesa:** Jamie Carragher (86, CB) por 11.000 coins é a referência de rating deste recorte.
 
 - **Meio:** Jill Scott (91, CM) por 11.500 coins é a referência de rating deste recorte.
 
