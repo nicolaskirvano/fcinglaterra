@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T22:52:10.000Z
+pubDatetime: 2026-07-25T01:52:10.000Z
 title: "Jogadores baratos EA FC: Ingleses em 24/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 24/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (24/07/2026)?"
-    a: "Alessia Russo (89, Barclays WSL) aparece como melhor custo-benefício, a 2.500 coins no Console (PS)."
+    a: "Joe Cole (87, Premier League) aparece como melhor custo-benefício, a 13.000 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **24/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Alessia Russo (89) por apenas 2.500 coins.
+> 💰 **Melhor pechincha:** Joe Cole (87) por apenas 13.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Ingleses em 24/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-24-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 11.625 coins.
+- **Preço médio das 4 opções:** 13.312 coins.
 - **Posição mais frequente:** CB, com 2 cartas.
-- **Faixa real:** 2.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 12.500 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,34 +40,30 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Alessia Russo | 89 | ST | Barclays WSL | 2.500 coins | -7.7% |
-| Joe Cole | 87 | RW | Premier League | 13.500 coins | -10% |
-| Eric Dier | 86 | CB | Ligue 1 McDonald's | 11.500 coins | 0% |
-| Jamie Carragher | 86 | CB | Premier League | 13.000 coins | -5% |
-| Fara Williams | 86 | CM | Barclays WSL | 14.750 coins | +9.3% |
-| Alex Scott | 85 | RB | Barclays WSL | 14.500 coins | -12.1% |
+| Joe Cole | 87 | RW | Premier League | 13.000 coins | -10.7% |
+| Ledley King | 86 | CB | Premier League | 12.500 coins | +50% |
+| Eric Dier | 86 | CB | Ligue 1 McDonald's | 13.500 coins | -14.3% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 14.250 coins | +22% |
 
 
 ## 📈 Destaques
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2.500 coins**
+- **Joe Cole (87, RW)** da Premier League, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Joe Cole (87, RW)** da Premier League, a apenas **13.500 coins**
+- **Ledley King (86, CB)** da Premier League, a apenas **12.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Eric Dier (86, CB)** da Ligue 1 McDonald's, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Eric Dier (86, CB)** da Ligue 1 McDonald's, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jamie Carragher (86, CB)** da Premier League, a apenas **13.000 coins**
-
-- **Fara Williams (86, CM)** da Barclays WSL, a apenas **14.750 coins**
+- **Jill Scott (85, CM)** da Barclays Women’s Super League, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Eric Dier (86, CB) por 11.500 coins é a referência de rating deste recorte.
+- **Defesa:** Ledley King (86, CB) por 12.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Fara Williams (86, CM) por 14.750 coins é a referência de rating deste recorte.
+- **Meio:** Jill Scott (85, CM) por 14.250 coins é a referência de rating deste recorte.
 
-- **Ataque:** Alessia Russo (89, ST) por 2.500 coins é a referência de rating deste recorte.
+- **Ataque:** Joe Cole (87, RW) por 13.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -96,7 +92,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (24/07/2026)?**  
-Alessia Russo (89, Barclays WSL) aparece como melhor custo-benefício, a 2.500 coins no Console (PS).
+Joe Cole (87, Premier League) aparece como melhor custo-benefício, a 13.000 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

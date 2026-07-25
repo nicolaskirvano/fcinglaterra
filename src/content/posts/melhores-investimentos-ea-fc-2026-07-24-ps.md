@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T22:52:09.000Z
+pubDatetime: 2026-07-25T01:52:09.000Z
 title: "Investimentos EA FC: Ingleses em 24/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Ben Thompson (84, EFL League Two) lidera, com +50% em 7 dias a 58k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Michael Cheek (84, EFL League Two) lidera, com +55.6% em 7 dias a 56k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ben Thompson (84) acumula **+50% em 7 dias** a 58k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Michael Cheek (84) acumula **+55.6% em 7 dias** a 56k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 24/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-24-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.7% em 24h** e **+23.6% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **EFL League Two** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.7% em 24h** e **+17.1% em 7 dias**.
+- **5 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,32 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ben Thompson | 84 | EFL League Two | 58k coins | +18.7% | +50% | Momentum moderado |
-| Michael Cheek | 84 | EFL League Two | 56k coins | +9.4% | +45.9% | Momentum moderado |
-| Maya Le Tissier | 88 | Barclays WSL | 38k coins | +6.3% | +40.7% | Momentum moderado |
-| Dominic Solanke | 87 | Premier League | 55k coins | +20.9% | +34.1% | Esticada |
-| Georgia Stanway | 86 | GPFBL | 45k coins | +15.4% | +28.6% | Momentum moderado |
-| Mateus Mané | 86 | Premier League | 43k coins | +8.8% | +27.2% | Momentum moderado |
-| George Dobson | 84 | EFL Championship | 48k coins | +14.9% | +24.5% | Momentum moderado |
-| Chris Smalling | 87 | ROSHN Saudi League | 48k coins | +38.2% | +23.6% | Esticada |
-| Ella Toone | 86 | Barclays Women’s Super League | 38k coins | +25% | +23.5% | Esticada |
-| Leif Davis | 84 | EFL Championship | 41k coins | +26.5% | +22.9% | Esticada |
-| Kyrell Lisbie | 84 | EFL League One | 50k coins | +25.8% | +20.5% | Esticada |
-| Jack Payne | 84 | EFL League Two | 42k coins | +29.4% | +16.6% | Esticada |
-| Ollie Watkins | 86 | Premier League | 41k coins | +1.8% | +16.3% | Entrada a observar |
-| Lewis Wing | 86 | 2. Bundesliga | 46k coins | +20.4% | +14.4% | Esticada |
-| Jaden Philogene | 84 | EFL Championship | 51k coins | +2.9% | +9.8% | Entrada a observar |
+| Michael Cheek | 84 | EFL League Two | 56k coins | +16.7% | +55.6% | Momentum moderado |
+| Morgan Rogers | 87 | Premier League | 90k coins | +5.6% | +46.2% | Momentum moderado |
+| Maya Le Tissier | 88 | Barclays WSL | 36k coins | +3.6% | +30.9% | Momentum moderado |
+| Louis Reed | 84 | EFL League One | 47k coins | +25% | +23.5% | Esticada |
+| Chris Smalling | 87 | ROSHN Saudi League | 46k coins | +33.6% | +19.4% | Esticada |
+| Peter Crouch | 87 | Premier League | 250k coins | +5.3% | +18.2% | Momentum moderado |
+| Mateus Mané | 86 | Premier League | 43k coins | +3.8% | +17.1% | Entrada a observar |
+| Steve McManaman | 89 | Premier League | 42k coins | +12% | +16.7% | Momentum moderado |
+| Jack Payne | 84 | EFL League Two | 42k coins | +25% | +12.6% | Esticada |
+| Harvey Barnes | 86 | Premier League | 42k coins | +18.1% | +12.6% | Momentum moderado |
+| Declan Rice | 88 | Premier League | 47k coins | +11.2% | +11.2% | Momentum moderado |
+| Lewis Wing | 86 | 2. Bundesliga | 47k coins | +30.6% | +11.2% | Esticada |
+| Adam Wharton | 88 | Premier League | 28k coins | +23.4% | +10% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Ben Thompson (84)** — 58k coins, **+50% em 7 dias** (+18.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Michael Cheek (84)** — 56k coins, **+55.6% em 7 dias** (+16.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Michael Cheek (84)** — 56k coins, **+45.9% em 7 dias** (+9.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Morgan Rogers (87)** — 90k coins, **+46.2% em 7 dias** (+5.6% em 24h). Preço -18% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maya Le Tissier (88)** — 38k coins, **+40.7% em 7 dias** (+6.3% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maya Le Tissier (88)** — 36k coins, **+30.9% em 7 dias** (+3.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dominic Solanke (87)** — 55k coins, **+34.1% em 7 dias** (+20.9% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Louis Reed (84)** — 47k coins, **+23.5% em 7 dias** (+25% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Georgia Stanway (86)** — 45k coins, **+28.6% em 7 dias** (+15.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Chris Smalling (87)** — 46k coins, **+19.4% em 7 dias** (+33.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +96,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Ben Thompson (84, EFL League Two) lidera, com +50% em 7 dias a 58k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Michael Cheek (84, EFL League Two) lidera, com +55.6% em 7 dias a 56k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
