@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:47:14.000Z
+pubDatetime: 2026-07-25T10:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 25/07 — PC"
 draft: false
 featured: true
@@ -54,7 +54,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Lauren James | 89 | Barclays WSL | 60k coins | +3.5% | +23.3% | Entrada a observar |
 | Jordan Pickford | 86 | Premier League | 50k coins | +7% | +19% | Momentum moderado |
 | Sol Campbell | 86 | Icons | 73k coins | +12.3% | +12.3% | Momentum moderado |
-| Millie Bright | 88 | Barclays WSL | 88k coins | +11.2% | +11.2% | Momentum moderado |
+| Millie Bright | 88 | Barclays WSL | 36k coins | +11.2% | +11.2% | Momentum moderado |
 | Eberechi Eze | 87 | Premier League | 76k coins | +5.5% | +10.9% | Momentum moderado |
 
 

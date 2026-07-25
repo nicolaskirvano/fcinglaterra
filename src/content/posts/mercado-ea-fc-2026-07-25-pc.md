@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:47:12.000Z
+pubDatetime: 2026-07-25T10:52:17.000Z
 title: "Mercado EA FC em 25/07: Ingleses — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Jobe Bellingham (89), -44.1% em 24h, a 155k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 46 cartas em alta contra 70 em queda (média -6.4%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 46 cartas em alta contra 70 em queda (média -6.31%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **25/07/2026** no PC: clima **vendedor** — a maioria das cartas recuou. **46 valorizações** contra **70 quedas** entre as cartas relevantes, com média de **-6.4%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **25/07/2026** no PC: clima **vendedor** — a maioria das cartas recuou. **46 valorizações** contra **70 quedas** entre as cartas relevantes, com média de **-6.31%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
 > 🟢 **Maior alta:** Jamie Carragher (86) **+54.4%** · 🔴 **Maior baixa:** Jobe Bellingham (89) **-44.1%**
 
@@ -37,7 +37,7 @@ Resumo de **25/07/2026** no PC: clima **vendedor** — a maioria das cartas recu
 
 - **Amplitude do dia:** 98.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
 - **Participação das altas:** 39.7% entre as cartas que se moveram; o universo observado reúne 154 cartas.
-- **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
+- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
@@ -45,7 +45,7 @@ Resumo de **25/07/2026** no PC: clima **vendedor** — a maioria das cartas recu
 | --- | --- | --- | --- | --- | --- |
 | Jamie Carragher | 86 | Premier League | 30k coins | +54.4% | +57.1% |
 | Leif Davis | 84 | EFL Championship | 58k coins | +52.9% | +18.8% |
-| Harry Kane | 90 | Bundesliga | 130k coins | +44.4% | -33.3% |
+| Harry Kane | 90 | Bundesliga | 130k coins | +44.4% | -31.9% |
 | Lauren James | 92 | Barclays WSL | 544k coins | +36% | +36% |
 | Marcus Rashford | 90 | LALIGA EA SPORTS | 575k coins | +32.2% | +16.6% |
 | Ollie Watkins | 86 | Premier League | 49k coins | +28.9% | +24.1% |
@@ -76,12 +76,12 @@ Resumo de **25/07/2026** no PC: clima **vendedor** — a maioria das cartas recu
 | Ben Chilwell | 90 | Ligue 1 McDonald's | 34k coins | -43.6% | -42.6% |
 | Ethan Nwaneri | 91 | Ligue 1 McDonald's | 39k coins | -41.4% | -33.5% |
 | Freya Godfrey | 83 | Barclays WSL | 86k coins | -37.9% | -51.7% |
-| Harry Maguire | 90 | Premier League | 198k coins | -34.2% | -14.1% |
 | Anthony Gordon | 87 | Premier League | 46k coins | -32.4% | -19.3% |
 | Harry Kane | 91 | Bundesliga | 309k coins | -32.2% | -18.7% |
 | Harry Kane | 92 | Bundesliga | 151k coins | -26.3% | -34.9% |
 | Tom Ince | 84 | EFL Championship | 37k coins | -26% | -6.3% |
 | Mason Greenwood | 84 | Ligue 1 McDonald's | 80k coins | -25.2% | -38.5% |
+| Alessia Russo | 97 | Barclays WSL | 138k coins | -24.6% | -48.9% |
 
 
 ### Análise das baixas
@@ -115,7 +115,7 @@ Jamie Carragher (86, Premier League), com +54.4% em 24h, a 30k coins no PC.
 Jobe Bellingham (89), -44.1% em 24h, a 155k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 46 cartas em alta contra 70 em queda (média -6.4%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 46 cartas em alta contra 70 em queda (média -6.31%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

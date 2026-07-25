@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:47:03.000Z
+pubDatetime: 2026-07-25T10:52:07.000Z
 title: "Mercado EA FC em 25/07: Ingleses — Console (PS)"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Alessia Russo (97), -48.2% em 24h, a 86k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 44 cartas em alta contra 75 em queda (média -10.69%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 44 cartas em alta contra 75 em queda (média -10.62%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **25/07/2026** no Console (PS): clima **vendedor** — a maioria das cartas recuou. **44 valorizações** contra **75 quedas** entre as cartas relevantes, com média de **-10.69%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **25/07/2026** no Console (PS): clima **vendedor** — a maioria das cartas recuou. **44 valorizações** contra **75 quedas** entre as cartas relevantes, com média de **-10.62%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
 > 🟢 **Maior alta:** Paul Scholes (91) **+51.3%** · 🔴 **Maior baixa:** Alessia Russo (97) **-48.2%**
 
@@ -124,7 +124,7 @@ Paul Scholes (91, Icons), com +51.3% em 24h, a 174k coins no Console (PS).
 Alessia Russo (97), -48.2% em 24h, a 86k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 44 cartas em alta contra 75 em queda (média -10.69%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 44 cartas em alta contra 75 em queda (média -10.62%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
