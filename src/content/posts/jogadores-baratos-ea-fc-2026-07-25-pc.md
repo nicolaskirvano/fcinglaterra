@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T22:52:19.000Z
+pubDatetime: 2026-07-26T01:52:20.000Z
 title: "Jogadores baratos EA FC: Ingleses em 25/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 11 opções:** 11.227 coins.
-- **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 11.000 a 11.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 14 opções:** 9.996 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 1.500 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -48,9 +48,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Rachel Williams | 89 | ST | Barclays WSL | 11.250 coins | 0% |
 | Lauren James | 89 | RM | Barclays WSL | 11.250 coins | 0% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
-| Steve McManaman | 87 | RM | Premier League | 11.000 coins | -12.7% |
-| Jamie Carragher | 86 | CB | Premier League | 11.000 coins | -6.5% |
-| Fara Williams | 86 | CM | Barclays WSL | 11.250 coins | -11.8% |
+| Beth Mead | 87 | RM | Barclays WSL | 1.500 coins | +7.1% |
+| Lauren Hemp | 87 | LW | Barclays WSL | 1.800 coins | 0% |
+| Millie Bright | 87 | CB | Barclays WSL | 7.900 coins | +46.3% |
+| Fara Williams | 86 | CM | Barclays WSL | 11.750 coins | +7% |
+| Joe Gelhardt | 86 | ST | EFL Championship | 14.500 coins | -1.5% |
+| Alex Scott | 85 | RB | Barclays WSL | 12.250 coins | +14% |
 
 
 ## 📈 Destaques
@@ -68,7 +71,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 ## Como distribuir a banca
 
-- **Defesa:** Jamie Carragher (86, CB) por 11.000 coins é a referência de rating deste recorte.
+- **Defesa:** Millie Bright (87, CB) por 7.900 coins é a referência de rating deste recorte.
 
 - **Meio:** Jill Scott (91, CM) por 11.500 coins é a referência de rating deste recorte.
 
