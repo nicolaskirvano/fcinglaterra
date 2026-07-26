@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T13:52:18.000Z
+pubDatetime: 2026-07-26T16:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 26/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Jaden Philogene (87, EFL Championship) lidera, com +61.4% em 7 dias a 58k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Tom Ince (84, EFL Championship) lidera, com +37.1% em 7 dias a 54k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Jaden Philogene (87) acumula **+61.4% em 7 dias** a 58k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Tom Ince (84) acumula **+37.1% em 7 dias** a 54k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 26/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-26-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+23.2% em 24h** e **+11.1% em 7 dias**.
-- **3 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+9.2% em 24h** e **+19.0% em 7 dias**.
+- **1 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Barclays WSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,24 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jaden Philogene | 87 | EFL Championship | 58k coins | +23.2% | +61.4% | Esticada |
+| Tom Ince | 84 | EFL Championship | 54k coins | +9% | +37.1% | Momentum moderado |
 | Declan Rice | 89 | Premier League | 112k coins | +1.8% | +28.7% | Momentum moderado |
-| Dom Ballard | 84 | EFL League One | 48k coins | +1.6% | +11.1% | Entrada a observar |
-| Keira Walsh | 86 | Barclays WSL | 49k coins | +32.5% | +9.3% | Esticada |
-| Jess Park | 84 | Barclays WSL | 40k coins | +33.3% | +5.3% | Esticada |
+| Maya Le Tissier | 88 | Barclays WSL | 104k coins | +36.7% | +20% | Esticada |
+| Georgia Stanway | 86 | GPFBL | 50k coins | +1.5% | +19% | Entrada a observar |
+| Jill Scott | 85 | Barclays Women’s Super League | 16.250 coins | +16.9% | +13.1% | Momentum moderado |
+| Dom Ballard | 84 | EFL League One | 48k coins | +9.2% | +11.8% | Momentum moderado |
+| Jess Park | 84 | Barclays WSL | 35k coins | +11.9% | +5.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Jaden Philogene (87)** — 58k coins, **+61.4% em 7 dias** (+23.2% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tom Ince (84)** — 54k coins, **+37.1% em 7 dias** (+9% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Declan Rice (89)** — 112k coins, **+28.7% em 7 dias** (+1.8% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dom Ballard (84)** — 48k coins, **+11.1% em 7 dias** (+1.6% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maya Le Tissier (88)** — 104k coins, **+20% em 7 dias** (+36.7% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Keira Walsh (86)** — 49k coins, **+9.3% em 7 dias** (+32.5% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Georgia Stanway (86)** — 50k coins, **+19% em 7 dias** (+1.5% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jess Park (84)** — 40k coins, **+5.3% em 7 dias** (+33.3% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jill Scott (85)** — 16.250 coins, **+13.1% em 7 dias** (+16.9% em 24h). Preço -14% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +80,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Jaden Philogene (87, EFL Championship) lidera, com +61.4% em 7 dias a 58k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Tom Ince (84, EFL Championship) lidera, com +37.1% em 7 dias a 54k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
