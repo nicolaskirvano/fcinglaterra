@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:45:45.000Z
+pubDatetime: 2026-07-26T10:52:10.000Z
 title: "Jogadores baratos EA FC: Ingleses em 26/07 — Console (PS)"
 draft: false
 featured: false
@@ -42,9 +42,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Jill Scott | 91 | CM | Barclays WSL | 13.000 coins | 0% |
-| Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
-| Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
+| Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
+| Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
 | Harry Kane | 89 | ST | Bundesliga | 2.000 coins | -13% |
 | Alessia Russo | 89 | ST | Barclays WSL | 2.300 coins | 0% |
 | Lauren James | 89 | RM | Barclays WSL | 11.250 coins | 0% |
@@ -63,11 +63,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Jill Scott (91, CM)** da Barclays WSL, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Geoff Hurst (90, ST)** da Icons, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ollie Watkins (90, ST)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Lauren Hemp (90, LW)** da Barclays WSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ollie Watkins (90, ST)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Geoff Hurst (90, ST)** da Icons, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
@@ -76,7 +76,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Conor Gallagher (91, CM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Geoff Hurst (90, ST) por 11.250 coins é a referência de rating deste recorte.
+- **Ataque:** Ollie Watkins (90, ST) por 11.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

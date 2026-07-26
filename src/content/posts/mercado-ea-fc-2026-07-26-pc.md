@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:45:52.000Z
+pubDatetime: 2026-07-26T10:52:17.000Z
 title: "Mercado EA FC em 26/07: Ingleses — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Lotte Wubben-Moy (85), -44.6% em 24h, a 22k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 48 cartas em alta contra 73 em queda (média -0.01%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 48 cartas em alta contra 76 em queda (média -0.09%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**26/07/2026**, PC) o Ultimate Team está **pressionado** — as quedas dominam o dia — **48 subiram**, **73 caíram** (80+ e 5k+ coins), média de **-0.01%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**26/07/2026**, PC) o Ultimate Team está **pressionado** — as quedas dominam o dia — **48 subiram**, **76 caíram** (80+ e 5k+ coins), média de **-0.09%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
 > 🟢 **Maior alta:** Paul Scholes (91) **+57%** · 🔴 **Maior baixa:** Lotte Wubben-Moy (85) **-44.6%**
 
@@ -36,7 +36,7 @@ Hoje (**26/07/2026**, PC) o Ultimate Team está **pressionado** — as quedas do
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 101.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 39.7% entre as cartas que se moveram; o universo observado reúne 178 cartas.
+- **Participação das altas:** 38.7% entre as cartas que se moveram; o universo observado reúne 188 cartas.
 - **Concentração:** Barclays WSL aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
@@ -115,7 +115,7 @@ Paul Scholes (91, Icons), com +57% em 24h, a 190k coins no PC.
 Lotte Wubben-Moy (85), -44.6% em 24h, a 22k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 48 cartas em alta contra 73 em queda (média -0.01%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 48 cartas em alta contra 76 em queda (média -0.09%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

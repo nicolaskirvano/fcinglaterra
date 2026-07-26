@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:45:42.000Z
+pubDatetime: 2026-07-26T10:52:07.000Z
 title: "Mercado EA FC em 26/07: Ingleses — Console (PS)"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Ben Chilwell (90), -48.5% em 24h, a 25k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 77 cartas em alta contra 67 em queda (média 5.53%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 79 cartas em alta contra 68 em queda (média 5.45%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**26/07/2026**, Console (PS)) o Ultimate Team está **aquecido** — as altas dominam o dia — **77 subiram**, **67 caíram** (80+ e 5k+ coins), média de **5.53%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**26/07/2026**, Console (PS)) o Ultimate Team está **aquecido** — as altas dominam o dia — **79 subiram**, **68 caíram** (80+ e 5k+ coins), média de **5.45%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Tyler Morton (88) **+58.9%** · 🔴 **Maior baixa:** Ben Chilwell (90) **-48.5%**
 
@@ -36,7 +36,7 @@ Hoje (**26/07/2026**, Console (PS)) o Ultimate Team está **aquecido** — as al
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 107.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.5% entre as cartas que se moveram; o universo observado reúne 175 cartas.
+- **Participação das altas:** 53.7% entre as cartas que se moveram; o universo observado reúne 183 cartas.
 - **Concentração:** Premier League aparece em 9 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
@@ -124,7 +124,7 @@ Tyler Morton (88, Ligue 1 McDonald's), com +58.9% em 24h, a 22k coins no Console
 Ben Chilwell (90), -48.5% em 24h, a 25k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 77 cartas em alta contra 67 em queda (média 5.53%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 79 cartas em alta contra 68 em queda (média 5.45%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

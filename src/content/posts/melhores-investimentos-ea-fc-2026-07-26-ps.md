@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:45:44.000Z
+pubDatetime: 2026-07-26T10:52:09.000Z
 title: "Investimentos EA FC: Ingleses em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -35,7 +35,7 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 - A mediana é de **+10.1% em 24h** e **+14.9% em 7 dias**.
 - **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -49,15 +49,15 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Eberechi Eze | 86 | Premier League | 129k coins | +8.4% | +27.7% | Momentum moderado |
 | Kyrell Lisbie | 84 | EFL League One | 50k coins | +5.3% | +26.1% | Momentum moderado |
 | Louis Reed | 84 | EFL League One | 48k coins | +7.2% | +22.9% | Momentum moderado |
-| Jaden Philogene | 87 | EFL Championship | 44k coins | +10.7% | +19.7% | Momentum moderado |
+| Jaden Philogene | 87 | EFL Championship | 44k coins | +10.7% | +20.5% | Momentum moderado |
 | Ben Thompson | 84 | EFL League Two | 54k coins | +3.8% | +14.9% | Entrada a observar |
 | Frank Lampard | 87 | Icons | 88k coins | +25.5% | +13.5% | Esticada |
 | Harvey Barnes | 86 | Premier League | 44k coins | +10.1% | +12.2% | Momentum moderado |
 | Dom Ballard | 84 | EFL League One | 50k coins | +22.7% | +11.7% | Esticada |
 | Max Aarons | 85 | Scottish Premiership | 28k coins | +25.3% | +9.6% | Esticada |
 | Declan Rice | 88 | Premier League | 46k coins | +9.5% | +9.5% | Momentum moderado |
-| David Beckham | 88 | Icons | 93k coins | +21.6% | +8.1% | Esticada |
 | Michael Owen | 88 | Icons | 71k coins | +6.8% | +6.8% | Momentum moderado |
+| Mateus Mané | 88 | Premier League | 40k coins | +31.4% | +6.7% | Esticada |
 
 
 ## 📈 Análise dos destaques
