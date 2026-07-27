@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T13:52:10.000Z
+pubDatetime: 2026-07-27T16:52:11.000Z
 title: "Jogadores baratos EA FC: Ingleses em 27/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.553 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.317 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 2.800 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,19 +42,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | -11.5% |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 8.400 coins | -4.5% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 9.200 coins | +2.2% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
-| Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2.400 coins | +30% |
+| Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2.800 coins | +50% |
 | Rachel Williams | 89 | ST | Barclays WSL | 11.250 coins | 0% |
 | Lauren James | 89 | RM | Barclays WSL | 11.250 coins | 0% |
-| Keira Walsh | 89 | CDM | Barclays WSL | 13.500 coins | +20.8% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
-| Tyler Morton | 88 | CDM | Ligue 1 McDonald's | 14.750 coins | -9.1% |
-| Cole Palmer | 87 | CAM | Premier League | 1.500 coins | -13.3% |
-| Steve McManaman | 87 | RM | Premier League | 13.000 coins | -1.9% |
-| Joe Cole | 87 | RW | Premier League | 14.500 coins | +5.3% |
+| Tyler Morton | 88 | CDM | Ligue 1 McDonald's | 14.000 coins | -14.3% |
+| Grace Clinton | 87 | CAM | Barclays WSL | 13.250 coins | +14.3% |
+| Joe Cole | 87 | RW | Premier League | 13.750 coins | 0% |
+| Steve McManaman | 87 | RM | Premier League | 13.750 coins | -1.8% |
+| Joe Gelhardt | 86 | ST | EFL Championship | 12.750 coins | -7.1% |
 
 
 ## 📈 Destaques
@@ -63,11 +63,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Jill Scott (91, CM)** da Barclays WSL, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **8.400 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **9.200 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Ollie Watkins (90, ST)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Geoff Hurst (90, ST)** da Icons, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Lauren Hemp (90, LW)** da Barclays WSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
