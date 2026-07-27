@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:48:12.000Z
+pubDatetime: 2026-07-27T10:52:07.000Z
 title: "Mercado EA FC em 27/07: Ingleses — Console (PS)"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Marcus Rashford (90), -46.7% em 24h, a 80k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 58 cartas em alta contra 49 em queda (média 4.69%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 55 cartas em alta contra 49 em queda (média 4.61%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **58 subiram** e **49 caíram**, com variação média de **4.69%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **55 subiram** e **49 caíram**, com variação média de **4.61%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Chris Smalling (87) **+51.9%** · 🔴 **Maior baixa:** Marcus Rashford (90) **-46.7%**
 
@@ -36,7 +36,7 @@ Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 98.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 54.2% entre as cartas que se moveram; o universo observado reúne 144 cartas.
+- **Participação das altas:** 52.9% entre as cartas que se moveram; o universo observado reúne 141 cartas.
 - **Concentração:** Premier League aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
@@ -46,13 +46,13 @@ Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Chris Smalling | 87 | ROSHN Saudi League | 60k coins | +51.9% | +62.2% |
 | Georgia Stanway | 86 | GPFBL | 54k coins | +50% | +38.8% |
 | Alessia Russo | 90 | Barclays WSL | 68k coins | +43.8% | +13.1% |
-| Cole Palmer | 89 | Premier League | 146k coins | +42.2% | -20.1% |
+| Cole Palmer | 89 | Premier League | 146k coins | +41.3% | -20.6% |
 | Rico Lewis | 86 | Premier League | 55k coins | +37.5% | +21.5% |
-| Nico O'Reilly | 84 | Premier League | 47k coins | +35.9% | +8.2% |
-| Tom Ince | 84 | EFL Championship | 50k coins | +34.7% | +27.6% |
 | Dan Burn | 86 | Premier League | 217k coins | +32.3% | +24% |
 | Harry Kane | 91 | Bundesliga | 95k coins | +26.4% | -25.9% |
 | Micah Richards | 85 | Premier League | 40k coins | +26.3% | +49.1% |
+| Anthony Gordon | 87 | Premier League | 51k coins | +25.6% | +14.6% |
+| Steven Gerrard | 90 | Icons | 215k coins | +23.8% | +10.6% |
 
 
 ### Análise das altas
@@ -115,7 +115,7 @@ Chris Smalling (87, ROSHN Saudi League), com +51.9% em 24h, a 60k coins no Conso
 Marcus Rashford (90), -46.7% em 24h, a 80k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 58 cartas em alta contra 49 em queda (média 4.69%).
+Hoje o mercado está em alta — predominam as valorizações, com 55 cartas em alta contra 49 em queda (média 4.61%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

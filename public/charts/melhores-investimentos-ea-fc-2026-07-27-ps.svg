@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Declan Rice</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Micah Richards</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+64.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Micah Richards</text>
-<rect x="285" y="153" width="368" height="28" rx="7" fill="#22c55e"/>
-<text x="663" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tom Ince</text>
-<rect x="285" y="211" width="207" height="28" rx="7" fill="#22c55e"/>
-<text x="502" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.6%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Declan Rice</text>
-<rect x="285" y="269" width="200" height="28" rx="7" fill="#22c55e"/>
-<text x="495" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jill Scott</text>
-<rect x="285" y="327" width="191" height="28" rx="7" fill="#22c55e"/>
-<text x="486" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.5%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tyler Morton</text>
-<rect x="285" y="385" width="188" height="28" rx="7" fill="#22c55e"/>
-<text x="483" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Declan Rice</text>
+<rect x="285" y="153" width="260" height="28" rx="7" fill="#22c55e"/>
+<text x="555" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.6%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jill Scott</text>
+<rect x="285" y="211" width="249" height="28" rx="7" fill="#22c55e"/>
+<text x="544" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dan Burn</text>
+<rect x="285" y="269" width="235" height="28" rx="7" fill="#22c55e"/>
+<text x="530" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rico Lewis</text>
+<rect x="285" y="327" width="210" height="28" rx="7" fill="#22c55e"/>
+<text x="505" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.5%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Keira Walsh</text>
+<rect x="285" y="385" width="202" height="28" rx="7" fill="#22c55e"/>
+<text x="497" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.7%</text>
 </svg>

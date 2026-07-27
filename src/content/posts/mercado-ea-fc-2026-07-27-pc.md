@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:48:21.000Z
+pubDatetime: 2026-07-27T10:52:17.000Z
 title: "Mercado EA FC em 27/07: Ingleses — PC"
 draft: false
 featured: true
@@ -77,7 +77,7 @@ Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 | Jobe Bellingham | 89 | Bundesliga | 89k coins | -46.1% | -75.3% |
 | Lewis Hall | 89 | Premier League | 40k coins | -42.4% | -30.4% |
 | Cole Palmer | 89 | Premier League | 108k coins | -35.3% | -70.6% |
-| Dominic Solanke | 87 | Premier League | 49k coins | -32.2% | +11.3% |
+| Dominic Solanke | 87 | Premier League | 49k coins | -32.2% | +8.7% |
 | Declan Rice | 89 | Premier League | 112k coins | -31.8% | 0% |
 | Maya Le Tissier | 88 | Barclays WSL | 120k coins | -26.2% | +6% |
 | Fara Williams | 88 | Barclays WSL | 30k coins | -24.5% | -40.6% |
