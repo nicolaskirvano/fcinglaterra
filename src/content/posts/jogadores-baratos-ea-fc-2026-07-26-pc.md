@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T22:52:19.000Z
+pubDatetime: 2026-07-27T01:52:19.000Z
 title: "Jogadores baratos EA FC: Ingleses em 26/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.437 coins.
+- **Preço médio das 15 opções:** 10.190 coins.
 - **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 1.900 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.600 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,19 +42,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 8.300 coins | +11% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 9.200 coins | +11.1% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
-| Harry Kane | 89 | ST | Bundesliga | 2.700 coins | +8% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2.900 coins | +26.1% |
-| Rachel Williams | 89 | ST | Barclays WSL | 11.250 coins | 0% |
+| Harry Kane | 89 | ST | Bundesliga | 2.600 coins | +8% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2.800 coins | +21.7% |
 | Lauren James | 89 | RM | Barclays WSL | 11.250 coins | 0% |
+| Rachel Williams | 89 | ST | Barclays WSL | 11.250 coins | 0% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
-| Beth Mead | 87 | RM | Barclays WSL | 1.900 coins | +20% |
 | Grace Clinton | 87 | CAM | Barclays WSL | 11.000 coins | 0% |
-| Joe Cole | 87 | RW | Premier League | 11.000 coins | 0% |
-| Steve McManaman | 87 | RM | Premier League | 13.500 coins | +12.5% |
+| Joe Cole | 87 | RW | Premier League | 12.500 coins | +13.6% |
+| Steve McManaman | 87 | RM | Premier League | 13.500 coins | -3.6% |
+| Jamie Carragher | 86 | CB | Premier League | 11.000 coins | 0% |
 
 
 ## 📈 Destaques
@@ -63,7 +63,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Jill Scott (91, CM)** da Barclays WSL, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **8.300 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **9.200 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Ollie Watkins (90, ST)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -71,6 +71,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 
 ## Como distribuir a banca
+
+- **Defesa:** Jamie Carragher (86, CB) por 11.000 coins é a referência de rating deste recorte.
 
 - **Meio:** Conor Gallagher (91, CM) por 11.500 coins é a referência de rating deste recorte.
 
