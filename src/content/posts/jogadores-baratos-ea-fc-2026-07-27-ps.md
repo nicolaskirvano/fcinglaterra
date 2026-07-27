@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:52:10.000Z
+pubDatetime: 2026-07-27T13:52:10.000Z
 title: "Jogadores baratos EA FC: Ingleses em 27/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.030 coins.
-- **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 1.600 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.553 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,42 +41,40 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
-| Jill Scott | 91 | CM | Barclays WSL | 13.000 coins | 0% |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 7.500 coins | -11.8% |
+| Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | -11.5% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 8.400 coins | -4.5% |
+| Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
-| Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
-| Harry Kane | 89 | ST | Bundesliga | 2.100 coins | +30% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2.900 coins | +21.7% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2.400 coins | +30% |
 | Rachel Williams | 89 | ST | Barclays WSL | 11.250 coins | 0% |
 | Lauren James | 89 | RM | Barclays WSL | 11.250 coins | 0% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 13.500 coins | +20.8% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
-| Steve McManaman | 87 | RM | Premier League | 14.500 coins | +18% |
-| Fara Williams | 86 | CM | Barclays WSL | 13.500 coins | +27.9% |
-| Lauren James | 85 | RM | Barclays WSL | 1.600 coins | +26.3% |
-| Mary Earps | 84 | GK | Arkema PL | 1.600 coins | -6.7% |
+| Tyler Morton | 88 | CDM | Ligue 1 McDonald's | 14.750 coins | -9.1% |
+| Cole Palmer | 87 | CAM | Premier League | 1.500 coins | -13.3% |
+| Steve McManaman | 87 | RM | Premier League | 13.000 coins | -1.9% |
+| Joe Cole | 87 | RW | Premier League | 14.500 coins | +5.3% |
 
 
 ## 📈 Destaques
 
 - **Conor Gallagher (91, CM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jill Scott (91, CM)** da Barclays WSL, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jill Scott (91, CM)** da Barclays WSL, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **7.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **8.400 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Ollie Watkins (90, ST)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Geoff Hurst (90, ST)** da Icons, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Lauren Hemp (90, LW)** da Barclays WSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Mary Earps (84, GK) por 1.600 coins é a referência de rating deste recorte.
-
 - **Meio:** Conor Gallagher (91, CM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Geoff Hurst (90, ST) por 11.250 coins é a referência de rating deste recorte.
+- **Ataque:** Ollie Watkins (90, ST) por 11.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

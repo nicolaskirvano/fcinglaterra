@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alex Scott</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+80.2%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Adam Wharton</text>
-<rect x="285" y="153" width="380" height="28" rx="7" fill="#22c55e"/>
-<text x="675" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+63.5%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Leah Williamson</text>
-<rect x="285" y="211" width="219" height="28" rx="7" fill="#22c55e"/>
-<text x="514" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.6%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jess Park</text>
-<rect x="285" y="269" width="209" height="28" rx="7" fill="#22c55e"/>
-<text x="504" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.0%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Millie Bright</text>
-<rect x="285" y="327" width="142" height="28" rx="7" fill="#22c55e"/>
-<text x="437" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.8%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jordan Pickford</text>
-<rect x="285" y="385" width="114" height="28" rx="7" fill="#22c55e"/>
-<text x="409" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+81.8%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Maya Le Tissier</text>
+<rect x="285" y="153" width="262" height="28" rx="7" fill="#22c55e"/>
+<text x="557" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.6%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Steve McManaman</text>
+<rect x="285" y="211" width="225" height="28" rx="7" fill="#22c55e"/>
+<text x="520" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.4%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Millie Bright</text>
+<rect x="285" y="269" width="147" height="28" rx="7" fill="#22c55e"/>
+<text x="442" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Louis Reed</text>
+<rect x="285" y="327" width="145" height="28" rx="7" fill="#22c55e"/>
+<text x="440" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.7%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Steven Gerrard</text>
+<rect x="285" y="385" width="139" height="28" rx="7" fill="#22c55e"/>
+<text x="434" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.7%</text>
 </svg>
