@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T10:47:59.000Z
+pubDatetime: 2026-07-28T10:52:17.000Z
 title: "Mercado EA FC em 28/07: Ingleses — PC"
 draft: false
 featured: true
