@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T10:47:00.000Z
+pubDatetime: 2026-07-29T10:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 29/07 — PC"
 draft: false
 featured: true
