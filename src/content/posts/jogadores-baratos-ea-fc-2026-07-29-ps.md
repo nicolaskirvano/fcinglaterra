@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T13:52:12.000Z
+pubDatetime: 2026-07-29T16:52:10.000Z
 title: "Jogadores baratos EA FC: Ingleses em 29/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 29/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (29/07/2026)?"
-    a: "Conor Gallagher (91, Premier League) aparece como melhor custo-benefício, a 11.500 coins no Console (PS)."
+    a: "Bobby Charlton (93, Icons) aparece como melhor custo-benefício, a 14.000 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **29/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Conor Gallagher (91) por apenas 11.500 coins.
+> 💰 **Melhor pechincha:** Bobby Charlton (93) por apenas 14.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Ingleses em 29/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-29-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.367 coins.
-- **Posição mais frequente:** CM, com 5 cartas.
-- **Faixa real:** 1.800 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.200 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 1.500 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,41 +40,41 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
+| Bobby Charlton | 93 | CAM | Icons | 14.000 coins | 0% |
+| Wayne Rooney | 92 | ST | Icons | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
-| Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | -11.5% |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 7.000 coins | -6.7% |
+| Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
+| Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
-| Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2.200 coins | +15% |
-| Lauren James | 89 | RM | Barclays WSL | 11.250 coins | 0% |
 | Rachel Williams | 89 | ST | Barclays WSL | 11.250 coins | 0% |
-| Jess Park | 89 | CM | Barclays WSL | 12.750 coins | -2.1% |
+| Lauren James | 89 | RM | Barclays WSL | 11.250 coins | 0% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 12.500 coins | +51.1% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
-| Fara Williams | 86 | CM | Barclays WSL | 13.750 coins | -6.2% |
-| Joe Gelhardt | 86 | ST | EFL Championship | 14.250 coins | +6.1% |
-| Lauren James | 85 | RM | Barclays WSL | 1.800 coins | +28.6% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 13.500 coins | +1.8% |
+| Beth Mead | 87 | RM | Barclays WSL | 1.500 coins | +7.7% |
+| Joe Cole | 87 | RW | Premier League | 11.250 coins | 0% |
+| Grace Clinton | 87 | CAM | Barclays WSL | 14.250 coins | -6.6% |
+| Fara Williams | 86 | CM | Barclays WSL | 12.750 coins | +2% |
 
 
 ## 📈 Destaques
+
+- **Bobby Charlton (93, CAM)** da Icons, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Wayne Rooney (92, ST)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Conor Gallagher (91, CM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Jill Scott (91, CM)** da Barclays WSL, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **7.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Ollie Watkins (90, ST)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Lauren Hemp (90, LW)** da Barclays WSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Geoff Hurst (90, ST)** da Icons, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Meio:** Conor Gallagher (91, CM) por 11.500 coins é a referência de rating deste recorte.
+- **Meio:** Bobby Charlton (93, CAM) por 14.000 coins é a referência de rating deste recorte.
 
-- **Ataque:** Ollie Watkins (90, ST) por 11.250 coins é a referência de rating deste recorte.
+- **Ataque:** Wayne Rooney (92, ST) por 11.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -103,7 +103,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (29/07/2026)?**  
-Conor Gallagher (91, Premier League) aparece como melhor custo-benefício, a 11.500 coins no Console (PS).
+Bobby Charlton (93, Icons) aparece como melhor custo-benefício, a 14.000 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T13:52:22.000Z
+pubDatetime: 2026-07-29T16:52:20.000Z
 title: "Jogadores baratos EA FC: Ingleses em 29/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 29/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (29/07/2026)?"
-    a: "Conor Gallagher (91, Premier League) aparece como melhor custo-benefício, a 11.500 coins no PC."
+    a: "Bobby Charlton (93, Icons) aparece como melhor custo-benefício, a 11.750 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **29/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Conor Gallagher (91) por apenas 11.500 coins.
+> 💰 **Melhor pechincha:** Bobby Charlton (93) por apenas 11.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Ingleses em 29/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-29-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.863 coins.
-- **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 2.500 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 9.973 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 3.000 a 12.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
+| Bobby Charlton | 93 | CAM | Icons | 11.750 coins | 0% |
+| Wayne Rooney | 92 | ST | Icons | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
-| Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
-| Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
-| Harry Kane | 89 | ST | Bundesliga | 2.600 coins | 0% |
-| Alessia Russo | 89 | ST | Barclays WSL | 3.100 coins | +6.9% |
+| Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
+| Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
+| Alessia Russo | 89 | ST | Barclays WSL | 3.800 coins | +22.6% |
 | Rachel Williams | 89 | ST | Barclays WSL | 11.250 coins | 0% |
 | Lauren James | 89 | RM | Barclays WSL | 11.250 coins | 0% |
-| Michelle Agyemang | 89 | ST | Barclays Women’s Super League | 12.750 coins | 0% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
-| Cole Palmer | 87 | CAM | Premier League | 2.500 coins | +23.5% |
-| Steve McManaman | 87 | RM | Premier League | 13.750 coins | +1.9% |
-| Fara Williams | 86 | CM | Barclays WSL | 10.750 coins | +6.7% |
-| Alex Scott | 85 | RB | Barclays WSL | 12.250 coins | +2.1% |
+| Joe Cole | 88 | RW | Premier League | 12.750 coins | 0% |
+| Chloe Kelly | 87 | RM | Barclays WSL | 3.000 coins | +38.9% |
+| Millie Bright | 87 | CB | Barclays WSL | 4.800 coins | -2% |
+| Joe Cole | 87 | RW | Premier League | 11.750 coins | -6% |
 
 
 ## 📈 Destaques
 
+- **Bobby Charlton (93, CAM)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Wayne Rooney (92, ST)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Conor Gallagher (91, CM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Jill Scott (91, CM)** da Barclays WSL, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Lauren Hemp (90, LW)** da Barclays WSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Geoff Hurst (90, ST)** da Icons, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Ollie Watkins (90, ST)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Alex Scott (85, RB) por 12.250 coins é a referência de rating deste recorte.
+- **Defesa:** Millie Bright (87, CB) por 4.800 coins é a referência de rating deste recorte.
 
-- **Meio:** Conor Gallagher (91, CM) por 11.500 coins é a referência de rating deste recorte.
+- **Meio:** Bobby Charlton (93, CAM) por 11.750 coins é a referência de rating deste recorte.
 
-- **Ataque:** Lauren Hemp (90, LW) por 11.250 coins é a referência de rating deste recorte.
+- **Ataque:** Wayne Rooney (92, ST) por 11.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -105,7 +105,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (29/07/2026)?**  
-Conor Gallagher (91, Premier League) aparece como melhor custo-benefício, a 11.500 coins no PC.
+Bobby Charlton (93, Icons) aparece como melhor custo-benefício, a 11.750 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
