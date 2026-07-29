@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T19:52:07.000Z
+pubDatetime: 2026-07-29T22:52:07.000Z
 title: "Mercado EA FC em 29/07: Ingleses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 29/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (29/07/2026)?"
-    a: "Ryan Yates (85, Premier League), com +57.8% em 24h, a 24k coins no Console (PS)."
+    a: "Georgia Stanway (88, Liga F), com +43.5% em 24h, a 60k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Harry Kane (91), -41.9% em 24h, a 82k coins."
+    a: "Harry Maguire (90), -46% em 24h, a 45k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 43 cartas em alta contra 66 em queda (média -1.39%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 50 cartas em alta contra 53 em queda (média 1.88%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **29/07/2026** no Console (PS) com mercado **pressionado** — as quedas dominam o dia: **43 cartas subiram** e **66 caíram** (80+ acima de 5k coins), variação média de **-1.39%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **29/07/2026** no Console (PS) com mercado **aquecido** — as altas dominam o dia: **50 cartas subiram** e **53 caíram** (80+ acima de 5k coins), variação média de **1.88%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Ryan Yates (85) **+57.8%** · 🔴 **Maior baixa:** Harry Kane (91) **-41.9%**
+> 🟢 **Maior alta:** Georgia Stanway (88) **+43.5%** · 🔴 **Maior baixa:** Harry Maguire (90) **-46%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 29/07: Ingleses — Console (PS)](/charts/mercado-ea-fc-2026-07-29-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **29/07/2026** no Console (PS) com mercado **pressio
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 99.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 39.4% entre as cartas que se moveram; o universo observado reúne 143 cartas.
+- **Amplitude do dia:** 89.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.5% entre as cartas que se moveram; o universo observado reúne 141 cartas.
 - **Concentração:** Premier League aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ryan Yates | 85 | Premier League | 24k coins | +57.8% | -7.3% |
-| Peter Crouch | 87 | Premier League | 356k coins | +50.8% | +34.3% |
-| Georgia Stanway | 88 | Liga F | 62k coins | +47.1% | +42.9% |
-| James Milner | 88 | Premier League | 141k coins | +36.9% | +25.9% |
-| Declan Rice | 91 | Premier League | 300k coins | +29.8% | +37.8% |
-| Jordan Pickford | 85 | Premier League | 48k coins | +27.7% | +46.3% |
-| Alessia Russo | 97 | Barclays WSL | 101k coins | +27.4% | -33.3% |
-| Maya Le Tissier | 88 | Barclays WSL | 36k coins | +26.5% | +11.7% |
-| Wayne Rooney | 88 | Icons | 85k coins | +21.4% | -37.5% |
-| Steven Gerrard | 88 | Icons | 110k coins | +21.3% | +16.9% |
+| Georgia Stanway | 88 | Liga F | 60k coins | +43.5% | +49.7% |
+| Tyler Morton | 88 | Ligue 1 McDonald's | 23k coins | +31.1% | +21.2% |
+| Marc Guéhi | 88 | Premier League | 26k coins | +28.4% | -1.9% |
+| Wayne Rooney | 88 | Icons | 90k coins | +27.9% | -34.2% |
+| Maya Le Tissier | 88 | Barclays WSL | 36k coins | +26.5% | +21.2% |
+| James Milner | 88 | Premier League | 127k coins | +26.2% | +14% |
+| Lauren James | 89 | Barclays WSL | 23k coins | +24.4% | -49.7% |
+| Alessia Russo | 90 | Barclays WSL | 36k coins | +22.6% | -54.2% |
+| Jordan Henderson | 85 | Premier League | 110k coins | +22.2% | +86.4% |
+| Ellie Roebuck | 85 | Barclays WSL | 29k coins | +22.1% | +27.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **29/07/2026** no Console (PS) com mercado **pressio
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ryan Yates (85)** subiu **+57.8%** em 24h, a **24k coins** (faixa do dia: 16.000–27k). Está +12% acima da média de 7 dias (aquecida).
+- **Georgia Stanway (88)** subiu **+43.5%** em 24h, a **60k coins** (faixa do dia: 42k–64k). Está +26% acima da média de 7 dias (aquecida).
 
-- **Peter Crouch (87)** subiu **+50.8%** em 24h, a **356k coins** (faixa do dia: 236k–363k). Está +37% acima da média de 7 dias (aquecida).
+- **Tyler Morton (88)** subiu **+31.1%** em 24h, a **23k coins** (faixa do dia: 15.500–34k). Está +8% acima da média de 7 dias (aquecida).
 
-- **Georgia Stanway (88)** subiu **+47.1%** em 24h, a **62k coins** (faixa do dia: 42k–64k). Está +33% acima da média de 7 dias (aquecida).
+- **Marc Guéhi (88)** subiu **+28.4%** em 24h, a **26k coins** (faixa do dia: 16.250–30k). Está +14% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 91 | Bundesliga | 82k coins | -41.9% | -7.3% |
-| Tino Livramento | 85 | Premier League | 28k coins | -36.7% | -9.7% |
-| Trent Alexander-Arnold | 87 | LALIGA EA SPORTS | 219k coins | -35.2% | -56.1% |
-| Max Aarons | 85 | Scottish Premiership | 40k coins | -33.6% | -35.4% |
-| Bukayo Saka | 90 | Premier League | 643k coins | -33.6% | -22.3% |
-| Leah Williamson | 95 | Barclays WSL | 99k coins | -32.2% | +24.5% |
-| Femi Seriki | 83 | EFL Championship | 84k coins | -29.2% | +39.3% |
-| Jobe Bellingham | 89 | Bundesliga | 96k coins | -28.6% | -50% |
-| Lotte Wubben-Moy | 85 | Barclays WSL | 35k coins | -28.1% | +38.2% |
-| Millie Bright | 88 | Barclays WSL | 31k coins | -26.7% | -8.7% |
+| Harry Maguire | 90 | Premier League | 45k coins | -46% | -68.3% |
+| Harry Kane | 91 | Bundesliga | 92k coins | -34.2% | +5.1% |
+| Lauren James | 92 | Barclays WSL | 197k coins | -33.9% | -31.6% |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 30k coins | -33.8% | -46.1% |
+| Lewis Miley | 89 | Premier League | 25k coins | -30.9% | -46.1% |
+| Bobby Moore | 91 | Icons | 497k coins | -30.9% | +53.9% |
+| Steve McManaman | 89 | Premier League | 32k coins | -30.6% | -9.3% |
+| Femi Seriki | 83 | EFL Championship | 84k coins | -30% | +37.7% |
+| Eberechi Eze | 87 | Premier League | 100k coins | -29.6% | +30% |
+| Millie Bright | 88 | Barclays WSL | 33k coins | -27.3% | -4.2% |
 
 
 ### Análise das baixas
 
-- **Harry Kane (91)** caiu **-41.9%** em 24h, a **82k coins** (faixa do dia: 79k–142k). Está -24% abaixo da média de 7 dias (descontada).
+- **Harry Maguire (90)** caiu **-46%** em 24h, a **45k coins** (faixa do dia: 44k–84k). Está -43% abaixo da média de 7 dias (descontada).
 
-- **Tino Livramento (85)** caiu **-36.7%** em 24h, a **28k coins** (faixa do dia: 23k–37k). Está em linha com a média de 7 dias (+8%).
+- **Harry Kane (91)** caiu **-34.2%** em 24h, a **92k coins** (faixa do dia: 79k–142k). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Trent Alexander-Arnold (87)** caiu **-35.2%** em 24h, a **219k coins** (faixa do dia: 172k–270k). Está -26% abaixo da média de 7 dias (descontada).
+- **Lauren James (92)** caiu **-33.9%** em 24h, a **197k coins** (faixa do dia: 173k–298k). Está -35% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Ryan Yates já avançou 57.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Georgia Stanway já avançou 43.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Harry Kane recuou -41.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Harry Maguire recuou -46%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (29/07/2026)?**
-Ryan Yates (85, Premier League), com +57.8% em 24h, a 24k coins no Console (PS).
+Georgia Stanway (88, Liga F), com +43.5% em 24h, a 60k coins no Console (PS).
 
 **E a maior queda do dia?**
-Harry Kane (91), -41.9% em 24h, a 82k coins.
+Harry Maguire (90), -46% em 24h, a 45k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 43 cartas em alta contra 66 em queda (média -1.39%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 50 cartas em alta contra 53 em queda (média 1.88%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
