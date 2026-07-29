@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T16:52:09.000Z
+pubDatetime: 2026-07-29T19:52:09.000Z
 title: "Investimentos EA FC: Ingleses em 29/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **29/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.5% em 24h** e **+26.0% em 7 dias**.
-- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+7.2% em 24h** e **+28.8% em 7 dias**.
+- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Jordan Henderson | 85 | Premier League | 96k coins | +7.2% | +63.6% | Esticada |
-| Dom Ballard | 84 | EFL League One | 64k coins | +3.3% | +45.9% | Momentum moderado |
-| Tom Ince | 84 | EFL Championship | 70k coins | +11.2% | +42.6% | Momentum moderado |
-| Dan Burn | 86 | Premier League | 220k coins | +2.3% | +38.4% | Momentum moderado |
-| Harry Kane | 92 | Bundesliga | 166k coins | +7.7% | +33.6% | Momentum moderado |
-| Jack Payne | 84 | EFL League Two | 48k coins | +10.5% | +33.3% | Momentum moderado |
-| Harvey Barnes | 86 | Premier League | 48k coins | +10.5% | +26.7% | Momentum moderado |
-| Jaden Philogene | 84 | EFL Championship | 56k coins | +14.5% | +26% | Momentum moderado |
-| Declan Rice | 88 | Premier League | 52k coins | +2.6% | +25% | Entrada a observar |
-| Ben Thompson | 84 | EFL League Two | 58k coins | +19.3% | +22.6% | Momentum moderado |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 19.750 coins | +29.7% | +20% | Esticada |
-| Sol Campbell | 86 | Icons | 69k coins | +20% | +18.2% | Esticada |
-| Louis Reed | 84 | EFL League One | 48k coins | +5.5% | +12.9% | Momentum moderado |
-| Harvey Barnes | 84 | Premier League | 50k coins | +10.6% | +10.6% | Momentum moderado |
-| Steven Gerrard | 88 | Icons | 106k coins | +13.8% | +8.1% | Momentum moderado |
+| Jordan Pickford | 85 | Premier League | 48k coins | +27.7% | +46.3% | Esticada |
+| Dom Ballard | 84 | EFL League One | 59k coins | +2.5% | +44.7% | Momentum moderado |
+| Tom Ince | 84 | EFL Championship | 70k coins | +12% | +43.6% | Momentum moderado |
+| Dan Burn | 86 | Premier League | 200k coins | +1.9% | +40.4% | Momentum moderado |
+| Louis Reed | 84 | EFL League One | 50k coins | +9.9% | +36.1% | Momentum moderado |
+| Leif Davis | 84 | EFL Championship | 50k coins | +1% | +31.6% | Momentum moderado |
+| Harry Kane | 92 | Bundesliga | 176k coins | +3.9% | +28.8% | Momentum moderado |
+| Jack Payne | 84 | EFL League Two | 48k coins | +6.1% | +28% | Momentum moderado |
+| James Milner | 88 | Premier League | 141k coins | +36.9% | +25.9% | Esticada |
+| Harvey Barnes | 86 | Premier League | 44k coins | +4.7% | +22.4% | Entrada a observar |
+| Declan Rice | 89 | Premier League | 54k coins | +7.8% | +20.2% | Momentum moderado |
+| Steven Gerrard | 88 | Icons | 110k coins | +21.3% | +16.9% | Esticada |
+| Anthony Gordon | 88 | Premier League | 163k coins | +7.5% | +15.4% | Momentum moderado |
+| Jaden Philogene | 84 | EFL Championship | 51k coins | +1.8% | +12% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Jordan Henderson (85)** — 96k coins, **+63.6% em 7 dias** (+7.2% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jordan Henderson (85)** — 96k coins, **+63.6% em 7 dias** (+7.2% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dom Ballard (84)** — 64k coins, **+45.9% em 7 dias** (+3.3% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jordan Pickford (85)** — 48k coins, **+46.3% em 7 dias** (+27.7% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tom Ince (84)** — 70k coins, **+42.6% em 7 dias** (+11.2% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dom Ballard (84)** — 59k coins, **+44.7% em 7 dias** (+2.5% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dan Burn (86)** — 220k coins, **+38.4% em 7 dias** (+2.3% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tom Ince (84)** — 70k coins, **+43.6% em 7 dias** (+12% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Harry Kane (92)** — 166k coins, **+33.6% em 7 dias** (+7.7% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dan Burn (86)** — 200k coins, **+40.4% em 7 dias** (+1.9% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
