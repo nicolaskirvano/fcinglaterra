@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:48:40.000Z
+pubDatetime: 2026-07-30T13:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 30/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 30/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (30/07/2026) no EA FC?"
-    a: "Harry Kane (90, Bundesliga) lidera, com +79% em 7 dias a 180k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Eberechi Eze (88, Premier League) lidera, com +65.6% em 7 dias a 72k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Harry Kane (90) acumula **+79% em 7 dias** a 180k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Eberechi Eze (88) acumula **+65.6% em 7 dias** a 72k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 30/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-30-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.6% em 24h** e **+26.3% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+7.4% em 24h** e **+27.4% em 7 dias**.
+- **2 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 90 | Bundesliga | 180k coins | +30.6% | +79% | Esticada |
-| Steven Gerrard | 89 | Icons | 126k coins | +17.4% | +67.6% | Esticada |
-| Declan Rice | 89 | Premier League | 112k coins | +12.6% | +47.4% | Momentum moderado |
-| Eberechi Eze | 88 | Premier League | 64k coins | +13.2% | +43.3% | Momentum moderado |
-| Eberechi Eze | 86 | Premier League | 249k coins | +38.3% | +39.9% | Esticada |
-| David Beckham | 88 | Icons | 84k coins | +28.5% | +34.5% | Esticada |
-| Max Aarons | 85 | Scottish Premiership | 29k coins | +4.3% | +26.3% | Momentum moderado |
-| Steve McManaman | 89 | Premier League | 49k coins | +11.9% | +26.3% | Momentum moderado |
-| Dom Ballard | 84 | EFL League One | 48k coins | +1.6% | +25% | Entrada a observar |
+| Eberechi Eze | 88 | Premier League | 72k coins | +19.4% | +65.6% | Esticada |
+| Georgia Stanway | 86 | GPFBL | 50k coins | +11.7% | +50.4% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 108k coins | +24.4% | +47.4% | Esticada |
+| Steven Gerrard | 90 | Icons | 235k coins | +8.1% | +45.5% | Momentum moderado |
+| Leah Williamson | 95 | Barclays WSL | 188k coins | +14.3% | +43.3% | Momentum moderado |
+| Jess Park | 84 | Barclays WSL | 40k coins | +6.7% | +33.3% | Momentum moderado |
+| Frank Lampard | 87 | Icons | 92k coins | +1.6% | +27.7% | Momentum moderado |
+| Dom Ballard | 84 | EFL League One | 47k coins | +16.1% | +27.2% | Momentum moderado |
+| Ryan Yates | 85 | Premier League | 34k coins | +3.7% | +25% | Entrada a observar |
 | Millie Bright | 88 | Barclays WSL | 100k coins | +1% | +25% | Entrada a observar |
-| Harvey Barnes | 86 | Premier League | 50k coins | +11.9% | +22.2% | Momentum moderado |
-| Elliot Anderson | 89 | Premier League | 109k coins | +21.8% | +21.1% | Esticada |
-| Ella Toone | 86 | Barclays Women’s Super League | 47k coins | +3.9% | +17.6% | Entrada a observar |
-| Mateus Mané | 86 | Premier League | 49k coins | +16.7% | +10.7% | Momentum moderado |
-| John Barnes | 89 | Icons | 105k coins | +9.4% | +8.2% | Momentum moderado |
+| Lewis Wing | 86 | 2. Bundesliga | 45k coins | +2.2% | +14.5% | Entrada a observar |
+| Harry Kane | 92 | Bundesliga | 179k coins | +2.6% | +12.4% | Entrada a observar |
+| Harvey Barnes | 86 | Premier League | 50k coins | +3.1% | +9.3% | Entrada a observar |
+| John Barnes | 89 | Icons | 105k coins | +19.3% | +8.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Harry Kane (90)** — 180k coins, **+79% em 7 dias** (+30.6% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eberechi Eze (88)** — 72k coins, **+65.6% em 7 dias** (+19.4% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steven Gerrard (89)** — 126k coins, **+67.6% em 7 dias** (+17.4% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Georgia Stanway (86)** — 50k coins, **+50.4% em 7 dias** (+11.7% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Declan Rice (89)** — 112k coins, **+47.4% em 7 dias** (+12.6% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Declan Rice (89)** — 108k coins, **+47.4% em 7 dias** (+24.4% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eberechi Eze (88)** — 64k coins, **+43.3% em 7 dias** (+13.2% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Gerrard (90)** — 235k coins, **+45.5% em 7 dias** (+8.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eberechi Eze (86)** — 249k coins, **+39.9% em 7 dias** (+38.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leah Williamson (95)** — 188k coins, **+43.3% em 7 dias** (+14.3% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +87,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (30/07/2026) no EA FC?**  
-Harry Kane (90, Bundesliga) lidera, com +79% em 7 dias a 180k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Eberechi Eze (88, Premier League) lidera, com +65.6% em 7 dias a 72k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
