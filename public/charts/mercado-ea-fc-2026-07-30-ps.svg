@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bobby Moore</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.3%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Harry Kane</text>
-<rect x="285" y="153" width="458" height="28" rx="7" fill="#22c55e"/>
-<text x="753" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.2%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bukayo Saka</text>
-<rect x="285" y="211" width="449" height="28" rx="7" fill="#22c55e"/>
-<text x="744" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Declan Rice</text>
-<rect x="285" y="269" width="416" height="28" rx="7" fill="#22c55e"/>
-<text x="711" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.3%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Beth Mead</text>
-<rect x="285" y="327" width="404" height="28" rx="7" fill="#22c55e"/>
-<text x="699" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.1%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">David Beckham</text>
-<rect x="285" y="385" width="375" height="28" rx="7" fill="#22c55e"/>
-<text x="670" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.4%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.2%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">John Barnes</text>
+<rect x="285" y="153" width="444" height="28" rx="7" fill="#22c55e"/>
+<text x="739" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joe Gelhardt</text>
+<rect x="285" y="211" width="343" height="28" rx="7" fill="#22c55e"/>
+<text x="638" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.9%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Max Aarons</text>
+<rect x="285" y="269" width="334" height="28" rx="7" fill="#22c55e"/>
+<text x="629" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.1%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Archie Brown</text>
+<rect x="285" y="327" width="304" height="28" rx="7" fill="#22c55e"/>
+<text x="599" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.4%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Chris Smalling</text>
+<rect x="285" y="385" width="269" height="28" rx="7" fill="#22c55e"/>
+<text x="564" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.2%</text>
 </svg>
