@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T19:52:18.000Z
+pubDatetime: 2026-07-30T22:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 30/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 30/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (30/07/2026) no EA FC?"
-    a: "Steven Gerrard (90, Icons) lidera, com +48.7% em 7 dias a 229k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Georgia Stanway (86, GPFBL) lidera, com +47.4% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Steven Gerrard (90) acumula **+48.7% em 7 dias** a 229k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Georgia Stanway (86) acumula **+47.4% em 7 dias** a 48k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 30/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-30-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.0% em 24h** e **+13.0% em 7 dias**.
-- **1 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+10.0% em 24h** e **+16.9% em 7 dias**.
+- **2 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,28 +43,30 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Steven Gerrard | 90 | Icons | 229k coins | +13.2% | +48.7% | Momentum moderado |
-| Jess Park | 84 | Barclays WSL | 40k coins | +6.7% | +33.3% | Momentum moderado |
-| Paul Scholes | 88 | Icons | 101k coins | +1% | +28.7% | Momentum moderado |
-| Tino Livramento | 85 | Premier League | 28k coins | +16.5% | +14.3% | Momentum moderado |
-| Mateus Mané | 86 | Premier League | 50k coins | +11.1% | +13% | Momentum moderado |
-| Harvey Barnes | 86 | Premier League | 50k coins | +1% | +10.5% | Entrada a observar |
-| Harvey Barnes | 84 | Premier League | 50k coins | +3.6% | +9.3% | Entrada a observar |
-| John Barnes | 89 | Icons | 105k coins | +25% | +8.2% | Esticada |
+| Georgia Stanway | 86 | GPFBL | 48k coins | +5.9% | +47.4% | Momentum moderado |
+| Steven Gerrard | 90 | Icons | 226k coins | +17.4% | +44% | Momentum moderado |
+| Max Aarons | 85 | Scottish Premiership | 30k coins | +35.6% | +38.6% | Esticada |
+| Ryan Yates | 85 | Premier League | 36k coins | +13.2% | +28.1% | Momentum moderado |
+| Ella Toone | 86 | Barclays Women’s Super League | 47k coins | +2.2% | +17.6% | Entrada a observar |
+| Georgia Stanway | 88 | Liga F | 74k coins | +2.7% | +16.9% | Entrada a observar |
+| Mateus Mané | 86 | Premier League | 50k coins | +2% | +11.1% | Entrada a observar |
+| Jordan Pickford | 86 | Premier League | 50k coins | +17.6% | +9.3% | Momentum moderado |
 | Keira Walsh | 86 | Barclays WSL | 50k coins | +10% | +8.2% | Momentum moderado |
+| Harvey Barnes | 86 | Premier League | 50k coins | +1% | +8.1% | Entrada a observar |
+| Chris Smalling | 87 | ROSHN Saudi League | 55k coins | +22.9% | +5.8% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Steven Gerrard (90)** — 229k coins, **+48.7% em 7 dias** (+13.2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Georgia Stanway (86)** — 48k coins, **+47.4% em 7 dias** (+5.9% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jess Park (84)** — 40k coins, **+33.3% em 7 dias** (+6.7% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Gerrard (90)** — 226k coins, **+44% em 7 dias** (+17.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Paul Scholes (88)** — 101k coins, **+28.7% em 7 dias** (+1% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Max Aarons (85)** — 30k coins, **+38.6% em 7 dias** (+35.6% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tino Livramento (85)** — 28k coins, **+14.3% em 7 dias** (+16.5% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ryan Yates (85)** — 36k coins, **+28.1% em 7 dias** (+13.2% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mateus Mané (86)** — 50k coins, **+13% em 7 dias** (+11.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ella Toone (86)** — 47k coins, **+17.6% em 7 dias** (+2.2% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -82,7 +84,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (30/07/2026) no EA FC?**  
-Steven Gerrard (90, Icons) lidera, com +48.7% em 7 dias a 229k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Georgia Stanway (86, GPFBL) lidera, com +47.4% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

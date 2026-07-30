@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T19:52:10.000Z
+pubDatetime: 2026-07-30T22:52:10.000Z
 title: "Jogadores baratos EA FC: Ingleses em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 9.788 coins.
+- **Preço médio das 15 opções:** 10.140 coins.
 - **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 1.500 a 11.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -48,11 +48,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | Rachel Williams | 89 | ST | Barclays WSL | 11.250 coins | 0% |
 | Lauren James | 89 | RM | Barclays WSL | 11.250 coins | 0% |
-| Jess Park | 89 | CM | Barclays WSL | 11.250 coins | 0% |
+| Jess Park | 89 | CM | Barclays WSL | 12.000 coins | 0% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
-| Grace Clinton | 87 | CAM | Barclays WSL | 11.250 coins | -7% |
-| Georgia Stanway | 85 | CDM | GPFBL | 1.500 coins | +6.2% |
-| Lauren James | 85 | RM | Barclays WSL | 1.500 coins | +17.6% |
+| Millie Bright | 87 | CB | Barclays WSL | 7.400 coins | +26.2% |
+| Joe Cole | 87 | RW | Premier League | 14.750 coins | +9.3% |
+| Lauren James | 85 | RM | Barclays WSL | 1.700 coins | 0% |
+| Alex Scott | 85 | RB | Barclays WSL | 13.000 coins | +9.6% |
+| Alex Greenwood | 84 | CB | Barclays WSL | 1.500 coins | +17.6% |
 
 
 ## 📈 Destaques
@@ -69,6 +71,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 
 ## Como distribuir a banca
+
+- **Defesa:** Millie Bright (87, CB) por 7.400 coins é a referência de rating deste recorte.
 
 - **Meio:** Jill Scott (91, CM) por 11.500 coins é a referência de rating deste recorte.
 
