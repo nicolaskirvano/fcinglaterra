@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T22:52:18.000Z
+pubDatetime: 2026-07-30T01:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 29/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **29/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.5% em 24h** e **+20.1% em 7 dias**.
-- **2 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 10 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+7.0% em 24h** e **+25.0% em 7 dias**.
+- **1 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,32 +44,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Eberechi Eze | 86 | Premier League | 249k coins | +38.3% | +77.9% | Esticada |
-| Declan Rice | 89 | Premier League | 112k coins | +4.5% | +36.8% | Momentum moderado |
-| Eberechi Eze | 88 | Premier League | 60k coins | +9.6% | +31.6% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 112k coins | +12.6% | +47.4% | Momentum moderado |
+| Max Aarons | 85 | Scottish Premiership | 30k coins | +7% | +29.5% | Momentum moderado |
+| Eberechi Eze | 88 | Premier League | 56k coins | +2.6% | +25.8% | Momentum moderado |
 | Harvey Barnes | 86 | Premier League | 50k coins | +11.9% | +25.3% | Momentum moderado |
-| Dom Ballard | 84 | EFL League One | 48k coins | +1.6% | +25% | Entrada a observar |
+| Dom Ballard | 84 | EFL League One | 43k coins | +1.6% | +25% | Entrada a observar |
 | Millie Bright | 88 | Barclays WSL | 100k coins | +1% | +25% | Entrada a observar |
-| Declan Rice | 94 | Premier League | 212k coins | +10.8% | +24.9% | Momentum moderado |
-| Harry Kane | 90 | Bundesliga | 161k coins | +14.6% | +15.4% | Momentum moderado |
-| Rico Lewis | 86 | Premier League | 50k coins | +9.9% | +15% | Momentum moderado |
-| Steve McManaman | 89 | Premier League | 48k coins | +10.2% | +12.8% | Momentum moderado |
-| Dominic Solanke | 87 | Premier League | 62k coins | +27.6% | +12.4% | Esticada |
-| Mateus Mané | 86 | Premier League | 44k coins | +16.7% | +8.9% | Momentum moderado |
-| Ella Toone | 86 | Barclays Women’s Super League | 45k coins | +1.7% | +8.3% | Entrada a observar |
-| Dan Burn | 86 | Premier League | 150k coins | +15.4% | +7.1% | Momentum moderado |
+| Harry Kane | 90 | Bundesliga | 153k coins | +9% | +24.6% | Momentum moderado |
+| Declan Rice | 94 | Premier League | 220k coins | +8.7% | +22.5% | Momentum moderado |
+| Rico Lewis | 86 | Premier League | 47k coins | +6.6% | +13.5% | Momentum moderado |
+| Dominic Solanke | 87 | Premier League | 58k coins | +19.6% | +9.2% | Momentum moderado |
+| Tino Livramento | 85 | Premier League | 24k coins | +2.1% | +9% | Entrada a observar |
+| Keira Walsh | 86 | Barclays WSL | 45k coins | +2.9% | +7.8% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Eberechi Eze (86)** — 249k coins, **+77.9% em 7 dias** (+38.3% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eberechi Eze (86)** — 249k coins, **+77.9% em 7 dias** (+38.3% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Declan Rice (89)** — 112k coins, **+36.8% em 7 dias** (+4.5% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Declan Rice (89)** — 112k coins, **+47.4% em 7 dias** (+12.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eberechi Eze (88)** — 60k coins, **+31.6% em 7 dias** (+9.6% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Max Aarons (85)** — 30k coins, **+29.5% em 7 dias** (+7% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Eberechi Eze (88)** — 56k coins, **+25.8% em 7 dias** (+2.6% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Harvey Barnes (86)** — 50k coins, **+25.3% em 7 dias** (+11.9% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Dom Ballard (84)** — 48k coins, **+25% em 7 dias** (+1.6% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

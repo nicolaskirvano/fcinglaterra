@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T22:52:20.000Z
+pubDatetime: 2026-07-30T01:52:20.000Z
 title: "Jogadores baratos EA FC: Ingleses em 29/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.043 coins.
-- **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 3.700 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.967 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 3.000 a 12.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,17 +44,17 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Wayne Rooney | 92 | ST | Icons | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 9.700 coins | +9% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 11.000 coins | +18% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
-| Alessia Russo | 89 | ST | Barclays WSL | 3.700 coins | +35.5% |
 | Rachel Williams | 89 | ST | Barclays WSL | 11.250 coins | 0% |
 | Lauren James | 89 | RM | Barclays WSL | 11.250 coins | 0% |
-| Michelle Agyemang | 89 | ST | Barclays Women’s Super League | 13.750 coins | +25.5% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
 | Joe Cole | 88 | RW | Premier League | 12.750 coins | 0% |
-| Steve McManaman | 87 | RM | Premier League | 12.250 coins | -5.4% |
+| Joe Cole | 87 | RW | Premier League | 12.500 coins | +14% |
+| Lauren James | 86 | RW | Barclays WSL | 3.000 coins | +20% |
+| Fara Williams | 86 | CM | Barclays WSL | 11.750 coins | -2.1% |
 
 
 ## 📈 Destaques
@@ -67,7 +67,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Jill Scott (91, CM)** da Barclays WSL, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **9.700 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
