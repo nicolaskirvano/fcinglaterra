@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:52:20.000Z
+pubDatetime: 2026-07-31T01:52:22.000Z
 title: "Jogadores baratos EA FC: Ingleses em 30/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 14 opções:** 10.854 coins.
+- **Preço médio das 15 opções:** 11.550 coins.
 - **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 3.200 a 12.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.000 a 12.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -51,9 +51,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Lauren James | 89 | RM | Barclays WSL | 11.250 coins | 0% |
 | Joe Cole | 88 | RW | Premier League | 11.000 coins | -13.7% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
-| Cole Palmer | 87 | CAM | Premier League | 3.200 coins | -3% |
-| Joe Cole | 87 | RW | Premier League | 12.250 coins | -3.9% |
+| Joe Cole | 87 | RW | Premier League | 12.250 coins | -14% |
+| Steve McManaman | 87 | RM | Premier League | 12.500 coins | +2% |
 | Fara Williams | 86 | CM | Barclays WSL | 12.000 coins | +2.1% |
+| Alex Scott | 85 | RB | Barclays WSL | 12.000 coins | 0% |
 
 
 ## 📈 Destaques
@@ -70,6 +71,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 
 ## Como distribuir a banca
+
+- **Defesa:** Alex Scott (85, RB) por 12.000 coins é a referência de rating deste recorte.
 
 - **Meio:** Bobby Charlton (93, CAM) por 11.750 coins é a referência de rating deste recorte.
 
