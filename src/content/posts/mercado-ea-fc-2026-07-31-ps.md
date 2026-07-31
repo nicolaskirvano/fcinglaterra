@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T16:52:07.000Z
+pubDatetime: 2026-07-31T19:52:08.000Z
 title: "Mercado EA FC em 31/07: Ingleses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Millie Bright (88, Barclays WSL), com +51.9% em 24h, a 58k coins no Console (PS)."
+    a: "Noni Madueke (86, Premier League), com +49.3% em 24h, a 28k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "John Barnes (89), -37.1% em 24h, a 43k coins."
+    a: "Morgan Rogers (87), -44.5% em 24h, a 43k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 48 cartas em alta contra 49 em queda (média 3.94%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 41 cartas em alta contra 57 em queda (média 0.3%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **48 subiram**, **49 caíram** (80+ e 5k+ coins), média de **3.94%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está **de lado** — altas e quedas se equilibram — **41 subiram**, **57 caíram** (80+ e 5k+ coins), média de **0.3%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Millie Bright (88) **+51.9%** · 🔴 **Maior baixa:** John Barnes (89) **-37.1%**
+> 🟢 **Maior alta:** Noni Madueke (86) **+49.3%** · 🔴 **Maior baixa:** Morgan Rogers (87) **-44.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Ingleses — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -35,24 +35,24 @@ Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador**
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 89.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 49.5% entre as cartas que se moveram; o universo observado reúne 136 cartas.
+- **Amplitude do dia:** 93.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 41.8% entre as cartas que se moveram; o universo observado reúne 138 cartas.
 - **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Millie Bright | 88 | Barclays WSL | 58k coins | +51.9% | +67.1% |
-| Harry Kane | 90 | Bundesliga | 110k coins | +42.9% | +8.7% |
-| Eberechi Eze | 87 | Premier League | 90k coins | +38.7% | +29.6% |
-| Steven Gerrard | 89 | Icons | 180k coins | +33.3% | +75.2% |
-| Paul Scholes | 88 | Icons | 92k coins | +30.3% | +34.1% |
-| Declan Rice | 94 | Premier League | 120k coins | +30% | +28.7% |
-| Archie Brown | 85 | Trendyol Süper Lig | 46k coins | +29.4% | +37% |
-| Ledley King | 86 | Premier League | 21k coins | +26.4% | -5.2% |
-| Tyler Morton | 83 | Ligue 1 McDonald's | 26k coins | +26.1% | +35.4% |
-| Noni Madueke | 86 | Premier League | 29k coins | +25% | -11.8% |
+| Noni Madueke | 86 | Premier League | 28k coins | +49.3% | -4.4% |
+| Millie Bright | 88 | Barclays WSL | 56k coins | +44.2% | +58.6% |
+| Jude Bellingham | 91 | LALIGA EA SPORTS | 720k coins | +34.3% | +73.3% |
+| Declan Rice | 89 | Premier League | 55k coins | +32.5% | +19.8% |
+| Harry Kane | 90 | Bundesliga | 120k coins | +27.5% | +18.2% |
+| Marcus Rashford | 90 | LALIGA EA SPORTS | 180k coins | +24.4% | +39.3% |
+| Jobe Bellingham | 89 | Bundesliga | 100k coins | +24.2% | -3.8% |
+| Michael Owen | 88 | Icons | 66k coins | +20.3% | +20.3% |
+| Steven Gerrard | 90 | Icons | 305k coins | +19.6% | +84.8% |
+| Jamie Vardy | 89 | Serie A TIM | 445k coins | +17.1% | +7.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador**
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Millie Bright (88)** subiu **+51.9%** em 24h, a **58k coins** (faixa do dia: 23k–76k). Está +28% acima da média de 7 dias (aquecida).
+- **Noni Madueke (86)** subiu **+49.3%** em 24h, a **28k coins** (faixa do dia: 13.250–64k). Está +12% acima da média de 7 dias (aquecida).
 
-- **Harry Kane (90)** subiu **+42.9%** em 24h, a **110k coins** (faixa do dia: 82k–180k). Está +15% acima da média de 7 dias (aquecida).
+- **Millie Bright (88)** subiu **+44.2%** em 24h, a **56k coins** (faixa do dia: 23k–76k). Está +20% acima da média de 7 dias (aquecida).
 
-- **Eberechi Eze (87)** subiu **+38.7%** em 24h, a **90k coins** (faixa do dia: 64k–117k). Está em linha com a média de 7 dias (+5%).
+- **Jude Bellingham (91)** subiu **+34.3%** em 24h, a **720k coins** (faixa do dia: 500k–900k). Está +20% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| John Barnes | 89 | Icons | 43k coins | -37.1% | +32.3% |
-| Lucy Bronze | 88 | Barclays WSL | 95k coins | -32.1% | +14.5% |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 20k coins | -30.8% | +12.2% |
-| Morgan Rogers | 87 | Premier League | 43k coins | -30.6% | -54.7% |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 20k coins | -23.6% | -49% |
-| Mason Greenwood | 84 | Ligue 1 McDonald's | 70k coins | -23.1% | +3.7% |
-| Harry Kane | 91 | Bundesliga | 139k coins | -22.8% | +6.9% |
-| Ryan Yates | 85 | Premier League | 22k coins | -21.8% | -8.8% |
-| Dom Ballard | 84 | EFL League One | 48k coins | -17.6% | +16% |
-| Lucy Bronze | 88 | Barclays WSL | 100k coins | -16.7% | +185.7% |
+| Morgan Rogers | 87 | Premier League | 43k coins | -44.5% | -68.4% |
+| Bobby Moore | 91 | Icons | 390k coins | -38.3% | +52% |
+| Declan Rice | 94 | Premier League | 76k coins | -25.5% | -24% |
+| Jamie Vardy | 90 | Serie A TIM | 147k coins | -24.3% | +1.2% |
+| Alessia Russo | 97 | Barclays WSL | 78k coins | -22.3% | -43.5% |
+| Angel Gomes | 83 | Ligue 1 McDonald's | 26k coins | -19% | +36.8% |
+| Tom Ince | 84 | EFL Championship | 43k coins | -17.8% | +6.5% |
+| Lewis Miley | 89 | Premier League | 24k coins | -16.7% | -50% |
+| Luke Shaw | 86 | Premier League | 30k coins | -15.4% | -17.9% |
+| Georgia Stanway | 86 | GPFBL | 56k coins | -14.5% | +13% |
 
 
 ### Análise das baixas
 
-- **John Barnes (89)** caiu **-37.1%** em 24h, a **43k coins** (faixa do dia: 20k–84k). Está em linha com a média de 7 dias (-2%).
+- **Morgan Rogers (87)** caiu **-44.5%** em 24h, a **43k coins** (faixa do dia: 30k–90k). Está -44% abaixo da média de 7 dias (descontada).
 
-- **Lucy Bronze (88)** caiu **-32.1%** em 24h, a **95k coins** (faixa do dia: 95k–145k). Está +46% acima da média de 7 dias (aquecida).
+- **Bobby Moore (91)** caiu **-38.3%** em 24h, a **390k coins** (faixa do dia: 385k–626k). Está -21% abaixo da média de 7 dias (descontada).
 
-- **Tyler Morton (88)** caiu **-30.8%** em 24h, a **20k coins** (faixa do dia: 18.000–40k). Está -10% abaixo da média de 7 dias (descontada).
+- **Declan Rice (94)** caiu **-25.5%** em 24h, a **76k coins** (faixa do dia: 76k–134k). Está -35% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Millie Bright já avançou 51.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Noni Madueke já avançou 49.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** John Barnes recuou -37.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Morgan Rogers recuou -44.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Millie Bright (88, Barclays WSL), com +51.9% em 24h, a 58k coins no Console (PS).
+Noni Madueke (86, Premier League), com +49.3% em 24h, a 28k coins no Console (PS).
 
 **E a maior queda do dia?**
-John Barnes (89), -37.1% em 24h, a 43k coins.
+Morgan Rogers (87), -44.5% em 24h, a 43k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 48 cartas em alta contra 49 em queda (média 3.94%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 41 cartas em alta contra 57 em queda (média 0.3%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
