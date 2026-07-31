@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:51:02.000Z
+pubDatetime: 2026-07-31T13:52:08.000Z
 title: "Mercado EA FC em 31/07: Ingleses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Millie Bright (88, Barclays WSL), com +52.9% em 24h, a 58k coins no Console (PS)."
+    a: "Grace Clinton (87, Barclays WSL), com +57.4% em 24h, a 22k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Cole Palmer (92), -48.5% em 24h, a 26k coins."
+    a: "Leah Williamson (88), -40.3% em 24h, a 36k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 58 cartas em alta contra 39 em queda (média 4.55%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 56 cartas em alta contra 50 em queda (média 5.92%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **58 subiram**, **39 caíram** (80+ e 5k+ coins), média de **4.55%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **56 subiram**, **50 caíram** (80+ e 5k+ coins), média de **5.92%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Millie Bright (88) **+52.9%** · 🔴 **Maior baixa:** Cole Palmer (92) **-48.5%**
+> 🟢 **Maior alta:** Grace Clinton (87) **+57.4%** · 🔴 **Maior baixa:** Leah Williamson (88) **-40.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Ingleses — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -35,24 +35,24 @@ Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador**
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 101.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 59.8% entre as cartas que se moveram; o universo observado reúne 138 cartas.
-- **Concentração:** Barclays WSL aparece em 9 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 97.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 52.8% entre as cartas que se moveram; o universo observado reúne 148 cartas.
+- **Concentração:** Premier League aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Millie Bright | 88 | Barclays WSL | 58k coins | +52.9% | +67.1% |
+| Grace Clinton | 87 | Barclays WSL | 22k coins | +57.4% | +15.6% |
+| Harry Kane | 90 | Bundesliga | 128k coins | +51.4% | +13.6% |
+| Eberechi Eze | 87 | Premier League | 70k coins | +47.1% | +62.9% |
+| Lauren James | 89 | Barclays WSL | 24k coins | +38.6% | -50% |
+| Adam Wharton | 88 | Premier League | 20k coins | +38.3% | -21.7% |
 | Isobel Goodwin | 80 | Barclays WSL | 47k coins | +37% | -0.5% |
-| Tino Livramento | 85 | Premier League | 27k coins | +33.3% | +17.2% |
-| Alessia Russo | 90 | Barclays WSL | 35k coins | +33.3% | -51.7% |
-| Nico O'Reilly | 84 | Premier League | 64k coins | +33% | +43.3% |
-| Adam Wharton | 88 | Premier League | 22k coins | +31.3% | -16.2% |
-| Alessia Russo | 97 | Barclays WSL | 100k coins | +29.2% | -25.8% |
-| Agnes Beever-Jones | 90 | Barclays WSL | 50k coins | +28.7% | -27% |
-| Declan Rice | 88 | Premier League | 55k coins | +24.2% | +47.5% |
-| Beth Mead | 88 | Barclays WSL | 72k coins | +23.4% | +8.5% |
+| Anthony Gordon | 88 | Premier League | 152k coins | +36.2% | +14.3% |
+| Kobbie Mainoo | 90 | Premier League | 106k coins | +36% | +22.9% |
+| Charlie Cresswell | 85 | Ligue 1 McDonald's | 29k coins | +32.5% | +54.4% |
+| Steven Gerrard | 88 | Icons | 124k coins | +28.7% | +57.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador**
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Millie Bright (88)** subiu **+52.9%** em 24h, a **58k coins** (faixa do dia: 23k–76k). Está +30% acima da média de 7 dias (aquecida).
+- **Grace Clinton (87)** subiu **+57.4%** em 24h, a **22k coins** (faixa do dia: 11.000–24k). Está +48% acima da média de 7 dias (aquecida).
 
-- **Isobel Goodwin (80)** subiu **+37%** em 24h, a **47k coins** (faixa do dia: 34k–47k). Está em linha com a média de 7 dias (+2%).
+- **Harry Kane (90)** subiu **+51.4%** em 24h, a **128k coins** (faixa do dia: 82k–180k). Está +34% acima da média de 7 dias (aquecida).
 
-- **Tino Livramento (85)** subiu **+33.3%** em 24h, a **27k coins** (faixa do dia: 12.500–30k). Está em linha com a média de 7 dias (+6%).
+- **Eberechi Eze (87)** subiu **+47.1%** em 24h, a **70k coins** (faixa do dia: 62k–120k). Está -18% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Cole Palmer | 92 | Premier League | 26k coins | -48.5% | -95.9% |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 40k coins | -47.4% | -46.7% |
-| Ian Wright | 87 | Icons | 66k coins | -41.6% | -1.5% |
-| Leah Williamson | 88 | Barclays WSL | 36k coins | -35.7% | -25.7% |
-| Freya Godfrey | 83 | Barclays WSL | 54k coins | -32.5% | -36.5% |
-| Eberechi Eze | 87 | Premier League | 64k coins | -26.4% | 0% |
-| Lucy Bronze | 88 | Barclays WSL | 105k coins | -21.6% | +165.8% |
-| James Milner | 88 | Premier League | 100k coins | -19.7% | +61.8% |
-| Ryan Yates | 85 | Premier League | 27k coins | -19.3% | -5.9% |
-| Jaden Philogene | 84 | EFL Championship | 51k coins | -19% | -2.9% |
+| Leah Williamson | 88 | Barclays WSL | 36k coins | -40.3% | -34.3% |
+| Mateus Mané | 88 | Premier League | 25k coins | -33.3% | -30.1% |
+| Declan Rice | 91 | Premier League | 270k coins | -28.7% | +4.9% |
+| Lucy Bronze | 88 | Barclays WSL | 103k coins | -23.1% | +180.3% |
+| Paul Scholes | 91 | Icons | 186k coins | -21.2% | +53.7% |
+| David Beckham | 89 | Icons | 30k coins | -20.9% | -30.2% |
+| Lucy Bronze | 88 | Barclays WSL | 117k coins | -19.5% | +44.6% |
+| Jaden Philogene | 84 | EFL Championship | 46k coins | -17.7% | -2.9% |
+| Tom Ince | 84 | EFL Championship | 45k coins | -17.4% | -3.6% |
+| James Milner | 88 | Premier League | 100k coins | -17.4% | +52.7% |
 
 
 ### Análise das baixas
 
-- **Cole Palmer (92)** caiu **-48.5%** em 24h, a **26k coins** (faixa do dia: 26k–52k). Está -73% abaixo da média de 7 dias (descontada).
+- **Leah Williamson (88)** caiu **-40.3%** em 24h, a **36k coins** (faixa do dia: 36k–61k). Está -38% abaixo da média de 7 dias (descontada).
 
-- **Ethan Nwaneri (91)** caiu **-47.4%** em 24h, a **40k coins** (faixa do dia: 29k–90k). Está -10% abaixo da média de 7 dias (descontada).
+- **Mateus Mané (88)** caiu **-33.3%** em 24h, a **25k coins** (faixa do dia: 25k–52k). Está -26% abaixo da média de 7 dias (descontada).
 
-- **Ian Wright (87)** caiu **-41.6%** em 24h, a **66k coins** (faixa do dia: 66k–108k). Está em linha com a média de 7 dias (-5%).
+- **Declan Rice (91)** caiu **-28.7%** em 24h, a **270k coins** (faixa do dia: 250k–419k). Está em linha com a média de 7 dias (+2%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Millie Bright já avançou 52.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Grace Clinton já avançou 57.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Cole Palmer recuou -48.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Leah Williamson recuou -40.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Millie Bright (88, Barclays WSL), com +52.9% em 24h, a 58k coins no Console (PS).
+Grace Clinton (87, Barclays WSL), com +57.4% em 24h, a 22k coins no Console (PS).
 
 **E a maior queda do dia?**
-Cole Palmer (92), -48.5% em 24h, a 26k coins.
+Leah Williamson (88), -40.3% em 24h, a 36k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 58 cartas em alta contra 39 em queda (média 4.55%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 56 cartas em alta contra 50 em queda (média 5.92%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
