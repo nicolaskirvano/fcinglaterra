@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:46:07.000Z
+pubDatetime: 2026-08-01T10:52:07.000Z
 title: "Mercado EA FC em 01/08: Ingleses — Console (PS)"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Max Aarons (85), -42.5% em 24h, a 32k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 43 cartas em alta contra 70 em queda (média -2.16%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 41 cartas em alta contra 69 em queda (média -2.92%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **pressionado** — as quedas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **43 subiram** e **70 caíram**, com variação média de **-2.16%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **pressionado** — as quedas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **41 subiram** e **69 caíram**, com variação média de **-2.92%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
 > 🟢 **Maior alta:** Ellie Roebuck (85) **+60%** · 🔴 **Maior baixa:** Max Aarons (85) **-42.5%**
 
@@ -36,7 +36,7 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 102.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 38.1% entre as cartas que se moveram; o universo observado reúne 145 cartas.
+- **Participação das altas:** 37.3% entre as cartas que se moveram; o universo observado reúne 143 cartas.
 - **Concentração:** Premier League aparece em 9 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
@@ -47,12 +47,12 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Eberechi Eze | 87 | Premier League | 100k coins | +58.2% | +76.7% |
 | Eric Dier | 86 | Ligue 1 McDonald's | 22k coins | +53.6% | +48.3% |
 | Morgan Rogers | 87 | Premier League | 89k coins | +50.8% | +3.2% |
-| Elliot Anderson | 86 | Premier League | 30k coins | +50% | +48.1% |
-| James Milner | 88 | Premier League | 85k coins | +38.1% | +141.7% |
+| James Milner | 88 | Premier League | 85k coins | +38.1% | +143.7% |
 | Trent Alexander-Arnold | 87 | LALIGA EA SPORTS | 359k coins | +35% | +56.1% |
 | Declan Rice | 89 | Premier League | 60k coins | +33.3% | +47.2% |
-| Steven Gerrard | 90 | Icons | 412k coins | +29.8% | +97.7% |
 | Jude Bellingham | 92 | LALIGA EA SPORTS | 730k coins | +28.3% | +66.3% |
+| Kelly Smith | 89 | Icons | 82k coins | +26.7% | +26.7% |
+| Jaden Philogene | 84 | EFL Championship | 63k coins | +26.5% | +29.6% |
 
 
 ### Análise das altas
@@ -73,24 +73,24 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Max Aarons | 85 | Scottish Premiership | 32k coins | -42.5% | +14.4% |
+| Nico O'Reilly | 88 | Premier League | 40k coins | -39.7% | +41.4% |
 | Millie Bright | 88 | Barclays WSL | 43k coins | -29.5% | -17.5% |
+| Declan Rice | 88 | Premier League | 38k coins | -29.1% | -7.1% |
 | Alessia Russo | 97 | Barclays WSL | 78k coins | -28.6% | -12.3% |
 | Jobe Bellingham | 89 | Bundesliga | 71k coins | -25.5% | -16.9% |
 | Declan Rice | 94 | Premier League | 76k coins | -25.5% | -24% |
 | Dan Burn | 86 | Premier League | 225k coins | -25% | +60.7% |
-| Michelle Agyemang | 89 | Barclays Women’s Super League | 30k coins | -23.6% | +65.8% |
-| Kyle Walker | 89 | Premier League | 147k coins | -21.3% | -25.6% |
-| Eberechi Eze | 88 | Premier League | 75k coins | -21.1% | +50% |
-| Charlie Cresswell | 85 | Ligue 1 McDonald's | 30k coins | -21.1% | +25% |
+| Michelle Agyemang | 89 | Barclays Women’s Super League | 30k coins | -24.2% | +64.5% |
+| Kyle Walker | 89 | Premier League | 147k coins | -21.8% | -26.1% |
 
 
 ### Análise das baixas
 
 - **Max Aarons (85)** caiu **-42.5%** em 24h, a **32k coins** (faixa do dia: 14.500–48k). Está em linha com a média de 7 dias (+4%).
 
-- **Millie Bright (88)** caiu **-29.5%** em 24h, a **43k coins** (faixa do dia: 35k–58k). Está em linha com a média de 7 dias (-7%).
+- **Nico O'Reilly (88)** caiu **-39.7%** em 24h, a **40k coins** (faixa do dia: 40k–75k). Está em linha com a média de 7 dias (-0%).
 
-- **Alessia Russo (97)** caiu **-28.6%** em 24h, a **78k coins** (faixa do dia: 78k–113k). Está -12% abaixo da média de 7 dias (descontada).
+- **Millie Bright (88)** caiu **-29.5%** em 24h, a **43k coins** (faixa do dia: 35k–58k). Está em linha com a média de 7 dias (-7%).
 
 
 ## Decisão prática para hoje
@@ -115,7 +115,7 @@ Ellie Roebuck (85, Barclays WSL), com +60% em 24h, a 29k coins no Console (PS).
 Max Aarons (85), -42.5% em 24h, a 32k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 43 cartas em alta contra 70 em queda (média -2.16%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 41 cartas em alta contra 69 em queda (média -2.92%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

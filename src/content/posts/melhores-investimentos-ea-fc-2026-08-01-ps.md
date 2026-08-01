@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:46:09.000Z
+pubDatetime: 2026-08-01T10:52:08.000Z
 title: "Investimentos EA FC: Ingleses em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.2% em 24h** e **+29.6% em 7 dias**.
+- A mediana é de **+13.2% em 24h** e **+26.7% em 7 dias**.
 - **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Barclays WSL** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -44,18 +44,18 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Fara Williams | 88 | Barclays WSL | 155k coins | +5.3% | +81.6% | Esticada |
-| Lucy Bronze | 95 | Barclays WSL | 124k coins | +3.9% | +73.9% | Esticada |
 | Anthony Gordon | 87 | Premier League | 66k coins | +20.7% | +63.4% | Esticada |
-| Leah Williamson | 95 | Barclays WSL | 110k coins | +18.2% | +52% | Momentum moderado |
+| Leah Williamson | 95 | Barclays WSL | 110k coins | +18.2% | +62.5% | Esticada |
 | Declan Rice | 89 | Premier League | 60k coins | +33.3% | +47.2% | Esticada |
 | Steven Gerrard | 88 | Icons | 161k coins | +2.6% | +36.4% | Momentum moderado |
 | Phil Foden | 86 | Premier League | 65k coins | +8.3% | +31.3% | Momentum moderado |
 | Jaden Philogene | 84 | EFL Championship | 63k coins | +26.5% | +29.6% | Esticada |
 | Kelly Smith | 89 | Icons | 82k coins | +26.7% | +26.7% | Esticada |
 | Paul Scholes | 88 | Icons | 84k coins | +26.3% | +26.3% | Esticada |
+| Beth Mead | 88 | Barclays WSL | 77k coins | +7.5% | +25.6% | Momentum moderado |
 | Ben Thompson | 84 | EFL League Two | 58k coins | +4.3% | +21% | Entrada a observar |
 | Keira Walsh | 86 | Barclays WSL | 57k coins | +14.4% | +19.6% | Momentum moderado |
-| Jack Payne | 84 | EFL League Two | 39k coins | +7.5% | +19% | Momentum moderado |
+| Jack Payne | 84 | EFL League Two | 39k coins | +7.5% | +17.6% | Momentum moderado |
 | Lewis Wing | 86 | 2. Bundesliga | 54k coins | +4.9% | +13.8% | Entrada a observar |
 | Tom Ince | 84 | EFL Championship | 60k coins | +13.2% | +12.1% | Momentum moderado |
 
@@ -64,13 +64,13 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Fara Williams (88)** — 155k coins, **+81.6% em 7 dias** (+5.3% em 24h). Preço +107% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lucy Bronze (95)** — 124k coins, **+73.9% em 7 dias** (+3.9% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
 - **Anthony Gordon (87)** — 66k coins, **+63.4% em 7 dias** (+20.7% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Leah Williamson (95)** — 110k coins, **+52% em 7 dias** (+18.2% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leah Williamson (95)** — 110k coins, **+62.5% em 7 dias** (+18.2% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Declan Rice (89)** — 60k coins, **+47.2% em 7 dias** (+33.3% em 24h). Preço +63% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Steven Gerrard (88)** — 161k coins, **+36.4% em 7 dias** (+2.6% em 24h). Preço +66% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

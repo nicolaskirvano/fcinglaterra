@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:46:18.000Z
+pubDatetime: 2026-08-01T10:52:16.000Z
 title: "Mercado EA FC em 01/08: Ingleses — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Declan Rice (94), -49.3% em 24h, a 76k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 42 cartas em alta contra 61 em queda (média -0.97%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 41 cartas em alta contra 60 em queda (média -1.06%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia **indefinido** — sem tendência dominante: das cartas relevantes (80+ acima de 5k coins), **42 subiram** e **61 caíram**, com variação média de **-0.97%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia **indefinido** — sem tendência dominante: das cartas relevantes (80+ acima de 5k coins), **41 subiram** e **60 caíram**, com variação média de **-1.06%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
 > 🟢 **Maior alta:** Archie Brown (85) **+52.8%** · 🔴 **Maior baixa:** Declan Rice (94) **-49.3%**
 
@@ -36,8 +36,8 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia *
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 102.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 40.8% entre as cartas que se moveram; o universo observado reúne 163 cartas.
-- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
+- **Participação das altas:** 40.6% entre as cartas que se moveram; o universo observado reúne 163 cartas.
+- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
@@ -46,13 +46,13 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia *
 | Archie Brown | 85 | Trendyol Süper Lig | 110k coins | +52.8% | +18.9% |
 | Lucy Bronze | 88 | Barclays WSL | 220k coins | +51.7% | -12.7% |
 | Chris Smalling | 87 | ROSHN Saudi League | 64k coins | +47.4% | +63.3% |
-| Eric Dier | 86 | Ligue 1 McDonald's | 30k coins | +45.1% | +37.5% |
 | Alessia Russo | 90 | Barclays WSL | 68k coins | +44% | -13.1% |
+| Eric Dier | 86 | Ligue 1 McDonald's | 30k coins | +31.9% | +25% |
 | Michael Cheek | 84 | EFL League Two | 49k coins | +31.3% | 0% |
 | Morgan Rogers | 87 | Premier League | 119k coins | +29.7% | -20.8% |
 | James Milner | 88 | Premier League | 45k coins | +28.6% | 0% |
 | Beth Mead | 88 | Barclays WSL | 61k coins | +26.4% | +17.3% |
-| Leah Williamson | 88 | Barclays WSL | 110k coins | +23.2% | +22.6% |
+| David Beckham | 89 | Icons | 46k coins | +24% | +72.2% |
 
 
 ### Análise das altas
@@ -77,11 +77,11 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia *
 | Steven Gerrard | 88 | Icons | 97k coins | -37.8% | +39.6% |
 | Harry Kane | 92 | Bundesliga | 152k coins | -33.9% | +26.7% |
 | Harry Kane | 91 | Bundesliga | 130k coins | -32.3% | -6.9% |
-| Wayne Rooney | 88 | Icons | 105k coins | -30.6% | +7.9% |
-| Declan Rice | 88 | Premier League | 49k coins | -25.2% | +12.6% |
+| Wayne Rooney | 88 | Icons | 105k coins | -31.2% | +6.9% |
 | Amario Cozier-Duberry | 83 | EFL League One | 50k coins | -23.5% | 0% |
 | Steven Gerrard | 89 | Icons | 145k coins | -23.3% | +68.6% |
 | David Beckham | 88 | Icons | 92k coins | -23.1% | -27.2% |
+| Declan Rice | 88 | Premier League | 49k coins | -22.8% | +12.6% |
 
 
 ### Análise das baixas
@@ -115,7 +115,7 @@ Archie Brown (85, Trendyol Süper Lig), com +52.8% em 24h, a 110k coins no PC.
 Declan Rice (94), -49.3% em 24h, a 76k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 42 cartas em alta contra 61 em queda (média -0.97%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 41 cartas em alta contra 60 em queda (média -1.06%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

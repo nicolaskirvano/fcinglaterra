@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:46:21.000Z
+pubDatetime: 2026-08-01T10:52:19.000Z
 title: "Jogadores baratos EA FC: Ingleses em 01/08 — PC"
 draft: false
 featured: false
@@ -49,10 +49,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
-| Lauren James | 89 | RM | Barclays WSL | 11.250 coins | 0% |
 | Rachel Williams | 89 | ST | Barclays WSL | 11.250 coins | 0% |
-| Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
+| Lauren James | 89 | RM | Barclays WSL | 11.250 coins | 0% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
+| Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
 | Lauren Hemp | 87 | LW | Barclays WSL | 2.300 coins | +29.2% |
 | Cole Palmer | 87 | CAM | Premier League | 3.000 coins | 0% |
 
