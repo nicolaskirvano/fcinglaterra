@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:52:16.000Z
+pubDatetime: 2026-08-01T13:52:17.000Z
 title: "Mercado EA FC em 01/08: Ingleses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Archie Brown (85, Trendyol Süper Lig), com +52.8% em 24h, a 110k coins no PC."
+    a: "Harry Maguire (83, Premier League), com +56% em 24h, a 149k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Declan Rice (94), -49.3% em 24h, a 76k coins."
+    a: "Steven Gerrard (88), -45.6% em 24h, a 91k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 41 cartas em alta contra 60 em queda (média -1.06%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 48 cartas em alta contra 61 em queda (média 0.83%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia **indefinido** — sem tendência dominante: das cartas relevantes (80+ acima de 5k coins), **41 subiram** e **60 caíram**, com variação média de **-1.06%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia **indefinido** — sem tendência dominante: das cartas relevantes (80+ acima de 5k coins), **48 subiram** e **61 caíram**, com variação média de **0.83%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Archie Brown (85) **+52.8%** · 🔴 **Maior baixa:** Declan Rice (94) **-49.3%**
+> 🟢 **Maior alta:** Harry Maguire (83) **+56%** · 🔴 **Maior baixa:** Steven Gerrard (88) **-45.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Ingleses — PC](/charts/mercado-ea-fc-2026-08-01-pc.svg)
 
@@ -35,24 +35,24 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia *
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 40.6% entre as cartas que se moveram; o universo observado reúne 163 cartas.
-- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 101.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.0% entre as cartas que se moveram; o universo observado reúne 172 cartas.
+- **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Archie Brown | 85 | Trendyol Süper Lig | 110k coins | +52.8% | +18.9% |
-| Lucy Bronze | 88 | Barclays WSL | 220k coins | +51.7% | -12.7% |
-| Chris Smalling | 87 | ROSHN Saudi League | 64k coins | +47.4% | +63.3% |
-| Alessia Russo | 90 | Barclays WSL | 68k coins | +44% | -13.1% |
-| Eric Dier | 86 | Ligue 1 McDonald's | 30k coins | +31.9% | +25% |
+| Harry Maguire | 83 | Premier League | 149k coins | +56% | +148.3% |
+| Lucy Bronze | 88 | Barclays WSL | 220k coins | +51.7% | -21.4% |
+| Morgan Rogers | 87 | Premier League | 109k coins | +50.3% | -20.8% |
+| Chris Smalling | 87 | ROSHN Saudi League | 70k coins | +47.4% | +67.5% |
+| Lewis Wing | 86 | 2. Bundesliga | 46k coins | +42.9% | -3.6% |
+| Marc Guéhi | 88 | Premier League | 28k coins | +40% | -8.2% |
+| Eric Dier | 86 | Ligue 1 McDonald's | 26k coins | +32.5% | +19.6% |
 | Michael Cheek | 84 | EFL League Two | 49k coins | +31.3% | 0% |
-| Morgan Rogers | 87 | Premier League | 119k coins | +29.7% | -20.8% |
 | James Milner | 88 | Premier League | 45k coins | +28.6% | 0% |
-| Beth Mead | 88 | Barclays WSL | 61k coins | +26.4% | +17.3% |
-| David Beckham | 89 | Icons | 46k coins | +24% | +72.2% |
+| Beth Mead | 88 | Barclays WSL | 61k coins | +26.4% | +19.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia *
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Archie Brown (85)** subiu **+52.8%** em 24h, a **110k coins** (faixa do dia: 39k–110k). Está +34% acima da média de 7 dias (aquecida).
+- **Harry Maguire (83)** subiu **+56%** em 24h, a **149k coins** (faixa do dia: 40k–149k). Está +43% acima da média de 7 dias (aquecida).
 
 - **Lucy Bronze (88)** subiu **+51.7%** em 24h, a **220k coins** (faixa do dia: 145k–220k). Está +17% acima da média de 7 dias (aquecida).
 
-- **Chris Smalling (87)** subiu **+47.4%** em 24h, a **64k coins** (faixa do dia: 44k–70k). Está +26% acima da média de 7 dias (aquecida).
+- **Morgan Rogers (87)** subiu **+50.3%** em 24h, a **109k coins** (faixa do dia: 60k–119k). Está em linha com a média de 7 dias (+0%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Declan Rice | 94 | Premier League | 76k coins | -49.3% | -44.9% |
-| Ian Wright | 87 | Icons | 66k coins | -42.1% | 0% |
-| Steven Gerrard | 88 | Icons | 97k coins | -37.8% | +39.6% |
-| Harry Kane | 92 | Bundesliga | 152k coins | -33.9% | +26.7% |
-| Harry Kane | 91 | Bundesliga | 130k coins | -32.3% | -6.9% |
-| Wayne Rooney | 88 | Icons | 105k coins | -31.2% | +6.9% |
-| Amario Cozier-Duberry | 83 | EFL League One | 50k coins | -23.5% | 0% |
-| Steven Gerrard | 89 | Icons | 145k coins | -23.3% | +68.6% |
-| David Beckham | 88 | Icons | 92k coins | -23.1% | -27.2% |
-| Declan Rice | 88 | Premier League | 49k coins | -22.8% | +12.6% |
+| Steven Gerrard | 88 | Icons | 91k coins | -45.6% | +34.5% |
+| Wayne Rooney | 88 | Icons | 96k coins | -32.4% | -3.9% |
+| Harry Kane | 90 | Bundesliga | 99k coins | -30.3% | -13.9% |
+| Declan Rice | 89 | Premier League | 60k coins | -27.3% | -28.6% |
+| Ian Wright | 87 | Icons | 66k coins | -27.1% | 0% |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 34k coins | -26.7% | +12.9% |
+| Alessia Russo | 97 | Barclays WSL | 78k coins | -26.6% | -41.4% |
+| Max Aarons | 85 | Scottish Premiership | 24k coins | -26.2% | -2.2% |
+| Grace Clinton | 87 | Barclays WSL | 30k coins | -25.4% | +17.5% |
+| Nico O'Reilly | 84 | Premier League | 60k coins | -20.7% | +6.2% |
 
 
 ### Análise das baixas
 
-- **Declan Rice (94)** caiu **-49.3%** em 24h, a **76k coins** (faixa do dia: 76k–210k). Está -56% abaixo da média de 7 dias (descontada).
+- **Steven Gerrard (88)** caiu **-45.6%** em 24h, a **91k coins** (faixa do dia: 88k–180k). Está -29% abaixo da média de 7 dias (descontada).
 
-- **Ian Wright (87)** caiu **-42.1%** em 24h, a **66k coins** (faixa do dia: 66k–110k). Está -44% abaixo da média de 7 dias (descontada).
+- **Wayne Rooney (88)** caiu **-32.4%** em 24h, a **96k coins** (faixa do dia: 94k–141k). Está -20% abaixo da média de 7 dias (descontada).
 
-- **Steven Gerrard (88)** caiu **-37.8%** em 24h, a **97k coins** (faixa do dia: 88k–180k). Está -24% abaixo da média de 7 dias (descontada).
+- **Harry Kane (90)** caiu **-30.3%** em 24h, a **99k coins** (faixa do dia: 48k–150k). Está -31% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Archie Brown já avançou 52.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Harry Maguire já avançou 56% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Declan Rice recuou -49.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Steven Gerrard recuou -45.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Archie Brown (85, Trendyol Süper Lig), com +52.8% em 24h, a 110k coins no PC.
+Harry Maguire (83, Premier League), com +56% em 24h, a 149k coins no PC.
 
 **E a maior queda do dia?**
-Declan Rice (94), -49.3% em 24h, a 76k coins.
+Steven Gerrard (88), -45.6% em 24h, a 91k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 41 cartas em alta contra 60 em queda (média -1.06%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 48 cartas em alta contra 61 em queda (média 0.83%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
