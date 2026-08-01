@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:52:20.000Z
+pubDatetime: 2026-08-01T01:52:20.000Z
 title: "Jogadores baratos EA FC: Ingleses em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.993 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 2.700 a 11.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 9.747 coins.
+- **Posição mais frequente:** CAM, com 4 cartas.
+- **Faixa real:** 1.900 a 11.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,16 +45,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Wayne Rooney | 92 | ST | Icons | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 5.000 coins | +7.3% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
 | Rachel Williams | 89 | ST | Barclays WSL | 11.250 coins | 0% |
 | Lauren James | 89 | RM | Barclays WSL | 11.250 coins | 0% |
-| Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
+| Bukayo Saka | 88 | RW | Premier League | 1.900 coins | +26.7% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
-| Cole Palmer | 87 | CAM | Premier League | 2.700 coins | -9.7% |
-| Beth Mead | 87 | RM | Barclays WSL | 3.000 coins | +18.5% |
-| Millie Bright | 87 | CB | Barclays WSL | 8.200 coins | -10% |
+| Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
+| Cole Palmer | 87 | CAM | Premier League | 3.300 coins | +6.5% |
 
 
 ## 📈 Destaques
@@ -71,8 +71,6 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 
 ## Como distribuir a banca
-
-- **Defesa:** Millie Bright (87, CB) por 8.200 coins é a referência de rating deste recorte.
 
 - **Meio:** Bobby Charlton (93, CAM) por 11.750 coins é a referência de rating deste recorte.
 
