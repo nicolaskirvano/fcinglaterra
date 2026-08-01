@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T16:52:20.000Z
+pubDatetime: 2026-08-01T19:52:20.000Z
 title: "Jogadores baratos EA FC: Ingleses em 01/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.860 coins.
-- **Posição mais frequente:** CAM, com 4 cartas.
-- **Faixa real:** 4.900 a 11.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.480 coins.
+- **Posição mais frequente:** ST, com 7 cartas.
+- **Faixa real:** 4.600 a 11.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,16 +45,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Wayne Rooney | 92 | ST | Icons | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 4.900 coins | +8.5% |
+| Paul Scholes | 91 | CM | Icons | 11.500 coins | 0% |
+| Kobbie Mainoo | 90 | CM | Premier League | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
-| Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
-| Lauren James | 89 | RM | Barclays WSL | 11.250 coins | 0% |
+| Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
+| Harry Kane | 89 | ST | Bundesliga | 4.600 coins | +15.4% |
+| Alessia Russo | 89 | ST | Barclays WSL | 4.600 coins | +6.7% |
 | Rachel Williams | 89 | ST | Barclays WSL | 11.250 coins | 0% |
-| Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
-| Mateus Mané | 88 | CAM | Premier League | 11.000 coins | -10.2% |
-| Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
-| Steve McManaman | 87 | RM | Premier League | 11.000 coins | +2.2% |
+| John Barnes | 89 | LW | Icons | 11.250 coins | 0% |
+| Lauren James | 89 | ST | Barclays WSL | 11.250 coins | 0% |
 
 
 ## 📈 Destaques
