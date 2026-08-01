@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T19:52:08.000Z
+pubDatetime: 2026-08-01T22:52:08.000Z
 title: "Mercado EA FC em 01/08: Ingleses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Mason Greenwood (84, Ligue 1 McDonald's), com +56.2% em 24h, a 129k coins no Console (PS)."
+    a: "Rio Ferdinand (88, Icons), com +50.9% em 24h, a 425k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Georgia Stanway (88), -36.3% em 24h, a 48k coins."
+    a: "Georgia Stanway (88), -36.7% em 24h, a 48k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 41 cartas em alta contra 44 em queda (média 2.43%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 44 cartas em alta contra 50 em queda (média 3.02%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **41 subiram** e **44 caíram**, com variação média de **2.43%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **44 subiram** e **50 caíram**, com variação média de **3.02%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Mason Greenwood (84) **+56.2%** · 🔴 **Maior baixa:** Georgia Stanway (88) **-36.3%**
+> 🟢 **Maior alta:** Rio Ferdinand (88) **+50.9%** · 🔴 **Maior baixa:** Georgia Stanway (88) **-36.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Ingleses — Console (PS)](/charts/mercado-ea-fc-2026-08-01-ps.svg)
 
@@ -35,24 +35,24 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 92.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.2% entre as cartas que se moveram; o universo observado reúne 129 cartas.
-- **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 87.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 46.8% entre as cartas que se moveram; o universo observado reúne 141 cartas.
+- **Concentração:** Premier League aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mason Greenwood | 84 | Ligue 1 McDonald's | 129k coins | +56.2% | +82.5% |
-| Caleb Taylor | 84 | EFL Championship | 80k coins | +50.9% | +25% |
-| Jamie Vardy | 90 | Serie A TIM | 234k coins | +42.4% | +26.3% |
-| Tom Ince | 84 | EFL Championship | 58k coins | +40% | +30.8% |
-| Ellie Roebuck | 85 | Barclays WSL | 26k coins | +40% | -2.8% |
-| Bukayo Saka | 90 | Premier League | 950k coins | +36.3% | +35.7% |
-| Steven Gerrard | 89 | Icons | 250k coins | +35.9% | +117.4% |
-| Noni Madueke | 86 | Premier League | 52k coins | +30.1% | +102.5% |
-| Luke Shaw | 86 | Premier League | 36k coins | +28.7% | +1.4% |
-| Tino Livramento | 85 | Premier League | 32k coins | +25.5% | +52.4% |
+| Rio Ferdinand | 88 | Icons | 425k coins | +50.9% | +26.5% |
+| Noni Madueke | 86 | Premier League | 40k coins | +45% | +88.1% |
+| Eberechi Eze | 88 | Premier League | 95k coins | +37.9% | +80.2% |
+| Steven Gerrard | 89 | Icons | 251k coins | +37.2% | +79.3% |
+| Lewis Miley | 89 | Premier League | 40k coins | +34.2% | -24.3% |
+| Bukayo Saka | 90 | Premier League | 930k coins | +33.4% | +19.2% |
+| Alessia Russo | 90 | Barclays WSL | 51k coins | +31.6% | +6.2% |
+| Harry Kane | 92 | Bundesliga | 182k coins | +25.5% | +48% |
+| Jaden Philogene | 84 | EFL Championship | 65k coins | +23.5% | +26.6% |
+| Lauren James | 87 | Barclays WSL | 340k coins | +20% | +6.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Mason Greenwood (84)** subiu **+56.2%** em 24h, a **129k coins** (faixa do dia: 46k–159k). Está +53% acima da média de 7 dias (aquecida).
+- **Rio Ferdinand (88)** subiu **+50.9%** em 24h, a **425k coins** (faixa do dia: 246k–439k). Está +9% acima da média de 7 dias (aquecida).
 
-- **Caleb Taylor (84)** subiu **+50.9%** em 24h, a **80k coins** (faixa do dia: 42k–80k). Está +31% acima da média de 7 dias (aquecida).
+- **Noni Madueke (86)** subiu **+45%** em 24h, a **40k coins** (faixa do dia: 16.000–40k). Está +46% acima da média de 7 dias (aquecida).
 
-- **Jamie Vardy (90)** subiu **+42.4%** em 24h, a **234k coins** (faixa do dia: 139k–246k). Está +13% acima da média de 7 dias (aquecida).
+- **Eberechi Eze (88)** subiu **+37.9%** em 24h, a **95k coins** (faixa do dia: 54k–100k). Está +29% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Georgia Stanway | 88 | Liga F | 48k coins | -36.3% | -13.2% |
-| Harry Kane | 91 | Bundesliga | 100k coins | -35.8% | -12.7% |
-| Harry Kane | 90 | Bundesliga | 89k coins | -25.8% | -1.1% |
-| Bobby Moore | 91 | Icons | 290k coins | -24.4% | -46.7% |
-| Ledley King | 86 | Premier League | 22k coins | -23.9% | +25% |
-| Harry Kane | 91 | Bundesliga | 89k coins | -22.2% | -23.5% |
-| Dominic Solanke | 87 | Premier League | 48k coins | -19.3% | +2.2% |
-| Freya Godfrey | 83 | Barclays WSL | 60k coins | -17.7% | -24.4% |
-| Chloe Kelly | 88 | Barclays WSL | 35k coins | -16.4% | +39.3% |
-| Kyrell Lisbie | 84 | EFL League One | 50k coins | -16% | -10.6% |
+| Georgia Stanway | 88 | Liga F | 48k coins | -36.7% | -12.8% |
+| Jaden Philogene | 87 | EFL Championship | 30k coins | -35% | -40.9% |
+| Lauren James | 92 | Barclays WSL | 332k coins | -30.3% | -27.4% |
+| David Beckham | 89 | Icons | 36k coins | -30.2% | -2.6% |
+| Leah Williamson | 95 | Barclays WSL | 104k coins | -30% | +37.3% |
+| Dominic Solanke | 87 | Premier League | 50k coins | -27.7% | +19.3% |
+| Anthony Gordon | 87 | Premier League | 65k coins | -26.6% | +14.6% |
+| Lewis Miley | 83 | Premier League | 48k coins | -26.1% | -26.1% |
+| Harry Kane | 90 | Bundesliga | 80k coins | -24.5% | -7.8% |
+| Bobby Moore | 91 | Icons | 286k coins | -24.1% | -47.4% |
 
 
 ### Análise das baixas
 
-- **Georgia Stanway (88)** caiu **-36.3%** em 24h, a **48k coins** (faixa do dia: 47k–75k). Está -11% abaixo da média de 7 dias (descontada).
+- **Georgia Stanway (88)** caiu **-36.7%** em 24h, a **48k coins** (faixa do dia: 47k–74k). Está -11% abaixo da média de 7 dias (descontada).
 
-- **Harry Kane (91)** caiu **-35.8%** em 24h, a **100k coins** (faixa do dia: 100k–199k). Está -53% abaixo da média de 7 dias (descontada).
+- **Jaden Philogene (87)** caiu **-35%** em 24h, a **30k coins** (faixa do dia: 22k–51k). Está -23% abaixo da média de 7 dias (descontada).
 
-- **Harry Kane (90)** caiu **-25.8%** em 24h, a **89k coins** (faixa do dia: 72k–120k). Está em linha com a média de 7 dias (-8%).
+- **Lauren James (92)** caiu **-30.3%** em 24h, a **332k coins** (faixa do dia: 194k–339k). Está +20% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Mason Greenwood já avançou 56.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Rio Ferdinand já avançou 50.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Georgia Stanway recuou -36.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Georgia Stanway recuou -36.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Mason Greenwood (84, Ligue 1 McDonald's), com +56.2% em 24h, a 129k coins no Console (PS).
+Rio Ferdinand (88, Icons), com +50.9% em 24h, a 425k coins no Console (PS).
 
 **E a maior queda do dia?**
-Georgia Stanway (88), -36.3% em 24h, a 48k coins.
+Georgia Stanway (88), -36.7% em 24h, a 48k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 41 cartas em alta contra 44 em queda (média 2.43%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 44 cartas em alta contra 50 em queda (média 3.02%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
