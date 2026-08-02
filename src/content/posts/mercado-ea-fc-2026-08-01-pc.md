@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:52:18.000Z
+pubDatetime: 2026-08-02T01:52:18.000Z
 title: "Mercado EA FC em 01/08: Ingleses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Jaden Philogene (87, EFL Championship), com +50.9% em 24h, a 60k coins no PC."
+    a: "Morgan Rogers (87, Premier League), com +36.7% em 24h, a 84k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Marcus Rashford (90), -34.9% em 24h, a 423k coins."
+    a: "Paul Scholes (88), -49.2% em 24h, a 66k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 41 cartas em alta contra 43 em queda (média 2.34%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 34 cartas em alta contra 44 em queda (média 3.3%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **41 subiram** e **43 caíram**, com variação média de **2.34%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **34 subiram** e **44 caíram**, com variação média de **3.3%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Jaden Philogene (87) **+50.9%** · 🔴 **Maior baixa:** Marcus Rashford (90) **-34.9%**
+> 🟢 **Maior alta:** Morgan Rogers (87) **+36.7%** · 🔴 **Maior baixa:** Paul Scholes (88) **-49.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Ingleses — PC](/charts/mercado-ea-fc-2026-08-01-pc.svg)
 
@@ -35,24 +35,24 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 85.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.8% entre as cartas que se moveram; o universo observado reúne 157 cartas.
-- **Concentração:** Premier League aparece em 8 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 85.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.6% entre as cartas que se moveram; o universo observado reúne 157 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jaden Philogene | 87 | EFL Championship | 60k coins | +50.9% | +21.8% |
-| Peter Crouch | 87 | Premier League | 300k coins | +50% | +30.4% |
-| Harry Kane | 92 | Bundesliga | 222k coins | +48% | +98.2% |
-| Morgan Rogers | 87 | Premier League | 90k coins | +45.4% | -36.6% |
-| Isobel Goodwin | 80 | Barclays WSL | 48k coins | +33.8% | +33.8% |
-| Harry Kane | 90 | Bundesliga | 200k coins | +33.3% | +135.3% |
-| Leah Williamson | 88 | Barclays WSL | 130k coins | +32% | +229.1% |
-| Anthony Gordon | 87 | Premier League | 63k coins | +31.2% | +32.6% |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 56k coins | +27.2% | -0.6% |
-| Beth Mead | 88 | Barclays WSL | 61k coins | +26.4% | +33.3% |
+| Morgan Rogers | 87 | Premier League | 84k coins | +36.7% | -41.3% |
+| Harry Kane | 90 | Bundesliga | 199k coins | +32.7% | +121.1% |
+| Alex Scott | 89 | Barclays WSL | 100k coins | +32.5% | +38.9% |
+| Bobby Charlton | 92 | Icons | 118k coins | +28.3% | -1.7% |
+| Marc Guéhi | 88 | Premier League | 29k coins | +27.7% | +20% |
+| Steven Gerrard | 90 | Icons | 240k coins | +25% | +17.1% |
+| Harry Kane | 92 | Bundesliga | 210k coins | +18.9% | +91.1% |
+| Agnes Beever-Jones | 90 | Barclays WSL | 108k coins | +18% | +8% |
+| David Beckham | 88 | Icons | 83k coins | +17.2% | -21.3% |
+| Georgia Stanway | 86 | GPFBL | 50k coins | +15.6% | 0% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Jaden Philogene (87)** subiu **+50.9%** em 24h, a **60k coins** (faixa do dia: 30k–60k). Está +33% acima da média de 7 dias (aquecida).
+- **Morgan Rogers (87)** subiu **+36.7%** em 24h, a **84k coins** (faixa do dia: 62k–119k). Está -21% abaixo da média de 7 dias (descontada).
 
-- **Peter Crouch (87)** subiu **+50%** em 24h, a **300k coins** (faixa do dia: 110k–300k). Está +22% acima da média de 7 dias (aquecida).
+- **Harry Kane (90)** subiu **+32.7%** em 24h, a **199k coins** (faixa do dia: 92k–200k). Está +33% acima da média de 7 dias (aquecida).
 
-- **Harry Kane (92)** subiu **+48%** em 24h, a **222k coins** (faixa do dia: 90k–230k). Está +19% acima da média de 7 dias (aquecida).
+- **Alex Scott (89)** subiu **+32.5%** em 24h, a **100k coins** (faixa do dia: 32k–100k). Está +18% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Paul Scholes | 88 | Icons | 66k coins | -49.2% | 0% |
+| Charlie Cresswell | 85 | Ligue 1 McDonald's | 30k coins | -39.2% | +1.4% |
+| Micah Richards | 85 | Premier League | 22k coins | -37.1% | +41.9% |
 | Marcus Rashford | 90 | LALIGA EA SPORTS | 423k coins | -34.9% | -26.4% |
 | Lucy Bronze | 88 | Barclays WSL | 145k coins | -34.1% | -48.2% |
-| Tom Ince | 84 | EFL Championship | 40k coins | -27.5% | -21% |
-| Declan Rice | 89 | Premier League | 79k coins | -27.5% | +28.5% |
-| Declan Rice | 88 | Premier League | 47k coins | -27.1% | +15.1% |
-| Lewis Miley | 83 | Premier League | 100k coins | -23.3% | +50.8% |
-| Dominic Solanke | 87 | Premier League | 45k coins | -18.2% | -18.2% |
-| Eberechi Eze | 87 | Premier League | 74k coins | -16.8% | +12.9% |
-| Rio Ferdinand | 88 | Icons | 436k coins | -16.6% | -4.4% |
-| Alessia Russo | 90 | Barclays WSL | 49k coins | -16.5% | -36.9% |
+| Georgia Stanway | 88 | Liga F | 41k coins | -29.9% | -35.9% |
+| Declan Rice | 88 | Premier League | 44k coins | -29.5% | +5.3% |
+| Tom Ince | 84 | EFL Championship | 54k coins | -27.5% | -21% |
+| Jude Bellingham | 94 | LALIGA EA SPORTS | 886k coins | -25.9% | -52.6% |
+| Max Aarons | 85 | Scottish Premiership | 22k coins | -21.7% | -16.7% |
 
 
 ### Análise das baixas
 
-- **Marcus Rashford (90)** caiu **-34.9%** em 24h, a **423k coins** (faixa do dia: 423k–650k). Está -14% abaixo da média de 7 dias (descontada).
+- **Paul Scholes (88)** caiu **-49.2%** em 24h, a **66k coins** (faixa do dia: 66k–151k). Está -23% abaixo da média de 7 dias (descontada).
 
-- **Lucy Bronze (88)** caiu **-34.1%** em 24h, a **145k coins** (faixa do dia: 145k–220k). Está -22% abaixo da média de 7 dias (descontada).
+- **Charlie Cresswell (85)** caiu **-39.2%** em 24h, a **30k coins** (faixa do dia: 16.750–30k). Está +19% acima da média de 7 dias (aquecida).
 
-- **Tom Ince (84)** caiu **-27.5%** em 24h, a **40k coins** (faixa do dia: 40k–54k). Está -25% abaixo da média de 7 dias (descontada).
+- **Micah Richards (85)** caiu **-37.1%** em 24h, a **22k coins** (faixa do dia: 16.500–35k). Está em linha com a média de 7 dias (+0%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Jaden Philogene já avançou 50.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Morgan Rogers já avançou 36.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Marcus Rashford recuou -34.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Paul Scholes recuou -49.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Jaden Philogene (87, EFL Championship), com +50.9% em 24h, a 60k coins no PC.
+Morgan Rogers (87, Premier League), com +36.7% em 24h, a 84k coins no PC.
 
 **E a maior queda do dia?**
-Marcus Rashford (90), -34.9% em 24h, a 423k coins.
+Paul Scholes (88), -49.2% em 24h, a 66k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 41 cartas em alta contra 43 em queda (média 2.34%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 34 cartas em alta contra 44 em queda (média 3.3%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

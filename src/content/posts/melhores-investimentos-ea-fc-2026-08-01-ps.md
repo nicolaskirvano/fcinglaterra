@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:52:10.000Z
+pubDatetime: 2026-08-02T01:52:10.000Z
 title: "Investimentos EA FC: Ingleses em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Eberechi Eze (88, Premier League) lidera, com +80.2% em 7 dias a 95k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Tino Livramento (85, Premier League) lidera, com +85.2% em 7 dias a 32k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Eberechi Eze (88) acumula **+80.2% em 7 dias** a 95k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Tino Livramento (85) acumula **+85.2% em 7 dias** a 32k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 01/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-01-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.0% em 24h** e **+25.6% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+17.8% em 24h** e **+31.7% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Eberechi Eze | 88 | Premier League | 95k coins | +37.9% | +80.2% | Esticada |
-| Dan Burn | 86 | Premier League | 180k coins | +11% | +67.6% | Esticada |
-| Harry Kane | 92 | Bundesliga | 182k coins | +25.5% | +48% | Esticada |
-| Kyle Walker | 89 | Premier League | 198k coins | +14.5% | +34.8% | Momentum moderado |
-| Eric Dier | 86 | Ligue 1 McDonald's | 15.000 coins | +20.5% | +33.3% | Esticada |
-| Rico Lewis | 86 | Premier League | 60k coins | +9% | +30.5% | Momentum moderado |
-| Jaden Philogene | 84 | EFL Championship | 65k coins | +23.5% | +26.6% | Esticada |
-| Declan Rice | 89 | Premier League | 49k coins | +1% | +25.6% | Momentum moderado |
-| Anthony Gordon | 88 | Premier League | 194k coins | +7.8% | +21.2% | Momentum moderado |
-| Jack Payne | 84 | EFL League Two | 50k coins | +5.3% | +16.5% | Momentum moderado |
-| Jill Scott | 87 | Barclays WSL | 24k coins | +22.4% | +11.1% | Esticada |
-| Jamie Vardy | 90 | Serie A TIM | 217k coins | +8.7% | +8.7% | Momentum moderado |
-| Ashley Cole | 86 | Icons | 70k coins | +8.5% | +7.6% | Momentum moderado |
-| Ben Thompson | 84 | EFL League Two | 53k coins | +5.9% | +7% | Momentum moderado |
-| Leif Davis | 84 | EFL Championship | 48k coins | +5.8% | +7% | Momentum moderado |
+| Tino Livramento | 85 | Premier League | 32k coins | +26.1% | +85.2% | Esticada |
+| David Beckham | 89 | Icons | 45k coins | +15.6% | +79.3% | Esticada |
+| Noni Madueke | 86 | Premier League | 28k coins | +8.2% | +68.1% | Esticada |
+| Kyle Walker | 89 | Premier League | 200k coins | +24.2% | +56.5% | Esticada |
+| Ledley King | 86 | Premier League | 21k coins | +18.3% | +55.6% | Momentum moderado |
+| Leah Williamson | 88 | Barclays WSL | 62k coins | +35.9% | +33.7% | Esticada |
+| Anthony Gordon | 88 | Premier League | 217k coins | +17.8% | +32.5% | Momentum moderado |
+| Harvey Barnes | 86 | Premier League | 55k coins | +3.8% | +31.7% | Momentum moderado |
+| Jaden Philogene | 84 | EFL Championship | 65k coins | +27.5% | +30.7% | Esticada |
+| Archie Brown | 85 | Trendyol Süper Lig | 54k coins | +20% | +28% | Esticada |
+| Dom Ballard | 84 | EFL League One | 61k coins | +17.3% | +22% | Momentum moderado |
+| Marcus Rashford | 90 | LALIGA EA SPORTS | 200k coins | +5.9% | +20% | Momentum moderado |
+| Phil Foden | 86 | Premier League | 56k coins | +13% | +18.3% | Momentum moderado |
+| Declan Rice | 88 | Premier League | 52k coins | +3% | +14.4% | Entrada a observar |
+| Alessia Russo | 90 | Barclays WSL | 54k coins | +30.5% | +11.5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Eberechi Eze (88)** — 95k coins, **+80.2% em 7 dias** (+37.9% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tino Livramento (85)** — 32k coins, **+85.2% em 7 dias** (+26.1% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dan Burn (86)** — 180k coins, **+67.6% em 7 dias** (+11% em 24h). Preço -20% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **David Beckham (89)** — 45k coins, **+79.3% em 7 dias** (+15.6% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Harry Kane (92)** — 182k coins, **+48% em 7 dias** (+25.5% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Noni Madueke (86)** — 28k coins, **+68.1% em 7 dias** (+8.2% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kyle Walker (89)** — 198k coins, **+34.8% em 7 dias** (+14.5% em 24h). Preço +74% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kyle Walker (89)** — 200k coins, **+56.5% em 7 dias** (+24.2% em 24h). Preço +74% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eric Dier (86)** — 15.000 coins, **+33.3% em 7 dias** (+20.5% em 24h). Preço -30% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ledley King (86)** — 21k coins, **+55.6% em 7 dias** (+18.3% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Eberechi Eze (88, Premier League) lidera, com +80.2% em 7 dias a 95k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Tino Livramento (85, Premier League) lidera, com +85.2% em 7 dias a 32k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
