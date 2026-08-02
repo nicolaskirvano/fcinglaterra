@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T19:52:21.000Z
+pubDatetime: 2026-08-02T22:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Jill Scott (87, Barclays WSL) lidera, com +88.6% em 7 dias a 21k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Lucy Bronze (88, Barclays WSL) lidera, com +67.7% em 7 dias a 114k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Jill Scott (87) acumula **+88.6% em 7 dias** a 21k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Lucy Bronze (88) acumula **+67.7% em 7 dias** a 114k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.5% em 24h** e **+49.4% em 7 dias**.
-- **6 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Barclays WSL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.6% em 24h** e **+54.0% em 7 dias**.
+- **3 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Barclays WSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,29 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jill Scott | 87 | Barclays WSL | 21k coins | +29.7% | +88.6% | Esticada |
-| Charlie Cresswell | 85 | Ligue 1 McDonald's | 30k coins | +15.7% | +78.8% | Esticada |
-| Lucy Bronze | 88 | Barclays WSL | 138k coins | +22.7% | +71.8% | Esticada |
-| Sol Campbell | 86 | Icons | 100k coins | +11.3% | +66.2% | Esticada |
-| Max Aarons | 85 | Scottish Premiership | 32k coins | +16.1% | +60.5% | Esticada |
-| Lotte Wubben-Moy | 85 | Barclays WSL | 34k coins | +34.3% | +38.2% | Esticada |
-| Dan Burn | 86 | Premier League | 135k coins | +9.8% | +17.4% | Momentum moderado |
-| Ollie Watkins | 86 | Premier League | 43k coins | +1.7% | +11.2% | Entrada a observar |
-| Mateus Mané | 86 | Premier League | 49k coins | +10.1% | +8.9% | Momentum moderado |
-| Bobby Charlton | 92 | Icons | 92k coins | +2.2% | +8.9% | Entrada a observar |
+| Lucy Bronze | 88 | Barclays WSL | 114k coins | +17.1% | +67.7% | Esticada |
+| Bobby Charlton | 92 | Icons | 125k coins | +10.2% | +64.6% | Esticada |
+| Eberechi Eze | 87 | Premier League | 100k coins | +33.6% | +56.7% | Esticada |
+| Max Aarons | 85 | Scottish Premiership | 27k coins | +12% | +51.4% | Momentum moderado |
+| Agnes Beever-Jones | 90 | Barclays WSL | 119k coins | +1.9% | +10% | Entrada a observar |
+| Mason Greenwood | 84 | Ligue 1 McDonald's | 130k coins | +18.2% | +8.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Jill Scott (87)** — 21k coins, **+88.6% em 7 dias** (+29.7% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lucy Bronze (88)** — 114k coins, **+67.7% em 7 dias** (+17.1% em 24h). Preço +66% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Charlie Cresswell (85)** — 30k coins, **+78.8% em 7 dias** (+15.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bobby Charlton (92)** — 125k coins, **+64.6% em 7 dias** (+10.2% em 24h). Preço -82% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lucy Bronze (88)** — 138k coins, **+71.8% em 7 dias** (+22.7% em 24h). Preço +103% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eberechi Eze (87)** — 100k coins, **+56.7% em 7 dias** (+33.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sol Campbell (86)** — 100k coins, **+66.2% em 7 dias** (+11.3% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Max Aarons (85)** — 27k coins, **+51.4% em 7 dias** (+12% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Max Aarons (85)** — 32k coins, **+60.5% em 7 dias** (+16.1% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Agnes Beever-Jones (90)** — 119k coins, **+10% em 7 dias** (+1.9% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -83,7 +79,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Jill Scott (87, Barclays WSL) lidera, com +88.6% em 7 dias a 21k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Lucy Bronze (88, Barclays WSL) lidera, com +67.7% em 7 dias a 114k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
