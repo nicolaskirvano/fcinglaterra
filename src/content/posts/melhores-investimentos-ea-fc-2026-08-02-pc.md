@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:27:23.000Z
+pubDatetime: 2026-08-02T10:52:21.000Z
 title: "Investimentos EA FC: Ingleses em 02/08 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.4% em 24h** e **+20.0% em 7 dias**.
-- **2 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+8.1% em 24h** e **+25.0% em 7 dias**.
+- **2 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Barclays WSL** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,29 +44,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Chris Smalling | 87 | ROSHN Saudi League | 70k coins | +8.5% | +81.8% | Esticada |
-| Leif Davis | 84 | EFL Championship | 55k coins | +31% | +43.8% | Esticada |
-| Anthony Gordon | 87 | Premier League | 60k coins | +7.8% | +30.5% | Momentum moderado |
+| David Beckham | 89 | Icons | 39k coins | +1.8% | +45.6% | Momentum moderado |
+| Leif Davis | 84 | EFL Championship | 35k coins | +31% | +43.8% | Esticada |
+| Alex Scott | 89 | Barclays WSL | 100k coins | +8.1% | +38.9% | Momentum moderado |
 | Dan Burn | 86 | Premier League | 150k coins | +5.6% | +30.4% | Momentum moderado |
+| Anthony Gordon | 87 | Premier League | 60k coins | +7.8% | +29.2% | Momentum moderado |
 | Max Aarons | 85 | Scottish Premiership | 26k coins | +17% | +25% | Momentum moderado |
+| Leah Williamson | 95 | Barclays WSL | 204k coins | +3% | +24.6% | Entrada a observar |
 | Agnes Beever-Jones | 90 | Barclays WSL | 120k coins | +3.4% | +20% | Entrada a observar |
-| Georgia Stanway | 88 | Liga F | 72k coins | +16.4% | +16.4% | Momentum moderado |
 | Millie Bright | 88 | Barclays WSL | 99k coins | +9.4% | +13.8% | Momentum moderado |
-| Jill Scott | 85 | Barclays Women’s Super League | 15.500 coins | +6.9% | +12.7% | Momentum moderado |
+| Georgia Stanway | 88 | Liga F | 70k coins | +16.9% | +13.3% | Momentum moderado |
+| Jill Scott | 85 | Barclays Women’s Super League | 30k coins | +6.9% | +12.7% | Momentum moderado |
 | Sol Campbell | 86 | Icons | 73k coins | +12.3% | +12.3% | Momentum moderado |
-| Dominic Solanke | 87 | Premier League | 45k coins | +10.1% | +7.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Chris Smalling (87)** — 70k coins, **+81.8% em 7 dias** (+8.5% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Chris Smalling (87)** — 70k coins, **+81.8% em 7 dias** (+8.5% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Leif Davis (84)** — 55k coins, **+43.8% em 7 dias** (+31% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **David Beckham (89)** — 39k coins, **+45.6% em 7 dias** (+1.8% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Anthony Gordon (87)** — 60k coins, **+30.5% em 7 dias** (+7.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leif Davis (84)** — 35k coins, **+43.8% em 7 dias** (+31% em 24h). Preço -34% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dan Burn (86)** — 150k coins, **+30.4% em 7 dias** (+5.6% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alex Scott (89)** — 100k coins, **+38.9% em 7 dias** (+8.1% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Max Aarons (85)** — 26k coins, **+25% em 7 dias** (+17% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dan Burn (86)** — 150k coins, **+30.4% em 7 dias** (+5.6% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
