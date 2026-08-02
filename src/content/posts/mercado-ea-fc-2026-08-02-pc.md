@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:52:17.000Z
+pubDatetime: 2026-08-02T19:52:19.000Z
 title: "Mercado EA FC em 02/08: Ingleses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 02/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
-    a: "Eberechi Eze (87, Premier League), com +56.9% em 24h, a 116k coins no PC."
+    a: "Marcus Rashford (90, LALIGA EA SPORTS), com +48.7% em 24h, a 629k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Grace Clinton (87), -40.4% em 24h, a 29k coins."
+    a: "Ethan Nwaneri (91), -35.5% em 24h, a 33k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 35 cartas em alta contra 44 em queda (média 3.13%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 40 cartas em alta contra 40 em queda (média 6.67%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **02/08/2026** (PC): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **35 em alta** e **44 em queda**, média de **3.13%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **02/08/2026** (PC): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **40 em alta** e **40 em queda**, média de **6.67%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Eberechi Eze (87) **+56.9%** · 🔴 **Maior baixa:** Grace Clinton (87) **-40.4%**
+> 🟢 **Maior alta:** Marcus Rashford (90) **+48.7%** · 🔴 **Maior baixa:** Ethan Nwaneri (91) **-35.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Ingleses — PC](/charts/mercado-ea-fc-2026-08-02-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **02/08/2026** (PC): mercado **em alta** — predominam as valoriza�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 97.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 44.3% entre as cartas que se moveram; o universo observado reúne 155 cartas.
-- **Concentração:** Barclays WSL aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 84.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 154 cartas.
+- **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Eberechi Eze | 87 | Premier League | 116k coins | +56.9% | +81.8% |
-| Anthony Gordon | 88 | Premier League | 190k coins | +54.5% | -33.8% |
-| Lucy Bronze | 88 | Barclays WSL | 220k coins | +51.7% | -21.1% |
-| Peter Crouch | 87 | Premier League | 295k coins | +50.8% | 0% |
 | Marcus Rashford | 90 | LALIGA EA SPORTS | 629k coins | +48.7% | +6.8% |
-| Jobe Bellingham | 89 | Bundesliga | 180k coins | +44% | +51.3% |
-| Georgia Stanway | 88 | Liga F | 68k coins | +41% | +10.2% |
-| Lotte Wubben-Moy | 85 | Barclays WSL | 38k coins | +38.1% | +52.9% |
-| Tom Ince | 84 | EFL Championship | 54k coins | +38% | 0% |
-| Lucy Bronze | 88 | Barclays WSL | 150k coins | +35% | +71.7% |
+| Eberechi Eze | 87 | Premier League | 101k coins | +45.8% | +65.4% |
+| Leif Davis | 84 | EFL Championship | 58k coins | +39.3% | 0% |
+| Tom Ince | 84 | EFL Championship | 55k coins | +39.2% | +0.9% |
+| Georgia Stanway | 88 | Liga F | 64k coins | +37.2% | +4% |
+| Rio Ferdinand | 88 | Icons | 540k coins | +35% | +27.1% |
+| Lotte Wubben-Moy | 85 | Barclays WSL | 34k coins | +34.3% | +38.2% |
+| Isobel Goodwin | 80 | Barclays WSL | 48k coins | +33.8% | +33.8% |
+| Lewis Miley | 89 | Premier League | 30k coins | +29.8% | -52.3% |
+| Jill Scott | 87 | Barclays WSL | 21k coins | +29.7% | +88.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **02/08/2026** (PC): mercado **em alta** — predominam as valoriza�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Eberechi Eze (87)** subiu **+56.9%** em 24h, a **116k coins** (faixa do dia: 68k–129k). Está +50% acima da média de 7 dias (aquecida).
+- **Marcus Rashford (90)** subiu **+48.7%** em 24h, a **629k coins** (faixa do dia: 423k–649k). Está +28% acima da média de 7 dias (aquecida).
 
-- **Anthony Gordon (88)** subiu **+54.5%** em 24h, a **190k coins** (faixa do dia: 190k–190k). Está +25% acima da média de 7 dias (aquecida).
+- **Eberechi Eze (87)** subiu **+45.8%** em 24h, a **101k coins** (faixa do dia: 68k–129k). Está +30% acima da média de 7 dias (aquecida).
 
-- **Lucy Bronze (88)** subiu **+51.7%** em 24h, a **220k coins** (faixa do dia: 144k–220k). Está +25% acima da média de 7 dias (aquecida).
+- **Leif Davis (84)** subiu **+39.3%** em 24h, a **58k coins** (faixa do dia: 30k–58k). Está +11% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Grace Clinton | 87 | Barclays WSL | 29k coins | -40.4% | +27.3% |
-| Noni Madueke | 86 | Premier League | 34k coins | -35.5% | +108.8% |
-| Michelle Agyemang | 89 | Barclays Women’s Super League | 23k coins | -28.4% | +12.9% |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 45k coins | -24.3% | +1.2% |
-| Beth Mead | 88 | Barclays WSL | 48k coins | -20.9% | +5.5% |
-| Eric Dier | 86 | Ligue 1 McDonald's | 24k coins | -19.4% | +18.2% |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 33k coins | -35.5% | -21.1% |
+| Beth Mead | 88 | Barclays WSL | 43k coins | -29.9% | -7.6% |
+| Leah Williamson | 88 | Barclays WSL | 130k coins | -23.1% | +50.4% |
+| Lewis Hall | 89 | Premier League | 43k coins | -19.3% | -26.1% |
 | Jude Bellingham | 94 | LALIGA EA SPORTS | 886k coins | -18.6% | -40.9% |
-| Leif Davis | 84 | EFL Championship | 34k coins | -17.9% | -41% |
-| David Beckham | 89 | Icons | 26k coins | -15.2% | -1.8% |
-| Leah Williamson | 95 | Barclays WSL | 169k coins | -14.6% | +5.6% |
+| Declan Rice | 89 | Premier League | 51k coins | -17.2% | -7.8% |
+| Fara Williams | 88 | Barclays WSL | 36k coins | -17% | +16.4% |
+| Elliot Anderson | 89 | Premier League | 116k coins | -16.7% | -7% |
+| Luke Shaw | 86 | Premier League | 42k coins | -16% | +19.1% |
+| Harry Kane | 92 | Bundesliga | 283k coins | -12.9% | -19.1% |
 
 
 ### Análise das baixas
 
-- **Grace Clinton (87)** caiu **-40.4%** em 24h, a **29k coins** (faixa do dia: 13.000–32k). Está +20% acima da média de 7 dias (aquecida).
+- **Ethan Nwaneri (91)** caiu **-35.5%** em 24h, a **33k coins** (faixa do dia: 30k–56k). Está -26% abaixo da média de 7 dias (descontada).
 
-- **Noni Madueke (86)** caiu **-35.5%** em 24h, a **34k coins** (faixa do dia: 15.000–60k). Está em linha com a média de 7 dias (-6%).
+- **Beth Mead (88)** caiu **-29.9%** em 24h, a **43k coins** (faixa do dia: 43k–70k). Está -25% abaixo da média de 7 dias (descontada).
 
-- **Michelle Agyemang (89)** caiu **-28.4%** em 24h, a **23k coins** (faixa do dia: 21k–38k). Está em linha com a média de 7 dias (+3%).
+- **Leah Williamson (88)** caiu **-23.1%** em 24h, a **130k coins** (faixa do dia: 86k–130k). Está +38% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Eberechi Eze já avançou 56.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Marcus Rashford já avançou 48.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Grace Clinton recuou -40.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Ethan Nwaneri recuou -35.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (02/08/2026)?**
-Eberechi Eze (87, Premier League), com +56.9% em 24h, a 116k coins no PC.
+Marcus Rashford (90, LALIGA EA SPORTS), com +48.7% em 24h, a 629k coins no PC.
 
 **E a maior queda do dia?**
-Grace Clinton (87), -40.4% em 24h, a 29k coins.
+Ethan Nwaneri (91), -35.5% em 24h, a 33k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 35 cartas em alta contra 44 em queda (média 3.13%).
+Hoje o mercado está em alta — predominam as valorizações, com 40 cartas em alta contra 40 em queda (média 6.67%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

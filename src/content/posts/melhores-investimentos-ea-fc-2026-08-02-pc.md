@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:52:18.000Z
+pubDatetime: 2026-08-02T19:52:21.000Z
 title: "Investimentos EA FC: Ingleses em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Chris Smalling (87, ROSHN Saudi League) lidera, com +81.8% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Jill Scott (87, Barclays WSL) lidera, com +88.6% em 7 dias a 21k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Chris Smalling (87) acumula **+81.8% em 7 dias** a 70k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Jill Scott (87) acumula **+88.6% em 7 dias** a 21k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.2% em 24h** e **+29.1% em 7 dias**.
-- **4 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.5% em 24h** e **+49.4% em 7 dias**.
+- **6 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Barclays WSL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,29 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Chris Smalling | 87 | ROSHN Saudi League | 70k coins | +3.7% | +81.8% | Esticada |
-| Lucy Bronze | 88 | Barclays WSL | 150k coins | +35% | +71.7% | Esticada |
-| Lotte Wubben-Moy | 85 | Barclays WSL | 38k coins | +38.1% | +52.9% | Esticada |
-| Anthony Gordon | 87 | Premier League | 64k coins | +24.3% | +38.5% | Esticada |
-| Harvey Barnes | 84 | Premier League | 50k coins | +17.6% | +19.8% | Momentum moderado |
-| Tino Livramento | 85 | Premier League | 25k coins | +12.7% | +12.7% | Momentum moderado |
-| Ollie Watkins | 86 | Premier League | 45k coins | +1.7% | +11.2% | Entrada a observar |
-| Mateus Mané | 86 | Premier League | 50k coins | +2% | +11.1% | Entrada a observar |
+| Jill Scott | 87 | Barclays WSL | 21k coins | +29.7% | +88.6% | Esticada |
+| Charlie Cresswell | 85 | Ligue 1 McDonald's | 30k coins | +15.7% | +78.8% | Esticada |
+| Lucy Bronze | 88 | Barclays WSL | 138k coins | +22.7% | +71.8% | Esticada |
+| Sol Campbell | 86 | Icons | 100k coins | +11.3% | +66.2% | Esticada |
+| Max Aarons | 85 | Scottish Premiership | 32k coins | +16.1% | +60.5% | Esticada |
+| Lotte Wubben-Moy | 85 | Barclays WSL | 34k coins | +34.3% | +38.2% | Esticada |
+| Dan Burn | 86 | Premier League | 135k coins | +9.8% | +17.4% | Momentum moderado |
+| Ollie Watkins | 86 | Premier League | 43k coins | +1.7% | +11.2% | Entrada a observar |
+| Mateus Mané | 86 | Premier League | 49k coins | +10.1% | +8.9% | Momentum moderado |
+| Bobby Charlton | 92 | Icons | 92k coins | +2.2% | +8.9% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Chris Smalling (87)** — 70k coins, **+81.8% em 7 dias** (+3.7% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jill Scott (87)** — 21k coins, **+88.6% em 7 dias** (+29.7% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lucy Bronze (88)** — 150k coins, **+71.7% em 7 dias** (+35% em 24h). Preço +124% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Charlie Cresswell (85)** — 30k coins, **+78.8% em 7 dias** (+15.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lotte Wubben-Moy (85)** — 38k coins, **+52.9% em 7 dias** (+38.1% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lucy Bronze (88)** — 138k coins, **+71.8% em 7 dias** (+22.7% em 24h). Preço +103% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Anthony Gordon (87)** — 64k coins, **+38.5% em 7 dias** (+24.3% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sol Campbell (86)** — 100k coins, **+66.2% em 7 dias** (+11.3% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Harvey Barnes (84)** — 50k coins, **+19.8% em 7 dias** (+17.6% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Max Aarons (85)** — 32k coins, **+60.5% em 7 dias** (+16.1% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +83,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Chris Smalling (87, ROSHN Saudi League) lidera, com +81.8% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Jill Scott (87, Barclays WSL) lidera, com +88.6% em 7 dias a 21k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

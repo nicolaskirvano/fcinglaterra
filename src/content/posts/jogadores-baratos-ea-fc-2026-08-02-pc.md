@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:52:20.000Z
+pubDatetime: 2026-08-02T19:52:22.000Z
 title: "Jogadores baratos EA FC: Ingleses em 02/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.667 coins.
-- **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 4.100 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.050 coins.
+- **Posição mais frequente:** ST, com 7 cartas.
+- **Faixa real:** 4.200 a 11.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -46,14 +46,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
 | Paul Scholes | 91 | CM | Icons | 11.500 coins | 0% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 4.800 coins | +9.1% |
 | Kobbie Mainoo | 90 | CM | Premier League | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
-| Harry Maguire | 90 | CB | Premier League | 14.250 coins | +5.1% |
-| Alessia Russo | 89 | ST | Barclays WSL | 4.100 coins | -8.2% |
-| Harry Kane | 89 | ST | Bundesliga | 4.900 coins | +2.1% |
-| John Barnes | 89 | LW | Icons | 11.250 coins | 0% |
+| Alessia Russo | 89 | ST | Barclays WSL | 4.200 coins | -4.3% |
+| Harry Kane | 89 | ST | Bundesliga | 5.000 coins | +6.5% |
+| Lauren James | 89 | ST | Barclays WSL | 11.250 coins | 0% |
 | Rachel Williams | 89 | ST | Barclays WSL | 11.250 coins | 0% |
 
 
@@ -71,8 +71,6 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 
 ## Como distribuir a banca
-
-- **Defesa:** Harry Maguire (90, CB) por 14.250 coins é a referência de rating deste recorte.
 
 - **Meio:** Bobby Charlton (93, CAM) por 11.750 coins é a referência de rating deste recorte.
 
