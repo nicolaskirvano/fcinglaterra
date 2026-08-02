@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:52:08.000Z
+pubDatetime: 2026-08-02T13:52:08.000Z
 title: "Mercado EA FC em 02/08: Ingleses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 02/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
-    a: "Tino Livramento (85, Premier League), com +48.7% em 24h, a 31k coins no Console (PS)."
+    a: "Archie Brown (85, Trendyol Süper Lig), com +46.7% em 24h, a 40k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Elliot Anderson (86), -48.3% em 24h, a 21k coins."
+    a: "Nico O'Reilly (88), -45.9% em 24h, a 24k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 55 cartas em alta contra 47 em queda (média 6.2%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 59 cartas em alta contra 42 em queda (média 6.01%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **02/08/2026** (Console (PS)): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **55 em alta** e **47 em queda**, média de **6.2%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **02/08/2026** (Console (PS)): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **59 em alta** e **42 em queda**, média de **6.01%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Tino Livramento (85) **+48.7%** · 🔴 **Maior baixa:** Elliot Anderson (86) **-48.3%**
+> 🟢 **Maior alta:** Archie Brown (85) **+46.7%** · 🔴 **Maior baixa:** Nico O'Reilly (88) **-45.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Ingleses — Console (PS)](/charts/mercado-ea-fc-2026-08-02-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **02/08/2026** (Console (PS)): mercado **em alta** — predominam as
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 97.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.9% entre as cartas que se moveram; o universo observado reúne 150 cartas.
-- **Concentração:** Premier League aparece em 7 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 92.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 58.4% entre as cartas que se moveram; o universo observado reúne 147 cartas.
+- **Concentração:** Premier League aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tino Livramento | 85 | Premier League | 31k coins | +48.7% | +45% |
-| Archie Brown | 85 | Trendyol Süper Lig | 45k coins | +47.5% | +20% |
-| Charlie Cresswell | 85 | Ligue 1 McDonald's | 42k coins | +41.7% | +153.7% |
-| Kyle Walker | 89 | Premier League | 199k coins | +35.2% | +71.5% |
-| Leah Williamson | 95 | Barclays WSL | 127k coins | +31.8% | +89.5% |
-| Mateus Mané | 88 | Premier League | 48k coins | +30.6% | +18.2% |
-| Beth Mead | 88 | Barclays WSL | 100k coins | +29.2% | +31.8% |
-| Mason Greenwood | 84 | Ligue 1 McDonald's | 50k coins | +29% | +17.1% |
-| Steven Gerrard | 89 | Icons | 250k coins | +23.2% | +73.3% |
-| Michael Owen | 88 | Icons | 84k coins | +20% | +18.3% |
+| Archie Brown | 85 | Trendyol Süper Lig | 40k coins | +46.7% | +12.8% |
+| Rio Ferdinand | 88 | Icons | 430k coins | +45.5% | +60.3% |
+| James Milner | 88 | Premier League | 118k coins | +43.9% | +56.3% |
+| Grace Clinton | 87 | Barclays WSL | 20k coins | +39.7% | +52.8% |
+| Lucy Bronze | 88 | Barclays WSL | 119k coins | +36.8% | +217.3% |
+| Jill Scott | 87 | Barclays WSL | 22k coins | +36.8% | +55% |
+| Georgia Stanway | 88 | Liga F | 65k coins | +36.1% | +44.4% |
+| Tino Livramento | 85 | Premier League | 25k coins | +33.3% | +25% |
+| Anthony Gordon | 88 | Premier League | 195k coins | +32% | +23.8% |
+| Beth Mead | 88 | Barclays WSL | 98k coins | +31.8% | +29.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **02/08/2026** (Console (PS)): mercado **em alta** — predominam as
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Tino Livramento (85)** subiu **+48.7%** em 24h, a **31k coins** (faixa do dia: 15.250–38k). Está +12% acima da média de 7 dias (aquecida).
+- **Archie Brown (85)** subiu **+46.7%** em 24h, a **40k coins** (faixa do dia: 24k–54k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Archie Brown (85)** subiu **+47.5%** em 24h, a **45k coins** (faixa do dia: 30k–54k). Está em linha com a média de 7 dias (-0%).
+- **Rio Ferdinand (88)** subiu **+45.5%** em 24h, a **430k coins** (faixa do dia: 349k–507k). Está em linha com a média de 7 dias (+7%).
 
-- **Charlie Cresswell (85)** subiu **+41.7%** em 24h, a **42k coins** (faixa do dia: 16.500–42k). Está +39% acima da média de 7 dias (aquecida).
+- **James Milner (88)** subiu **+43.9%** em 24h, a **118k coins** (faixa do dia: 65k–132k). Está +19% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Elliot Anderson | 86 | Premier League | 21k coins | -48.3% | +6.9% |
-| Ashley Cole | 86 | Icons | 71k coins | -32.1% | +12.1% |
-| Harry Kane | 92 | Bundesliga | 225k coins | -28.7% | +32.1% |
-| Dominic Solanke | 87 | Premier League | 44k coins | -20.5% | -6.9% |
-| Leah Williamson | 88 | Barclays WSL | 52k coins | -19.5% | +41.7% |
-| Lewis Miley | 83 | Premier League | 50k coins | -18.2% | -19.7% |
-| Kelly Smith | 89 | Icons | 68k coins | -18.2% | -12.9% |
-| Jordan Pickford | 85 | Premier League | 40k coins | -16.3% | 0% |
-| Millie Bright | 88 | Barclays WSL | 43k coins | -15.8% | -54.9% |
-| Kyrell Lisbie | 84 | EFL League One | 50k coins | -13.4% | -18.7% |
+| Nico O'Reilly | 88 | Premier League | 24k coins | -45.9% | -23.1% |
+| Cole Palmer | 88 | Premier League | 351k coins | -45.2% | -16% |
+| Chloe Kelly | 88 | Barclays WSL | 22k coins | -35.7% | +30.4% |
+| Elliot Anderson | 89 | Premier League | 25k coins | -28.1% | -2% |
+| Sol Campbell | 86 | Icons | 70k coins | -23.8% | +11.4% |
+| Harry Kane | 92 | Bundesliga | 206k coins | -19.2% | +48.9% |
+| Harry Maguire | 83 | Premier League | 54k coins | -13.6% | +25.3% |
+| Steven Gerrard | 90 | Icons | 273k coins | -12.1% | +50.3% |
+| Jordan Pickford | 86 | Premier League | 48k coins | -11.8% | 0% |
+| Charlie Cresswell | 85 | Ligue 1 McDonald's | 32k coins | -11.1% | +85.5% |
 
 
 ### Análise das baixas
 
-- **Elliot Anderson (86)** caiu **-48.3%** em 24h, a **21k coins** (faixa do dia: 15.500–30k). Está em linha com a média de 7 dias (-3%).
+- **Nico O'Reilly (88)** caiu **-45.9%** em 24h, a **24k coins** (faixa do dia: 19.000–75k). Está -43% abaixo da média de 7 dias (descontada).
 
-- **Ashley Cole (86)** caiu **-32.1%** em 24h, a **71k coins** (faixa do dia: 70k–146k). Está em linha com a média de 7 dias (+0%).
+- **Cole Palmer (88)** caiu **-45.2%** em 24h, a **351k coins** (faixa do dia: 351k–647k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Harry Kane (92)** caiu **-28.7%** em 24h, a **225k coins** (faixa do dia: 206k–290k). Está +33% acima da média de 7 dias (aquecida).
+- **Chloe Kelly (88)** caiu **-35.7%** em 24h, a **22k coins** (faixa do dia: 13.000–40k). Está -20% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Tino Livramento já avançou 48.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Archie Brown já avançou 46.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Elliot Anderson recuou -48.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Nico O'Reilly recuou -45.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (02/08/2026)?**
-Tino Livramento (85, Premier League), com +48.7% em 24h, a 31k coins no Console (PS).
+Archie Brown (85, Trendyol Süper Lig), com +46.7% em 24h, a 40k coins no Console (PS).
 
 **E a maior queda do dia?**
-Elliot Anderson (86), -48.3% em 24h, a 21k coins.
+Nico O'Reilly (88), -45.9% em 24h, a 24k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 55 cartas em alta contra 47 em queda (média 6.2%).
+Hoje o mercado está em alta — predominam as valorizações, com 59 cartas em alta contra 42 em queda (média 6.01%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
