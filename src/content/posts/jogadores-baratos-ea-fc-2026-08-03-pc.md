@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:28:22.000Z
+pubDatetime: 2026-08-03T10:52:20.000Z
 title: "Jogadores baratos EA FC: Ingleses em 03/08 — PC"
 draft: false
 featured: false
@@ -46,7 +46,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
 | Paul Scholes | 91 | CM | Icons | 11.500 coins | 0% |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 5.900 coins | +7.3% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 5.900 coins | +5.4% |
 | Kobbie Mainoo | 90 | CM | Premier League | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
