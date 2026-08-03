@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T13:52:19.000Z
+pubDatetime: 2026-08-03T16:52:20.000Z
 title: "Jogadores baratos EA FC: Ingleses em 03/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.323 coins.
+- **Preço médio das 15 opções:** 10.223 coins.
 - **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 6.000 a 11.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.800 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,18 +43,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Bobby Charlton | 93 | CAM | Icons | 11.750 coins | 0% |
 | Wayne Rooney | 92 | ST | Icons | 11.500 coins | 0% |
 | Cole Palmer | 92 | CAM | Premier League | 11.500 coins | 0% |
-| Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
 | Paul Scholes | 91 | CM | Icons | 11.500 coins | 0% |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 6.100 coins | +10.9% |
+| Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 3.800 coins | +20% |
 | Kobbie Mainoo | 90 | CM | Premier League | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
-| Harry Kane | 89 | ST | Bundesliga | 6.000 coins | -2% |
-| Alessia Russo | 89 | ST | Barclays WSL | 6.000 coins | +18.4% |
-| John Barnes | 89 | LW | Icons | 11.250 coins | 0% |
-| Lauren James | 89 | ST | Barclays WSL | 11.250 coins | 0% |
+| Harry Maguire | 90 | CB | Premier League | 13.750 coins | +11.3% |
+| Harry Kane | 89 | ST | Bundesliga | 4.900 coins | +2% |
+| Alessia Russo | 89 | ST | Barclays WSL | 5.400 coins | +28.9% |
+| Rachel Williams | 89 | ST | Barclays WSL | 11.250 coins | 0% |
 
 
 ## 📈 Destaques
@@ -65,12 +65,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Cole Palmer (92, CAM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Conor Gallagher (91, CM)** da Premier League, a apenas **11.500 coins**
-
 - **Jill Scott (91, CM)** da Barclays WSL, a apenas **11.500 coins**
+
+- **Paul Scholes (91, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
+
+- **Defesa:** Harry Maguire (90, CB) por 13.750 coins é a referência de rating deste recorte.
 
 - **Meio:** Bobby Charlton (93, CAM) por 11.750 coins é a referência de rating deste recorte.
 
