@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T22:52:09.000Z
+pubDatetime: 2026-08-03T01:52:09.000Z
 title: "Investimentos EA FC: Ingleses em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Eberechi Eze (88, Premier League) lidera, com +43.2% em 7 dias a 68k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Morgan Rogers (87, Premier League) lidera, com +78% em 7 dias a 102k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Eberechi Eze (88) acumula **+43.2% em 7 dias** a 68k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Morgan Rogers (87) acumula **+78% em 7 dias** a 102k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 02/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-02-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.6% em 24h** e **+21.5% em 7 dias**.
-- **2 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+5.7% em 24h** e **+34.8% em 7 dias**.
+- **3 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,31 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Eberechi Eze | 88 | Premier League | 68k coins | +4.2% | +43.2% | Momentum moderado |
-| Anthony Gordon | 87 | Premier League | 60k coins | +7.2% | +28.4% | Momentum moderado |
-| John Barnes | 87 | Icons | 84k coins | +28% | +28% | Esticada |
-| Jamie Vardy | 90 | Serie A TIM | 229k coins | +19% | +26.9% | Momentum moderado |
-| Harvey Barnes | 86 | Premier League | 50k coins | +14.6% | +25% | Momentum moderado |
-| Keira Walsh | 86 | Barclays WSL | 52k coins | +13% | +24.6% | Momentum moderado |
-| Jack Payne | 84 | EFL League Two | 50k coins | +6.4% | +18.3% | Momentum moderado |
-| Lewis Wing | 86 | 2. Bundesliga | 55k coins | +6.8% | +18.3% | Momentum moderado |
-| Georgia Stanway | 88 | Liga F | 65k coins | +36.8% | +17.1% | Esticada |
-| Leif Davis | 84 | EFL Championship | 48k coins | +8.2% | +8.8% | Momentum moderado |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 26k coins | +11% | +8.8% | Momentum moderado |
-| Harvey Barnes | 84 | Premier League | 50k coins | +2% | +7.5% | Entrada a observar |
+| Morgan Rogers | 87 | Premier League | 102k coins | +15.4% | +78% | Esticada |
+| Mateus Mané | 88 | Premier League | 45k coins | +6.7% | +67% | Esticada |
+| Eberechi Eze | 88 | Premier League | 100k coins | +4.7% | +43.9% | Momentum moderado |
+| John Barnes | 87 | Icons | 84k coins | +26.5% | +25.6% | Esticada |
+| Jamie Vardy | 90 | Serie A TIM | 224k coins | +4.3% | +11.3% | Entrada a observar |
+| Leif Davis | 84 | EFL Championship | 49k coins | +2.6% | +6% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Eberechi Eze (88)** — 68k coins, **+43.2% em 7 dias** (+4.2% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Morgan Rogers (87)** — 102k coins, **+78% em 7 dias** (+15.4% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Anthony Gordon (87)** — 60k coins, **+28.4% em 7 dias** (+7.2% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mateus Mané (88)** — 45k coins, **+67% em 7 dias** (+6.7% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **John Barnes (87)** — 84k coins, **+28% em 7 dias** (+28% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eberechi Eze (88)** — 100k coins, **+43.9% em 7 dias** (+4.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jamie Vardy (90)** — 229k coins, **+26.9% em 7 dias** (+19% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **John Barnes (87)** — 84k coins, **+25.6% em 7 dias** (+26.5% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Harvey Barnes (86)** — 50k coins, **+25% em 7 dias** (+14.6% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jamie Vardy (90)** — 224k coins, **+11.3% em 7 dias** (+4.3% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -85,7 +79,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Eberechi Eze (88, Premier League) lidera, com +43.2% em 7 dias a 68k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Morgan Rogers (87, Premier League) lidera, com +78% em 7 dias a 102k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
