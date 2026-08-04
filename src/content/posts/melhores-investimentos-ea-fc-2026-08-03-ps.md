@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:52:09.000Z
+pubDatetime: 2026-08-04T01:52:09.000Z
 title: "Investimentos EA FC: Ingleses em 03/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Marcus Rashford (90, LALIGA EA SPORTS) lidera, com +79.3% em 7 dias a 192k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Mateus Mané (88, Premier League) lidera, com +85.2% em 7 dias a 58k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Marcus Rashford (90) acumula **+79.3% em 7 dias** a 192k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Mateus Mané (88) acumula **+85.2% em 7 dias** a 58k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ingleses em 03/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-03-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.9% em 24h** e **+30.0% em 7 dias**.
+- A mediana é de **+13.5% em 24h** e **+34.0% em 7 dias**.
 - **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Marcus Rashford | 90 | LALIGA EA SPORTS | 192k coins | +30.1% | +79.3% | Esticada |
-| Mateus Mané | 88 | Premier League | 50k coins | +4.2% | +73.9% | Esticada |
-| Morgan Rogers | 87 | Premier League | 120k coins | +22.4% | +65.5% | Esticada |
-| Harry Kane | 92 | Bundesliga | 200k coins | +5.7% | +45.7% | Momentum moderado |
-| Jamie Vardy | 90 | Serie A TIM | 227k coins | +1.3% | +43.7% | Momentum moderado |
-| Archie Brown | 85 | Trendyol Süper Lig | 42k coins | +38.4% | +41% | Esticada |
-| Ben Thompson | 84 | EFL League Two | 74k coins | +29.3% | +36.4% | Esticada |
-| Keira Walsh | 86 | Barclays WSL | 58k coins | +7.3% | +30% | Momentum moderado |
-| David Beckham | 89 | Icons | 19.500 coins | +20.8% | +28% | Esticada |
-| Jordan Pickford | 86 | Premier League | 55k coins | +12.8% | +19.6% | Momentum moderado |
-| Harry Kane | 90 | Bundesliga | 86k coins | +14.5% | +17.9% | Momentum moderado |
-| Declan Rice | 88 | Premier League | 42k coins | +9.9% | +11.8% | Momentum moderado |
-| Frank Lampard | 87 | Icons | 80k coins | +3.5% | +11.4% | Entrada a observar |
-| Paul Scholes | 88 | Icons | 71k coins | +9.8% | +9.8% | Momentum moderado |
-| Eberechi Eze | 86 | Premier League | 126k coins | +9.6% | +9.6% | Momentum moderado |
+| Mateus Mané | 88 | Premier League | 58k coins | +4.2% | +85.2% | Esticada |
+| Tyler Morton | 88 | Ligue 1 McDonald's | 25k coins | +26.6% | +69.5% | Esticada |
+| Max Aarons | 85 | Scottish Premiership | 35k coins | +31.8% | +67.9% | Esticada |
+| Harry Kane | 92 | Bundesliga | 211k coins | +20.6% | +67.5% | Esticada |
+| Leah Williamson | 95 | Barclays WSL | 149k coins | +13.6% | +55.4% | Momentum moderado |
+| Michael Cheek | 84 | EFL League Two | 70k coins | +27.3% | +38.6% | Esticada |
+| Ben Thompson | 84 | EFL League Two | 71k coins | +29.3% | +36.4% | Esticada |
+| George Dobson | 84 | EFL Championship | 49k coins | +1.6% | +34% | Momentum moderado |
+| Jaden Philogene | 84 | EFL Championship | 48k coins | +19.6% | +17.8% | Momentum moderado |
+| Frank Lampard | 87 | Icons | 74k coins | +4.2% | +12.9% | Entrada a observar |
+| Michael Owen | 88 | Icons | 79k coins | +9.5% | +12.8% | Momentum moderado |
+| Ledley King | 86 | Premier League | 18.250 coins | +7.4% | +12.3% | Momentum moderado |
+| Eberechi Eze | 86 | Premier League | 114k coins | +13.5% | +11.5% | Momentum moderado |
+| Anthony Gordon | 87 | Premier League | 72k coins | +4.8% | +11.1% | Entrada a observar |
+| Paul Scholes | 88 | Icons | 73k coins | +9.8% | +9.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Marcus Rashford (90)** — 192k coins, **+79.3% em 7 dias** (+30.1% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mateus Mané (88)** — 58k coins, **+85.2% em 7 dias** (+4.2% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mateus Mané (88)** — 50k coins, **+73.9% em 7 dias** (+4.2% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tyler Morton (88)** — 25k coins, **+69.5% em 7 dias** (+26.6% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Morgan Rogers (87)** — 120k coins, **+65.5% em 7 dias** (+22.4% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Max Aarons (85)** — 35k coins, **+67.9% em 7 dias** (+31.8% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Harry Kane (92)** — 200k coins, **+45.7% em 7 dias** (+5.7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Harry Kane (92)** — 211k coins, **+67.5% em 7 dias** (+20.6% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jamie Vardy (90)** — 227k coins, **+43.7% em 7 dias** (+1.3% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leah Williamson (95)** — 149k coins, **+55.4% em 7 dias** (+13.6% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Marcus Rashford (90, LALIGA EA SPORTS) lidera, com +79.3% em 7 dias a 192k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Mateus Mané (88, Premier League) lidera, com +85.2% em 7 dias a 58k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
