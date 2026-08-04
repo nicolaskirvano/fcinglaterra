@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:52:07.000Z
+pubDatetime: 2026-08-04T13:52:08.000Z
 title: "Mercado EA FC em 04/08: Ingleses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 04/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (04/08/2026)?"
-    a: "Alessia Russo (90, Barclays WSL), com +37.7% em 24h, a 38k coins no Console (PS)."
+    a: "Declan Rice (89, Premier League), com +27.9% em 24h, a 90k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Tyler Morton (88), -47.5% em 24h, a 22k coins."
+    a: "Anthony Gordon (90), -33.3% em 24h, a 750k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 23 cartas em alta contra 20 em queda (média 5.06%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 20 cartas em alta contra 17 em queda (média 0.11%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **04/08/2026** no Console (PS): mercado **aquecido** — as altas dominam o dia. **23 valorizações** contra **20 quedas** entre as cartas relevantes, com média de **5.06%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **04/08/2026** no Console (PS): dia **indefinido** — sem tendência dominante. **20 valorizações** contra **17 quedas** entre as cartas relevantes, com média de **0.11%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Alessia Russo (90) **+37.7%** · 🔴 **Maior baixa:** Tyler Morton (88) **-47.5%**
+> 🟢 **Maior alta:** Declan Rice (89) **+27.9%** · 🔴 **Maior baixa:** Anthony Gordon (90) **-33.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 04/08: Ingleses — Console (PS)](/charts/mercado-ea-fc-2026-08-04-ps.svg)
 
@@ -35,24 +35,23 @@ Resumo de **04/08/2026** no Console (PS): mercado **aquecido** — as altas domi
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 85.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.5% entre as cartas que se moveram; o universo observado reúne 67 cartas.
+- **Amplitude do dia:** 61.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 54.1% entre as cartas que se moveram; o universo observado reúne 68 cartas.
 - **Concentração:** Premier League aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alessia Russo | 90 | Barclays WSL | 38k coins | +37.7% | +20.8% |
-| Steven Gerrard | 90 | Icons | 479k coins | +36.9% | +133.7% |
-| Lewis Hall | 89 | Premier League | 120k coins | +31.6% | — |
-| Steven Gerrard | 89 | Icons | 269k coins | +23.3% | +56.1% |
-| Jamie Vardy | 90 | Serie A TIM | 249k coins | +15.8% | +36.4% |
-| Jamie Vardy | 89 | Serie A TIM | 600k coins | +14.3% | +43.5% |
-| Kyle Walker | 89 | Premier League | 198k coins | +13.1% | +222% |
-| Dan Burn | 86 | Premier League | 223k coins | +11.3% | +5.6% |
-| Leah Williamson | 95 | Barclays WSL | 169k coins | +10.7% | +27.4% |
-| Lucy Bronze | 88 | Barclays WSL | 119k coins | +8.1% | — |
+| Declan Rice | 89 | Premier League | 90k coins | +27.9% | +72.1% |
+| Lewis Miley | 89 | Premier League | 47k coins | +25.5% | +34.5% |
+| Caleb Taylor | 84 | EFL Championship | 80k coins | +24% | +25% |
+| Anthony Gordon | 87 | Premier League | 62k coins | +14.7% | +5.9% |
+| Lauren James | 92 | Barclays WSL | 430k coins | +13.2% | +44.3% |
+| Kyle Walker | 89 | Premier League | 180k coins | +11.8% | +202.5% |
+| Geoff Hurst | 88 | Icons | 72k coins | +6.6% | +9.8% |
+| Jude Bellingham | 94 | LALIGA EA SPORTS | 950k coins | +5.6% | +11.1% |
+| Louis Reed | 84 | EFL League One | 44k coins | +4.5% | -7.5% |
 
 
 ### Análise das altas
@@ -61,42 +60,43 @@ Resumo de **04/08/2026** no Console (PS): mercado **aquecido** — as altas domi
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Alessia Russo (90)** subiu **+37.7%** em 24h, a **38k coins** (faixa do dia: 18.000–85k). Está em linha com a média de 7 dias (+2%).
+- **Declan Rice (89)** subiu **+27.9%** em 24h, a **90k coins** (faixa do dia: 48k–98k). Está +42% acima da média de 7 dias (aquecida).
 
-- **Steven Gerrard (90)** subiu **+36.9%** em 24h, a **479k coins** (faixa do dia: 314k–498k). Está +66% acima da média de 7 dias (aquecida).
+- **Lewis Miley (89)** subiu **+25.5%** em 24h, a **47k coins** (faixa do dia: 19.000–65k). Está +68% acima da média de 7 dias (aquecida).
 
-- **Lewis Hall (89)** subiu **+31.6%** em 24h, a **120k coins** (faixa do dia: 57k–140k). Está +72% acima da média de 7 dias (aquecida).
+- **Caleb Taylor (84)** subiu **+24%** em 24h, a **80k coins** (faixa do dia: 42k–80k). Está +31% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 22k coins | -47.5% | +5.7% |
-| Declan Rice | 89 | Premier League | 44k coins | -36.8% | +3.6% |
-| Georgia Stanway | 88 | Liga F | 55k coins | -20.3% | +18.3% |
-| Mateus Mané | 88 | Premier League | 42k coins | -14.1% | +30.8% |
-| David Beckham | 88 | Icons | 70k coins | -10.9% | -3.5% |
-| Lewis Miley | 89 | Premier League | 31k coins | -9.6% | +39.6% |
-| Bobby Moore | 90 | Icons | 71k coins | -9.6% | +4.4% |
-| Declan Rice | 91 | Premier League | 265k coins | -8.7% | +37.4% |
-| Paul Scholes | 88 | Icons | 68k coins | -7.4% | -13.3% |
+| Anthony Gordon | 90 | Premier League | 750k coins | -33.3% | +59.7% |
+| Agnes Beever-Jones | 90 | Barclays WSL | 60k coins | -33.2% | +228% |
+| Ashley Cole | 86 | Icons | 70k coins | -28.9% | +6.9% |
+| Georgia Stanway | 88 | Liga F | 58k coins | -19.2% | +11.7% |
+| Steven Gerrard | 88 | Icons | 158k coins | -15.6% | +52.8% |
+| Declan Rice | 91 | Premier League | 247k coins | -12.9% | +20.2% |
+| Anthony Gordon | 88 | Premier League | 227k coins | -10.5% | +23.7% |
+| David Beckham | 88 | Icons | 75k coins | -9% | -1.4% |
+| Paul Scholes | 88 | Icons | 66k coins | -7% | -18.4% |
+| Tyler Morton | 88 | Ligue 1 McDonald's | 23k coins | -5.2% | +24.3% |
 
 
 ### Análise das baixas
 
-- **Tyler Morton (88)** caiu **-47.5%** em 24h, a **22k coins** (faixa do dia: 12.750–39k). Está -13% abaixo da média de 7 dias (descontada).
+- **Anthony Gordon (90)** caiu **-33.3%** em 24h, a **750k coins** (faixa do dia: 430k–750k). Está +71% acima da média de 7 dias (aquecida).
 
-- **Declan Rice (89)** caiu **-36.8%** em 24h, a **44k coins** (faixa do dia: 40k–75k). Está +10% acima da média de 7 dias (aquecida).
+- **Agnes Beever-Jones (90)** caiu **-33.2%** em 24h, a **60k coins** (faixa do dia: 40k–94k). Está +40% acima da média de 7 dias (aquecida).
 
-- **Georgia Stanway (88)** caiu **-20.3%** em 24h, a **55k coins** (faixa do dia: 55k–75k). Está em linha com a média de 7 dias (-4%).
+- **Ashley Cole (86)** caiu **-28.9%** em 24h, a **70k coins** (faixa do dia: 66k–108k). Está -15% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Alessia Russo já avançou 37.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Declan Rice já avançou 27.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Tyler Morton recuou -47.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Anthony Gordon recuou -33.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -108,13 +108,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (04/08/2026)?**
-Alessia Russo (90, Barclays WSL), com +37.7% em 24h, a 38k coins no Console (PS).
+Declan Rice (89, Premier League), com +27.9% em 24h, a 90k coins no Console (PS).
 
 **E a maior queda do dia?**
-Tyler Morton (88), -47.5% em 24h, a 22k coins.
+Anthony Gordon (90), -33.3% em 24h, a 750k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 23 cartas em alta contra 20 em queda (média 5.06%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 20 cartas em alta contra 17 em queda (média 0.11%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

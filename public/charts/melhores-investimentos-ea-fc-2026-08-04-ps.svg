@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Steven Gerrard</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Harry Kane</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+64.4%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+75.7%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Declan Rice</text>
-<rect x="285" y="153" width="287" height="28" rx="7" fill="#22c55e"/>
-<text x="582" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.5%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jamie Vardy</text>
-<rect x="285" y="211" width="271" height="28" rx="7" fill="#22c55e"/>
-<text x="566" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Leah Williamson</text>
-<rect x="285" y="269" width="204" height="28" rx="7" fill="#22c55e"/>
-<text x="499" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.4%</text>
+<rect x="285" y="153" width="457" height="28" rx="7" fill="#22c55e"/>
+<text x="752" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+72.1%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lewis Miley</text>
+<rect x="285" y="211" width="219" height="28" rx="7" fill="#22c55e"/>
+<text x="514" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Caleb Taylor</text>
+<rect x="285" y="269" width="159" height="28" rx="7" fill="#22c55e"/>
+<text x="454" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.0%</text>
 <text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Declan Rice</text>
-<rect x="285" y="327" width="163" height="28" rx="7" fill="#22c55e"/>
-<text x="458" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alessia Russo</text>
-<rect x="285" y="385" width="155" height="28" rx="7" fill="#22c55e"/>
-<text x="450" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.8%</text>
+<rect x="285" y="327" width="156" height="28" rx="7" fill="#22c55e"/>
+<text x="451" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.6%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Eberechi Eze</text>
+<rect x="285" y="385" width="79" height="28" rx="7" fill="#22c55e"/>
+<text x="374" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+12.4%</text>
 </svg>

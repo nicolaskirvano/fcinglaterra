@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:52:16.000Z
+pubDatetime: 2026-08-04T13:52:17.000Z
 title: "Mercado EA FC em 04/08: Ingleses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 04/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (04/08/2026)?"
-    a: "Harry Maguire (83, Premier League), com +52% em 24h, a 112k coins no PC."
+    a: "Lucy Bronze (88, Barclays WSL), com +51.8% em 24h, a 145k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Steven Gerrard (89), -9.5% em 24h, a 168k coins."
+    a: "Steven Gerrard (89), -11.6% em 24h, a 190k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 20 cartas em alta contra 18 em queda (média 6.16%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 11 cartas em alta contra 11 em queda (média 3.38%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **04/08/2026** no PC: mercado **aquecido** — as altas dominam o dia. **20 valorizações** contra **18 quedas** entre as cartas relevantes, com média de **6.16%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **04/08/2026** no PC: mercado **aquecido** — as altas dominam o dia. **11 valorizações** contra **11 quedas** entre as cartas relevantes, com média de **3.38%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Harry Maguire (83) **+52%** · 🔴 **Maior baixa:** Steven Gerrard (89) **-9.5%**
+> 🟢 **Maior alta:** Lucy Bronze (88) **+51.8%** · 🔴 **Maior baixa:** Steven Gerrard (89) **-11.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 04/08: Ingleses — PC](/charts/mercado-ea-fc-2026-08-04-pc.svg)
 
@@ -35,23 +35,19 @@ Resumo de **04/08/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 61.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 52.6% entre as cartas que se moveram; o universo observado reúne 78 cartas.
-- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 63.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 54 cartas.
+- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Maguire | 83 | Premier League | 112k coins | +52% | 0% |
-| Lucy Bronze | 88 | Barclays WSL | 145k coins | +51.8% | +27.2% |
-| Lotte Wubben-Moy | 85 | Barclays WSL | 40k coins | +28% | +26% |
-| Agnes Beever-Jones | 90 | Barclays WSL | 150k coins | +25% | +69.5% |
-| Kyle Walker | 89 | Premier League | 225k coins | +20.3% | -35.6% |
-| Charlie Cresswell | 85 | Ligue 1 McDonald's | 30k coins | +7.3% | -1.7% |
-| Peter Crouch | 85 | Premier League | 30k coins | +5.3% | 0% |
-| Frank Lampard | 87 | Icons | 78k coins | +4.7% | +18.9% |
-| Marc Guéhi | 88 | Premier League | 32k coins | +3.3% | +13.4% |
+| Lucy Bronze | 88 | Barclays WSL | 145k coins | +51.8% | -27.1% |
+| David Beckham | 89 | Icons | 49k coins | +15.3% | +24.4% |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 33k coins | +14.3% | +17.2% |
+| Steven Gerrard | 88 | Icons | 200k coins | +11.7% | +3.1% |
+| Marc Guéhi | 88 | Premier League | 28k coins | +7.9% | +7.9% |
 
 
 ### Análise das altas
@@ -60,37 +56,38 @@ Resumo de **04/08/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Harry Maguire (83)** subiu **+52%** em 24h, a **112k coins** (faixa do dia: 96k–190k). Está -10% abaixo da média de 7 dias (descontada).
-
 - **Lucy Bronze (88)** subiu **+51.8%** em 24h, a **145k coins** (faixa do dia: 96k–220k). Está -14% abaixo da média de 7 dias (descontada).
 
-- **Lotte Wubben-Moy (85)** subiu **+28%** em 24h, a **40k coins** (faixa do dia: 31k–54k). Está +22% acima da média de 7 dias (aquecida).
+- **David Beckham (89)** subiu **+15.3%** em 24h, a **49k coins** (faixa do dia: 29k–54k). Está +28% acima da média de 7 dias (aquecida).
+
+- **Ben Chilwell (90)** subiu **+14.3%** em 24h, a **33k coins** (faixa do dia: 16.500–55k). Está -13% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Steven Gerrard | 89 | Icons | 168k coins | -9.5% | +30.3% |
-| Jude Bellingham | 94 | LALIGA EA SPORTS | 1.17M coins | -9.3% | -10.2% |
-| Leah Williamson | 95 | Barclays WSL | 170k coins | -6.5% | -4.9% |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 60k coins | -3.1% | -4.6% |
+| Steven Gerrard | 89 | Icons | 190k coins | -11.6% | +24.4% |
+| Harry Maguire | 83 | Premier League | 101k coins | -10.4% | -41.1% |
+| Leah Williamson | 95 | Barclays WSL | 162k coins | -6.7% | -11.2% |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 56k coins | -3.3% | -10.8% |
+| Jordan Pickford | 86 | Premier League | 48k coins | -3% | -0.5% |
 
 
 ### Análise das baixas
 
-- **Steven Gerrard (89)** caiu **-9.5%** em 24h, a **168k coins** (faixa do dia: 60k–190k). Está +13% acima da média de 7 dias (aquecida).
+- **Steven Gerrard (89)** caiu **-11.6%** em 24h, a **190k coins** (faixa do dia: 60k–190k). Está +28% acima da média de 7 dias (aquecida).
 
-- **Jude Bellingham (94)** caiu **-9.3%** em 24h, a **1.17M coins** (faixa do dia: 858k–1.70M). Está em linha com a média de 7 dias (+1%).
+- **Harry Maguire (83)** caiu **-10.4%** em 24h, a **101k coins** (faixa do dia: 96k–190k). Está -19% abaixo da média de 7 dias (descontada).
 
-- **Leah Williamson (95)** caiu **-6.5%** em 24h, a **170k coins** (faixa do dia: 118k–214k). Está em linha com a média de 7 dias (-5%).
+- **Leah Williamson (95)** caiu **-6.7%** em 24h, a **162k coins** (faixa do dia: 118k–214k). Está -10% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Harry Maguire já avançou 52% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Lucy Bronze já avançou 51.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Steven Gerrard recuou -9.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Steven Gerrard recuou -11.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -102,13 +99,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (04/08/2026)?**
-Harry Maguire (83, Premier League), com +52% em 24h, a 112k coins no PC.
+Lucy Bronze (88, Barclays WSL), com +51.8% em 24h, a 145k coins no PC.
 
 **E a maior queda do dia?**
-Steven Gerrard (89), -9.5% em 24h, a 168k coins.
+Steven Gerrard (89), -11.6% em 24h, a 190k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 20 cartas em alta contra 18 em queda (média 6.16%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 11 cartas em alta contra 11 em queda (média 3.38%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
