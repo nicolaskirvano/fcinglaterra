@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-05T10:52:18.000Z
+pubDatetime: 2026-08-05T13:52:18.000Z
 title: "Investimentos EA FC: Ingleses em 05/08 — PC"
 draft: false
 featured: true
