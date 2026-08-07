@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-07T13:52:20.000Z
+pubDatetime: 2026-08-07T16:52:19.000Z
 title: "Jogadores baratos EA FC: Ingleses em 07/08 — PC"
 draft: false
 featured: false
