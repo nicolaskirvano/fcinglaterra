@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-07T19:52:09.000Z
+pubDatetime: 2026-08-07T22:52:08.000Z
 title: "Investimentos EA FC: Ingleses em 07/08 — Console (PS)"
 draft: false
 featured: true
